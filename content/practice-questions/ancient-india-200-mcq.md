@@ -1,5 +1,5 @@
-# 🏛️ Ancient & Early Medieval India: 700 Masterclass Bilingual MCQs
-> **द्विभाषी प्रश्न बैंक (English & हिन्दी) • 700 Complete Exam Questions**  
+# 🏛️ Complete Indian History (Ancient & Medieval): 1,000 Masterclass Bilingual MCQs
+> **द्विभाषी प्रश्न बैंक (English & हिन्दी) • 1,000 Verified High-Yield Questions**  
 > **Official Repository:** [NextSem-Ranker-](https://github.com/nextsemacademy-max/NextSem-Ranker-)  
 > **Live Web Simulator:** [https://nextsemacademy-max.github.io/NextSem-Ranker-/](https://nextsemacademy-max.github.io/NextSem-Ranker-/)
 
@@ -11,6 +11,7 @@
 3. **भाग 3:** 16 महाजनपद, मगध एवं धार्मिक आंदोलन (Mahajanapadas, Magadha, Buddhism & Jainism - Q201 to Q350)
 4. **भाग 4:** मौर्य साम्राज्य एवं विदेशी आक्रमण (Mauryan Empire & Invasions - Q351 to Q500)
 5. **भाग 5:** मौर्योत्तर काल, गुप्त साम्राज्य, हर्षवर्धन एवं दक्षिण भारत (Post-Mauryan, Guptas, Harsha, Pallavas - Q501 to Q700)
+6. **भाग 6:** मध्यकालीन भारत: दिल्ली सल्तनत, विजयनगर, मुगल एवं मराठा साम्राज्य (Medieval India, Sultanate, Mughals, Marathas - Q701 to Q1000)
 
 ---
 #### Q1. Who among the following was the first scholar to use the term 'Indus Civilization'?
@@ -9812,4 +9813,4204 @@
 > **Correct Answer:** **Option (D)**  
 > **💡 Explanation (English):** Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).  
 > **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।
+
+#### Q701. [Medieval Q#701] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Easy*
+
+- **A)** Mahmud Ghazni / महमूद गजनवी
+- **B)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q702. [Medieval Q#702] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Difficult*
+
+- **A)** 1001 AD / 1001 ईस्वी
+- **B)** 1025 AD / 1025 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q703. [Medieval Q#703] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Easy*
+
+- **A)** Ibn Battuta / इब्न बतूता
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Al-Beruni / अलबरूनी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q704. [Medieval Q#704] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Moderate*
+
+- **A)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **B)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **C)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q705. [Medieval Q#705] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Difficult*
+
+- **A)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q706. [Medieval Q#706] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Moderate*
+
+- **A)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Balban / बलबन
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q707. [Medieval Q#707] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Easy*
+
+- **A)** Mumtaz Mahal / मुमताज महल
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Razia Sultana / रजिया सुल्ताना
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q708. [Medieval Q#708] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Difficult*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q709. [Medieval Q#709] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Easy*
+
+- **A)** Sher Shah Suri / शेरशाह सूरी
+- **B)** Balban / बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q710. [Medieval Q#710] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Moderate*
+
+- **A)** Nusrat Khan / नुसरत खान
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q711. [Medieval Q#711] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Difficult*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q712. [Medieval Q#712] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Moderate*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Sikandar Lodhi / सिकंदर लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q713. [Medieval Q#713] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Easy*
+
+- **A)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q714. [Medieval Q#714] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Difficult*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Bahlol Lodhi / बहलोल लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q715. [Medieval Q#715] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Easy*
+
+- **A)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Harihara I and Bukka I / हरिहर और बुक्का
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q716. [Medieval Q#716] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Moderate*
+
+- **A)** Devaraya II / देवराय द्वितीय
+- **B)** Harihara II / हरिहर द्वितीय
+- **C)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q717. [Medieval Q#717] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Difficult*
+
+- **A)** 1565 AD / 1565 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q718. [Medieval Q#718] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Moderate*
+
+- **A)** Naval blockade / नौसैनिक घेराबंदी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q719. [Medieval Q#719] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Easy*
+
+- **A)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q720. [Medieval Q#720] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Difficult*
+
+- **A)** Hemchandra (Hemu) / हेमू
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q721. [Medieval Q#721] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Easy*
+
+- **A)** Mahzarnama / महजरनामा
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q722. [Medieval Q#722] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Moderate*
+
+- **A)** Birbal / बीरबल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Raja Todar Mal / राजा टोडरमल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q723. [Medieval Q#723] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Difficult*
+
+- **A)** Badauni / अब्दुल कादिर बदायूनी
+- **B)** Faizi / फैजी
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q724. [Medieval Q#724] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Moderate*
+
+- **A)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **B)** Sir Thomas Roe / सर थॉमस रो
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Peter Mundy / पीटर मुंडी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q725. [Medieval Q#725] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Easy*
+
+- **A)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Taj Mahal / ताजमहल
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q726. [Medieval Q#726] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Difficult*
+
+- **A)** Jahangir / जहांगीर
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q727. [Medieval Q#727] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Easy*
+
+- **A)** Shivneri Fort / शिवनेरी दुर्ग
+- **B)** Raigad Fort / रायगढ़ दुर्ग
+- **C)** Torna Fort / तोरणा दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q728. [Medieval Q#728] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Moderate*
+
+- **A)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q729. [Medieval Q#729] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Difficult*
+
+- **A)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q730. [Medieval Q#730] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Moderate*
+
+- **A)** Muhammad Ghori / मुहम्मद गोरी
+- **B)** Mahmud Ghazni / महमूद गजनवी
+- **C)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q731. [Medieval Q#731] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Easy*
+
+- **A)** 1191 AD / 1191 ईस्वी
+- **B)** 1001 AD / 1001 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1025 AD / 1025 ईस्वी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q732. [Medieval Q#732] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Difficult*
+
+- **A)** Ibn Battuta / इब्न बतूता
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Al-Beruni / अलबरूनी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q733. [Medieval Q#733] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Easy*
+
+- **A)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **D)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q734. [Medieval Q#734] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Moderate*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q735. [Medieval Q#735] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Difficult*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Balban / बलबन
+- **D)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q736. [Medieval Q#736] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Moderate*
+
+- **A)** Razia Sultana / रजिया सुल्ताना
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q737. [Medieval Q#737] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Easy*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q738. [Medieval Q#738] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Difficult*
+
+- **A)** Balban / बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q739. [Medieval Q#739] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Easy*
+
+- **A)** Nusrat Khan / नुसरत खान
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q740. [Medieval Q#740] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Moderate*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q741. [Medieval Q#741] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Difficult*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sikandar Lodhi / सिकंदर लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q742. [Medieval Q#742] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Moderate*
+
+- **A)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q743. [Medieval Q#743] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Easy*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Sikandar Lodhi / सिकंदर लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q744. [Medieval Q#744] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Difficult*
+
+- **A)** Harihara I and Bukka I / हरिहर और बुक्का
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q745. [Medieval Q#745] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Easy*
+
+- **A)** Harihara II / हरिहर द्वितीय
+- **B)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q746. [Medieval Q#746] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Moderate*
+
+- **A)** 1556 AD / 1556 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1565 AD / 1565 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q747. [Medieval Q#747] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Difficult*
+
+- **A)** Naval blockade / नौसैनिक घेराबंदी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q748. [Medieval Q#748] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Moderate*
+
+- **A)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q749. [Medieval Q#749] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Easy*
+
+- **A)** Hemchandra (Hemu) / हेमू
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q750. [Medieval Q#750] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Difficult*
+
+- **A)** Ibadat Khana / इबादतखाना
+- **B)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **C)** Mahzarnama / महजरनामा
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q751. [Medieval Q#751] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Easy*
+
+- **A)** Raja Man Singh / राजा मानसिंह
+- **B)** Raja Todar Mal / राजा टोडरमल
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q752. [Medieval Q#752] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Moderate*
+
+- **A)** Gulbadan Begum / गुलबदन बेगम
+- **B)** Faizi / फैजी
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Abul Fazl / अबुल फजल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q753. [Medieval Q#753] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Difficult*
+
+- **A)** Ralph Fitch / राल्फ फिच
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Sir Thomas Roe / सर थॉमस रो
+- **D)** Peter Mundy / पीटर मुंडी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q754. [Medieval Q#754] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Moderate*
+
+- **A)** Bibi Ka Maqbara / बीबी का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **D)** Taj Mahal / ताजमहल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q755. [Medieval Q#755] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Easy*
+
+- **A)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Jahangir / जहांगीर
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q756. [Medieval Q#756] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Difficult*
+
+- **A)** Torna Fort / तोरणा दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Raigad Fort / रायगढ़ दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q757. [Medieval Q#757] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Easy*
+
+- **A)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q758. [Medieval Q#758] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Moderate*
+
+- **A)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **B)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q759. [Medieval Q#759] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Difficult*
+
+- **A)** Mahmud Ghazni / महमूद गजनवी
+- **B)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q760. [Medieval Q#760] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Moderate*
+
+- **A)** 1001 AD / 1001 ईस्वी
+- **B)** 1025 AD / 1025 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q761. [Medieval Q#761] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Easy*
+
+- **A)** Al-Beruni / अलबरूनी
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Ibn Battuta / इब्न बतूता
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q762. [Medieval Q#762] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Difficult*
+
+- **A)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q763. [Medieval Q#763] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Easy*
+
+- **A)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q764. [Medieval Q#764] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Moderate*
+
+- **A)** Balban / बलबन
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q765. [Medieval Q#765] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Difficult*
+
+- **A)** Nur Jahan / नूरजहाँ
+- **B)** Razia Sultana / रजिया सुल्ताना
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q766. [Medieval Q#766] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Moderate*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q767. [Medieval Q#767] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Easy*
+
+- **A)** Balban / बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q768. [Medieval Q#768] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Difficult*
+
+- **A)** Ulugh Khan / उलुग खान
+- **B)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+- **C)** Zafar Khan / जफर खान
+- **D)** Nusrat Khan / नुसरत खान
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q769. [Medieval Q#769] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Easy*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q770. [Medieval Q#770] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Moderate*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q771. [Medieval Q#771] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Difficult*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q772. [Medieval Q#772] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Moderate*
+
+- **A)** Ibrahim Lodhi / इब्राहिम लोधी
+- **B)** Bahlol Lodhi / बहलोल लोधी
+- **C)** Sikandar Lodhi / सिकंदर लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q773. [Medieval Q#773] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Easy*
+
+- **A)** Harihara I and Bukka I / हरिहर और बुक्का
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q774. [Medieval Q#774] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Difficult*
+
+- **A)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **B)** Harihara II / हरिहर द्वितीय
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q775. [Medieval Q#775] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Easy*
+
+- **A)** 1565 AD / 1565 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q776. [Medieval Q#776] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Moderate*
+
+- **A)** Naval blockade / नौसैनिक घेराबंदी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q777. [Medieval Q#777] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Difficult*
+
+- **A)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q778. [Medieval Q#778] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Moderate*
+
+- **A)** Islam Shah / इस्लाम शाह
+- **B)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **C)** Hemchandra (Hemu) / हेमू
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q779. [Medieval Q#779] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Easy*
+
+- **A)** Ibadat Khana / इबादतखाना
+- **B)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **C)** Mahzarnama / महजरनामा
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q780. [Medieval Q#780] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Difficult*
+
+- **A)** Raja Man Singh / राजा मानसिंह
+- **B)** Raja Todar Mal / राजा टोडरमल
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q781. [Medieval Q#781] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Easy*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Faizi / फैजी
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q782. [Medieval Q#782] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Moderate*
+
+- **A)** Peter Mundy / पीटर मुंडी
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Sir Thomas Roe / सर थॉमस रो
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q783. [Medieval Q#783] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Difficult*
+
+- **A)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Taj Mahal / ताजमहल
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q784. [Medieval Q#784] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Moderate*
+
+- **A)** Shah Jahan / शाहजहाँ
+- **B)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **C)** Jahangir / जहांगीर
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q785. [Medieval Q#785] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Easy*
+
+- **A)** Torna Fort / तोरणा दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Raigad Fort / रायगढ़ दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q786. [Medieval Q#786] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Difficult*
+
+- **A)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q787. [Medieval Q#787] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Easy*
+
+- **A)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q788. [Medieval Q#788] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Moderate*
+
+- **A)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **B)** Mahmud Ghazni / महमूद गजनवी
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q789. [Medieval Q#789] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Difficult*
+
+- **A)** 1191 AD / 1191 ईस्वी
+- **B)** 1001 AD / 1001 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1025 AD / 1025 ईस्वी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q790. [Medieval Q#790] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Moderate*
+
+- **A)** Ibn Battuta / इब्न बतूता
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Al-Beruni / अलबरूनी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q791. [Medieval Q#791] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Easy*
+
+- **A)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **D)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q792. [Medieval Q#792] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Difficult*
+
+- **A)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q793. [Medieval Q#793] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Easy*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Balban / बलबन
+- **D)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q794. [Medieval Q#794] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Moderate*
+
+- **A)** Razia Sultana / रजिया सुल्ताना
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q795. [Medieval Q#795] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Difficult*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q796. [Medieval Q#796] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Moderate*
+
+- **A)** Balban / बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q797. [Medieval Q#797] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Easy*
+
+- **A)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Nusrat Khan / नुसरत खान
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q798. [Medieval Q#798] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Difficult*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q799. [Medieval Q#799] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Easy*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q800. [Medieval Q#800] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Moderate*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q801. [Medieval Q#801] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Difficult*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Sikandar Lodhi / सिकंदर लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q802. [Medieval Q#802] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Moderate*
+
+- **A)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Harihara I and Bukka I / हरिहर और बुक्का
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q803. [Medieval Q#803] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Easy*
+
+- **A)** Harihara II / हरिहर द्वितीय
+- **B)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q804. [Medieval Q#804] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Difficult*
+
+- **A)** 1556 AD / 1556 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1565 AD / 1565 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q805. [Medieval Q#805] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Easy*
+
+- **A)** Naval blockade / नौसैनिक घेराबंदी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q806. [Medieval Q#806] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Moderate*
+
+- **A)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q807. [Medieval Q#807] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Difficult*
+
+- **A)** Islam Shah / इस्लाम शाह
+- **B)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **C)** Hemchandra (Hemu) / हेमू
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q808. [Medieval Q#808] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Moderate*
+
+- **A)** Mahzarnama / महजरनामा
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q809. [Medieval Q#809] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Easy*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Raja Todar Mal / राजा टोडरमल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q810. [Medieval Q#810] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Difficult*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Faizi / फैजी
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q811. [Medieval Q#811] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Easy*
+
+- **A)** Peter Mundy / पीटर मुंडी
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Sir Thomas Roe / सर थॉमस रो
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q812. [Medieval Q#812] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Moderate*
+
+- **A)** Moti Masjid / मोती मस्जिद
+- **B)** Taj Mahal / ताजमहल
+- **C)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q813. [Medieval Q#813] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Difficult*
+
+- **A)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Jahangir / जहांगीर
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q814. [Medieval Q#814] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Moderate*
+
+- **A)** Raigad Fort / रायगढ़ दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Torna Fort / तोरणा दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q815. [Medieval Q#815] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Easy*
+
+- **A)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q816. [Medieval Q#816] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Difficult*
+
+- **A)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q817. [Medieval Q#817] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Easy*
+
+- **A)** Muhammad Ghori / मुहम्मद गोरी
+- **B)** Mahmud Ghazni / महमूद गजनवी
+- **C)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q818. [Medieval Q#818] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Moderate*
+
+- **A)** 1001 AD / 1001 ईस्वी
+- **B)** 1025 AD / 1025 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q819. [Medieval Q#819] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Difficult*
+
+- **A)** Utbi / उतबी
+- **B)** Firdausi / फिरदौसी
+- **C)** Al-Beruni / अलबरूनी
+- **D)** Ibn Battuta / इब्न बतूता
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q820. [Medieval Q#820] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Moderate*
+
+- **A)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q821. [Medieval Q#821] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Easy*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q822. [Medieval Q#822] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Difficult*
+
+- **A)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Balban / बलबन
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q823. [Medieval Q#823] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Easy*
+
+- **A)** Nur Jahan / नूरजहाँ
+- **B)** Razia Sultana / रजिया सुल्ताना
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q824. [Medieval Q#824] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Moderate*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q825. [Medieval Q#825] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Difficult*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Balban / बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q826. [Medieval Q#826] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Moderate*
+
+- **A)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Nusrat Khan / नुसरत खान
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q827. [Medieval Q#827] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Easy*
+
+- **A)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q828. [Medieval Q#828] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Difficult*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q829. [Medieval Q#829] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Easy*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q830. [Medieval Q#830] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Moderate*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Bahlol Lodhi / बहलोल लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q831. [Medieval Q#831] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Difficult*
+
+- **A)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **D)** Harihara I and Bukka I / हरिहर और बुक्का
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q832. [Medieval Q#832] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Moderate*
+
+- **A)** Devaraya II / देवराय द्वितीय
+- **B)** Harihara II / हरिहर द्वितीय
+- **C)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q833. [Medieval Q#833] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Easy*
+
+- **A)** 1526 AD / 1526 ईस्वी
+- **B)** 1565 AD / 1565 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q834. [Medieval Q#834] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Difficult*
+
+- **A)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Naval blockade / नौसैनिक घेराबंदी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q835. [Medieval Q#835] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Easy*
+
+- **A)** Battle of Panipat / पानीपत का युद्ध (1526)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Khanwa / खानवा का युद्ध (1527)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q836. [Medieval Q#836] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Moderate*
+
+- **A)** Hemchandra (Hemu) / हेमू
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q837. [Medieval Q#837] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Difficult*
+
+- **A)** Zabt System / जब्त प्रणाली
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Mahzarnama / महजरनामा
+- **D)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q838. [Medieval Q#838] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Moderate*
+
+- **A)** Raja Man Singh / राजा मानसिंह
+- **B)** Raja Todar Mal / राजा टोडरमल
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q839. [Medieval Q#839] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Easy*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Faizi / फैजी
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q840. [Medieval Q#840] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Difficult*
+
+- **A)** Ralph Fitch / राल्फ फिच
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Sir Thomas Roe / सर थॉमस रो
+- **D)** Peter Mundy / पीटर मुंडी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q841. [Medieval Q#841] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Easy*
+
+- **A)** Taj Mahal / ताजमहल
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q842. [Medieval Q#842] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Moderate*
+
+- **A)** Jahangir / जहांगीर
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q843. [Medieval Q#843] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Difficult*
+
+- **A)** Shivneri Fort / शिवनेरी दुर्ग
+- **B)** Raigad Fort / रायगढ़ दुर्ग
+- **C)** Torna Fort / तोरणा दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q844. [Medieval Q#844] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Moderate*
+
+- **A)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q845. [Medieval Q#845] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Easy*
+
+- **A)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+- **D)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q846. [Medieval Q#846] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Difficult*
+
+- **A)** Mahmud Ghazni / महमूद गजनवी
+- **B)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q847. [Medieval Q#847] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Easy*
+
+- **A)** 1018 AD / 1018 ईस्वी
+- **B)** 1001 AD / 1001 ईस्वी
+- **C)** 1025 AD / 1025 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q848. [Medieval Q#848] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Moderate*
+
+- **A)** Ibn Battuta / इब्न बतूता
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Al-Beruni / अलबरूनी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q849. [Medieval Q#849] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Difficult*
+
+- **A)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q850. [Medieval Q#850] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Moderate*
+
+- **A)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q851. [Medieval Q#851] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Easy*
+
+- **A)** Balban / बलबन
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q852. [Medieval Q#852] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Difficult*
+
+- **A)** Chand Bibi / चांद बीबी
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Razia Sultana / रजिया सुल्ताना
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q853. [Medieval Q#853] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Easy*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q854. [Medieval Q#854] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Moderate*
+
+- **A)** Balban / बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q855. [Medieval Q#855] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Difficult*
+
+- **A)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Nusrat Khan / नुसरत खान
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q856. [Medieval Q#856] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Moderate*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q857. [Medieval Q#857] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Easy*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q858. [Medieval Q#858] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Difficult*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q859. [Medieval Q#859] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Easy*
+
+- **A)** Ibrahim Lodhi / इब्राहिम लोधी
+- **B)** Bahlol Lodhi / बहलोल लोधी
+- **C)** Sikandar Lodhi / सिकंदर लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q860. [Medieval Q#860] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Moderate*
+
+- **A)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **B)** Harihara I and Bukka I / हरिहर और बुक्का
+- **C)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q861. [Medieval Q#861] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Difficult*
+
+- **A)** Harihara II / हरिहर द्वितीय
+- **B)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q862. [Medieval Q#862] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Moderate*
+
+- **A)** 1576 AD / 1576 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1565 AD / 1565 ईस्वी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q863. [Medieval Q#863] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Easy*
+
+- **A)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+- **D)** Naval blockade / नौसैनिक घेराबंदी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q864. [Medieval Q#864] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Difficult*
+
+- **A)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q865. [Medieval Q#865] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Easy*
+
+- **A)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Hemchandra (Hemu) / हेमू
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q866. [Medieval Q#866] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Moderate*
+
+- **A)** Ibadat Khana / इबादतखाना
+- **B)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **C)** Mahzarnama / महजरनामा
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q867. [Medieval Q#867] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Difficult*
+
+- **A)** Raja Todar Mal / राजा टोडरमल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q868. [Medieval Q#868] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Moderate*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Faizi / फैजी
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q869. [Medieval Q#869] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Easy*
+
+- **A)** Sir Thomas Roe / सर थॉमस रो
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Peter Mundy / पीटर मुंडी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q870. [Medieval Q#870] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Difficult*
+
+- **A)** Taj Mahal / ताजमहल
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q871. [Medieval Q#871] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Easy*
+
+- **A)** Jahangir / जहांगीर
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q872. [Medieval Q#872] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Moderate*
+
+- **A)** Torna Fort / तोरणा दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Raigad Fort / रायगढ़ दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q873. [Medieval Q#873] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Difficult*
+
+- **A)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q874. [Medieval Q#874] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Moderate*
+
+- **A)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q875. [Medieval Q#875] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Easy*
+
+- **A)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **B)** Mahmud Ghazni / महमूद गजनवी
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q876. [Medieval Q#876] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Difficult*
+
+- **A)** 1001 AD / 1001 ईस्वी
+- **B)** 1025 AD / 1025 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q877. [Medieval Q#877] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Easy*
+
+- **A)** Al-Beruni / अलबरूनी
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Ibn Battuta / इब्न बतूता
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q878. [Medieval Q#878] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Moderate*
+
+- **A)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q879. [Medieval Q#879] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Difficult*
+
+- **A)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q880. [Medieval Q#880] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Moderate*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Balban / बलबन
+- **D)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q881. [Medieval Q#881] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Easy*
+
+- **A)** Razia Sultana / रजिया सुल्ताना
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q882. [Medieval Q#882] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Difficult*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q883. [Medieval Q#883] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Easy*
+
+- **A)** Sher Shah Suri / शेरशाह सूरी
+- **B)** Balban / बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q884. [Medieval Q#884] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Moderate*
+
+- **A)** Zafar Khan / जफर खान
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+- **D)** Nusrat Khan / नुसरत खान
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q885. [Medieval Q#885] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Difficult*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q886. [Medieval Q#886] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Moderate*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Sikandar Lodhi / सिकंदर लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q887. [Medieval Q#887] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Easy*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q888. [Medieval Q#888] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Difficult*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Bahlol Lodhi / बहलोल लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q889. [Medieval Q#889] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Easy*
+
+- **A)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Harihara I and Bukka I / हरिहर और बुक्का
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q890. [Medieval Q#890] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Moderate*
+
+- **A)** Harihara II / हरिहर द्वितीय
+- **B)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q891. [Medieval Q#891] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Difficult*
+
+- **A)** 1565 AD / 1565 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q892. [Medieval Q#892] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Moderate*
+
+- **A)** Naval blockade / नौसैनिक घेराबंदी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q893. [Medieval Q#893] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Easy*
+
+- **A)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q894. [Medieval Q#894] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Difficult*
+
+- **A)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Hemchandra (Hemu) / हेमू
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q895. [Medieval Q#895] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Easy*
+
+- **A)** Mahzarnama / महजरनामा
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q896. [Medieval Q#896] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Moderate*
+
+- **A)** Birbal / बीरबल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Raja Todar Mal / राजा टोडरमल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q897. [Medieval Q#897] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Difficult*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Faizi / फैजी
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q898. [Medieval Q#898] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Moderate*
+
+- **A)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **B)** Sir Thomas Roe / सर थॉमस रो
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Peter Mundy / पीटर मुंडी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q899. [Medieval Q#899] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Easy*
+
+- **A)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Taj Mahal / ताजमहल
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q900. [Medieval Q#900] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Difficult*
+
+- **A)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Jahangir / जहांगीर
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q901. [Medieval Q#901] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Easy*
+
+- **A)** Torna Fort / तोरणा दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Raigad Fort / रायगढ़ दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q902. [Medieval Q#902] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Moderate*
+
+- **A)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q903. [Medieval Q#903] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Difficult*
+
+- **A)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+- **D)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q904. [Medieval Q#904] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Moderate*
+
+- **A)** Mahmud Ghazni / महमूद गजनवी
+- **B)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q905. [Medieval Q#905] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Easy*
+
+- **A)** 1018 AD / 1018 ईस्वी
+- **B)** 1001 AD / 1001 ईस्वी
+- **C)** 1025 AD / 1025 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q906. [Medieval Q#906] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Difficult*
+
+- **A)** Firdausi / फिरदौसी
+- **B)** Al-Beruni / अलबरूनी
+- **C)** Utbi / उतबी
+- **D)** Ibn Battuta / इब्न बतूता
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q907. [Medieval Q#907] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Easy*
+
+- **A)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q908. [Medieval Q#908] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Moderate*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q909. [Medieval Q#909] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Difficult*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Balban / बलबन
+- **D)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q910. [Medieval Q#910] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Moderate*
+
+- **A)** Mumtaz Mahal / मुमताज महल
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Razia Sultana / रजिया सुल्ताना
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q911. [Medieval Q#911] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Easy*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q912. [Medieval Q#912] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Difficult*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Balban / बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q913. [Medieval Q#913] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Easy*
+
+- **A)** Nusrat Khan / नुसरत खान
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q914. [Medieval Q#914] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Moderate*
+
+- **A)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q915. [Medieval Q#915] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Difficult*
+
+- **A)** Sikandar Lodhi / सिकंदर लोधी
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q916. [Medieval Q#916] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Moderate*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q917. [Medieval Q#917] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Easy*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Sikandar Lodhi / सिकंदर लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q918. [Medieval Q#918] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Difficult*
+
+- **A)** Harihara I and Bukka I / हरिहर और बुक्का
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q919. [Medieval Q#919] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Easy*
+
+- **A)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+- **B)** Harihara II / हरिहर द्वितीय
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Achyuta Deva Raya / अच्युत देव राय
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q920. [Medieval Q#920] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Moderate*
+
+- **A)** 1576 AD / 1576 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1565 AD / 1565 ईस्वी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q921. [Medieval Q#921] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Difficult*
+
+- **A)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+- **D)** Naval blockade / नौसैनिक घेराबंदी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q922. [Medieval Q#922] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Moderate*
+
+- **A)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **B)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q923. [Medieval Q#923] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Easy*
+
+- **A)** Islam Shah / इस्लाम शाह
+- **B)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **C)** Hemchandra (Hemu) / हेमू
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q924. [Medieval Q#924] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Difficult*
+
+- **A)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Mahzarnama / महजरनामा
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q925. [Medieval Q#925] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Easy*
+
+- **A)** Birbal / बीरबल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Raja Todar Mal / राजा टोडरमल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q926. [Medieval Q#926] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Moderate*
+
+- **A)** Faizi / फैजी
+- **B)** Abul Fazl / अबुल फजल
+- **C)** Badauni / अब्दुल कादिर बदायूनी
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q927. [Medieval Q#927] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Difficult*
+
+- **A)** Peter Mundy / पीटर मुंडी
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Sir Thomas Roe / सर थॉमस रो
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q928. [Medieval Q#928] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Moderate*
+
+- **A)** Bibi Ka Maqbara / बीबी का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **D)** Taj Mahal / ताजमहल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q929. [Medieval Q#929] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Easy*
+
+- **A)** Bahadur Shah I / बहादुर शाह प्रथम
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Jahangir / जहांगीर
+- **D)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q930. [Medieval Q#930] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Difficult*
+
+- **A)** Raigad Fort / रायगढ़ दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Torna Fort / तोरणा दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q931. [Medieval Q#931] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Easy*
+
+- **A)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **B)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q932. [Medieval Q#932] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Moderate*
+
+- **A)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+- **B)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q933. [Medieval Q#933] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Difficult*
+
+- **A)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **B)** Mahmud Ghazni / महमूद गजनवी
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q934. [Medieval Q#934] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Moderate*
+
+- **A)** 1001 AD / 1001 ईस्वी
+- **B)** 1025 AD / 1025 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q935. [Medieval Q#935] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Easy*
+
+- **A)** Utbi / उतबी
+- **B)** Firdausi / फिरदौसी
+- **C)** Al-Beruni / अलबरूनी
+- **D)** Ibn Battuta / इब्न बतूता
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q936. [Medieval Q#936] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Difficult*
+
+- **A)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **B)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **C)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q937. [Medieval Q#937] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Easy*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q938. [Medieval Q#938] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Moderate*
+
+- **A)** Balban / बलबन
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q939. [Medieval Q#939] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Difficult*
+
+- **A)** Razia Sultana / रजिया सुल्ताना
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q940. [Medieval Q#940] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Moderate*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q941. [Medieval Q#941] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Easy*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Balban / बलबन
+- **C)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q942. [Medieval Q#942] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Difficult*
+
+- **A)** Nusrat Khan / नुसरत खान
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q943. [Medieval Q#943] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Easy*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q944. [Medieval Q#944] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Moderate*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Sikandar Lodhi / सिकंदर लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q945. [Medieval Q#945] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Difficult*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q946. [Medieval Q#946] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Moderate*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Sikandar Lodhi / सिकंदर लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q947. [Medieval Q#947] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Easy*
+
+- **A)** Harihara I and Bukka I / हरिहर और बुक्का
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q948. [Medieval Q#948] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Difficult*
+
+- **A)** Achyuta Deva Raya / अच्युत देव राय
+- **B)** Harihara II / हरिहर द्वितीय
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q949. [Medieval Q#949] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Easy*
+
+- **A)** 1565 AD / 1565 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1556 AD / 1556 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q950. [Medieval Q#950] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Moderate*
+
+- **A)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Naval blockade / नौसैनिक घेराबंदी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q951. [Medieval Q#951] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Difficult*
+
+- **A)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **B)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q952. [Medieval Q#952] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Moderate*
+
+- **A)** Hemchandra (Hemu) / हेमू
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q953. [Medieval Q#953] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Easy*
+
+- **A)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Mahzarnama / महजरनामा
+- **D)** Zabt System / जब्त प्रणाली
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q954. [Medieval Q#954] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Difficult*
+
+- **A)** Abul Fazl / अबुल फजल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Raja Todar Mal / राजा टोडरमल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q955. [Medieval Q#955] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Easy*
+
+- **A)** Badauni / अब्दुल कादिर बदायूनी
+- **B)** Faizi / फैजी
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q956. [Medieval Q#956] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Moderate*
+
+- **A)** Sir Thomas Roe / सर थॉमस रो
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Peter Mundy / पीटर मुंडी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q957. [Medieval Q#957] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Difficult*
+
+- **A)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Taj Mahal / ताजमहल
+- **D)** Bibi Ka Maqbara / बीबी का मकबरा
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q958. [Medieval Q#958] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Moderate*
+
+- **A)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **B)** Shah Jahan / शाहजहाँ
+- **C)** Jahangir / जहांगीर
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q959. [Medieval Q#959] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Easy*
+
+- **A)** Raigad Fort / रायगढ़ दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Torna Fort / तोरणा दुर्ग
+- **D)** Purandhar Fort / पुरंदर दुर्ग
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q960. [Medieval Q#960] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Difficult*
+
+- **A)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q961. [Medieval Q#961] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Easy*
+
+- **A)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **B)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q962. [Medieval Q#962] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Moderate*
+
+- **A)** Mahmud Ghazni / महमूद गजनवी
+- **B)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **C)** Muhammad Ghori / मुहम्मद गोरी
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q963. [Medieval Q#963] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Difficult*
+
+- **A)** 1018 AD / 1018 ईस्वी
+- **B)** 1001 AD / 1001 ईस्वी
+- **C)** 1025 AD / 1025 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q964. [Medieval Q#964] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Moderate*
+
+- **A)** Ibn Battuta / इब्न बतूता
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Al-Beruni / अलबरूनी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q965. [Medieval Q#965] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Easy*
+
+- **A)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q966. [Medieval Q#966] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Difficult*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q967. [Medieval Q#967] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Easy*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **C)** Balban / बलबन
+- **D)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q968. [Medieval Q#968] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Moderate*
+
+- **A)** Mumtaz Mahal / मुमताज महल
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Chand Bibi / चांद बीबी
+- **D)** Razia Sultana / रजिया सुल्ताना
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q969. [Medieval Q#969] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Difficult*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q970. [Medieval Q#970] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Moderate*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Balban / बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Sher Shah Suri / शेरशाह सूरी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q971. [Medieval Q#971] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Easy*
+
+- **A)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Nusrat Khan / नुसरत खान
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
+
+#### Q972. [Medieval Q#972] Which Sultan transferred his imperial capital from Delhi to Daulatabad (Devagiri) in 1327 AD and introduced token copper/brass currency?
+**हिन्दी:** किस सुल्तान ने 1327 ईस्वी में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरि) स्थानांतरित की और सांकेतिक तांबा मुद्रा का प्रचलन किया?
+
+*Topic: Tughlaq Dynasty - Muhammad bin Tughlaq (तुगलक वंश - मुहम्मद बिन तुगलक) | Level: Difficult*
+
+- **A)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Muhammad bin Tughlaq (1325–1351) was highly learned but controversial for his transfer of capital, token currency, and taxation experiments.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मुहम्मद बिन तुगलक ने राजधानी परिवर्तन, सांकेतिक मुद्रा, दोआब में कर वृद्धि और खुरासान अभियान जैसे विवादित प्रयोग किए।
+
+#### Q973. [Medieval Q#973] The Moroccan globe-trotter Ibn Battuta visited India in 1333 AD and was appointed Chief Qazi of Delhi during the reign of:
+**हिन्दी:** 1333 ईस्वी में मोरक्को का यात्री इब्न बतूता भारत आया और दिल्ली का काजी नियुक्त हुआ, उस समय किसका शासन था?
+
+*Topic: Ibn Battuta's Travelogue (इब्न बतूता - सफरनामा (रेहला)) | Level: Easy*
+
+- **A)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **B)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **C)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **D)** Sikandar Lodhi / सिकंदर लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Ibn Battuta served as Delhi's Qazi for eight years under Muhammad bin Tughlaq and documented his observations in his Arabic travelogue 'Rihla'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — मोरक्को के यात्री इब्न बतूता ने मुहम्मद बिन तुगलक के दरबार में काजी का पद संभाला और अपनी पुस्तक 'किताब-उल-रेहला' में तत्कालीन भारत का वर्णन किया।
+
+#### Q974. [Medieval Q#974] Which Delhi Sultan established extensive canal irrigation systems, founded the cities of Jaunpur, Hissar, and Firozabad, and imposed Jizya on Brahmanas?
+**हिन्दी:** किस सुल्तान ने नहरों का विशाल जाल बिछाया, जौनपुर और फिरोजाबाद नगर बसाए तथा ब्राह्मणों पर भी जजिया कर लगाया?
+
+*Topic: Tughlaq Dynasty - Firoz Shah Tughlaq (तुगलक वंश - फिरोज शाह तुगलक) | Level: Moderate*
+
+- **A)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **B)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+- **C)** Ghiyasuddin Tughlaq / गियासुद्दीन तुगलक
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Firoz Shah Tughlaq (1351–1388) created Diwan-i-Khairat (charity), Diwan-i-Bandagan (slaves), free hospital Dar-ul-Shifa, and excavated canals from Yamuna.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — फिरोज तुगलक ने कृषि विकास हेतु नहरें बनवाईं, दार-उल-शफा अस्पताल खोला और पहली बार ब्राह्मणों से भी जजिया वसूला।
+
+#### Q975. [Medieval Q#975] Which Lodhi Sultan founded the historic city of Agra in 1504 AD and composed Persian verses under the pen-name 'Gulrukhi'?
+**हिन्दी:** 1504 ईस्वी में आगरा नगर की स्थापना किस लोधी सुल्तान ने की थी जो 'गुलरूखी' उपनाम से फारसी कविताएं लिखता था?
+
+*Topic: Lodhi Dynasty - Agra City (लोधी वंश - आगरा नगर की स्थापना) | Level: Difficult*
+
+- **A)** Bahlol Lodhi / बहलोल लोधी
+- **B)** Sikandar Lodhi / सिकंदर लोधी
+- **C)** Ibrahim Lodhi / इब्राहिम लोधी
+- **D)** Daulat Khan Lodhi / दौलत खान लोधी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Sikandar Lodhi founded Agra in 1504, shifted the Sultanate capital there in 1506, and introduced Gaz-i-Sikandari for land measurement.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — सिकंदर लोधी ने 1504 में आगरा की नींव रखी और भूमि नापने के लिए 30 इंच का 'गज-ए-सिकंदरी' पैमाना चलाया।
+
+#### Q976. [Medieval Q#976] In 1336 AD, the Vijayanagar Empire was established on the south bank of the Tungabhadra river by which two brothers?
+**हिन्दी:** 1336 ईस्वी में तुंगभद्रा नदी के दक्षिणी तट पर विजयनगर साम्राज्य की स्थापना किन दो भाइयों ने की थी?
+
+*Topic: Vijayanagar Empire - Foundation (विजयनगर साम्राज्य - स्थापना) | Level: Moderate*
+
+- **A)** Rama Raya and Tirumala / राम राय और तिरुमल
+- **B)** Krishnadeva Raya and Achyuta Raya / कृष्णदेव राय और अच्युत राय
+- **C)** Harihara I and Bukka I / हरिहर और बुक्का
+- **D)** Devaraya I and Devaraya II / देवराय प्रथम और द्वितीय
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Harihara and Bukka founded the Sangama dynasty of Vijayanagar under the spiritual guidance of Saint Vidyaranya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — हरिहर और बुक्का ने अपने गुरु माधव विद्यारण्य की प्रेरणा से तुंगभद्रा तट पर विजयनगर (हम्पी) साम्राज्य की स्थापना की।
+
+#### Q977. [Medieval Q#977] Who was the greatest monarch of the Vijayanagar Empire (Tuluva Dynasty), author of the Telugu political masterpiece 'Amuktamalyada'?
+**हिन्दी:** तेलुगु महाकाव्य 'आमुक्तमाल्यद' के रचयिता और तुलुव वंश के सर्वाधिक प्रतापी विजयनगर सम्राट कौन थे?
+
+*Topic: Vijayanagar - Krishnadeva Raya (विजयनगर - कृष्णदेव राय) | Level: Easy*
+
+- **A)** Achyuta Deva Raya / अच्युत देव राय
+- **B)** Harihara II / हरिहर द्वितीय
+- **C)** Devaraya II / देवराय द्वितीय
+- **D)** Krishnadeva Raya / कृष्णदेव राय (1509-1529)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Krishnadeva Raya (1509–1529) maintained Ashtadiggajas (8 celebrated Telugu poets including Allasani Peddana and Tenali Rama) in his court.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — कृष्णदेव राय के दरबार में अष्टदिग्गज कवि रहते थे। उन्होंने विट्ठलस्वामी मंदिर और विरुपाक्ष मंदिर का निर्माण भी कराया।
+
+#### Q978. [Medieval Q#978] In which year was the catastrophic Battle of Talikota (Rakshasa-Tangadi) fought, leading to the sacking and downfall of the Vijayanagar Empire?
+**हिन्दी:** विजयनगर साम्राज्य का वैभव समाप्त करने वाला विनाशकारी 'तालिकोटा का युद्ध' (राक्षस-तांगड़ी) किस वर्ष लड़ा गया था?
+
+*Topic: Battle of Talikota (तालिकोटा का युद्ध (राक्षस-तांगड़ी)) | Level: Difficult*
+
+- **A)** 1556 AD / 1556 ईस्वी
+- **B)** 1526 AD / 1526 ईस्वी
+- **C)** 1565 AD / 1565 ईस्वी
+- **D)** 1576 AD / 1576 ईस्वी
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** On January 23, 1565, the combined forces of the Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) crushed Vijayanagar under Rama Raya.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — 23 जनवरी 1565 को दक्कन सल्तनतों के संयुक्त मोर्चे ने तालिकोटा के युद्ध में विजयनगर को पराजित कर हम्पी को नष्ट कर दिया।
+
+#### Q979. [Medieval Q#979] On April 21, 1526, Babur founded the Mughal Empire by defeating Sultan Ibrahim Lodhi in the First Battle of Panipat using which military tactic?
+**हिन्दी:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोधी को हराकर बाबर ने किस युद्ध नीति (व्यूह रचना) का सफल प्रयोग किया था?
+
+*Topic: First Battle of Panipat (पानीपत का प्रथम युद्ध) | Level: Easy*
+
+- **A)** Tulghuma system and Rumi (cart) method / तुलगमा युद्ध पद्धति और रूमी (उस्मानी) विधि
+- **B)** Guerrilla cavalry charge / छापामार घुड़सवार युद्ध
+- **C)** Siege cannon bombardment only / केवल तोपखाने की गोलाबारी
+- **D)** Naval blockade / नौसैनिक घेराबंदी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Babur utilized Tulghuma (flanking party) and Rumi method (tying carts with leather ropes for artillery led by Ustad Ali and Mustafa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बाबर ने पानीपत के पहले युद्ध में तोपों को सजाने की उस्मानी (रूमी) विधि और सेना की तुलगमा पद्धति से जीत हासिल की।
+
+#### Q980. [Medieval Q#980] In 1527 AD, Babur defeated the brave Rajput confederacy led by Rana Sanga of Mewar at the Battle of:
+**हिन्दी:** 1527 ईस्वी में बाबर ने मेवाड़ के महाराणा सांगा के नेतृत्व वाले राजपूत संघ को किस ऐतिहासिक युद्ध में पराजित किया था?
+
+*Topic: Mughal - Battle of Khanwa (मुगल - खानवा का युद्ध) | Level: Moderate*
+
+- **A)** Battle of Chanderi / चंदेरी का युद्ध (1528)
+- **B)** Battle of Khanwa / खानवा का युद्ध (1527)
+- **C)** Battle of Ghaghra / घाघरा का युद्ध (1529)
+- **D)** Battle of Panipat / पानीपत का युद्ध (1526)
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** At Khanwa near Fatehpur Sikri in 1527, Babur declared Jihad, smashed wine cups, defeated Rana Sanga, and assumed the title 'Ghazi'.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — खानवा के युद्ध में बाबर ने 'जिहाद' का नारा दिया, तमगा कर समाप्त किया और विजय के बाद 'गाजी' की उपाधि धारण की।
+
+#### Q981. [Medieval Q#981] Which visionary Afghan ruler built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon to Peshawar and introduced the standard silver 'Rupia'?
+**हिन्दी:** किस अफगान शासक ने सोनारगांव (बंगाल) से पेशावर तक ग्रैंड ट्रंक रोड (सड़क-ए-आजम) बनवाई और चांदी का मानक 'रुपया' चलाया?
+
+*Topic: Sur Empire - Sher Shah Suri (सूर साम्राज्य - शेरशाह सूरी) | Level: Difficult*
+
+- **A)** Sher Shah Suri / शेरशाह सूरी (1540-1545)
+- **B)** Islam Shah / इस्लाम शाह
+- **C)** Hemchandra (Hemu) / हेमू
+- **D)** Bahlol Lodhi / बहलोल लोधी
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Sher Shah Suri defeated Humayun in 1540 (Battle of Kannauj), standardized currency with the 178-grain silver Rupia, and built roadside Sarais.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — शेरशाह सूरी ने 178 ग्रेन का शुद्ध चांदी का रुपया चलाया, डाक चौकी व्यवस्था शुरू की और सासाराम (बिहार) में अपना सुंदर मकबरा बनवाया।
+
+#### Q982. [Medieval Q#982] In 1582 AD, Emperor Akbar promulgated a syncretic socio-religious code based on universal peace ('Sulh-i-Kul') known as:
+**हिन्दी:** 1582 ईस्वी में सम्राट अकबर ने 'सुलह-ए-कुल' (सार्वभौमिक शांति) पर आधारित किस नवीन धार्मिक विचार का प्रतिपादन किया था?
+
+*Topic: Mughal - Akbar's Religious Policy (मुगल - अकबर की धार्मिक नीति) | Level: Moderate*
+
+- **A)** Zabt System / जब्त प्रणाली
+- **B)** Ibadat Khana / इबादतखाना
+- **C)** Mahzarnama / महजरनामा
+- **D)** Din-i-Ilahi (Tauhid-i-Ilahi) / दीन-ए-इलाही (तौहीद-ए-इलाही)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Akbar launched Din-i-Ilahi drawing ethical virtues from Hinduism, Islam, Jainism, and Zoroastrianism. Birbal was the sole Hindu adherent.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अकबर ने सभी धर्मों के तत्वों को मिलाकर दीन-ए-इलाही शुरू किया, जिसे स्वीकार करने वाला एकमात्र हिंदू दरबारी राजा बीरबल था।
+
+#### Q983. [Medieval Q#983] Akbar's famous Dahsala (Zabti) land revenue assessment system (1580 AD) was engineered by his finance minister:
+**हिन्दी:** 1580 ईस्वी में अकबर की प्रसिद्ध 'दहसाला बंदोबस्त' (जब्ती प्रणाली) किसके द्वारा तैयार की गई थी?
+
+*Topic: Mughal - Land Revenue (Dahsala) (मुगल - दहसाला भू-राजस्व प्रणाली) | Level: Easy*
+
+- **A)** Raja Todar Mal / राजा टोडरमल
+- **B)** Raja Man Singh / राजा मानसिंह
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Birbal / बीरबल
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Raja Todar Mal calculated average crop yields and price fluctuations over 10 years, setting the state share at 1/3 of the produce.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अकबर के वित्त मंत्री राजा टोडरमल ने 10 वर्षों के औसत उत्पादन के आधार पर 'आईन-ए-दहसाला' राजस्व व्यवस्था लागू की।
+
+#### Q984. [Medieval Q#984] Who authored the comprehensive official chronicle 'Akbarnama' and its statistical administrative third volume 'Ain-i-Akbari'?
+**हिन्दी:** सम्राट अकबर के शासनकाल के अधिकृत इतिहास 'अकबरनामा' और उसके तीसरे भाग 'आइन-ए-अकबरी' की रचना किसने की थी?
+
+*Topic: Mughal - Akbarnama (मुगल - अकबरनामा एवं आइन-ए-अकबरी) | Level: Difficult*
+
+- **A)** Badauni / अब्दुल कादिर बदायूनी
+- **B)** Faizi / फैजी
+- **C)** Abul Fazl / अबुल फजल
+- **D)** Gulbadan Begum / गुलबदन बेगम
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Abul Fazl, one of Akbar's Navaratnas, spent seven years compiling the Akbarnama in Persian.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — अकबर के नवरत्नों में प्रमुख अबुल फजल ने फारसी में अकबरनामा और आइन-ए-अकबरी ग्रंथ लिखा था।
+
+#### Q985. [Medieval Q#985] Which English ambassador from King James I of England arrived at Jahangir's court in 1615 AD to secure factory trade concessions for the East India Company?
+**हिन्दी:** 1615 ईस्वी में इंग्लैंड के राजा जेम्स प्रथम का कौन सा राजदूत व्यापारिक रियायतें प्राप्त करने सम्राट जहांगीर के दरबार में आया था?
+
+*Topic: Mughal - Jahangir & European Visitors (मुगल - जहांगीर एवं यूरोपीय यात्री) | Level: Easy*
+
+- **A)** Peter Mundy / पीटर मुंडी
+- **B)** Captain William Hawkins / कैप्टन विलियम हॉकिन्स
+- **C)** Ralph Fitch / राल्फ फिच
+- **D)** Sir Thomas Roe / सर थॉमस रो
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Sir Thomas Roe stayed in Jahangir's court (1615–1619) and secured imperial firmans granting factory permissions in Surat.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — सर थॉमस रो 1615 में जहांगीर के दरबार में आया और ईस्ट इंडिया कंपनी के लिए सूरत में कोठी स्थापित करने का शाही फरमान प्राप्त किया।
+
+#### Q986. [Medieval Q#986] Which celebrated marble monument was constructed by Shah Jahan at Agra in memory of his beloved empress Arjumand Banu Begum (Mumtaz Mahal)?
+**हिन्दी:** शाहजहाँ ने अपनी बेगम अर्जुमंद बानो बेगम (मुमताज महल) की स्मृति में यमुना तट पर किस विश्वविख्यात श्वेत संगमरमर के मकबरे का निर्माण कराया?
+
+*Topic: Mughal - Shah Jahan's Architecture (मुगल - शाहजहाँ का स्थापत्य काल) | Level: Moderate*
+
+- **A)** Bibi Ka Maqbara / बीबी का मकबरा
+- **B)** Moti Masjid / मोती मस्जिद
+- **C)** Itimad-ud-Daulah's Tomb / एत्मादुद्दौला का मकबरा
+- **D)** Taj Mahal / ताजमहल
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** The Taj Mahal, engineered by Ustad Ahmad Lahori and Mir Abdul Karim between 1631 and 1648, is an iconic UNESCO World Heritage site.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — उस्ताद अहमद लाहौरी के वास्तुशिल्प निर्देशन में शाहजहाँ ने मुमताज महल की याद में ताजमहल बनवाया।
+
+#### Q987. [Medieval Q#987] Which conservative Mughal emperor reimposed the discriminatory Jizya tax on non-Muslims in 1679 AD after it had been abolished for over a century?
+**हिन्दी:** अकबर द्वारा समाप्त किए जाने के 115 वर्ष बाद 1679 ईस्वी में किस मुगल बादशाह ने गैर-मुस्लिमों पर पुनः 'जजिया कर' लागू कर दिया था?
+
+*Topic: Mughal - Aurangzeb's Religious Policies (मुगल - औरंगजेब की नीतियां) | Level: Difficult*
+
+- **A)** Shah Jahan / शाहजहाँ
+- **B)** Aurangzeb (Alamgir) / औरंगजेब (आलमगीर)
+- **C)** Jahangir / जहांगीर
+- **D)** Bahadur Shah I / बहादुर शाह प्रथम
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Aurangzeb reimposed Jizya in 1679, banned music and dance in court, ended Jharokha Darshan, and executed Sikh Guru Tegh Bahadur.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — औरंगजेब ने 1679 में जजिया कर पुनः लगाया, दरबारी संगीत और नवरोज उत्सव पर प्रतिबंध लगा दिया।
+
+#### Q988. [Medieval Q#988] In 1674 AD, Shivaji Maharaj was coronated as independent Chhatrapati at which historic capital fort by Gaga Bhatt?
+**हिन्दी:** 1674 ईस्वी में काशी के विद्वान गागा भट्ट द्वारा रायगढ़ के किले में किसका राज्याभिषेक कर 'छत्रपति' की पदवी दी गई थी?
+
+*Topic: Maratha Empire - Chhatrapati Shivaji (मराठा साम्राज्य - छत्रपति शिवाजी महाराज) | Level: Moderate*
+
+- **A)** Purandhar Fort / पुरंदर दुर्ग
+- **B)** Shivneri Fort / शिवनेरी दुर्ग
+- **C)** Torna Fort / तोरणा दुर्ग
+- **D)** Raigad Fort / रायगढ़ दुर्ग
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Shivaji was crowned Chhatrapati at Raigad in 1674, assuming the title 'Haindava Dharmoddharak' (Protector of the Hindu Faith).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — शिवाजी महाराज का राज्याभिषेक 16 जून 1674 को रायगढ़ में हुआ और उन्होंने 'छत्रपति' तथा 'हिंदू धर्मोद्धारक' की उपाधि धारण की।
+
+#### Q989. [Medieval Q#989] Under Shivaji's central administration, what was the official designation of the Prime Minister heading the Ashtapradhan council?
+**हिन्दी:** शिवाजी के 'अष्टप्रधान' प्रशासनिक मंत्रिमंडल में सर्वोच्च प्रधानमंत्री को किस पदनाम से जाना जाता था?
+
+*Topic: Maratha - Ashtapradhan (मराठा - अष्टप्रधान परिषद) | Level: Easy*
+
+- **A)** Peshwa (Mukhya Pradhan) / पेशवा (मुख्य प्रधान)
+- **B)** Amatya (Finance) / अमात्य (वित्त मंत्री)
+- **C)** Senapati (Military) / सेनापति (सर-ए-नौबत)
+- **D)** Sumant (Foreign) / सुमंत (विदेश मंत्री)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** The Peshwa was the Prime Minister looking after general civil administration. Amatya was finance minister, and Sumant handled foreign affairs.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अष्टप्रधान में पेशवा राज्य के प्रशासन और अर्थव्यवस्था की देखरेख करने वाला सर्वप्रमुख मंत्री होता था।
+
+#### Q990. [Medieval Q#990] What was 'Chauth', the famous revenue assessment collected by Maratha rulers from neighboring non-Maratha territories?
+**हिन्दी:** मराठा साम्राज्य द्वारा पड़ोसी राज्यों से उनकी सुरक्षा और आक्रमण न करने के बदले वसूला जाने वाला 'चौथ' कर कितना होता था?
+
+*Topic: Maratha - Revenue Taxes (मराठा - चौथ एवं सरदेशमुखी) | Level: Difficult*
+
+- **A)** One-tenth (10%) additional tax / दस प्रतिशत (10%) अतिरिक्त कर
+- **B)** One-fourth (25%) of standard land revenue / भू-राजस्व का एक-चौथाई (25%)
+- **C)** One-third (33%) of annual produce / वार्षिक उपज का एक-तिहाई (33%)
+- **D)** One-half (50%) war indemnity / युद्ध का आधा (50%) हर्जाना
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Chauth was 25% (1/4th) of land revenue paid to avoid Maratha raids; Sardeshmukhi was an additional 10% levy claiming hereditary headship.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — चौथ पड़ोसी क्षेत्रों से लिया जाने वाला 1/4 (25%) सैन्य सुरक्षा कर था, जबकि सरदेशमुखी 10% का वंशानुगत अधिकार कर था।
+
+#### Q991. [Medieval Q#991] Who was the first Arab general to invade India, conquering Sindh and Multan in 712 AD?
+**हिन्दी:** 712 ईस्वी में सिंध और मुल्तान पर विजय प्राप्त करने वाला प्रथम अरब सेनापति कौन था?
+
+*Topic: Early Medieval - Arab Invasion (पूर्व मध्यकाल - अरब आक्रमण) | Level: Easy*
+
+- **A)** Muhammad Ghori / मुहम्मद गोरी
+- **B)** Mahmud Ghazni / महमूद गजनवी
+- **C)** Muhammad bin Qasim / मुहम्मद बिन कासिम
+- **D)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Muhammad bin Qasim, sent by the Umayyad Governor Al-Hajjaj, defeated Raja Dahir of Sindh at the Battle of Rawar in 712 AD.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — मुहम्मद बिन कासिम ने 712 ईस्वी में सिंध के राजा दाहिर को पराजित कर भारत में पहली सफल मुस्लिम विजय प्राप्त की।
+
+#### Q992. [Medieval Q#992] In which year did Sultan Mahmud of Ghazni launch his famous 16th expedition to sack and plunder the holy Somnath Temple in Gujarat?
+**हिन्दी:** सुल्तान महमूद गजनवी ने गुजरात के पवित्र सोमनाथ मंदिर पर अपना प्रसिद्ध 16वां आक्रमण किस वर्ष किया था?
+
+*Topic: Mahmud of Ghazni - Somnath (महमूद गजनवी - सोमनाथ मंदिर) | Level: Moderate*
+
+- **A)** 1001 AD / 1001 ईस्वी
+- **B)** 1025 AD / 1025 ईस्वी
+- **C)** 1018 AD / 1018 ईस्वी
+- **D)** 1191 AD / 1191 ईस्वी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** In 1025 AD (during the reign of Chalukya King Bhima I), Mahmud of Ghazni plundered the rich Somnath temple on the coast of Saurashtra.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — 1025 ईस्वी में भीमदेव प्रथम के शासनकाल में महमूद गजनवी ने सोमनाथ मंदिर को लूटा और ध्वस्त किया था।
+
+#### Q993. [Medieval Q#993] Which celebrated Persian polymath accompanied Mahmud of Ghazni to India and authored the monumental Arabic treatise 'Kitab-ul-Hind'?
+**हिन्दी:** महमूद गजनवी के साथ भारत आने वाले किस प्रसिद्ध विद्वान ने 'किताब-उल-हिंद' (तहकीक-ए-हिंद) की रचना की थी?
+
+*Topic: Scholars of Ghazni - Al-Beruni (गजनवी के विद्वान - अलबरूनी) | Level: Difficult*
+
+- **A)** Al-Beruni / अलबरूनी
+- **B)** Firdausi / फिरदौसी
+- **C)** Utbi / उतबी
+- **D)** Ibn Battuta / इब्न बतूता
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Al-Beruni (Abu Raihan) studied Sanskrit, Indian astronomy, mathematics, and philosophy, compiling 'Kitab-ul-Hind'. Firdausi wrote Shahnama.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — अलबरूनी ने भारतीय संस्कृति और विज्ञान का गहन अध्ययन कर अरबी भाषा में 'किताब-उल-हिंद' की रचना की।
+
+#### Q994. [Medieval Q#994] In which decisive battle (1192 AD) did Muhammad Ghori defeat Rajput King Prithviraj Chauhan, establishing Islamic rule in North India?
+**हिन्दी:** 1192 ईस्वी के किस निर्णायक युद्ध में मुहम्मद गोरी ने पृथ्वीराज चौहान को पराजित कर दिल्ली में मुस्लिम शासन की नींव रखी?
+
+*Topic: Battles of Tarain (तराइन के ऐतिहासिक युद्ध) | Level: Moderate*
+
+- **A)** Second Battle of Tarain / तराइन का द्वितीय युद्ध (1192)
+- **B)** First Battle of Tarain / तराइन का प्रथम युद्ध (1191)
+- **C)** Battle of Chandawar / चंदावर का युद्ध (1194)
+- **D)** First Battle of Panipat / पानीपत का प्रथम युद्ध (1526)
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** After losing the First Battle of Tarain in 1191, Muhammad Ghori returned in 1192 to defeat Prithviraj III Chauhan.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — 1191 में तराइन के प्रथम युद्ध में हारने के बाद गोरी ने 1192 में द्वितीय युद्ध में पृथ्वीराज चौहान को हराया।
+
+#### Q995. [Medieval Q#995] Who founded the Slave (Mamluk) Dynasty in 1206 AD and was popularly known as 'Lakh Baksh' (Giver of Lakhs) for his generosity?
+**हिन्दी:** 1206 ईस्वी में गुलाम (मामलूक) वंश की स्थापना किसने की जिसे उसकी असीम दानशीलता के कारण 'लाखबख्श' कहा जाता था?
+
+*Topic: Slave Dynasty - Founder (गुलाम वंश - संस्थापक) | Level: Easy*
+
+- **A)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **D)** Nasiruddin Mahmud / नासिरुद्दीन महमूद
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Qutbuddin Aibak, a Turkish slave of Ghori, ruled from Lahore (1206–1210). He died playing Chaugan (horse polo).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — कुतुबुद्दीन ऐबक ने 1206 में लाहौर में राजधानी बनाकर गुलाम वंश की स्थापना की। 1210 में चौगान खेलते समय घोड़े से गिरकर उसकी मृत्यु हुई।
+
+#### Q996. [Medieval Q#996] Which Delhi Sultan shifted the capital from Lahore to Delhi, introduced the Silver Tanka and Copper Jital, and created the 'Turkan-i-Chahalgani'?
+**हिन्दी:** किस सुल्तान ने राजधानी लाहौर से दिल्ली स्थानांतरित की, चांदी का टंका व तांबे का जीतल चलाया और 'तुर्कान-ए-चहलगानी' का गठन किया?
+
+*Topic: Slave Dynasty - Iltutmish (गुलाम वंश - इल्तुतमिश) | Level: Difficult*
+
+- **A)** Qutbuddin Aibak / कुतुबुद्दीन ऐबक
+- **B)** Shamsuddin Iltutmish / शमसुद्दीन इल्तुतमिश
+- **C)** Balban / बलबन
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (B)**  
+> **💡 Explanation (English):** Iltutmish (1211–1236) is regarded as the real founder of the Delhi Sultanate, instituting the Iqta system and forty Turkish nobles (Chalisa).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प B) — इल्तुतमिश को दिल्ली सल्तनत का वास्तविक संस्थापक माना जाता है जिसने 40 तुर्क सरदारों का दल (चालीसा) बनाया।
+
+#### Q997. [Medieval Q#997] Who was the first and only Muslim woman sovereign to sit on the imperial throne of medieval Delhi (1236–1240 AD)?
+**हिन्दी:** मध्यकालीन दिल्ली के सिंहासन पर बैठने वाली प्रथम और एकमात्र मुस्लिम महिला शासिका कौन थीं?
+
+*Topic: Slave Dynasty - Razia Sultana (गुलाम वंश - रजिया सुल्ताना) | Level: Easy*
+
+- **A)** Chand Bibi / चांद बीबी
+- **B)** Nur Jahan / नूरजहाँ
+- **C)** Razia Sultana / रजिया सुल्ताना
+- **D)** Mumtaz Mahal / मुमताज महल
+
+> **Correct Answer:** **Option (C)**  
+> **💡 Explanation (English):** Razia, nominated by her father Iltutmish, discarded female veil (purdah), held open durbar, and married Altunia.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प C) — इल्तुतमिश की पुत्री रजिया सुल्ताना ने 1236 से 1240 तक शासन किया और परदा प्रथा त्यागकर खुले दरबार में राजकाज संभाला।
+
+#### Q998. [Medieval Q#998] Which Sultan broke the power of the Turkish Forty (Chalisa) and propounded the stern policy of 'Blood and Iron' along with Sijdah and Paibos?
+**हिन्दी:** किस सुल्तान ने चालीसा दल को समाप्त किया और 'रक्त और लौह की नीति' तथा सिजदा व पाबोस की ईरानी प्रथाएं शुरू कीं?
+
+*Topic: Slave Dynasty - Balban (गुलाम वंश - बलबन की रक्त और लौह नीति) | Level: Moderate*
+
+- **A)** Ghiyasuddin Balban / गियासुद्दीन बलबन
+- **B)** Alauddin Khilji / अलाउद्दीन खिलजी
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Firoz Shah Tughlaq / फिरोज शाह तुगलक
+
+> **Correct Answer:** **Option (A)**  
+> **💡 Explanation (English):** Balban (1266–1287) instituted Iranian court etiquette (Sijdah and Paibos), declared himself Zill-i-Ilahi (Shadow of God), and crushed bandits.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प A) — बलबन ने राजत्व का दैवीय सिद्धांत स्थापित किया, सिजदा-पाबोस शुरू कराया और मेवाती डाकुओं का दमन करने के लिए लौह एवं रक्त नीति अपनाई।
+
+#### Q999. [Medieval Q#999] Which Delhi Sultan instituted rigorous market reforms, strict price-control of food grains, and the military branding system of horses (Dagh)?
+**हिन्दी:** किस सुल्तान ने आवश्यक वस्तुओं के मूल्य नियंत्रण, बाजार सुधार (शहना-ए-मंडी) और घोड़ों को दागने की प्रथा लागू की थी?
+
+*Topic: Khilji Dynasty - Market Regulations (खिलजी वंश - बाजार नियंत्रण नीति) | Level: Difficult*
+
+- **A)** Sher Shah Suri / शेरशाह सूरी
+- **B)** Balban / बलबन
+- **C)** Muhammad bin Tughlaq / मुहम्मद बिन तुगलक
+- **D)** Alauddin Khilji / अलाउद्दीन खिलजी
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Alauddin Khilji (1296–1316) created Diwan-i-Riyasat, fixed prices, introduced Dagh (horse branding) and Chehra (descriptive roll of soldiers).  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — अलाउद्दीन खिलजी ने विशाल सेना के भरण-पोषण के लिए बाजार नियंत्रण, राशनिंग और सैनिकों के हुलिया व घोड़े दागने की प्रथा चलाई।
+
+#### Q1000. [Medieval Q#1000] Who was Alauddin Khilji's famous eunuch military commander who spearheaded the victorious invasions of the Deccan and South Indian kingdoms?
+**हिन्दी:** अलाउद्दीन खिलजी का वह प्रसिद्ध सेनापति कौन था जिसने देवगिरि, वारंगल और मदुरै के दक्षिण भारतीय अभियानों का नेतृत्व किया था?
+
+*Topic: Khilji Dynasty - Southern Expeditions (खिलजी वंश - दक्षिण भारत विजय) | Level: Moderate*
+
+- **A)** Nusrat Khan / नुसरत खान
+- **B)** Ulugh Khan / उलुग खान
+- **C)** Zafar Khan / जफर खान
+- **D)** Malik Kafur (Hazardinari) / मलिक काफूर (हजारदीनारी)
+
+> **Correct Answer:** **Option (D)**  
+> **💡 Explanation (English):** Malik Kafur was purchased for 1,000 dinars in Gujarat and subjugated Devagiri, Warangal, Dwarasamudra, and Madurai.  
+> **💡 व्याख्या (हिन्दी):** (सही उत्तर: विकल्प D) — मलिक काफूर (हजारदीनारी) ने अलाउद्दीन के समय दक्षिण के यादव, काकतीय, होयसल और पाण्ड्य राज्यों को जीतकर करद बनाया।
 

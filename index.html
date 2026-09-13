@@ -649,7 +649,8 @@
         <button class="sec-tab" id="secTab3" onclick="switchSection(3, this)">GK (Mahajanapadas)</button>
         <button class="sec-tab" id="secTab4" onclick="switchSection(4, this)">History (Buddhism & Maurya)</button>
         <button class="sec-tab" id="secTab5" onclick="switchSection(5, this)">Ancient India (Gupta & South)</button>
-        <button class="sec-tab" id="secTabAll" onclick="switchSection('all', this)">All 700 Questions</button>
+        <button class="sec-tab" id="secTab6" onclick="switchSection(6, this)">Medieval India (Sultanate & Mughals)</button>
+        <button class="sec-tab" id="secTabAll" onclick="switchSection('all', this)">All 1,000 Questions</button>
       </div>
     </div>
 
@@ -826,9 +827,12 @@
         sectionIndices = allQuestions.map((q, i) => (i >= 350 && i < 500) ? i : -1).filter(i => i !== -1);
       } else if (sec === 5) {
         label.innerText = "Ancient India (Gupta Empire, Harsha & South: Q501-700)";
-        sectionIndices = allQuestions.map((q, i) => i >= 500 ? i : -1).filter(i => i !== -1);
+        sectionIndices = allQuestions.map((q, i) => (i >= 500 && i < 700) ? i : -1).filter(i => i !== -1);
+      } else if (sec === 6) {
+        label.innerText = "Medieval India (Delhi Sultanate, Mughals & Marathas: Q701-1000)";
+        sectionIndices = allQuestions.map((q, i) => i >= 700 ? i : -1).filter(i => i !== -1);
       } else {
-        label.innerText = "All 700 Questions";
+        label.innerText = "All 1,000 Questions";
         sectionIndices = allQuestions.map((_, i) => i);
       }
 

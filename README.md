@@ -8,17 +8,18 @@ This repository houses the core curriculum materials, practice questions, and co
 
 ## 🌐 Live Interactive Exam Simulator
 The official web exam simulator is hosted directly via **GitHub Pages**:  
-👉 **[Launch NextSem Ranker CBT Simulator](https://nextsemacademy-max.github.io/NextSem-Ranker-/)**
+👉 **[Launch NextSem Ranker RRB CBT Simulator](https://nextsemacademy-max.github.io/NextSem-Ranker-/)**
 
-## 📚 Core Question Banks & Notes
-*   **🏛️ Ancient India 200 Masterclass MCQs:**  
-    *   Markdown Notes & Explanations: [`content/practice-questions/ancient-india-200-mcq.md`](content/practice-questions/ancient-india-200-mcq.md)
-    *   Raw JSON API Format: [`data/mock-tests/ancient-india-200-mcq.json`](data/mock-tests/ancient-india-200-mcq.json)
-*   **🔢 Quantitative Aptitude:** Shortcuts, formulas, and step-by-step problem sets.
-*   **🧠 Logical Reasoning:** Verbal and non-verbal reasoning patterns.
-*   **🔤 English Language:** Grammar rules, vocabulary builders, and comprehension guides.
-*   **📰 Current Affairs:** Daily and monthly updates tailored to competitive exams.
-*   **💻 Computer Basics:** Foundational IT literacy and shortcuts.
+## 📚 1,000 Masterclass Bilingual MCQs (Complete Question Bank)
+*   **Markdown Question Bank & Notes:** [`content/practice-questions/ancient-india-200-mcq.md`](content/practice-questions/ancient-india-200-mcq.md)
+*   **Raw JSON API Dataset:** [`data/mock-tests/ancient-india-200-mcq.json`](data/mock-tests/ancient-india-200-mcq.json)
+*   **Section Breakdown (1,000 Questions):**
+    1. **Section 1:** Reasoning *(Indus Valley Civilization: Q1–Q100)*
+    2. **Section 2:** Quant *(Vedic Culture & Philosophy: Q101–Q200)*
+    3. **Section 3:** GK *(16 Mahajanapadas & Magadha: Q201–Q350)*
+    4. **Section 4:** History *(Buddhism, Jainism & Mauryan Empire: Q351–Q500)*
+    5. **Section 5:** Ancient India *(Post-Mauryan, Guptas, Harsha & South: Q501–Q700)*
+    6. **Section 6:** Medieval India *(Delhi Sultanate, Mughals & Marathas: Q701–Q1000)*
 
 ## 🚀 GitHub Pages Deployment
 To deploy this repository to GitHub Pages:
