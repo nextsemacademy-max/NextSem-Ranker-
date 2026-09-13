@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RRB Assistant-01 | NextSem Ranker CBT Exam</title>
-  <meta name="description" content="Authentic RRB Railway and Indian Competitive Exam Computer Based Test (CBT) Interface">
+  <title>General Knowledge: Indian History | NextSem Ranker CBT Exam</title>
+  <meta name="description" content="Authentic Indian Competitive Exam Computer Based Test (CBT) Interface for Indian History">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
@@ -633,7 +633,7 @@
 
   <!-- Top Blue Header -->
   <header class="rrb-header">
-    <div class="header-left">RRB Assistant-01</div>
+    <div class="header-left" id="examSubjectTitle">General Knowledge: Indian History</div>
     <div class="header-logo">
       <span class="logo-icon">🎯</span> NextSem Ranker
     </div>
@@ -642,14 +642,14 @@
   <!-- Sub-header (Sections & Candidate Profile Info) -->
   <div class="rrb-sub-header">
     <div class="sections-container">
-      <span class="sections-legend">Sections</span>
+      <span class="sections-legend">History Sections</span>
       <div class="section-tabs">
-        <button class="sec-tab active" id="secTab1" onclick="switchSection(1, this)">Reasoning (Indus)</button>
-        <button class="sec-tab" id="secTab2" onclick="switchSection(2, this)">Quant (Vedic Culture)</button>
-        <button class="sec-tab" id="secTab3" onclick="switchSection(3, this)">GK (Mahajanapadas)</button>
-        <button class="sec-tab" id="secTab4" onclick="switchSection(4, this)">History (Buddhism & Maurya)</button>
-        <button class="sec-tab" id="secTab5" onclick="switchSection(5, this)">Ancient India (Gupta & South)</button>
-        <button class="sec-tab" id="secTab6" onclick="switchSection(6, this)">Medieval India (Sultanate & Mughals)</button>
+        <button class="sec-tab active" id="secTab1" onclick="switchSection(1, this)">Indus Valley Civilization</button>
+        <button class="sec-tab" id="secTab2" onclick="switchSection(2, this)">Vedic Culture & Philosophy</button>
+        <button class="sec-tab" id="secTab3" onclick="switchSection(3, this)">16 Mahajanapadas & Magadha</button>
+        <button class="sec-tab" id="secTab4" onclick="switchSection(4, this)">Buddhism, Jainism & Maurya</button>
+        <button class="sec-tab" id="secTab5" onclick="switchSection(5, this)">Gupta Empire & South India</button>
+        <button class="sec-tab" id="secTab6" onclick="switchSection(6, this)">Delhi Sultanate & Mughals</button>
         <button class="sec-tab" id="secTabAll" onclick="switchSection('all', this)">All 1,000 Questions</button>
       </div>
     </div>
@@ -813,26 +813,35 @@
       currentSection = sec;
 
       const label = document.getElementById('sectionViewingLabel');
+      const subjectTitle = document.getElementById('examSubjectTitle');
+
       if (sec === 1) {
-        label.innerText = "Reasoning (Indus Valley: Q1-100)";
+        subjectTitle.innerText = "Indian History: Indus Valley Civilization";
+        label.innerText = "Indus Valley Civilization (Q1-100)";
         sectionIndices = allQuestions.map((q, i) => i < 100 ? i : -1).filter(i => i !== -1);
       } else if (sec === 2) {
-        label.innerText = "Quant (Vedic Culture: Q101-200)";
+        subjectTitle.innerText = "Indian History: Vedic Culture & Philosophy";
+        label.innerText = "Vedic Culture & Philosophy (Q101-200)";
         sectionIndices = allQuestions.map((q, i) => (i >= 100 && i < 200) ? i : -1).filter(i => i !== -1);
       } else if (sec === 3) {
-        label.innerText = "GK (Mahajanapadas & Magadha: Q201-350)";
+        subjectTitle.innerText = "Indian History: 16 Mahajanapadas & Magadha";
+        label.innerText = "16 Mahajanapadas & Magadha (Q201-350)";
         sectionIndices = allQuestions.map((q, i) => (i >= 200 && i < 350) ? i : -1).filter(i => i !== -1);
       } else if (sec === 4) {
-        label.innerText = "History (Buddhism, Jainism & Maurya: Q351-500)";
+        subjectTitle.innerText = "Indian History: Buddhism, Jainism & Mauryan Empire";
+        label.innerText = "Buddhism, Jainism & Mauryan Empire (Q351-500)";
         sectionIndices = allQuestions.map((q, i) => (i >= 350 && i < 500) ? i : -1).filter(i => i !== -1);
       } else if (sec === 5) {
-        label.innerText = "Ancient India (Gupta Empire, Harsha & South: Q501-700)";
+        subjectTitle.innerText = "Indian History: Gupta Empire & South India";
+        label.innerText = "Post-Mauryan, Guptas, Harsha & South (Q501-700)";
         sectionIndices = allQuestions.map((q, i) => (i >= 500 && i < 700) ? i : -1).filter(i => i !== -1);
       } else if (sec === 6) {
-        label.innerText = "Medieval India (Delhi Sultanate, Mughals & Marathas: Q701-1000)";
+        subjectTitle.innerText = "Medieval Indian History: Delhi Sultanate & Mughal Empire";
+        label.innerText = "Delhi Sultanate, Mughals & Marathas (Q701-1000)";
         sectionIndices = allQuestions.map((q, i) => i >= 700 ? i : -1).filter(i => i !== -1);
       } else {
-        label.innerText = "All 1,000 Questions";
+        subjectTitle.innerText = "Indian History: Complete Question Bank (1,000 Questions)";
+        label.innerText = "All 1,000 Questions (Complete Indian History)";
         sectionIndices = allQuestions.map((_, i) => i);
       }
 
