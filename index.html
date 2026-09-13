@@ -7,7 +7,7 @@
   <meta name="description" content="Official interactive test engine and question bank for Indian competitive & teaching exams (CTET, KVS, DSSSB, State TETs).">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg-primary: #17181c;
@@ -21,7 +21,8 @@
       --accent-yellow: #f59e0b;
       --text-white: #ffffff;
       --text-muted: #94a3b8;
-      --font-main: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-main: 'Outfit', 'Noto Sans Devanagari', -apple-system, sans-serif;
+      --font-hindi: 'Noto Sans Devanagari', sans-serif;
       --font-mono: 'JetBrains Mono', monospace;
     }
 
@@ -567,9 +568,18 @@
       <button class="tab-btn" onclick="filterMarked(this)">⭐ Marked Review</button>
     </div>
 
-    <div class="mode-toggle">
-      <span>Auto-show Explanations:</span>
-      <input type="checkbox" id="autoExplainToggle" checked style="accent-color: var(--accent-green); cursor: pointer;">
+    <!-- Bilingual Language Toggle -->
+    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+      <div style="display: flex; align-items: center; gap: 4px; background: var(--bg-card); padding: 3px; border-radius: 8px; border: 1px solid var(--border-color);">
+        <button class="tab-btn active" id="btnLangBi" style="padding: 4px 10px; font-size: 11px;" onclick="setLanguage('bilingual', this)">🌐 Bilingual</button>
+        <button class="tab-btn" id="btnLangEn" style="padding: 4px 10px; font-size: 11px;" onclick="setLanguage('en', this)">🇬🇧 English</button>
+        <button class="tab-btn" id="btnLangHi" style="padding: 4px 10px; font-size: 11px;" onclick="setLanguage('hi', this)">🇮🇳 हिन्दी</button>
+      </div>
+
+      <div class="mode-toggle">
+        <span>Explanations:</span>
+        <input type="checkbox" id="autoExplainToggle" checked style="accent-color: var(--accent-green); cursor: pointer;">
+      </div>
     </div>
   </div>
 
@@ -595,7 +605,7 @@
 
       <!-- In-Depth Explanation Box -->
       <div class="explanation-box" id="explanationBox">
-        <div class="explanation-title">💡 In-Depth Solution & Historical Context</div>
+        <div class="explanation-title">💡 In-Depth Solution & Historical Context / विस्तृत व्याख्या</div>
         <div class="explanation-text" id="explanationText"></div>
       </div>
 
@@ -699,6 +709,7 @@
     let allQuestions = [];
     let filteredIndices = [];
     let activeFilter = 'All';
+    let currentLang = 'bilingual'; // 'bilingual', 'en', 'hi'
     let currentIndex = 0;
     let userAnswers = {}; // { qId: selectedOptionLetter }
     let markedQuestions = new Set(); // Set of qIds
@@ -724,6 +735,13 @@
       renderPalette();
       loadQuestion(0);
       startTimer();
+    }
+
+    function setLanguage(lang, btnEl) {
+      currentLang = lang;
+      document.querySelectorAll('#btnLangBi, #btnLangEn, #btnLangHi').forEach(b => b.classList.remove('active'));
+      if (btnEl) btnEl.classList.add('active');
+      renderCurrentQuestion();
     }
 
     function startTimer() {
@@ -755,7 +773,7 @@
     }
 
     function filterDifficulty(diff, btnEl) {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.filter-tabs .tab-btn').forEach(b => b.classList.remove('active'));
       btnEl.classList.add('active');
       activeFilter = diff;
 
@@ -773,7 +791,7 @@
     }
 
     function filterMarked(btnEl) {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.filter-tabs .tab-btn').forEach(b => b.classList.remove('active'));
       btnEl.classList.add('active');
       filteredIndices = allQuestions
         .map((q, i) => markedQuestions.has(q.id) ? i : -1)
@@ -781,7 +799,7 @@
 
       if (filteredIndices.length === 0) {
         alert("No questions marked for review yet!");
-        filterDifficulty('All', document.querySelectorAll('.tab-btn')[0]);
+        filterDifficulty('All', document.querySelectorAll('.filter-tabs .tab-btn')[0]);
         return;
       }
 
@@ -808,8 +826,22 @@
       diffBadge.innerText = q.difficulty;
       diffBadge.className = `badge badge-${q.difficulty.toLowerCase()}`;
 
-      document.getElementById('qTopicBadge').innerText = q.topic;
-      document.getElementById('qText').innerText = q.question;
+      // Topic badge in selected language
+      const topicText = (currentLang === 'hi' && q.topic_hi) ? q.topic_hi : q.topic;
+      document.getElementById('qTopicBadge').innerText = topicText;
+
+      // Question Text formatting based on language
+      const qTextEl = document.getElementById('qText');
+      if (currentLang === 'bilingual') {
+        qTextEl.innerHTML = `
+          <div style="color: #ffffff; margin-bottom: 8px;">${q.question}</div>
+          <div style="color: #93c5fd; font-size: 17px; font-weight: 600; line-height: 1.5; font-family: var(--font-hindi);">${q.question_hi || ''}</div>
+        `;
+      } else if (currentLang === 'hi') {
+        qTextEl.innerHTML = `<div style="font-family: var(--font-hindi);">${q.question_hi || q.question}</div>`;
+      } else {
+        qTextEl.innerText = q.question;
+      }
 
       // Mark button state
       const markBtn = document.getElementById('markBtn');
@@ -841,9 +873,25 @@
           else if (userSelected === letter) optDiv.classList.add('incorrect');
         }
 
+        const optHiText = (q.options_hi && q.options_hi[oIdx]) ? q.options_hi[oIdx] : '';
+        let optionContent = '';
+
+        if (currentLang === 'bilingual') {
+          optionContent = `
+            <div>
+              <span style="color: #ffffff; font-weight: 500;">${optText}</span>
+              ${optHiText && optHiText !== optText ? `<div style="color: #94a3b8; font-size: 13px; margin-top: 2px; font-family: var(--font-hindi);">${optHiText}</div>` : ''}
+            </div>
+          `;
+        } else if (currentLang === 'hi') {
+          optionContent = `<div style="font-family: var(--font-hindi);">${optHiText || optText}</div>`;
+        } else {
+          optionContent = `<div>${optText}</div>`;
+        }
+
         optDiv.innerHTML = `
           <div class="opt-letter">${letter}</div>
-          <div style="flex: 1; padding-top: 3px;">${optText}</div>
+          <div style="flex: 1; padding-top: 3px;">${optionContent}</div>
         `;
 
         optDiv.onclick = () => selectOption(q.id, letter);
@@ -855,8 +903,22 @@
       const autoExplain = document.getElementById('autoExplainToggle').checked;
       if (userSelected && autoExplain) {
         explainBox.classList.add('show');
-        document.getElementById('explanationText').innerHTML = 
-          `<strong>Correct Answer: Option (${q.correctAnswer})</strong><br>${q.explanation}`;
+        
+        let explanationHtml = `<strong>Correct Answer: Option (${q.correctAnswer})</strong><br>`;
+        if (currentLang === 'bilingual') {
+          explanationHtml += `
+            <div style="margin-bottom: 8px;">${q.explanation}</div>
+            <div style="color: #93c5fd; font-size: 13px; font-family: var(--font-hindi); border-top: 1px solid rgba(255,255,255,0.1); padding-top: 6px;">
+              <strong>हिन्दी व्याख्या:</strong> ${q.explanation_hi || q.explanation}
+            </div>
+          `;
+        } else if (currentLang === 'hi') {
+          explanationHtml += `<div style="font-family: var(--font-hindi);">${q.explanation_hi || q.explanation}</div>`;
+        } else {
+          explanationHtml += `<div>${q.explanation}</div>`;
+        }
+
+        document.getElementById('explanationText').innerHTML = explanationHtml;
       } else {
         explainBox.classList.remove('show');
       }

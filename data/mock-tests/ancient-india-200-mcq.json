@@ -11,7 +11,16 @@
       "Sir John Marshall"
     ],
     "correctAnswer": "D",
-    "explanation": "Sir John Marshall, the Director-General of the Archaeological Survey of India (ASI), was the first scholar to use the term 'Indus Civilization'."
+    "explanation": "Sir John Marshall, the Director-General of the Archaeological Survey of India (ASI), was the first scholar to use the term 'Indus Civilization'.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "निम्नलिखित में से 'सिंधु सभ्यता' (Indus Civilization) शब्द का सर्वप्रथम प्रयोग किस विद्वान ने किया था?",
+    "options_hi": [
+      "दयाराम साहनी",
+      "सर मोर्टिमर व्हीलर",
+      "राखाल दास बनर्जी",
+      "सर जॉन मार्शल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Sir John Marshall, the Director-General of the Archaeological Survey of India (ASI), was the first scholar to use the term 'Indus Civilization'."
   },
   {
     "id": 2,
@@ -25,7 +34,16 @@
       "Luni"
     ],
     "correctAnswer": "C",
-    "explanation": "Kalibangan is situated along the dry bed of the Ghaggar (ancient Saraswati) river in Hanumangarh district, Rajasthan."
+    "explanation": "Kalibangan is situated along the dry bed of the Ghaggar (ancient Saraswati) river in Hanumangarh district, Rajasthan.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "सिंधु घाटी सभ्यता का प्रसिद्ध स्थल कालीबंगा किस नदी के तट पर स्थित है?",
+    "options_hi": [
+      "रावी",
+      "भोगवा",
+      "घग्घर",
+      "लूनी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Kalibangan is situated along the dry bed of the Ghaggar (ancient Saraswati) river in Hanumangarh district, Rajasthan."
   },
   {
     "id": 3,
@@ -39,7 +57,16 @@
       "Alamgirpur"
     ],
     "correctAnswer": "B",
-    "explanation": "Daimabad on the Pravara river (a tributary of Godavari) in Ahmednagar, Maharashtra marks the southernmost extension."
+    "explanation": "Daimabad on the Pravara river (a tributary of Godavari) in Ahmednagar, Maharashtra marks the southernmost extension.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "निम्नलिखित में से कौन सा स्थल सिंधु घाटी सभ्यता की दक्षिणी सीमा को निर्धारित करता है?",
+    "options_hi": [
+      "सुत्कागेंडोर",
+      "दैमाबाद",
+      "मांडा",
+      "आलमगीरपुर"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Daimabad on the Pravara river (a tributary of Godavari) in Ahmednagar, Maharashtra marks the southernmost extension."
   },
   {
     "id": 4,
@@ -53,7 +80,16 @@
       "1931"
     ],
     "correctAnswer": "C",
-    "explanation": "Daya Ram Sahni carried out the primary excavations at Harappa in 1921 under the direction of Sir John Marshall."
+    "explanation": "Daya Ram Sahni carried out the primary excavations at Harappa in 1921 under the direction of Sir John Marshall.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "रायबहादुर दयाराम साहनी ने हड़प्पा के टीलों का सर्वप्रथम उत्खनन किस वर्ष किया था?",
+    "options_hi": [
+      "1922",
+      "1954",
+      "1921",
+      "1931"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Daya Ram Sahni carried out the primary excavations at Harappa in 1921 under the direction of Sir John Marshall."
   },
   {
     "id": 5,
@@ -67,7 +103,16 @@
       "Bangles of Black Colour"
     ],
     "correctAnswer": "D",
-    "explanation": "In local Rajasthani dialect, 'Kali' translates to black and 'Bangan' refers to bangles, named after the profuse black terracotta bangles found at the site."
+    "explanation": "In local Rajasthani dialect, 'Kali' translates to black and 'Bangan' refers to bangles, named after the profuse black terracotta bangles found at the site.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "'कालीबंगा' शब्द का स्थानीय भाषा में शाब्दिक अर्थ क्या है?",
+    "options_hi": [
+      "मृतकों का टीला",
+      "किलायुक्त अन्नागार",
+      "सिंध का नखलिस्तान",
+      "काले रंग की चूड़ियां"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - In local Rajasthani dialect, 'Kali' translates to black and 'Bangan' refers to bangles, named after the profuse black terracotta bangles found at the site."
   },
   {
     "id": 6,
@@ -81,7 +126,16 @@
       "Lion"
     ],
     "correctAnswer": "D",
-    "explanation": "While the tiger, elephant, rhinoceros, and humped bull are profusely depicted on Harappan seals and terracotta, the lion was unknown."
+    "explanation": "While the tiger, elephant, rhinoceros, and humped bull are profusely depicted on Harappan seals and terracotta, the lion was unknown.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "सिंधु घाटी सभ्यता के लोगों को निम्नलिखित में से किस पशु का ज्ञान नहीं था?",
+    "options_hi": [
+      "कूबड़ वाला सांड",
+      "गैंडा",
+      "हाथी",
+      "शेर (सिंह)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - While the tiger, elephant, rhinoceros, and humped bull are profusely depicted on Harappan seals and terracotta, the lion was unknown."
   },
   {
     "id": 7,
@@ -95,7 +149,16 @@
       "Dholavira"
     ],
     "correctAnswer": "D",
-    "explanation": "Unlike other Harappan towns that have two divisions (Citadel and Lower Town), Dholavira in Kutchh (Gujarat) was divided into three distinct fortified sectors."
+    "explanation": "Unlike other Harappan towns that have two divisions (Citadel and Lower Town), Dholavira in Kutchh (Gujarat) was divided into three distinct fortified sectors.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "किस हड़प्पा कालीन नगर को दो के बजाय तीन भागों (दुर्ग, मध्य नगर और निचला नगर) में विभाजित किया गया था?",
+    "options_hi": [
+      "मोहनजोदड़ो",
+      "बनावली",
+      "लोथल",
+      "धोलावीरा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Unlike other Harappan towns that have two divisions (Citadel and Lower Town), Dholavira in Kutchh (Gujarat) was divided into three distinct fortified sectors."
   },
   {
     "id": 8,
@@ -109,7 +172,16 @@
       "1,080"
     ],
     "correctAnswer": "B",
-    "explanation": "The Rig Veda Samhita contains 1,028 hymns (1,017 in the Shakala Shakha + 11 supplemental Valakhilya hymns) arranged across 10 Mandalas."
+    "explanation": "The Rig Veda Samhita contains 1,028 hymns (1,017 in the Shakala Shakha + 11 supplemental Valakhilya hymns) arranged across 10 Mandalas.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "ऋग्वेद संहिता में कुल कितने सूक्त (Hymns) संकलित हैं?",
+    "options_hi": [
+      "1,200",
+      "1,028",
+      "1,549",
+      "1,080"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Rig Veda Samhita contains 1,028 hymns (1,017 in the Shakala Shakha + 11 supplemental Valakhilya hymns) arranged across 10 Mandalas."
   },
   {
     "id": 9,
@@ -123,7 +195,16 @@
       "Adhvaryu"
     ],
     "correctAnswer": "A",
-    "explanation": "The Hotri was the invoker-priest who recited verses from the Rig Veda. Udgatri sang Sama Veda chants, Adhvaryu performed manual rites with Yajur Veda, and Brahma oversaw the ritual."
+    "explanation": "The Hotri was the invoker-priest who recited verses from the Rig Veda. Udgatri sang Sama Veda chants, Adhvaryu performed manual rites with Yajur Veda, and Brahma oversaw the ritual.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "यज्ञ के समय ऋग्वेद के मंत्रों का पाठ व आह्वान करने वाले पुरोहित को क्या कहा जाता था?",
+    "options_hi": [
+      "होतृ (Hotri)",
+      "ब्रह्मा (Brahma)",
+      "उद्गातृ (Udgatri)",
+      "अध्वर्यु (Adhvaryu)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Hotri was the invoker-priest who recited verses from the Rig Veda. Udgatri sang Sama Veda chants, Adhvaryu performed manual rites with Yajur Veda, and Brahma oversaw the ritual."
   },
   {
     "id": 10,
@@ -137,7 +218,16 @@
       "Iron"
     ],
     "correctAnswer": "D",
-    "explanation": "The Harappan civilization was purely a Bronze Age culture. Iron metallurgy was introduced in India centuries later (~1000 BC) during the Later Vedic era."
+    "explanation": "The Harappan civilization was purely a Bronze Age culture. Iron metallurgy was introduced in India centuries later (~1000 BC) during the Later Vedic era.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "सिंधु घाटी सभ्यता में किस धातु का पूर्णतः अभाव था?",
+    "options_hi": [
+      "कांसा",
+      "सोना",
+      "तांबा",
+      "लोहा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The Harappan civilization was purely a Bronze Age culture. Iron metallurgy was introduced in India centuries later (~1000 BC) during the Later Vedic era."
   },
   {
     "id": 11,
@@ -151,7 +241,16 @@
       "Lothal"
     ],
     "correctAnswer": "D",
-    "explanation": "Lothal in Gujarat had a 214 x 36 metre basin lined with burnt bricks, identified as the world's earliest known tidal dockyard."
+    "explanation": "Lothal in Gujarat had a 214 x 36 metre basin lined with burnt bricks, identified as the world's earliest known tidal dockyard.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "किस हड़प्पा कालीन बंदरगाह नगर में पकी ईंटों से निर्मित एक विशाल जहाजी गोदी (Dockyard) प्राप्त हुई है?",
+    "options_hi": [
+      "Allahdino",
+      "Balakot",
+      "Kuntasi",
+      "लोथल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Lothal in Gujarat had a 214 x 36 metre basin lined with burnt bricks, identified as the world's earliest known tidal dockyard."
   },
   {
     "id": 12,
@@ -165,7 +264,16 @@
       "Yajur Veda"
     ],
     "correctAnswer": "A",
-    "explanation": "The Sama Veda ('Book of Melodies') contains chants set to musical notation and is regarded as the primary root of Indian music."
+    "explanation": "The Sama Veda ('Book of Melodies') contains chants set to musical notation and is regarded as the primary root of Indian music.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "भारतीय शास्त्रीय संगीत, सुरों और रागों का मूल स्रोत किस प्राचीन वेद को माना जाता है?",
+    "options_hi": [
+      "सामवेद",
+      "अथर्ववेद",
+      "ऋग्वेद",
+      "यजुर्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Sama Veda ('Book of Melodies') contains chants set to musical notation and is regarded as the primary root of Indian music."
   },
   {
     "id": 13,
@@ -179,7 +287,16 @@
       "Rig Veda, Yajur Veda, Atharva Veda"
     ],
     "correctAnswer": "A",
-    "explanation": "'Vedatrayi' (the sacred triad) comprises Rig, Sama, and Yajur Vedas. Atharva Veda was considered canonical at a later date."
+    "explanation": "'Vedatrayi' (the sacred triad) comprises Rig, Sama, and Yajur Vedas. Atharva Veda was considered canonical at a later date.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "वैदिक परंपरा में 'वेदत्रयी' के अंतर्गत किन तीन वेदों का समूह आता है?",
+    "options_hi": [
+      "ऋग्वेद, सामवेद, यजुर्वेद",
+      "ऋग्वेद, सामवेद, अथर्ववेद",
+      "सामवेद, यजुर्वेद, अथर्ववेद",
+      "ऋग्वेद, यजुर्वेद, अथर्ववेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - 'Vedatrayi' (the sacred triad) comprises Rig, Sama, and Yajur Vedas. Atharva Veda was considered canonical at a later date."
   },
   {
     "id": 14,
@@ -193,7 +310,16 @@
       "Steatite"
     ],
     "correctAnswer": "D",
-    "explanation": "Over 90% of Harappan stamp seals were manufactured from steatite (soapstone), which was easily carved and hardened by heating."
+    "explanation": "Over 90% of Harappan stamp seals were manufactured from steatite (soapstone), which was easily carved and hardened by heating.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "अधिकांश हड़प्पाई मुहरों के निर्माण में मुख्य रूप से किस कोमल पत्थर का प्रयोग किया जाता था?",
+    "options_hi": [
+      "लाजवर्द (Lapis Lazuli)",
+      "बलुआ पत्थर",
+      "पकी मिट्टी (टेराकोटा)",
+      "सेलखड़ी (Steatite)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Over 90% of Harappan stamp seals were manufactured from steatite (soapstone), which was easily carved and hardened by heating."
   },
   {
     "id": 15,
@@ -207,7 +333,16 @@
       "Bahawalpur"
     ],
     "correctAnswer": "C",
-    "explanation": "Mohenjodaro is located on the west bank of the Indus River in Larkana district of Sindh province, Pakistan."
+    "explanation": "Mohenjodaro is located on the west bank of the Indus River in Larkana district of Sindh province, Pakistan.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "मोहनजोदड़ो का प्राचीन स्थल वर्तमान में पाकिस्तान के किस जिले में स्थित है?",
+    "options_hi": [
+      "Sahiwal",
+      "Nawabshah",
+      "Larkana",
+      "Bahawalpur"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Mohenjodaro is located on the west bank of the Indus River in Larkana district of Sindh province, Pakistan."
   },
   {
     "id": 16,
@@ -221,7 +356,16 @@
       "Surkotada"
     ],
     "correctAnswer": "B",
-    "explanation": "A terracotta model of a horse was excavated at Lothal, whereas actual fossilized bone fragments of a horse were excavated at Surkotada."
+    "explanation": "A terracotta model of a horse was excavated at Lothal, whereas actual fossilized bone fragments of a horse were excavated at Surkotada.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "निम्नलिखित में से किस हड़प्पाई स्थल से घोड़े की मिट्टी की मूर्ति (टेराकोटा मूर्ति) प्राप्त हुई है?",
+    "options_hi": [
+      "बनावली",
+      "लोथल",
+      "कालीबंगा",
+      "सुरकोटड़ा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - A terracotta model of a horse was excavated at Lothal, whereas actual fossilized bone fragments of a horse were excavated at Surkotada."
   },
   {
     "id": 17,
@@ -235,7 +379,16 @@
       "Mohenjodaro"
     ],
     "correctAnswer": "D",
-    "explanation": "Both the lost-wax cast bronze 'Dancing Girl' and the carved steatite 'Bearded Priest-King' were recovered from Mohenjodaro."
+    "explanation": "Both the lost-wax cast bronze 'Dancing Girl' and the carved steatite 'Bearded Priest-King' were recovered from Mohenjodaro.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "कांसे की प्रसिद्ध 'नर्तकी की मूर्ति' और सेलखड़ी की 'दाढ़ी वाले पुजारी/राजा' की मूर्ति कहाँ से प्राप्त हुई हैं?",
+    "options_hi": [
+      "हड़प्पा",
+      "धोलावीरा",
+      "चन्हुदड़ो",
+      "मोहनजोदड़ो"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Both the lost-wax cast bronze 'Dancing Girl' and the carved steatite 'Bearded Priest-King' were recovered from Mohenjodaro."
   },
   {
     "id": 18,
@@ -249,7 +402,16 @@
       "Lothal"
     ],
     "correctAnswer": "A",
-    "explanation": "Chanhudaro in Sindh, situated 130 km south of Mohenjodaro, was exclusively an industrial and craft settlement with no fortified citadel."
+    "explanation": "Chanhudaro in Sindh, situated 130 km south of Mohenjodaro, was exclusively an industrial and craft settlement with no fortified citadel.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "निम्नलिखित में से कौन सा सिंधु नगर बिना किसी दुर्ग या गढ़ी (Citadel) के था?",
+    "options_hi": [
+      "चन्हुदड़ो",
+      "कालीबंगा",
+      "बनावली",
+      "लोथल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Chanhudaro in Sindh, situated 130 km south of Mohenjodaro, was exclusively an industrial and craft settlement with no fortified citadel."
   },
   {
     "id": 19,
@@ -263,7 +425,16 @@
       "Khetri (Rajasthan)"
     ],
     "correctAnswer": "A",
-    "explanation": "Lapis Lazuli was imported from the mines of Badakhshan in northeastern Afghanistan, where the Harappan trading colony of Shortugai was established."
+    "explanation": "Lapis Lazuli was imported from the mines of Badakhshan in northeastern Afghanistan, where the Harappan trading colony of Shortugai was established.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "हड़प्पावासी उच्च कोटि का लाजवर्द (Lapis Lazuli) मुख्य रूप से कहाँ से आयात करते थे?",
+    "options_hi": [
+      "बदख्शां (अफगानिस्तान)",
+      "Kolar (Karnataka)",
+      "शहर-ए-सोख्ता (ईरान)",
+      "Khetri (Rajasthan)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Lapis Lazuli was imported from the mines of Badakhshan in northeastern Afghanistan, where the Harappan trading colony of Shortugai was established."
   },
   {
     "id": 20,
@@ -277,7 +448,16 @@
       "Dilmun"
     ],
     "correctAnswer": "B",
-    "explanation": "Sumerian and Akkadian texts refer to the Harappan region as 'Meluhha', while 'Dilmun' was Bahrain and 'Makan' was Oman/Makran coast."
+    "explanation": "Sumerian and Akkadian texts refer to the Harappan region as 'Meluhha', while 'Dilmun' was Bahrain and 'Makan' was Oman/Makran coast.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "मेसोपोटामिया (सुमेरिया) के सारगोन अभिलेखों में सिंधु क्षेत्र के लिए किस शब्द का उल्लेख मिलता है?",
+    "options_hi": [
+      "माकन (Makan)",
+      "मेलुहा (Meluhha)",
+      "Aratta",
+      "दिल्मुन (Dilmun)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Sumerian and Akkadian texts refer to the Harappan region as 'Meluhha', while 'Dilmun' was Bahrain and 'Makan' was Oman/Makran coast."
   },
   {
     "id": 21,
@@ -291,7 +471,16 @@
       "Harappa"
     ],
     "correctAnswer": "C",
-    "explanation": "Kalibangan yielded a pre-Harappan ploughed field showing two sets of furrows intersecting at right angles for dual cropping (mustard and gram)."
+    "explanation": "Kalibangan yielded a pre-Harappan ploughed field showing two sets of furrows intersecting at right angles for dual cropping (mustard and gram).",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "भारतीय उपमहाद्वीप में जूते हुए खेत के प्राचीनतम साक्ष्य किस स्थल से प्राप्त हुए हैं?",
+    "options_hi": [
+      "रंगपुर",
+      "बनावली",
+      "कालीबंगा",
+      "हड़प्पा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Kalibangan yielded a pre-Harappan ploughed field showing two sets of furrows intersecting at right angles for dual cropping (mustard and gram)."
   },
   {
     "id": 22,
@@ -305,7 +494,16 @@
       "Mandalas 8 to 10"
     ],
     "correctAnswer": "B",
-    "explanation": "Mandalas 2 to 7 are the earliest core of the Rig Veda, composed by distinct seer families (Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vashistha)."
+    "explanation": "Mandalas 2 to 7 are the earliest core of the Rig Veda, composed by distinct seer families (Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vashistha).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "ऋग्वेद के कौन से मण्डल सबसे प्राचीन माने जाते हैं और जिन्हें 'गोत्र या वंश मण्डल' कहा जाता है?",
+    "options_hi": [
+      "मण्डल 3 से 8",
+      "मण्डल 2 से 7",
+      "मण्डल 1 से 5",
+      "मण्डल 8 से 10"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Mandalas 2 to 7 are the earliest core of the Rig Veda, composed by distinct seer families (Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vashistha)."
   },
   {
     "id": 23,
@@ -319,7 +517,16 @@
       "10th Mandala"
     ],
     "correctAnswer": "D",
-    "explanation": "Hymn 90 of the 10th Mandala (a later addition) contains the Purusha Sukta, the earliest literary mention of the four Varnas."
+    "explanation": "Hymn 90 of the 10th Mandala (a later addition) contains the Purusha Sukta, the earliest literary mention of the four Varnas.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "चार वर्णों की उत्पत्ति का उल्लेख करने वाला प्रसिद्ध 'पुरुष सूक्त' ऋग्वेद के किस मण्डल में स्थित है?",
+    "options_hi": [
+      "सातवां मण्डल",
+      "पहला मण्डल",
+      "नौवां मण्डल",
+      "10वां मण्डल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Hymn 90 of the 10th Mandala (a later addition) contains the Purusha Sukta, the earliest literary mention of the four Varnas."
   },
   {
     "id": 24,
@@ -333,7 +540,16 @@
       "Rig Veda"
     ],
     "correctAnswer": "B",
-    "explanation": "Yajur Veda is divided into Krishna Yajurveda (un-separated sacrificial prose and verse) and Shukla Yajurveda (hymns only)."
+    "explanation": "Yajur Veda is divided into Krishna Yajurveda (un-separated sacrificial prose and verse) and Shukla Yajurveda (hymns only).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "कौन सा वेद गद्य और पद्य दोनों रूपों में संकलित है?",
+    "options_hi": [
+      "सामवेद",
+      "यजुर्वेद",
+      "अथर्ववेद",
+      "ऋग्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Yajur Veda is divided into Krishna Yajurveda (un-separated sacrificial prose and verse) and Shukla Yajurveda (hymns only)."
   },
   {
     "id": 25,
@@ -347,7 +563,16 @@
       "Banawali"
     ],
     "correctAnswer": "D",
-    "explanation": "Banawali in Haryana exhibited radial or organic street alignment and lacked the characteristic Harappan underground covered drainage."
+    "explanation": "Banawali in Haryana exhibited radial or organic street alignment and lacked the characteristic Harappan underground covered drainage.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "हड़प्पा सभ्यता का कौन सा प्रमुख नगर ग्रिड प्रणाली (जाल पद्धति) और सुव्यवस्थित जल निकासी प्रणाली से वंचित था?",
+    "options_hi": [
+      "धोलावीरा",
+      "राखीगढ़ी",
+      "मोहनजोदड़ो",
+      "बनावली"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Banawali in Haryana exhibited radial or organic street alignment and lacked the characteristic Harappan underground covered drainage."
   },
   {
     "id": 26,
@@ -361,7 +586,16 @@
       "Sutkagendor"
     ],
     "correctAnswer": "B",
-    "explanation": "Dholavira engineered up to 16 giant rock-cut reservoirs to collect runoff from the seasonal Mansar and Manhar rivulets."
+    "explanation": "Dholavira engineered up to 16 giant rock-cut reservoirs to collect runoff from the seasonal Mansar and Manhar rivulets.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "चट्टानों को काटकर बनाए गए विशाल जलाशयों और उन्नत वर्षा जल संचयन प्रणाली के साक्ष्य कहाँ से मिले हैं?",
+    "options_hi": [
+      "लोथल",
+      "धोलावीरा",
+      "राखीगढ़ी",
+      "सुत्कागेंडोर"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Dholavira engineered up to 16 giant rock-cut reservoirs to collect runoff from the seasonal Mansar and Manhar rivulets."
   },
   {
     "id": 27,
@@ -375,7 +609,16 @@
       "Kalibangan"
     ],
     "correctAnswer": "A",
-    "explanation": "Rakhigarhi in Hisar district, Haryana, spanning over 350 hectares, is the largest Harappan site in India."
+    "explanation": "Rakhigarhi in Hisar district, Haryana, spanning over 350 hectares, is the largest Harappan site in India.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "वर्तमान भारत की भौगोलिक सीमा में स्थित सबसे बड़ा हड़प्पाई स्थल कौन सा है?",
+    "options_hi": [
+      "राखीगढ़ी",
+      "बनावली",
+      "धोलावीरा",
+      "कालीबंगा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Rakhigarhi in Hisar district, Haryana, spanning over 350 hectares, is the largest Harappan site in India."
   },
   {
     "id": 28,
@@ -389,7 +632,16 @@
       "Mohenjodaro"
     ],
     "correctAnswer": "C",
-    "explanation": "Chanhudaro yielded a wet mud brick that had been stepped on by a dog chasing a cat before being fired in a kiln."
+    "explanation": "Chanhudaro yielded a wet mud brick that had been stepped on by a dog chasing a cat before being fired in a kiln.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "किस शिल्प केंद्र से एक ऐसी ईंट मिली है जिस पर बिल्ली का पीछा करते हुए कुत्ते के पंजों के निशान हैं?",
+    "options_hi": [
+      "हड़प्पा",
+      "कालीबंगा",
+      "चन्हुदड़ो",
+      "मोहनजोदड़ो"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Chanhudaro yielded a wet mud brick that had been stepped on by a dog chasing a cat before being fired in a kiln."
   },
   {
     "id": 29,
@@ -403,7 +655,16 @@
       "Atharva Veda"
     ],
     "correctAnswer": "A",
-    "explanation": "The Shatapatha Brahmana ('Brahmana of a Hundred Paths') belongs to Shukla (White) Yajur Veda and details the legend of the Deluge and Videha Madhava."
+    "explanation": "The Shatapatha Brahmana ('Brahmana of a Hundred Paths') belongs to Shukla (White) Yajur Veda and details the legend of the Deluge and Videha Madhava.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "सभी ब्राह्मण ग्रंथों में सबसे विशाल और ऐतिहासिक दृष्टि से सर्वाधिक महत्वपूर्ण 'शतपथ ब्राह्मण' किस वेद का है?",
+    "options_hi": [
+      "यजुर्वेद",
+      "सामवेद",
+      "ऋग्वेद",
+      "अथर्ववेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Shatapatha Brahmana ('Brahmana of a Hundred Paths') belongs to Shukla (White) Yajur Veda and details the legend of the Deluge and Videha Madhava."
   },
   {
     "id": 30,
@@ -417,7 +678,16 @@
       "The Indus Valley"
     ],
     "correctAnswer": "D",
-    "explanation": "Harappans were the earliest known cultivators of cotton globally. The Greeks called cotton 'Sindon', derived from 'Sindhu' (Indus)."
+    "explanation": "Harappans were the earliest known cultivators of cotton globally. The Greeks called cotton 'Sindon', derived from 'Sindhu' (Indus).",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "यूनानियों ने कपास को 'सिन्डन' (Sindon) कहा, क्योंकि विश्व में कपास की सर्वप्रथम खेती किसने की थी?",
+    "options_hi": [
+      "The Tigris-Euphrates Valley",
+      "The Yellow River Valley",
+      "The Nile Valley",
+      "The Indus Valley"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Harappans were the earliest known cultivators of cotton globally. The Greeks called cotton 'Sindon', derived from 'Sindhu' (Indus)."
   },
   {
     "id": 31,
@@ -431,7 +701,16 @@
       "Surkotada"
     ],
     "correctAnswer": "C",
-    "explanation": "Lothal's cemetery contained three graves where two individuals were buried together, interpreted by early excavators as joint burials."
+    "explanation": "Lothal's cemetery contained three graves where two individuals were buried together, interpreted by early excavators as joint burials.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "स्त्री और पुरुष को एक साथ एक ही कब्र में दफनाने (युग्म शवाधान) के साक्ष्य कहाँ से मिले हैं?",
+    "options_hi": [
+      "सुत्कागेंडोर",
+      "Balakot",
+      "लोथल",
+      "सुरकोटड़ा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Lothal's cemetery contained three graves where two individuals were buried together, interpreted by early excavators as joint burials."
   },
   {
     "id": 32,
@@ -445,7 +724,16 @@
       "Dilmun and Oman"
     ],
     "correctAnswer": "D",
-    "explanation": "The circular steatite Persian Gulf seal found at Lothal confirms regular sea trade passing through Dilmun (Bahrain) and Oman."
+    "explanation": "The circular steatite Persian Gulf seal found at Lothal confirms regular sea trade passing through Dilmun (Bahrain) and Oman.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "लोथल से प्राप्त फारस की खाड़ी की गोल बटन-नुमा मुहर किस बात का प्रत्यक्ष प्रमाण है?",
+    "options_hi": [
+      "Troy",
+      "Egypt",
+      "Crete and Mycenae",
+      "दिल्मुन (Dilmun)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The circular steatite Persian Gulf seal found at Lothal confirms regular sea trade passing through Dilmun (Bahrain) and Oman."
   },
   {
     "id": 33,
@@ -459,7 +747,16 @@
       "Philosophical songs"
     ],
     "correctAnswer": "B",
-    "explanation": "'Aranya' means forest. Aranyakas are 'forest treatises' composed for hermits and students living in forest retreats."
+    "explanation": "'Aranya' means forest. Aranyakas are 'forest treatises' composed for hermits and students living in forest retreats.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "'आरण्यक' शब्द का शाब्दिक अर्थ क्या होता है?",
+    "options_hi": [
+      "Grammatical appendices",
+      "Forest texts",
+      "Sacrificial manuals",
+      "Philosophical songs"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - 'Aranya' means forest. Aranyakas are 'forest treatises' composed for hermits and students living in forest retreats."
   },
   {
     "id": 34,
@@ -473,7 +770,16 @@
       "Banawali"
     ],
     "correctAnswer": "B",
-    "explanation": "At Lothal, a painted jar shows a bird perched on a tree holding a fish with a fox-like animal standing below."
+    "explanation": "At Lothal, a painted jar shows a bird perched on a tree holding a fish with a fox-like animal standing below.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "पंचतंत्र की 'चालाक लोमड़ी और प्यासे कौवे' की कथा जैसा चित्रण किस स्थल के मृदभांड (जार) पर मिलता है?",
+    "options_hi": [
+      "मोहनजोदड़ो",
+      "लोथल",
+      "हड़प्पा",
+      "बनावली"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - At Lothal, a painted jar shows a bird perched on a tree holding a fish with a fox-like animal standing below."
   },
   {
     "id": 35,
@@ -487,7 +793,16 @@
       "64"
     ],
     "correctAnswer": "C",
-    "explanation": "The Muktika Upanishad canonical list acknowledges 108 Upanishads, of which 10 to 12 are considered Principal (Mukhya) Upanishads."
+    "explanation": "The Muktika Upanishad canonical list acknowledges 108 Upanishads, of which 10 to 12 are considered Principal (Mukhya) Upanishads.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "मुक्ति उपनिषद के अनुसार उपनिषदों की कुल प्रामाणिक संख्या कितनी मानी गई है?",
+    "options_hi": [
+      "18",
+      "12",
+      "108",
+      "64"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Muktika Upanishad canonical list acknowledges 108 Upanishads, of which 10 to 12 are considered Principal (Mukhya) Upanishads."
   },
   {
     "id": 36,
@@ -501,7 +816,16 @@
       "Indra, Mitra, Varuna, and Nasatya"
     ],
     "correctAnswer": "D",
-    "explanation": "The Boghazkoi clay tablets (~1380 BC) record a treaty between Hittite King Suppiluliuma and Mitanni King Mattiwaza invoking In-da-ra, Mi-it-ra, U-ru-w-na, and Na-sa-at-ti-ya."
+    "explanation": "The Boghazkoi clay tablets (~1380 BC) record a treaty between Hittite King Suppiluliuma and Mitanni King Mattiwaza invoking In-da-ra, Mi-it-ra, U-ru-w-na, and Na-sa-at-ti-ya.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "एशिया माइनर (तुर्की) के 14वीं शताब्दी ईसा पूर्व के बोगजकोई अभिलेख में किन चार वैदिक देवताओं का उल्लेख है?",
+    "options_hi": [
+      "Varuna, Agni, Yama, and Marut",
+      "Agni, Surya, Soma, and Vayu",
+      "Rudra, Vishnu, Prajapati, and Pushan",
+      "इन्द्र, मित्र, वरुण और नासत्य"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The Boghazkoi clay tablets (~1380 BC) record a treaty between Hittite King Suppiluliuma and Mitanni King Mattiwaza invoking In-da-ra, Mi-it-ra, U-ru-w-na, and Na-sa-at-ti-ya."
   },
   {
     "id": 37,
@@ -515,7 +839,16 @@
       "Alternate lines flowing right-to-left then left-to-right"
     ],
     "correctAnswer": "D",
-    "explanation": "Boustrophedon (ox-turning) describes writing alternate lines in opposite directions—starting right-to-left, then reversing left-to-right."
+    "explanation": "Boustrophedon (ox-turning) describes writing alternate lines in opposite directions—starting right-to-left, then reversing left-to-right.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "हड़प्पाई लिपि के लिखने की दिशा 'बाउस्ट्रोफेडन' (Boustrophedon) थी, इसका क्या तात्पर्य है?",
+    "options_hi": [
+      "Top to bottom exclusively",
+      "Radially outward from the center of seals",
+      "Strictly left to right with cursive vowels",
+      "Alternate lines flowing right-to-left then left-to-right"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Boustrophedon (ox-turning) describes writing alternate lines in opposite directions—starting right-to-left, then reversing left-to-right."
   },
   {
     "id": 38,
@@ -529,7 +862,16 @@
       "Elephant, Tiger, Rhinoceros, and Buffalo"
     ],
     "correctAnswer": "D",
-    "explanation": "The yogic figure is flanked by an elephant and a tiger on his right, and a rhinoceros and water buffalo on his left, with two antelopes/deer under the seat."
+    "explanation": "The yogic figure is flanked by an elephant and a tiger on his right, and a rhinoceros and water buffalo on his left, with two antelopes/deer under the seat.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "मोहनजोदड़ो से प्राप्त प्रसिद्ध 'पशुपति शिव' की मुहर पर पद्मासन मुद्रा में बैठे देवता के चारों ओर कौन से चार पशु हैं?",
+    "options_hi": [
+      "शेर (सिंह)",
+      "Leopard, Wild Boar, Humped Ox, and Antelope",
+      "Tiger, Gaur, Nilgai, and Blackbuck",
+      "हाथी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The yogic figure is flanked by an elephant and a tiger on his right, and a rhinoceros and water buffalo on his left, with two antelopes/deer under the seat."
   },
   {
     "id": 39,
@@ -543,7 +885,16 @@
       "Kalpa"
     ],
     "correctAnswer": "C",
-    "explanation": "Nirukta, authored by Yaska, is the Vedanga focusing on etymology and the semantic explanation of obscure Vedic vocabulary."
+    "explanation": "Nirukta, authored by Yaska, is the Vedanga focusing on etymology and the semantic explanation of obscure Vedic vocabulary.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "वेदों के कठिन और अप्रचलित शब्दों के अर्थ व व्युत्पत्ति का विवेचन करने वाला वेदांग कौन सा है?",
+    "options_hi": [
+      "शिक्षा (ध्वनिविज्ञान)",
+      "छंद (काव्य माप)",
+      "निरुक्त (व्युत्पत्तिशास्त्र)",
+      "कल्प (कर्मकांड)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Nirukta, authored by Yaska, is the Vedanga focusing on etymology and the semantic explanation of obscure Vedic vocabulary."
   },
   {
     "id": 40,
@@ -557,7 +908,16 @@
       "Shrauta Sutras"
     ],
     "correctAnswer": "C",
-    "explanation": "The Shulva Sutras (authored by Baudhayana, Apastamba, etc.) laid down geometric rules for laying out Vedic altars and contain early geometric theorems."
+    "explanation": "The Shulva Sutras (authored by Baudhayana, Apastamba, etc.) laid down geometric rules for laying out Vedic altars and contain early geometric theorems.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "कल्प सूत्र का कौन सा भाग यज्ञीय वेदियों के निर्माण और ज्यामितीय मापों से संबंधित है?",
+    "options_hi": [
+      "गृह्य सूत्र",
+      "धर्म सूत्र",
+      "शुल्व सूत्र (वेदी ज्यामिति)",
+      "श्रौत सूत्र"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Shulva Sutras (authored by Baudhayana, Apastamba, etc.) laid down geometric rules for laying out Vedic altars and contain early geometric theorems."
   },
   {
     "id": 41,
@@ -571,7 +931,16 @@
       "Kuntasi and Desalpur"
     ],
     "correctAnswer": "A",
-    "explanation": "Shortugai on the Oxus River and Mundigak in southern Afghanistan served as Harappan trading settlements for procuring lapis lazuli, tin, and camel transport."
+    "explanation": "Shortugai on the Oxus River and Mundigak in southern Afghanistan served as Harappan trading settlements for procuring lapis lazuli, tin, and camel transport.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "अफगानिस्तान में स्थापित दो प्रमुख हड़प्पाई व्यापारिक चौकियां कौन सी थीं?",
+    "options_hi": [
+      "Shortugai and Mundigak",
+      "Balakot and Sutkagendor",
+      "Amri and Kot Diji",
+      "Kuntasi and Desalpur"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Shortugai on the Oxus River and Mundigak in southern Afghanistan served as Harappan trading settlements for procuring lapis lazuli, tin, and camel transport."
   },
   {
     "id": 42,
@@ -585,7 +954,16 @@
       "Panini"
     ],
     "correctAnswer": "D",
-    "explanation": "Panini authored the Ashtadhyayi (~5th–4th century BC), formulating nearly 4,000 algorithmic sutras that standardized Classical Sanskrit."
+    "explanation": "Panini authored the Ashtadhyayi (~5th–4th century BC), formulating nearly 4,000 algorithmic sutras that standardized Classical Sanskrit.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "संस्कृत व्याकरण का प्रथम मानक ग्रंथ 'अष्टाध्यायी' किसके द्वारा रचित है?",
+    "options_hi": [
+      "यास्क",
+      "पिंगल",
+      "Lagadha Muni",
+      "पाणिनि"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Panini authored the Ashtadhyayi (~5th–4th century BC), formulating nearly 4,000 algorithmic sutras that standardized Classical Sanskrit."
   },
   {
     "id": 43,
@@ -599,7 +977,16 @@
       "Gopatha Brahmana"
     ],
     "correctAnswer": "D",
-    "explanation": "Unlike the other Vedas which have multiple surviving Brahmanas, the Atharva Veda has only one: the Gopatha Brahmana."
+    "explanation": "Unlike the other Vedas which have multiple surviving Brahmanas, the Atharva Veda has only one: the Gopatha Brahmana.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "अथर्ववेद से संबंधित एकमात्र उपलब्ध ब्राह्मण ग्रंथ कौन सा है?",
+    "options_hi": [
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Unlike the other Vedas which have multiple surviving Brahmanas, the Atharva Veda has only one: the Gopatha Brahmana."
   },
   {
     "id": 44,
@@ -613,7 +1000,16 @@
       "7th Mandala"
     ],
     "correctAnswer": "A",
-    "explanation": "The Gayatri Mantra (Rig Veda 3.62.10) was composed by sage Vishvamitra in the 3rd Mandala."
+    "explanation": "The Gayatri Mantra (Rig Veda 3.62.10) was composed by sage Vishvamitra in the 3rd Mandala.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "सूर्य देवता सविता को समर्पित प्रसिद्ध 'गायत्री मंत्र' ऋग्वेद के किस मण्डल में है?",
+    "options_hi": [
+      "तीसरा मण्डल",
+      "पहला मण्डल",
+      "नौवां मण्डल",
+      "सातवां मण्डल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Gayatri Mantra (Rig Veda 3.62.10) was composed by sage Vishvamitra in the 3rd Mandala."
   },
   {
     "id": 45,
@@ -627,7 +1023,16 @@
       "Mohenjodaro"
     ],
     "correctAnswer": "A",
-    "explanation": "The famous 10-symbol 'Dholavira Signboard' was found dropped in a chamber near the northern gateway of Dholavira's citadel."
+    "explanation": "The famous 10-symbol 'Dholavira Signboard' was found dropped in a chamber near the northern gateway of Dholavira's citadel.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "धोलावीरा के उत्तरी प्रवेश द्वार से सफेद जिप्सम से बने 10 बड़े अक्षरों वाला कौन सा साक्ष्य मिला है?",
+    "options_hi": [
+      "धोलावीरा",
+      "कालीबंगा",
+      "हड़प्पा",
+      "मोहनजोदड़ो"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The famous 10-symbol 'Dholavira Signboard' was found dropped in a chamber near the northern gateway of Dholavira's citadel."
   },
   {
     "id": 46,
@@ -641,7 +1046,16 @@
       "Varuna (Cosmic Order)"
     ],
     "correctAnswer": "B",
-    "explanation": "All 114 suktas of the 9th Mandala praise Soma Pavamana (the consecrated sacred plant juice and the moon)."
+    "explanation": "All 114 suktas of the 9th Mandala praise Soma Pavamana (the consecrated sacred plant juice and the moon).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "ऋग्वेद का सम्पूर्ण 9वां मण्डल (114 सूक्त) किस देवता को समर्पित है?",
+    "options_hi": [
+      "Agni (Fire)",
+      "Soma Pavamana",
+      "Indra (Thunder)",
+      "Varuna (Cosmic Order)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - All 114 suktas of the 9th Mandala praise Soma Pavamana (the consecrated sacred plant juice and the moon)."
   },
   {
     "id": 47,
@@ -655,7 +1069,16 @@
       "Varahamihira"
     ],
     "correctAnswer": "A",
-    "explanation": "Vedanga Jyotisha was authored by sage Lagadha (~1200–1000 BC) to calculate the precise calendar times for sacrificial rites."
+    "explanation": "Vedanga Jyotisha was authored by sage Lagadha (~1200–1000 BC) to calculate the precise calendar times for sacrificial rites.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "वैदिक काल के खगोल विज्ञान का प्राचीनतम ग्रंथ 'वेदांग ज्योतिष' किसकी रचना माना जाता है?",
+    "options_hi": [
+      "Lagadha Muni",
+      "ब्रह्मा (Brahma)",
+      "Aryabhata",
+      "Varahamihira"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Vedanga Jyotisha was authored by sage Lagadha (~1200–1000 BC) to calculate the precise calendar times for sacrificial rites."
   },
   {
     "id": 48,
@@ -669,7 +1092,16 @@
       "2 : 3 : 5"
     ],
     "correctAnswer": "A",
-    "explanation": "Harappan masonry followed a strict dimensional ratio of 1 (thickness) : 2 (width) : 4 (length), e.g., 7 cm x 14 cm x 28 cm."
+    "explanation": "Harappan masonry followed a strict dimensional ratio of 1 (thickness) : 2 (width) : 4 (length), e.g., 7 cm x 14 cm x 28 cm.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "परिपक्व हड़प्पा काल की पकी ईंटों की लंबाई, चौड़ाई और मोटाई का मानक अनुपात क्या था?",
+    "options_hi": [
+      "1 : 2 : 4",
+      "1 : 3 : 6",
+      "1 : 2 : 3",
+      "2 : 3 : 5"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Harappan masonry followed a strict dimensional ratio of 1 (thickness) : 2 (width) : 4 (length), e.g., 7 cm x 14 cm x 28 cm."
   },
   {
     "id": 49,
@@ -683,7 +1115,16 @@
       "N.G. Mazumdar"
     ],
     "correctAnswer": "A",
-    "explanation": "Sir Mortimer Wheeler excavated Harappa in 1946, confirming Cemetery R-37 as Mature Harappan and Cemetery H as Late/Post-Harappan."
+    "explanation": "Sir Mortimer Wheeler excavated Harappa in 1946, confirming Cemetery R-37 as Mature Harappan and Cemetery H as Late/Post-Harappan.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "हड़प्पा के कब्रिस्तानों को 'कब्रिस्तान R-37' और 'कब्रिस्तान H' के रूप में किसने वर्गीकृत किया था?",
+    "options_hi": [
+      "सर मोर्टिमर व्हीलर",
+      "एस. आर. राव",
+      "जे. पी. जोशी",
+      "N.G. Mazumdar"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Sir Mortimer Wheeler excavated Harappa in 1946, confirming Cemetery R-37 as Mature Harappan and Cemetery H as Late/Post-Harappan."
   },
   {
     "id": 50,
@@ -697,7 +1138,16 @@
       "Katha Upanishad"
     ],
     "correctAnswer": "C",
-    "explanation": "This celebrated Vedic non-dualist declaration is in Rig Veda (Mandala 1, Hymn 164, verse 46)."
+    "explanation": "This celebrated Vedic non-dualist declaration is in Rig Veda (Mandala 1, Hymn 164, verse 46).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "'एकं सद्विप्रा बहुधा वदन्ति' (सत्य एक है, विद्वान उसे विभिन्न नामों से पुकारते हैं) सूक्ति किस वेद की है?",
+    "options_hi": [
+      "अथर्ववेद",
+      "मुण्डक उपनिषद",
+      "ऋग्वेद",
+      "कठ उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - This celebrated Vedic non-dualist declaration is in Rig Veda (Mandala 1, Hymn 164, verse 46)."
   },
   {
     "id": 51,
@@ -711,7 +1161,16 @@
       "3500 BC – 2500 BC"
     ],
     "correctAnswer": "B",
-    "explanation": "Based on radiocarbon (C-14) calibration by D.P. Agrawal and standard historical consensus, mature Harappan culture flourished between 2500 BC and 1750 BC."
+    "explanation": "Based on radiocarbon (C-14) calibration by D.P. Agrawal and standard historical consensus, mature Harappan culture flourished between 2500 BC and 1750 BC.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #51] What is the most widely accepted carbon-14 chronological timeframe for the mature Indus Valley Civilization?",
+    "options_hi": [
+      "600 BC – 300 BC",
+      "2500 BC – 1750 BC",
+      "1500 BC – 600 BC",
+      "3500 BC – 2500 BC"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Based on radiocarbon (C-14) calibration by D.P. Agrawal and standard historical consensus, mature Harappan culture flourished between 2500 BC and 1750 BC."
   },
   {
     "id": 52,
@@ -725,7 +1184,16 @@
       "Rakhal Das Bannerji"
     ],
     "correctAnswer": "D",
-    "explanation": "R.D. Bannerji discovered the ancient ruins of Mohenjodaro in 1922 while investigating a Buddhist stupa on the mound."
+    "explanation": "R.D. Bannerji discovered the ancient ruins of Mohenjodaro in 1922 while investigating a Buddhist stupa on the mound.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #52] Who excavated the major urban site of Mohenjodaro in 1922?",
+    "options_hi": [
+      "N.G. Majumdar",
+      "Rai Bahadur Daya Ram Sahni",
+      "Sir Aurel Stein",
+      "राखाल दास बनर्जी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - R.D. Bannerji discovered the ancient ruins of Mohenjodaro in 1922 while investigating a Buddhist stupa on the mound."
   },
   {
     "id": 53,
@@ -739,7 +1207,16 @@
       "Ravi"
     ],
     "correctAnswer": "D",
-    "explanation": "Harappa is situated on the left bank of the Ravi river in Sahiwal district of West Punjab, Pakistan."
+    "explanation": "Harappa is situated on the left bank of the Ravi river in Sahiwal district of West Punjab, Pakistan.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #53] The historic site of Harappa was located along the bank of which river?",
+    "options_hi": [
+      "झेलम",
+      "चिनाब",
+      "सिंधु",
+      "रावी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Harappa is situated on the left bank of the Ravi river in Sahiwal district of West Punjab, Pakistan."
   },
   {
     "id": 54,
@@ -753,7 +1230,16 @@
       "Amalanand Ghosh"
     ],
     "correctAnswer": "A",
-    "explanation": "Dr. S.R. Rao conducted excavations at Lothal between 1954 and 1962, uncovering its dockyard and warehouse complex."
+    "explanation": "Dr. S.R. Rao conducted excavations at Lothal between 1954 and 1962, uncovering its dockyard and warehouse complex.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #54] The port settlement of Lothal in Gujarat was excavated under the direction of:",
+    "options_hi": [
+      "एस. आर. राव",
+      "जे. पी. जोशी",
+      "आर. एस. बिष्ट",
+      "अमलानंद घोष"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Dr. S.R. Rao conducted excavations at Lothal between 1954 and 1962, uncovering its dockyard and warehouse complex."
   },
   {
     "id": 55,
@@ -767,7 +1253,16 @@
       "Ropar"
     ],
     "correctAnswer": "A",
-    "explanation": "Manda on the right bank of the Chenab in Akhnoor, Jammu represents the northern frontier of the main Harappan extent."
+    "explanation": "Manda on the right bank of the Chenab in Akhnoor, Jammu represents the northern frontier of the main Harappan extent.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #55] Which Harappan site on the Chenab river in Jammu and Kashmir marks the northernmost limit of the civilization?",
+    "options_hi": [
+      "मांडा",
+      "शोर्टुगई",
+      "कोटदीजी",
+      "Ropar"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Manda on the right bank of the Chenab in Akhnoor, Jammu represents the northern frontier of the main Harappan extent."
   },
   {
     "id": 56,
@@ -781,7 +1276,16 @@
       "Hastinapur"
     ],
     "correctAnswer": "B",
-    "explanation": "Alamgirpur in Meerut district, UP, along the Hindon river marks the easternmost known boundary of the Harappan culture."
+    "explanation": "Alamgirpur in Meerut district, UP, along the Hindon river marks the easternmost known boundary of the Harappan culture.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #56] Which site on the Hindon river in Uttar Pradesh marks the easternmost boundary of the Indus civilization?",
+    "options_hi": [
+      "Kausambi",
+      "आलमगीरपुर",
+      "Ahichchhatra",
+      "Hastinapur"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Alamgirpur in Meerut district, UP, along the Hindon river marks the easternmost known boundary of the Harappan culture."
   },
   {
     "id": 57,
@@ -795,7 +1299,16 @@
       "Balakot"
     ],
     "correctAnswer": "A",
-    "explanation": "Sutkagendor on the Makran coast in Baluchistan marks the westernmost frontier of the Indus civilization."
+    "explanation": "Sutkagendor on the Makran coast in Baluchistan marks the westernmost frontier of the Indus civilization.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #57] Which coastal site on the Dasht river near the Iran border represents the westernmost outpost of the Harappan civilization?",
+    "options_hi": [
+      "सुत्कागेंडोर",
+      "Allahdino",
+      "Sotka-Koh",
+      "Balakot"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Sutkagendor on the Makran coast in Baluchistan marks the westernmost frontier of the Indus civilization."
   },
   {
     "id": 58,
@@ -809,7 +1322,16 @@
       "The College of Priests"
     ],
     "correctAnswer": "A",
-    "explanation": "The Great Granary at Mohenjodaro (measuring 45.71 m x 15.23 m) was the single largest architectural structure excavated at the site."
+    "explanation": "The Great Granary at Mohenjodaro (measuring 45.71 m x 15.23 m) was the single largest architectural structure excavated at the site.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #58] Which colossal building at Mohenjodaro was considered the largest architectural structure of the city?",
+    "options_hi": [
+      "विशाल अन्नागार",
+      "विशाल स्नानागार",
+      "सभा भवन",
+      "The College of Priests"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Great Granary at Mohenjodaro (measuring 45.71 m x 15.23 m) was the single largest architectural structure excavated at the site."
   },
   {
     "id": 59,
@@ -823,7 +1345,16 @@
       "Mohenjodaro"
     ],
     "correctAnswer": "D",
-    "explanation": "The Great Bath was excavated on the citadel mound of Mohenjodaro, featuring steps leading down into the tank and surrounded by porticoes and rooms."
+    "explanation": "The Great Bath was excavated on the citadel mound of Mohenjodaro, featuring steps leading down into the tank and surrounded by porticoes and rooms.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #59] The Great Bath, an elaborate public water tank made watertight with bitumen and gypsum mortar, was located at:",
+    "options_hi": [
+      "हड़प्पा",
+      "कालीबंगा",
+      "लोथल",
+      "मोहनजोदड़ो"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The Great Bath was excavated on the citadel mound of Mohenjodaro, featuring steps leading down into the tank and surrounded by porticoes and rooms."
   },
   {
     "id": 60,
@@ -837,7 +1368,16 @@
       "Banawali"
     ],
     "correctAnswer": "B",
-    "explanation": "Harappa featured a group of six granaries arranged in two rows of six each (12 total units) on a raised revetment near the Ravi river."
+    "explanation": "Harappa featured a group of six granaries arranged in two rows of six each (12 total units) on a raised revetment near the Ravi river.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #60] A symmetrical complex of six granaries arranged in a double row of two rows was unearthed at:",
+    "options_hi": [
+      "मोहनजोदड़ो",
+      "हड़प्पा",
+      "कालीबंगा",
+      "बनावली"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Harappa featured a group of six granaries arranged in two rows of six each (12 total units) on a raised revetment near the Ravi river."
   },
   {
     "id": 61,
@@ -851,7 +1391,16 @@
       "R.S. Bisht"
     ],
     "correctAnswer": "B",
-    "explanation": "Amalanand Ghosh first explored and identified Kalibangan in 1951; extensive systematic excavations were later conducted by B.B. Lal and B.K. Thapar in the 1960s."
+    "explanation": "Amalanand Ghosh first explored and identified Kalibangan in 1951; extensive systematic excavations were later conducted by B.B. Lal and B.K. Thapar in the 1960s.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #61] Who discovered and carried out the pioneering excavation of Kalibangan in 1951?",
+    "options_hi": [
+      "B.B. Lal",
+      "अमलानंद घोष",
+      "B.K. Thapar",
+      "आर. एस. बिष्ट"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Amalanand Ghosh first explored and identified Kalibangan in 1951; extensive systematic excavations were later conducted by B.B. Lal and B.K. Thapar in the 1960s."
   },
   {
     "id": 62,
@@ -865,7 +1414,16 @@
       "J.P. Joshi"
     ],
     "correctAnswer": "C",
-    "explanation": "Dr. R.S. Bisht of the Archaeological Survey of India directed the excavation of Banawali in 1973–74."
+    "explanation": "Dr. R.S. Bisht of the Archaeological Survey of India directed the excavation of Banawali in 1973–74.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #62] The Harappan site of Banawali in Fatehabad district, Haryana was excavated in 1973 under the leadership of:",
+    "options_hi": [
+      "Y.D. Sharma",
+      "एस. आर. राव",
+      "आर. एस. बिष्ट",
+      "जे. पी. जोशी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Dr. R.S. Bisht of the Archaeological Survey of India directed the excavation of Banawali in 1973–74."
   },
   {
     "id": 63,
@@ -879,7 +1437,16 @@
       "George Dales"
     ],
     "correctAnswer": "A",
-    "explanation": "J.P. Joshi first discovered Dholavira in 1967–68; extensive excavations were subsequently carried out by R.S. Bisht from 1990 onwards."
+    "explanation": "J.P. Joshi first discovered Dholavira in 1967–68; extensive excavations were subsequently carried out by R.S. Bisht from 1990 onwards.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #63] Who discovered the sprawling site of Dholavira in the Rann of Kutchh in 1967–68?",
+    "options_hi": [
+      "जे. पी. जोशी",
+      "आर. एस. बिष्ट",
+      "D.K. Chakrabarti",
+      "George Dales"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - J.P. Joshi first discovered Dholavira in 1967–68; extensive excavations were subsequently carried out by R.S. Bisht from 1990 onwards."
   },
   {
     "id": 64,
@@ -893,7 +1460,16 @@
       "Banawali"
     ],
     "correctAnswer": "D",
-    "explanation": "A complete terracotta toy plough was unearthed at Banawali, proving the use of the plough in Harappan farming."
+    "explanation": "A complete terracotta toy plough was unearthed at Banawali, proving the use of the plough in Harappan farming.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #64] At which Harappan site was a realistic clay toy model of an agricultural plough recovered?",
+    "options_hi": [
+      "कालीबंगा",
+      "हड़प्पा",
+      "लोथल",
+      "बनावली"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - A complete terracotta toy plough was unearthed at Banawali, proving the use of the plough in Harappan farming."
   },
   {
     "id": 65,
@@ -907,7 +1483,16 @@
       "Chanhudaro"
     ],
     "correctAnswer": "A",
-    "explanation": "Kalibangan revealed seven rectangular fire altars built in a row containing charcoal, ash, and terracotta cakes, indicating ritual fire ceremonies."
+    "explanation": "Kalibangan revealed seven rectangular fire altars built in a row containing charcoal, ash, and terracotta cakes, indicating ritual fire ceremonies.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #65] A row of seven contiguous clay fire altars (Havan Kundas) was excavated on the citadel platform of:",
+    "options_hi": [
+      "कालीबंगा",
+      "मोहनजोदड़ो",
+      "बनावली",
+      "चन्हुदड़ो"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Kalibangan revealed seven rectangular fire altars built in a row containing charcoal, ash, and terracotta cakes, indicating ritual fire ceremonies."
   },
   {
     "id": 66,
@@ -921,7 +1506,16 @@
       "Singhbhum in Bihar"
     ],
     "correctAnswer": "B",
-    "explanation": "The Khetri copper belt in the Aravalli range of Rajasthan was the chief supplier of copper ingots and ore to Indus cities."
+    "explanation": "The Khetri copper belt in the Aravalli range of Rajasthan was the chief supplier of copper ingots and ore to Indus cities.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #66] The Harappans obtained the majority of their raw copper supplies from the ancient mines of:",
+    "options_hi": [
+      "Hazaribagh in Jharkhand",
+      "राजस्थान की खेतड़ी खदानें",
+      "कर्नाटक की कोलार खदानें",
+      "Singhbhum in Bihar"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Khetri copper belt in the Aravalli range of Rajasthan was the chief supplier of copper ingots and ore to Indus cities."
   },
   {
     "id": 67,
@@ -935,7 +1529,16 @@
       "Kolar mines in South India and Afghanistan"
     ],
     "correctAnswer": "D",
-    "explanation": "Native gold was obtained from the Kolar goldfields in Karnataka and washed alluvial gravels in the rivers of Afghanistan and Central Asia."
+    "explanation": "Native gold was obtained from the Kolar goldfields in Karnataka and washed alluvial gravels in the rivers of Afghanistan and Central Asia.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #67] Gold used in Harappan jewelry was primarily sourced from:",
+    "options_hi": [
+      "Oman",
+      "Khetri mines in Rajasthan",
+      "Baluchistan",
+      "Kolar mines in South India and Afghanistan"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Native gold was obtained from the Kolar goldfields in Karnataka and washed alluvial gravels in the rivers of Afghanistan and Central Asia."
   },
   {
     "id": 68,
@@ -949,7 +1552,16 @@
       "Hormuz"
     ],
     "correctAnswer": "B",
-    "explanation": "Cuneiform tablets identify Dilmun as modern Bahrain, which functioned as the crucial midway mart between Mesopotamia and Meluhha."
+    "explanation": "Cuneiform tablets identify Dilmun as modern Bahrain, which functioned as the crucial midway mart between Mesopotamia and Meluhha.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #68] Which island in the Persian Gulf was identified as 'Dilmun' in Mesopotamian trade records?",
+    "options_hi": [
+      "Kish",
+      "बहरीन",
+      "Socotra",
+      "Hormuz"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Cuneiform tablets identify Dilmun as modern Bahrain, which functioned as the crucial midway mart between Mesopotamia and Meluhha."
   },
   {
     "id": 69,
@@ -963,7 +1575,16 @@
       "Dholavira"
     ],
     "correctAnswer": "C",
-    "explanation": "Surkotada in Kutchh revealed oval graves covered by stone cairns containing post-cremation pot burials."
+    "explanation": "Surkotada in Kutchh revealed oval graves covered by stone cairns containing post-cremation pot burials.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #69] Which Indus site provided distinctive archaeological evidence of 'pot burials' and an oval-shaped grave?",
+    "options_hi": [
+      "चन्हुदड़ो",
+      "मोहनजोदड़ो",
+      "सुरकोटड़ा",
+      "धोलावीरा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Surkotada in Kutchh revealed oval graves covered by stone cairns containing post-cremation pot burials."
   },
   {
     "id": 70,
@@ -977,7 +1598,16 @@
       "Lothal"
     ],
     "correctAnswer": "A",
-    "explanation": "Daimabad in Maharashtra yielded a remarkable cache of heavy solid cast bronze sculptures, including a charioteer with two oxen, an elephant, a rhino, and a buffalo."
+    "explanation": "Daimabad in Maharashtra yielded a remarkable cache of heavy solid cast bronze sculptures, including a charioteer with two oxen, an elephant, a rhino, and a buffalo.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #70] A bronze chariot drawn by two oxen and driven by a standing charioteer was discovered at which southern outpost?",
+    "options_hi": [
+      "दैमाबाद",
+      "Bhagatrav",
+      "Kuntasi",
+      "लोथल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Daimabad in Maharashtra yielded a remarkable cache of heavy solid cast bronze sculptures, including a charioteer with two oxen, an elephant, a rhino, and a buffalo."
   },
   {
     "id": 71,
@@ -991,7 +1621,16 @@
       "20"
     ],
     "correctAnswer": "C",
-    "explanation": "The Harappan metrological system followed a binary progression (1, 2, 4, 8, 16, 32, 64) for lower weights, where 16 was the fundamental traditional unit."
+    "explanation": "The Harappan metrological system followed a binary progression (1, 2, 4, 8, 16, 32, 64) for lower weights, where 16 was the fundamental traditional unit.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #71] What unit formed the primary base for Harappan fractional weights and measures?",
+    "options_hi": [
+      "24",
+      "12",
+      "16",
+      "20"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Harappan metrological system followed a binary progression (1, 2, 4, 8, 16, 32, 64) for lower weights, where 16 was the fundamental traditional unit."
   },
   {
     "id": 72,
@@ -1005,7 +1644,16 @@
       "Mango (Mangifera indica)"
     ],
     "correctAnswer": "A",
-    "explanation": "The pipal tree with its heart-shaped leaves is depicted repeatedly on seals, including a famous seal showing a horned deity standing in a pipal tree."
+    "explanation": "The pipal tree with its heart-shaped leaves is depicted repeatedly on seals, including a famous seal showing a horned deity standing in a pipal tree.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #72] Which sacred tree was most prominently depicted on Harappan seals and worshipped as an abode of divinity?",
+    "options_hi": [
+      "Peepal (Ficus religiosa)",
+      "Banyan (Ficus benghalensis)",
+      "Neem (Azadirachta indica)",
+      "Mango (Mangifera indica)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The pipal tree with its heart-shaped leaves is depicted repeatedly on seals, including a famous seal showing a horned deity standing in a pipal tree."
   },
   {
     "id": 73,
@@ -1019,7 +1667,16 @@
       "Composite chimera"
     ],
     "correctAnswer": "C",
-    "explanation": "The one-horned mythical creature (often called the 'unicorn') is the single most common animal motif on Harappan stamp seals."
+    "explanation": "The one-horned mythical creature (often called the 'unicorn') is the single most common animal motif on Harappan stamp seals.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #73] Which mythological or composite creature appears most frequently across Harappan stamp seals?",
+    "options_hi": [
+      "Short-horned bull",
+      "Humped bull",
+      "एकश्रृंगी पशु (Unicorn)",
+      "Composite chimera"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The one-horned mythical creature (often called the 'unicorn') is the single most common animal motif on Harappan stamp seals."
   },
   {
     "id": 74,
@@ -1033,7 +1690,16 @@
       "Banawali and Kalibangan"
     ],
     "correctAnswer": "A",
-    "explanation": "Charred rice husks and grain impressions embedded in pottery were identified at Lothal and Rangpur in Gujarat."
+    "explanation": "Charred rice husks and grain impressions embedded in pottery were identified at Lothal and Rangpur in Gujarat.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #74] At which two Harappan sites was empirical evidence of rice cultivation (rice husk/imprints) documented?",
+    "options_hi": [
+      "Lothal and Rangpur",
+      "Dholavira and Surkotada",
+      "Harappa and Mohenjodaro",
+      "Banawali and Kalibangan"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Charred rice husks and grain impressions embedded in pottery were identified at Lothal and Rangpur in Gujarat."
   },
   {
     "id": 75,
@@ -1047,7 +1713,16 @@
       "Manda"
     ],
     "correctAnswer": "B",
-    "explanation": "Chanhudaro had specialized workshops with bead-drilling equipment, metal-smelting furnaces, and shell-cutting tools."
+    "explanation": "Chanhudaro had specialized workshops with bead-drilling equipment, metal-smelting furnaces, and shell-cutting tools.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #75] Which industrial settlement was renowned for manufacturing steatite and carnelian beads, shell bangles, and metal objects?",
+    "options_hi": [
+      "राखीगढ़ी",
+      "चन्हुदड़ो",
+      "आलमगीरपुर",
+      "मांडा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Chanhudaro had specialized workshops with bead-drilling equipment, metal-smelting furnaces, and shell-cutting tools."
   },
   {
     "id": 76,
@@ -1061,7 +1736,16 @@
       "25%"
     ],
     "correctAnswer": "A",
-    "explanation": "Mohenjodaro yielded 1,398 seals, which accounts for approximately 56% of all inscribed seals found across all Harappan sites."
+    "explanation": "Mohenjodaro yielded 1,398 seals, which accounts for approximately 56% of all inscribed seals found across all Harappan sites.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #76] What percentage of the total recovered seals of the Indus Valley Civilization was found at Mohenjodaro alone?",
+    "options_hi": [
+      "56%",
+      "75%",
+      "40%",
+      "25%"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Mohenjodaro yielded 1,398 seals, which accounts for approximately 56% of all inscribed seals found across all Harappan sites."
   },
   {
     "id": 77,
@@ -1075,7 +1759,16 @@
       "Kalibangan"
     ],
     "correctAnswer": "A",
-    "explanation": "Unlike Mohenjodaro and Harappa where doors opened into quiet side lanes to avoid dust and noise, houses at Lothal opened directly onto the main thoroughfare."
+    "explanation": "Unlike Mohenjodaro and Harappa where doors opened into quiet side lanes to avoid dust and noise, houses at Lothal opened directly onto the main thoroughfare.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #77] At which Harappan town did the main entrance doorways of private residences open directly onto the wide main street rather than into narrow side lanes?",
+    "options_hi": [
+      "लोथल",
+      "हड़प्पा",
+      "मोहनजोदड़ो",
+      "कालीबंगा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Unlike Mohenjodaro and Harappa where doors opened into quiet side lanes to avoid dust and noise, houses at Lothal opened directly onto the main thoroughfare."
   },
   {
     "id": 78,
@@ -1089,7 +1782,16 @@
       "The Swastika"
     ],
     "correctAnswer": "D",
-    "explanation": "Multiple steatite seals and terracotta tokens from Mohenjodaro and Harappa bear geometrically precise clock-wise and counter-clockwise Swastika symbols."
+    "explanation": "Multiple steatite seals and terracotta tokens from Mohenjodaro and Harappa bear geometrically precise clock-wise and counter-clockwise Swastika symbols.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #78] The historic origins of which universal sacred symbol have been traced by archaeologists to Indus seal motifs?",
+    "options_hi": [
+      "The Triratna",
+      "The Crescent",
+      "The Dharmachakra",
+      "स्वास्तिक का चिन्ह"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Multiple steatite seals and terracotta tokens from Mohenjodaro and Harappa bear geometrically precise clock-wise and counter-clockwise Swastika symbols."
   },
   {
     "id": 79,
@@ -1103,7 +1805,16 @@
       "Walter Fairservis"
     ],
     "correctAnswer": "B",
-    "explanation": "Sir Mortimer Wheeler famously claimed that 'Indra stands accused', citing Rigvedic mentions of 'Purandara' (destroyer of forts) and skeletons at Mohenjodaro."
+    "explanation": "Sir Mortimer Wheeler famously claimed that 'Indra stands accused', citing Rigvedic mentions of 'Purandara' (destroyer of forts) and skeletons at Mohenjodaro.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #79] Which archaeologist proposed the theory that an Aryan invasion under the god Indra caused the collapse of Harappan cities?",
+    "options_hi": [
+      "Robert Raikes",
+      "सर मोर्टिमर व्हीलर",
+      "सर जॉन मार्शल",
+      "Walter Fairservis"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Sir Mortimer Wheeler famously claimed that 'Indra stands accused', citing Rigvedic mentions of 'Purandara' (destroyer of forts) and skeletons at Mohenjodaro."
   },
   {
     "id": 80,
@@ -1117,7 +1828,16 @@
       "Walter Fairservis"
     ],
     "correctAnswer": "D",
-    "explanation": "Walter Fairservis computed the carrying capacity of the Indus soil and concluded that growing populations and overgrazing exhausted the fragile ecology."
+    "explanation": "Walter Fairservis computed the carrying capacity of the Indus soil and concluded that growing populations and overgrazing exhausted the fragile ecology.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #80] Who advanced the ecological theory attributing the decline of Harappan culture to over-exploitation of delicate riverine environments and deforestation?",
+    "options_hi": [
+      "दयाराम साहनी",
+      "H.T. Lambrick",
+      "G.F. Dales",
+      "Walter Fairservis"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Walter Fairservis computed the carrying capacity of the Indus soil and concluded that growing populations and overgrazing exhausted the fragile ecology."
   },
   {
     "id": 81,
@@ -1131,7 +1851,16 @@
       "100 to 150"
     ],
     "correctAnswer": "B",
-    "explanation": "Scholars like Iravatham Mahadevan and Asko Parpola have identified between 375 and 400 distinct graphemes/signs in the Harappan corpus."
+    "explanation": "Scholars like Iravatham Mahadevan and Asko Parpola have identified between 375 and 400 distinct graphemes/signs in the Harappan corpus.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #81] Approximately how many distinct pictographic and ideographic symbols have been cataloged in the undeciphered Indus script?",
+    "options_hi": [
+      "1,200 to 1,500",
+      "375 to 400",
+      "700 to 800",
+      "100 to 150"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Scholars like Iravatham Mahadevan and Asko Parpola have identified between 375 and 400 distinct graphemes/signs in the Harappan corpus."
   },
   {
     "id": 82,
@@ -1145,7 +1874,16 @@
       "Fish symbol"
     ],
     "correctAnswer": "D",
-    "explanation": "The stylized fish symbol (interpreted by Dravidian hypothesis researchers as 'meen') is the most common pictogram."
+    "explanation": "The stylized fish symbol (interpreted by Dravidian hypothesis researchers as 'meen') is the most common pictogram.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #82] Which pictogram is observed to be the single most frequently occurring symbol across Indus seal inscriptions?",
+    "options_hi": [
+      "Human stick figure",
+      "Bird in flight",
+      "Jar/Pot sign",
+      "मछली का चिन्ह (Fish sign)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The stylized fish symbol (interpreted by Dravidian hypothesis researchers as 'meen') is the most common pictogram."
   },
   {
     "id": 83,
@@ -1159,7 +1897,16 @@
       "Kharosthi Script"
     ],
     "correctAnswer": "B",
-    "explanation": "While the Harappan script is the oldest overall, the oldest successfully deciphered script is Brahmi (deciphered by James Prinsep in 1837)."
+    "explanation": "While the Harappan script is the oldest overall, the oldest successfully deciphered script is Brahmi (deciphered by James Prinsep in 1837).",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #83] What is the oldest DECIPHERED indigenous script discovered within the Indian subcontinent?",
+    "options_hi": [
+      "Aramaic Script",
+      "Brahmi Script",
+      "Harappan Script",
+      "Kharosthi Script"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - While the Harappan script is the oldest overall, the oldest successfully deciphered script is Brahmi (deciphered by James Prinsep in 1837)."
   },
   {
     "id": 84,
@@ -1173,7 +1920,16 @@
       "Head to the North, feet to the South"
     ],
     "correctAnswer": "D",
-    "explanation": "Standard Harappan inhumations placed the corpse in a supine extended posture with the head pointing strictly North and feet to the South."
+    "explanation": "Standard Harappan inhumations placed the corpse in a supine extended posture with the head pointing strictly North and feet to the South.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #84] What was the normal cardinal orientation of the human deceased in standard mature Harappan extended burials?",
+    "options_hi": [
+      "Head to the West, feet to the East",
+      "Head to the East, feet to the West",
+      "Head to the South, feet to the North",
+      "सिर उत्तर की ओर, पैर दक्षिण की ओर"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Standard Harappan inhumations placed the corpse in a supine extended posture with the head pointing strictly North and feet to the South."
   },
   {
     "id": 85,
@@ -1187,7 +1943,16 @@
       "Sindh and Baluchistan"
     ],
     "correctAnswer": "A",
-    "explanation": "Silver was imported from the lead-zinc-silver mines of Afghanistan and Persia, as well as South Indian deposits."
+    "explanation": "Silver was imported from the lead-zinc-silver mines of Afghanistan and Persia, as well as South Indian deposits.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #85] From which region was high-value Silver primarily imported into Harappan cities?",
+    "options_hi": [
+      "Afghanistan, Persia, and South India",
+      "Khetri mines in Rajasthan",
+      "बहरीन",
+      "Sindh and Baluchistan"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Silver was imported from the lead-zinc-silver mines of Afghanistan and Persia, as well as South Indian deposits."
   },
   {
     "id": 86,
@@ -1201,7 +1966,16 @@
       "Dilmun (Bahrain)"
     ],
     "correctAnswer": "B",
-    "explanation": "External steatite supplies came from Shaher-i-Sokhta in southeastern Iran and deposits across the Kirthar mountain range."
+    "explanation": "External steatite supplies came from Shaher-i-Sokhta in southeastern Iran and deposits across the Kirthar mountain range.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #86] Steatite for seals and beads was sourced internally from Rajasthan and externally from:",
+    "options_hi": [
+      "बदख्शां (अफगानिस्तान)",
+      "शहर-ए-सोख्ता (ईरान)",
+      "Kolar (Karnataka)",
+      "दिल्मुन (Dilmun)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - External steatite supplies came from Shaher-i-Sokhta in southeastern Iran and deposits across the Kirthar mountain range."
   },
   {
     "id": 87,
@@ -1215,7 +1989,16 @@
       "Harappa and Rakhigarhi"
     ],
     "correctAnswer": "B",
-    "explanation": "Balakot on the Sonmiani Bay and Lothal in the Gulf of Khambhat were premier workshops for turning marine shells into bangles, ladles, and inlays."
+    "explanation": "Balakot on the Sonmiani Bay and Lothal in the Gulf of Khambhat were premier workshops for turning marine shells into bangles, ladles, and inlays.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #87] Which two coastal Harappan settlements were specialized centers for gathering chank conch-shells and manufacturing shell objects?",
+    "options_hi": [
+      "Alamgirpur and Manda",
+      "Balakot and Lothal",
+      "Kalibangan and Banawali",
+      "Harappa and Rakhigarhi"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Balakot on the Sonmiani Bay and Lothal in the Gulf of Khambhat were premier workshops for turning marine shells into bangles, ladles, and inlays."
   },
   {
     "id": 88,
@@ -1229,7 +2012,16 @@
       "Surkotada"
     ],
     "correctAnswer": "B",
-    "explanation": "Mound F at Harappa yielded personal grooming artifacts including a bronze vanity box, copper mirror, hair pins, and bronze-smelting crucibles."
+    "explanation": "Mound F at Harappa yielded personal grooming artifacts including a bronze vanity box, copper mirror, hair pins, and bronze-smelting crucibles.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #88] A miniature ivory vanity box, copper mirror, and a bronze crucible for melting metal were excavated at:",
+    "options_hi": [
+      "चन्हुदड़ो",
+      "हड़प्पा",
+      "मोहनजोदड़ो",
+      "सुरकोटड़ा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Mound F at Harappa yielded personal grooming artifacts including a bronze vanity box, copper mirror, hair pins, and bronze-smelting crucibles."
   },
   {
     "id": 89,
@@ -1243,7 +2035,16 @@
       "Dholavira"
     ],
     "correctAnswer": "A",
-    "explanation": "Chanhudaro's excavations yielded a small terracotta container identified as an inkpot, as well as cosmetic sticks resembling lipstick."
+    "explanation": "Chanhudaro's excavations yielded a small terracotta container identified as an inkpot, as well as cosmetic sticks resembling lipstick.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #89] A cosmetic container identified as an inkpot and evidence of lipstick or rouge were excavated at:",
+    "options_hi": [
+      "चन्हुदड़ो",
+      "हड़प्पा",
+      "कालीबंगा",
+      "धोलावीरा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Chanhudaro's excavations yielded a small terracotta container identified as an inkpot, as well as cosmetic sticks resembling lipstick."
   },
   {
     "id": 90,
@@ -1257,7 +2058,16 @@
       "Cubic terracotta dice with numbered markings"
     ],
     "correctAnswer": "D",
-    "explanation": "Cubic terracotta dice with 1 to 6 punched circular dots identical to modern dice were found at both Harappa and Mohenjodaro."
+    "explanation": "Cubic terracotta dice with 1 to 6 punched circular dots identical to modern dice were found at both Harappa and Mohenjodaro.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #90] Which of the following recreational objects was discovered at both Harappa and Mohenjodaro?",
+    "options_hi": [
+      "Spinning wooden roulette",
+      "कांसा",
+      "लोहा",
+      "Cubic terracotta dice with numbered markings"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Cubic terracotta dice with 1 to 6 punched circular dots identical to modern dice were found at both Harappa and Mohenjodaro."
   },
   {
     "id": 91,
@@ -1271,7 +2081,16 @@
       "1000 BC – 600 BC"
     ],
     "correctAnswer": "C",
-    "explanation": "The Vedic era is divided into Early Vedic / Rigvedic period (1500 BC – 1000 BC) and Later Vedic period (1000 BC – 600 BC)."
+    "explanation": "The Vedic era is divided into Early Vedic / Rigvedic period (1500 BC – 1000 BC) and Later Vedic period (1000 BC – 600 BC).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #91] What is the historical timeframe assigned to the Early Vedic (Rigvedic) period in ancient India?",
+    "options_hi": [
+      "2500 BC – 1750 BC",
+      "600 BC – 300 BC",
+      "1500 BC – 1000 BC",
+      "1000 BC – 600 BC"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Vedic era is divided into Early Vedic / Rigvedic period (1500 BC – 1000 BC) and Later Vedic period (1000 BC – 600 BC)."
   },
   {
     "id": 92,
@@ -1285,7 +2104,16 @@
       "William Jones"
     ],
     "correctAnswer": "A",
-    "explanation": "Prof. Max Muller in 1853 proposed that the ancestral homeland of Vedic Aryans was the steppe region of Central Asia."
+    "explanation": "Prof. Max Muller in 1853 proposed that the ancestral homeland of Vedic Aryans was the steppe region of Central Asia.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #92] Which German Indologist proposed the widely accepted theory that the original homeland of the Indo-Aryans was Central Asia?",
+    "options_hi": [
+      "मैक्स मूलर",
+      "Vincent Smith",
+      "A.L. Basham",
+      "William Jones"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Prof. Max Muller in 1853 proposed that the ancestral homeland of Vedic Aryans was the steppe region of Central Asia."
   },
   {
     "id": 93,
@@ -1299,7 +2127,16 @@
       "Bal Gangadhar Tilak"
     ],
     "correctAnswer": "D",
-    "explanation": "Lokmanya Bal Gangadhar Tilak wrote 'The Arctic Home in the Vedas' (1903), interpreting Rigvedic descriptions of prolonged dawn as polar phenomena."
+    "explanation": "Lokmanya Bal Gangadhar Tilak wrote 'The Arctic Home in the Vedas' (1903), interpreting Rigvedic descriptions of prolonged dawn as polar phenomena.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #93] Who authored the famous work 'The Arctic Home in the Vedas', arguing that Aryans originated in polar regions?",
+    "options_hi": [
+      "Sri Aurobindo",
+      "स्वामी दयानंद सरस्वती",
+      "Dr. B.R. Ambedkar",
+      "बाल गंगाधर तिलक"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Lokmanya Bal Gangadhar Tilak wrote 'The Arctic Home in the Vedas' (1903), interpreting Rigvedic descriptions of prolonged dawn as polar phenomena."
   },
   {
     "id": 94,
@@ -1313,7 +2150,16 @@
       "Sapta Sindhu"
     ],
     "correctAnswer": "C",
-    "explanation": "In his seminal treatise 'Satyarth Prakash', Swami Dayanand Saraswati contended that the original home of Aryans was Tibet."
+    "explanation": "In his seminal treatise 'Satyarth Prakash', Swami Dayanand Saraswati contended that the original home of Aryans was Tibet.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #94] Swami Dayanand Saraswati, the founder of Arya Samaj, held the view that the original homeland of Aryans was:",
+    "options_hi": [
+      "मध्य एशिया",
+      "Scandinavia",
+      "तिब्बत",
+      "सप्त सैंधव प्रदेश"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - In his seminal treatise 'Satyarth Prakash', Swami Dayanand Saraswati contended that the original home of Aryans was Tibet."
   },
   {
     "id": 95,
@@ -1327,7 +2173,16 @@
       "Aryavarta"
     ],
     "correctAnswer": "B",
-    "explanation": "The early Rigvedic tribes settled in the 'Sapta Sindhu' (land of seven rivers: Indus, Jhelum, Chenab, Ravi, Beas, Sutlej, and Saraswati)."
+    "explanation": "The early Rigvedic tribes settled in the 'Sapta Sindhu' (land of seven rivers: Indus, Jhelum, Chenab, Ravi, Beas, Sutlej, and Saraswati).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #95] What geographical designation was applied by the early Rigvedic Aryans to their core settlement region?",
+    "options_hi": [
+      "ब्रह्मा (Brahma)",
+      "सप्त सैंधव प्रदेश",
+      "Madhyadesha",
+      "Aryavarta"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The early Rigvedic tribes settled in the 'Sapta Sindhu' (land of seven rivers: Indus, Jhelum, Chenab, Ravi, Beas, Sutlej, and Saraswati)."
   },
   {
     "id": 96,
@@ -1341,7 +2196,16 @@
       "Asikni"
     ],
     "correctAnswer": "B",
-    "explanation": "The Jhelum river was known as the 'Vitasta' in Vedic literature and 'Hydaspes' to the Greeks."
+    "explanation": "The Jhelum river was known as the 'Vitasta' in Vedic literature and 'Hydaspes' to the Greeks.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #96] What was the ancient Rigvedic name for the modern Jhelum river?",
+    "options_hi": [
+      "शुतुद्रि (सतलज)",
+      "वितस्ता (झेलम)",
+      "परुष्णी (रावी)",
+      "असिकनी (चिनाब)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Jhelum river was known as the 'Vitasta' in Vedic literature and 'Hydaspes' to the Greeks."
   },
   {
     "id": 97,
@@ -1355,7 +2219,16 @@
       "Parushni"
     ],
     "correctAnswer": "C",
-    "explanation": "The Chenab was referred to as 'Asikni' in the Rig Veda and 'Acesines' by Greek chroniclers."
+    "explanation": "The Chenab was referred to as 'Asikni' in the Rig Veda and 'Acesines' by Greek chroniclers.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #97] What was the ancient Rigvedic name for the modern Chenab river?",
+    "options_hi": [
+      "विपाशा (व्यास)",
+      "सरस्वती",
+      "असिकनी (चिनाब)",
+      "परुष्णी (रावी)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Chenab was referred to as 'Asikni' in the Rig Veda and 'Acesines' by Greek chroniclers."
   },
   {
     "id": 98,
@@ -1369,7 +2242,16 @@
       "Shutudri"
     ],
     "correctAnswer": "C",
-    "explanation": "The Ravi was known as the 'Parushni' (or Iravati), on whose banks the famous Battle of Ten Kings was fought."
+    "explanation": "The Ravi was known as the 'Parushni' (or Iravati), on whose banks the famous Battle of Ten Kings was fought.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #98] What was the ancient Rigvedic name for the modern Ravi river?",
+    "options_hi": [
+      "विपाशा (व्यास)",
+      "वितस्ता (झेलम)",
+      "परुष्णी (रावी)",
+      "शुतुद्रि (सतलज)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Ravi was known as the 'Parushni' (or Iravati), on whose banks the famous Battle of Ten Kings was fought."
   },
   {
     "id": 99,
@@ -1383,7 +2265,16 @@
       "Vipas"
     ],
     "correctAnswer": "C",
-    "explanation": "The Sutlej was designated as 'Shutudri' (or Zaradros in Greek accounts) in Vedic texts."
+    "explanation": "The Sutlej was designated as 'Shutudri' (or Zaradros in Greek accounts) in Vedic texts.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #99] What was the ancient Rigvedic name for the modern Sutlej river?",
+    "options_hi": [
+      "Suvastu",
+      "Kubha",
+      "शुतुद्रि (सतलज)",
+      "विपाशा (व्यास)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Sutlej was designated as 'Shutudri' (or Zaradros in Greek accounts) in Vedic texts."
   },
   {
     "id": 100,
@@ -1397,7 +2288,16 @@
       "Vipas"
     ],
     "correctAnswer": "D",
-    "explanation": "The Beas river was known in Vedic literature as 'Vipas' (or Vipasa) and 'Hyphasis' to the Greeks."
+    "explanation": "The Beas river was known in Vedic literature as 'Vipas' (or Vipasa) and 'Hyphasis' to the Greeks.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #100] What was the ancient Rigvedic name for the modern Beas river?",
+    "options_hi": [
+      "Gomati",
+      "वितस्ता (झेलम)",
+      "Drishadvati",
+      "विपाशा (व्यास)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The Beas river was known in Vedic literature as 'Vipas' (or Vipasa) and 'Hyphasis' to the Greeks."
   },
   {
     "id": 101,
@@ -1411,7 +2311,16 @@
       "Ganga"
     ],
     "correctAnswer": "C",
-    "explanation": "The Saraswati river was revered as the holiest river, called 'Naditama' (best of rivers), 'Devitama' (best of goddesses), and 'Matetama' (best of mothers)."
+    "explanation": "The Saraswati river was revered as the holiest river, called 'Naditama' (best of rivers), 'Devitama' (best of goddesses), and 'Matetama' (best of mothers).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #101] Which river is praised in the Rig Veda as the most sacred with the titles 'Naditama', 'Devitama', and 'Matetama'?",
+    "options_hi": [
+      "यमुना",
+      "Sindhu",
+      "सरस्वती",
+      "गंगा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Saraswati river was revered as the holiest river, called 'Naditama' (best of rivers), 'Devitama' (best of goddesses), and 'Matetama' (best of mothers)."
   },
   {
     "id": 102,
@@ -1425,7 +2334,16 @@
       "Ganga"
     ],
     "correctAnswer": "C",
-    "explanation": "The Sindhu (Indus) is mentioned more times than any other river in the Rig Veda because of its immense economic and geographical centrality."
+    "explanation": "The Sindhu (Indus) is mentioned more times than any other river in the Rig Veda because of its immense economic and geographical centrality.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #102] Which river is mentioned most frequently across the entire corpus of the Rig Veda?",
+    "options_hi": [
+      "परुष्णी (रावी)",
+      "सरस्वती",
+      "Sindhu (Indus)",
+      "गंगा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Sindhu (Indus) is mentioned more times than any other river in the Rig Veda because of its immense economic and geographical centrality."
   },
   {
     "id": 103,
@@ -1439,7 +2357,16 @@
       "Three times"
     ],
     "correctAnswer": "A",
-    "explanation": "The Ganga is mentioned only once in the Rig Veda (in the Nadistuti Sukta of the 10th Mandala), showing that Aryans were concentrated in the northwest."
+    "explanation": "The Ganga is mentioned only once in the Rig Veda (in the Nadistuti Sukta of the 10th Mandala), showing that Aryans were concentrated in the northwest.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #103] How many times is the sacred river Ganga explicitly mentioned in the Rig Veda?",
+    "options_hi": [
+      "केवल एक बार",
+      "Over fifty times",
+      "Ten times",
+      "तीन बार"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Ganga is mentioned only once in the Rig Veda (in the Nadistuti Sukta of the 10th Mandala), showing that Aryans were concentrated in the northwest."
   },
   {
     "id": 104,
@@ -1453,7 +2380,16 @@
       "Ten times"
     ],
     "correctAnswer": "C",
-    "explanation": "The Yamuna is mentioned exactly three times in the Rig Veda."
+    "explanation": "The Yamuna is mentioned exactly three times in the Rig Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #104] How many times is the river Yamuna mentioned in the Rig Veda?",
+    "options_hi": [
+      "Once",
+      "Twenty times",
+      "तीन बार",
+      "Ten times"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Yamuna is mentioned exactly three times in the Rig Veda."
   },
   {
     "id": 105,
@@ -1467,7 +2403,16 @@
       "Kabul river"
     ],
     "correctAnswer": "D",
-    "explanation": "The Rigvedic 'Kubha' corresponds to the modern Kabul river in Afghanistan."
+    "explanation": "The Rigvedic 'Kubha' corresponds to the modern Kabul river in Afghanistan.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #105] The Rig Veda mentions the river 'Kubha'. What is its modern identity?",
+    "options_hi": [
+      "गोमल नदी",
+      "कुर्रम नदी",
+      "स्वाति नदी",
+      "काबुल नदी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The Rigvedic 'Kubha' corresponds to the modern Kabul river in Afghanistan."
   },
   {
     "id": 106,
@@ -1481,7 +2426,16 @@
       "Kurram river"
     ],
     "correctAnswer": "D",
-    "explanation": "'Krumu' is identified with the modern Kurram river flowing through northwestern Pakistan and Afghanistan."
+    "explanation": "'Krumu' is identified with the modern Kurram river flowing through northwestern Pakistan and Afghanistan.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #106] The Rigvedic river 'Krumu' corresponds to which modern waterway?",
+    "options_hi": [
+      "काबुल नदी",
+      "गोमल नदी",
+      "Helmand river",
+      "कुर्रम नदी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - 'Krumu' is identified with the modern Kurram river flowing through northwestern Pakistan and Afghanistan."
   },
   {
     "id": 107,
@@ -1495,7 +2449,16 @@
       "Swat river"
     ],
     "correctAnswer": "C",
-    "explanation": "The western Rigvedic 'Gomati' corresponds to the Gomal river in Baluchistan/Waziristan (distinct from the Awadh Gomti)."
+    "explanation": "The western Rigvedic 'Gomati' corresponds to the Gomal river in Baluchistan/Waziristan (distinct from the Awadh Gomti).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #107] The Rigvedic river 'Gomati' mentioned alongside western tributaries corresponds to the modern:",
+    "options_hi": [
+      "Chitral river",
+      "Zaskar river",
+      "गोमल नदी",
+      "स्वाति नदी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The western Rigvedic 'Gomati' corresponds to the Gomal river in Baluchistan/Waziristan (distinct from the Awadh Gomti)."
   },
   {
     "id": 108,
@@ -1509,7 +2472,16 @@
       "Swat river"
     ],
     "correctAnswer": "D",
-    "explanation": "'Suvastu' translates to 'fair dwelling place' and corresponds to the fertile valley of the Swat river."
+    "explanation": "'Suvastu' translates to 'fair dwelling place' and corresponds to the fertile valley of the Swat river.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #108] The Rigvedic river 'Suvastu' is identified with which modern river in northwestern Pakistan?",
+    "options_hi": [
+      "Gilgit river",
+      "Hunza river",
+      "काबुल नदी",
+      "स्वाति नदी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - 'Suvastu' translates to 'fair dwelling place' and corresponds to the fertile valley of the Swat river."
   },
   {
     "id": 109,
@@ -1523,7 +2495,16 @@
       "Not of human creation (divinely authored/revealed)"
     ],
     "correctAnswer": "D",
-    "explanation": "'Apaurasheya' means 'not composed by Purusha (man)', signifying that the Vedic revelations are eternal and heard from cosmic reality."
+    "explanation": "'Apaurasheya' means 'not composed by Purusha (man)', signifying that the Vedic revelations are eternal and heard from cosmic reality.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #109] Vedic literature is classified as 'Apaurasheya', which means:",
+    "options_hi": [
+      "Composed by warrior poets",
+      "Handed down by oral memory only",
+      "Transcribed on palm leaves",
+      "Not of human creation (divinely authored/revealed)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - 'Apaurasheya' means 'not composed by Purusha (man)', signifying that the Vedic revelations are eternal and heard from cosmic reality."
   },
   {
     "id": 110,
@@ -1537,7 +2518,16 @@
       "That which is remembered"
     ],
     "correctAnswer": "B",
-    "explanation": "'Shruti' comes from the root 'Shru' (to hear), indicating sacred knowledge revealed directly to the ancient Rishis and transmitted by ear."
+    "explanation": "'Shruti' comes from the root 'Shru' (to hear), indicating sacred knowledge revealed directly to the ancient Rishis and transmitted by ear.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #110] The Sanskrit term 'Shruti' applied to the four Vedic Samhitas literally translates to:",
+    "options_hi": [
+      "That which is practiced",
+      "That which is heard",
+      "That which is written",
+      "That which is remembered"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - 'Shruti' comes from the root 'Shru' (to hear), indicating sacred knowledge revealed directly to the ancient Rishis and transmitted by ear."
   },
   {
     "id": 111,
@@ -1551,7 +2541,16 @@
       "Ayurveda"
     ],
     "correctAnswer": "D",
-    "explanation": "Ayurveda (the science of life and medicine) is the Upaveda canonically associated with the Rig Veda (or sometimes Atharva Veda)."
+    "explanation": "Ayurveda (the science of life and medicine) is the Upaveda canonically associated with the Rig Veda (or sometimes Atharva Veda).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #111] Which Upaveda (auxiliary Veda) dealing with holistic medicine is traditionally attached to the Rig Veda?",
+    "options_hi": [
+      "धनुर्वेद",
+      "शिल्पवेद / स्थापत्यवेद",
+      "गन्धर्ववेद",
+      "आयुर्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Ayurveda (the science of life and medicine) is the Upaveda canonically associated with the Rig Veda (or sometimes Atharva Veda)."
   },
   {
     "id": 112,
@@ -1565,7 +2564,16 @@
       "Yajur Veda"
     ],
     "correctAnswer": "C",
-    "explanation": "Gandharvaveda (associated with the mythical divine musicians Gandharvas) is the Upaveda of the musical Sama Veda."
+    "explanation": "Gandharvaveda (associated with the mythical divine musicians Gandharvas) is the Upaveda of the musical Sama Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #112] The 'Gandharvaveda', dealing with vocal music, instrumental arts, and dance, is the Upaveda of:",
+    "options_hi": [
+      "ऋग्वेद",
+      "अथर्ववेद",
+      "सामवेद",
+      "यजुर्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Gandharvaveda (associated with the mythical divine musicians Gandharvas) is the Upaveda of the musical Sama Veda."
   },
   {
     "id": 113,
@@ -1579,7 +2587,16 @@
       "Rig Veda"
     ],
     "correctAnswer": "B",
-    "explanation": "Dhanurveda (science of martial arts and weaponry) is the traditional Upaveda affiliated with the ritualistic Yajur Veda."
+    "explanation": "Dhanurveda (science of martial arts and weaponry) is the traditional Upaveda affiliated with the ritualistic Yajur Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #113] The 'Dhanurveda', treating archery, warfare, and military tactics, is the Upaveda of:",
+    "options_hi": [
+      "अथर्ववेद",
+      "यजुर्वेद",
+      "सामवेद",
+      "ऋग्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Dhanurveda (science of martial arts and weaponry) is the traditional Upaveda affiliated with the ritualistic Yajur Veda."
   },
   {
     "id": 114,
@@ -1593,7 +2610,16 @@
       "Sama Veda"
     ],
     "correctAnswer": "B",
-    "explanation": "Shilpaveda or Sthapatyaveda (architecture, town building, and metallurgy) is associated with the practical Atharva Veda."
+    "explanation": "Shilpaveda or Sthapatyaveda (architecture, town building, and metallurgy) is associated with the practical Atharva Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #114] The 'Shilpaveda' (or Sthapatyaveda), covering architecture and mechanical arts, is the Upaveda of:",
+    "options_hi": [
+      "ऋग्वेद",
+      "अथर्ववेद",
+      "यजुर्वेद",
+      "सामवेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Shilpaveda or Sthapatyaveda (architecture, town building, and metallurgy) is associated with the practical Atharva Veda."
   },
   {
     "id": 115,
@@ -1607,7 +2633,16 @@
       "108 verses"
     ],
     "correctAnswer": "C",
-    "explanation": "Out of 1,549 verses in the Sama Veda, all except 75 verses are drawn directly from the 8th and 9th Mandalas of the Rig Veda."
+    "explanation": "Out of 1,549 verses in the Sama Veda, all except 75 verses are drawn directly from the 8th and 9th Mandalas of the Rig Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #115] How many verses in the Sama Veda are original, with all the remaining verses being derived directly from the Rig Veda?",
+    "options_hi": [
+      "250 verses",
+      "500 verses",
+      "75 verses",
+      "108 verses"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Out of 1,549 verses in the Sama Veda, all except 75 verses are drawn directly from the 8th and 9th Mandalas of the Rig Veda."
   },
   {
     "id": 116,
@@ -1621,7 +2656,16 @@
       "Adhvaryu"
     ],
     "correctAnswer": "B",
-    "explanation": "The Udgatri ('singer priest') specialized in chanting the melodic stanzas (Samans) of the Sama Veda."
+    "explanation": "The Udgatri ('singer priest') specialized in chanting the melodic stanzas (Samans) of the Sama Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #116] Which Vedic priest presided over and chanted the melodic verses of the Sama Veda during rituals?",
+    "options_hi": [
+      "Agnidhra",
+      "उद्गातृ (Udgatri)",
+      "होतृ (Hotri)",
+      "अध्वर्यु (Adhvaryu)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Udgatri ('singer priest') specialized in chanting the melodic stanzas (Samans) of the Sama Veda."
   },
   {
     "id": 117,
@@ -1635,7 +2679,16 @@
       "Udgatri"
     ],
     "correctAnswer": "B",
-    "explanation": "The Adhvaryu measured the sacrificial ground, prepared the altars, slaughtered sacrificial offerings, and whispered Yajur Veda mantras."
+    "explanation": "The Adhvaryu measured the sacrificial ground, prepared the altars, slaughtered sacrificial offerings, and whispered Yajur Veda mantras.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #117] Which Vedic priest performed the manual sacrificial acts and recited the prose mantras of the Yajur Veda?",
+    "options_hi": [
+      "ब्रह्मा (Brahma)",
+      "अध्वर्यु (Adhvaryu)",
+      "होतृ (Hotri)",
+      "उद्गातृ (Udgatri)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Adhvaryu measured the sacrificial ground, prepared the altars, slaughtered sacrificial offerings, and whispered Yajur Veda mantras."
   },
   {
     "id": 118,
@@ -1649,7 +2702,16 @@
       "Hotri"
     ],
     "correctAnswer": "A",
-    "explanation": "The Brahma priest was the presiding supervisor who knew all four Vedas and guarded the sacrifice against ritual blemishes."
+    "explanation": "The Brahma priest was the presiding supervisor who knew all four Vedas and guarded the sacrifice against ritual blemishes.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #118] Which high priest sat silently to supervise the entire sacrificial ritual and silently corrected ritual errors using Atharvavedic mantras?",
+    "options_hi": [
+      "ब्रह्मा (Brahma)",
+      "अध्वर्यु (Adhvaryu)",
+      "उद्गातृ (Udgatri)",
+      "होतृ (Hotri)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Brahma priest was the presiding supervisor who knew all four Vedas and guarded the sacrifice against ritual blemishes."
   },
   {
     "id": 119,
@@ -1663,7 +2725,16 @@
       "Parushni (Ravi)"
     ],
     "correctAnswer": "D",
-    "explanation": "King Sudas of the Bharata-Tritsu tribe defeated a confederacy of ten Aryan and non-Aryan kings on the banks of the Parushni (Ravi) river."
+    "explanation": "King Sudas of the Bharata-Tritsu tribe defeated a confederacy of ten Aryan and non-Aryan kings on the banks of the Parushni (Ravi) river.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #119] The famous 'Battle of the Ten Kings' (Dasharajna Yuddha) described in the 7th Mandala of the Rig Veda was fought on the banks of:",
+    "options_hi": [
+      "शुतुद्रि (सतलज)",
+      "असिकनी (चिनाब)",
+      "वितस्ता (झेलम)",
+      "परुष्णी (रावी)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - King Sudas of the Bharata-Tritsu tribe defeated a confederacy of ten Aryan and non-Aryan kings on the banks of the Parushni (Ravi) river."
   },
   {
     "id": 120,
@@ -1677,7 +2748,16 @@
       "Sage Atri"
     ],
     "correctAnswer": "C",
-    "explanation": "Sage Vashistha served as the royal preceptor to King Sudas after Sudas dismissed Sage Vishvamitra, leading Vishvamitra to organize the opposing confederacy."
+    "explanation": "Sage Vashistha served as the royal preceptor to King Sudas after Sudas dismissed Sage Vishvamitra, leading Vishvamitra to organize the opposing confederacy.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #120] Who was the chief spiritual priest (Purohita) and advisor to King Sudas of the Bharata tribe in the Battle of Ten Kings?",
+    "options_hi": [
+      "ऋषि विश्वामित्र",
+      "Sage Agastya",
+      "ऋषि वशिष्ठ",
+      "Sage Atri"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Sage Vashistha served as the royal preceptor to King Sudas after Sudas dismissed Sage Vishvamitra, leading Vishvamitra to organize the opposing confederacy."
   },
   {
     "id": 121,
@@ -1691,7 +2771,16 @@
       "Gritsamada"
     ],
     "correctAnswer": "D",
-    "explanation": "The 2nd Mandala was composed predominantly by seer Gritsamada and his descendants (Shaunaka family)."
+    "explanation": "The 2nd Mandala was composed predominantly by seer Gritsamada and his descendants (Shaunaka family).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #121] The 2nd Mandala of the Rig Veda is attributed to which illustrious seer family?",
+    "options_hi": [
+      "Vamadeva",
+      "Bharadvaja",
+      "Vishvamitra",
+      "Gritsamada"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The 2nd Mandala was composed predominantly by seer Gritsamada and his descendants (Shaunaka family)."
   },
   {
     "id": 122,
@@ -1705,7 +2794,16 @@
       "6th Mandala"
     ],
     "correctAnswer": "C",
-    "explanation": "The 4th Mandala, attributed to Sage Vamadeva, contains hymns detailing the preparation of soil, yoking of oxen, and sowing of barley."
+    "explanation": "The 4th Mandala, attributed to Sage Vamadeva, contains hymns detailing the preparation of soil, yoking of oxen, and sowing of barley.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #122] Which Mandala of the Rig Veda is composed by Sage Vamadeva and contains foundational references to agricultural activities?",
+    "options_hi": [
+      "तीसरा मण्डल",
+      "5th Mandala",
+      "4th Mandala",
+      "6th Mandala"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The 4th Mandala, attributed to Sage Vamadeva, contains hymns detailing the preparation of soil, yoking of oxen, and sowing of barley."
   },
   {
     "id": 123,
@@ -1719,7 +2817,16 @@
       "Kanva"
     ],
     "correctAnswer": "C",
-    "explanation": "The 5th Mandala was authored by the Atri lineage (Atris)."
+    "explanation": "The 5th Mandala was authored by the Atri lineage (Atris).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #123] The 5th Mandala of the Rig Veda is dedicated to the compositions of which seer family?",
+    "options_hi": [
+      "Bharadvaja",
+      "Angiras",
+      "Atri",
+      "Kanva"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The 5th Mandala was authored by the Atri lineage (Atris)."
   },
   {
     "id": 124,
@@ -1733,7 +2840,16 @@
       "Vishvamitra"
     ],
     "correctAnswer": "C",
-    "explanation": "The 6th Mandala was composed by Sage Bharadvaja and his clan."
+    "explanation": "The 6th Mandala was composed by Sage Bharadvaja and his clan.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #124] The 6th Mandala of the Rig Veda is canonically associated with the lineage of:",
+    "options_hi": [
+      "Gritsamada",
+      "Vashistha",
+      "Bharadvaja",
+      "Vishvamitra"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The 6th Mandala was composed by Sage Bharadvaja and his clan."
   },
   {
     "id": 125,
@@ -1747,7 +2863,16 @@
       "Vashistha"
     ],
     "correctAnswer": "D",
-    "explanation": "The entire 7th Mandala was authored by Sage Vashistha and his descendants."
+    "explanation": "The entire 7th Mandala was authored by Sage Vashistha and his descendants.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #125] The 7th Mandala of the Rig Veda, which recounts the Dasharajna war, was composed by:",
+    "options_hi": [
+      "Atri",
+      "Vamadeva",
+      "Vishvamitra",
+      "Vashistha"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The entire 7th Mandala was authored by Sage Vashistha and his descendants."
   },
   {
     "id": 126,
@@ -1761,7 +2886,16 @@
       "Vishvamitra and Vashistha"
     ],
     "correctAnswer": "C",
-    "explanation": "The 8th Mandala consists predominantly of hymns by the Kanva and Angiras lineages."
+    "explanation": "The 8th Mandala consists predominantly of hymns by the Kanva and Angiras lineages.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #126] The 8th Mandala of the Rig Veda contains the compositions of which major priestly families?",
+    "options_hi": [
+      "Gritsamada and Bhrigu",
+      "Atri and Bharadvaja",
+      "Kanva and Angiras",
+      "Vishvamitra and Vashistha"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The 8th Mandala consists predominantly of hymns by the Kanva and Angiras lineages."
   },
   {
     "id": 127,
@@ -1775,7 +2909,16 @@
       "Baudhayana and Apastamba"
     ],
     "correctAnswer": "A",
-    "explanation": "The text was originally called 'Atharvangirasa' after the ancestral seers Atharvan (auspicious rites) and Angiras (hostile sorcery/spells)."
+    "explanation": "The text was originally called 'Atharvangirasa' after the ancestral seers Atharvan (auspicious rites) and Angiras (hostile sorcery/spells).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #127] The Atharva Veda is traditionally named after which two legendary fire-priests?",
+    "options_hi": [
+      "Atharvan and Angiras",
+      "Vashistha and Vishvamitra",
+      "Shunahshepa and Yaska",
+      "बौधायन शुल्व सूत्र"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The text was originally called 'Atharvangirasa' after the ancestral seers Atharvan (auspicious rites) and Angiras (hostile sorcery/spells)."
   },
   {
     "id": 128,
@@ -1789,7 +2932,16 @@
       "Vidatha and Gana"
     ],
     "correctAnswer": "C",
-    "explanation": "Atharva Veda (7.12.1) calls the 'Sabha' (elder council) and 'Samiti' (general popular assembly) the two divine daughters of Prajapati."
+    "explanation": "Atharva Veda (7.12.1) calls the 'Sabha' (elder council) and 'Samiti' (general popular assembly) the two divine daughters of Prajapati.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #128] In the Atharva Veda, which two political assemblies are described as the twin daughters of the creator god Prajapati?",
+    "options_hi": [
+      "Sabha and Vidatha",
+      "Samiti and Parishad",
+      "Sabha and Samiti",
+      "Vidatha and Gana"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Atharva Veda (7.12.1) calls the 'Sabha' (elder council) and 'Samiti' (general popular assembly) the two divine daughters of Prajapati."
   },
   {
     "id": 129,
@@ -1803,7 +2955,16 @@
       "Yajur Veda"
     ],
     "correctAnswer": "C",
-    "explanation": "The Aitareya Brahmana belongs to the Rig Veda and was composed by Mahidasa Aitareya."
+    "explanation": "The Aitareya Brahmana belongs to the Rig Veda and was composed by Mahidasa Aitareya.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #129] The Aitareya Brahmana, which provides the earliest account of the coronation ritual (Rajasuya), belongs to which Veda?",
+    "options_hi": [
+      "अथर्ववेद",
+      "सामवेद",
+      "ऋग्वेद",
+      "यजुर्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Aitareya Brahmana belongs to the Rig Veda and was composed by Mahidasa Aitareya."
   },
   {
     "id": 130,
@@ -1817,7 +2978,16 @@
       "Shukla Yajur Veda"
     ],
     "correctAnswer": "B",
-    "explanation": "The Kaushitaki Brahmana is the second major Brahmana belonging to the Rig Veda."
+    "explanation": "The Kaushitaki Brahmana is the second major Brahmana belonging to the Rig Veda.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #130] The Kaushitaki (or Sankhayana) Brahmana is an explanatory commentary attached to:",
+    "options_hi": [
+      "यजुर्वेद",
+      "ऋग्वेद",
+      "सामवेद",
+      "यजुर्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Kaushitaki Brahmana is the second major Brahmana belonging to the Rig Veda."
   },
   {
     "id": 131,
@@ -1831,7 +3001,16 @@
       "Yajur Veda"
     ],
     "correctAnswer": "A",
-    "explanation": "The Panchavimsha (25-chapter) Brahmana belongs to the Sama Veda and contains the Vratyastoma rite to admit non-Aryans into the Aryan fold."
+    "explanation": "The Panchavimsha (25-chapter) Brahmana belongs to the Sama Veda and contains the Vratyastoma rite to admit non-Aryans into the Aryan fold.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #131] The Panchavimsha Brahmana (also known as the Tandya Mahabrahmana) belongs to:",
+    "options_hi": [
+      "सामवेद",
+      "अथर्ववेद",
+      "ऋग्वेद",
+      "यजुर्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Panchavimsha (25-chapter) Brahmana belongs to the Sama Veda and contains the Vratyastoma rite to admit non-Aryans into the Aryan fold."
   },
   {
     "id": 132,
@@ -1845,7 +3024,16 @@
       "Aitareya Brahmana"
     ],
     "correctAnswer": "B",
-    "explanation": "The Shatapatha Brahmana (1.4.1) describes king Videha Madhava following the fire-god Agni eastward to Aryanize Bihar."
+    "explanation": "The Shatapatha Brahmana (1.4.1) describes king Videha Madhava following the fire-god Agni eastward to Aryanize Bihar.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #132] Which Brahmana recounts the famous legend of Videha Madhava carrying sacrificial fire eastward to the Sadanira (Gandak) river?",
+    "options_hi": [
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Shatapatha Brahmana (1.4.1) describes king Videha Madhava following the fire-god Agni eastward to Aryanize Bihar."
   },
   {
     "id": 133,
@@ -1859,7 +3047,16 @@
       "Rig Veda"
     ],
     "correctAnswer": "A",
-    "explanation": "The Atharva Veda has no Aranyaka attached to it, having focused on domestic spells rather than forest ascetic theology."
+    "explanation": "The Atharva Veda has no Aranyaka attached to it, having focused on domestic spells rather than forest ascetic theology.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #133] Which of the following Vedas has NO surviving Aranyaka text whatsoever?",
+    "options_hi": [
+      "अथर्ववेद",
+      "सामवेद",
+      "यजुर्वेद",
+      "ऋग्वेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Atharva Veda has no Aranyaka attached to it, having focused on domestic spells rather than forest ascetic theology."
   },
   {
     "id": 134,
@@ -1873,7 +3070,16 @@
       "Chandogya Upanishad"
     ],
     "correctAnswer": "C",
-    "explanation": "The debate took place at the court of King Janaka of Videha and is preserved in the Brihadaranyaka Upanishad."
+    "explanation": "The debate took place at the court of King Janaka of Videha and is preserved in the Brihadaranyaka Upanishad.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #134] The philosophical dialogue between the sage Yajnavalkya and the learned female philosopher Gargi is recorded in the:",
+    "options_hi": [
+      "Kena Upanishad",
+      "कठ उपनिषद",
+      "बृहदारण्यक उपनिषद",
+      "छांदोग्य उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The debate took place at the court of King Janaka of Videha and is preserved in the Brihadaranyaka Upanishad."
   },
   {
     "id": 135,
@@ -1887,7 +3093,16 @@
       "Mandukya Upanishad"
     ],
     "correctAnswer": "A",
-    "explanation": "'Tat Tvam Asi' was taught by sage Uddalaka Aruni to his son Shvetaketu in the Chandogya Upanishad."
+    "explanation": "'Tat Tvam Asi' was taught by sage Uddalaka Aruni to his son Shvetaketu in the Chandogya Upanishad.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #135] The profound Mahavakya 'Tat Tvam Asi' ('That Thou Art') originates in which Upanishad?",
+    "options_hi": [
+      "छांदोग्य उपनिषद",
+      "तैत्तिरीय उपनिषद",
+      "बृहदारण्यक उपनिषद",
+      "मांडूक्य उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - 'Tat Tvam Asi' was taught by sage Uddalaka Aruni to his son Shvetaketu in the Chandogya Upanishad."
   },
   {
     "id": 136,
@@ -1901,7 +3116,16 @@
       "Katha Upanishad"
     ],
     "correctAnswer": "D",
-    "explanation": "In the Katha Upanishad, Yama grants three boons to young Nachiketa, unveiling the secret of the immortality of the soul (Atman)."
+    "explanation": "In the Katha Upanishad, Yama grants three boons to young Nachiketa, unveiling the secret of the immortality of the soul (Atman).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #136] Which Upanishad features the dramatic dialogue between the young seeker Nachiketa and Yama (the God of Death)?",
+    "options_hi": [
+      "मुण्डक उपनिषद",
+      "Isha Upanishad",
+      "Prashna Upanishad",
+      "कठ उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - In the Katha Upanishad, Yama grants three boons to young Nachiketa, unveiling the secret of the immortality of the soul (Atman)."
   },
   {
     "id": 137,
@@ -1915,7 +3139,16 @@
       "Mundaka Upanishad"
     ],
     "correctAnswer": "D",
-    "explanation": "The phrase comes from Mundaka Upanishad (3.1.6): 'Satyameva Jayate Nanritam'."
+    "explanation": "The phrase comes from Mundaka Upanishad (3.1.6): 'Satyameva Jayate Nanritam'.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #137] India's national motto 'Satyameva Jayate' (Truth alone triumphs) is inscribed from which Upanishad?",
+    "options_hi": [
+      "छांदोग्य उपनिषद",
+      "कठ उपनिषद",
+      "मांडूक्य उपनिषद",
+      "मुण्डक उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The phrase comes from Mundaka Upanishad (3.1.6): 'Satyameva Jayate Nanritam'."
   },
   {
     "id": 138,
@@ -1929,7 +3162,16 @@
       "Isha Upanishad"
     ],
     "correctAnswer": "C",
-    "explanation": "The Mandukya Upanishad consists of just 12 concise prose sentences expounding the four states of consciousness (waking, dreaming, deep sleep, Turiya)."
+    "explanation": "The Mandukya Upanishad consists of just 12 concise prose sentences expounding the four states of consciousness (waking, dreaming, deep sleep, Turiya).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #138] Which is the shortest of all classical Upanishads, containing only 12 verses on the states of consciousness and the syllable 'AUM'?",
+    "options_hi": [
+      "Prashna Upanishad",
+      "Kena Upanishad",
+      "मांडूक्य उपनिषद",
+      "Isha Upanishad"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Mandukya Upanishad consists of just 12 concise prose sentences expounding the four states of consciousness (waking, dreaming, deep sleep, Turiya)."
   },
   {
     "id": 139,
@@ -1943,7 +3185,16 @@
       "Aitareya Upanishad"
     ],
     "correctAnswer": "A",
-    "explanation": "While the Chandogya mentions only three stages, the Jabala Upanishad explicitly enumerates all four Ashramas including Sanyasa."
+    "explanation": "While the Chandogya mentions only three stages, the Jabala Upanishad explicitly enumerates all four Ashramas including Sanyasa.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #139] The earliest unambiguous textual mention of all four Ashramas (Brahmacharya, Grihastha, Vanaprastha, and Sanyasa) appears in the:",
+    "options_hi": [
+      "जाबाल उपनिषद",
+      "बृहदारण्यक उपनिषद",
+      "छांदोग्य उपनिषद",
+      "Aitareya Upanishad"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - While the Chandogya mentions only three stages, the Jabala Upanishad explicitly enumerates all four Ashramas including Sanyasa."
   },
   {
     "id": 140,
@@ -1957,7 +3208,16 @@
       "Kena Upanishad"
     ],
     "correctAnswer": "B",
-    "explanation": "The Shikshavalli section of the Taittiriya Upanishad delivers this convocation address to departing Vedic graduates."
+    "explanation": "The Shikshavalli section of the Taittiriya Upanishad delivers this convocation address to departing Vedic graduates.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #140] The celebrated universal ethical command 'Matri Devo Bhava, Pitri Devo Bhava, Atithi Devo Bhava' is found in the:",
+    "options_hi": [
+      "कठ उपनिषद",
+      "तैत्तिरीय उपनिषद",
+      "Isha Upanishad",
+      "Kena Upanishad"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Shikshavalli section of the Taittiriya Upanishad delivers this convocation address to departing Vedic graduates."
   },
   {
     "id": 141,
@@ -1971,7 +3231,16 @@
       "Twelve"
     ],
     "correctAnswer": "B",
-    "explanation": "There are six Vedangas: Shiksha (Phonetics), Kalpa (Rituals), Vyakarana (Grammar), Nirukta (Etymology), Chhanda (Metrics), and Jyotisha (Astronomy)."
+    "explanation": "There are six Vedangas: Shiksha (Phonetics), Kalpa (Rituals), Vyakarana (Grammar), Nirukta (Etymology), Chhanda (Metrics), and Jyotisha (Astronomy).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #141] How many total limbs (Vedangas) are appended to the Vedas to ensure their accurate pronunciation, interpretation, and ritual execution?",
+    "options_hi": [
+      "Four",
+      "Six",
+      "Eight",
+      "Twelve"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - There are six Vedangas: Shiksha (Phonetics), Kalpa (Rituals), Vyakarana (Grammar), Nirukta (Etymology), Chhanda (Metrics), and Jyotisha (Astronomy)."
   },
   {
     "id": 142,
@@ -1985,7 +3254,16 @@
       "Grammatical compounding rules"
     ],
     "correctAnswer": "A",
-    "explanation": "Shiksha deals with the science of phonetics, syllables, accents (Udatta, Anudatta, Svarita), and oral recitation rules codified in Pratishakhyas."
+    "explanation": "Shiksha deals with the science of phonetics, syllables, accents (Udatta, Anudatta, Svarita), and oral recitation rules codified in Pratishakhyas.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #142] The Vedanga 'Shiksha' specializes in which field of study?",
+    "options_hi": [
+      "Phonetics, accentuation, and pronunciation",
+      "Genealogical history of seers",
+      "Ritual sacrifice measurements",
+      "Grammatical compounding rules"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Shiksha deals with the science of phonetics, syllables, accents (Udatta, Anudatta, Svarita), and oral recitation rules codified in Pratishakhyas."
   },
   {
     "id": 143,
@@ -1999,7 +3277,16 @@
       "Yaska"
     ],
     "correctAnswer": "C",
-    "explanation": "Acharya Pingala composed the Chhandasutra (~3rd–2nd century BC), laying down metric meters (Gayatri, Trishtubh, Jagati) and early binary math."
+    "explanation": "Acharya Pingala composed the Chhandasutra (~3rd–2nd century BC), laying down metric meters (Gayatri, Trishtubh, Jagati) and early binary math.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #143] The Vedanga 'Chhanda' (Metrics) is canonically codified in the 'Chhandasutras' authored by:",
+    "options_hi": [
+      "बौधायन शुल्व सूत्र",
+      "पाणिनि",
+      "पिंगल",
+      "यास्क"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Acharya Pingala composed the Chhandasutra (~3rd–2nd century BC), laying down metric meters (Gayatri, Trishtubh, Jagati) and early binary math."
   },
   {
     "id": 144,
@@ -2013,7 +3300,16 @@
       "Sage Kapila"
     ],
     "correctAnswer": "D",
-    "explanation": "Sage Kapila founded the Samkhya system, traditionally regarded as the oldest philosophical darshana in India."
+    "explanation": "Sage Kapila founded the Samkhya system, traditionally regarded as the oldest philosophical darshana in India.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #144] Who founded the classical Samkhya school of Indian philosophy, which expounds the dualism of Purusha (consciousness) and Prakriti (matter)?",
+    "options_hi": [
+      "Sage Kanada",
+      "Sage Patanjali",
+      "Sage Gautama",
+      "Sage Kapila"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Sage Kapila founded the Samkhya system, traditionally regarded as the oldest philosophical darshana in India."
   },
   {
     "id": 145,
@@ -2027,7 +3323,16 @@
       "Sage Kapila"
     ],
     "correctAnswer": "B",
-    "explanation": "Patanjali compiled the 196 aphorisms of the Yoga Sutras, establishing the classical school of Yoga philosophy."
+    "explanation": "Patanjali compiled the 196 aphorisms of the Yoga Sutras, establishing the classical school of Yoga philosophy.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #145] The Yoga Darshana, which outlines the Ashtanga Yoga pathway for mental mastery, was systematized in the 'Yoga Sutras' by:",
+    "options_hi": [
+      "Sage Jaimini",
+      "Sage Patanjali",
+      "Sage Badarayana",
+      "Sage Kapila"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Patanjali compiled the 196 aphorisms of the Yoga Sutras, establishing the classical school of Yoga philosophy."
   },
   {
     "id": 146,
@@ -2041,7 +3346,16 @@
       "Kumarila Bhatta"
     ],
     "correctAnswer": "A",
-    "explanation": "Sage Akshapada Gautama composed the Nyaya Sutras, creating the classical system of Indian logic."
+    "explanation": "Sage Akshapada Gautama composed the Nyaya Sutras, creating the classical system of Indian logic.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #146] The Nyaya school, renowned for establishing formal logic and epistemological pramanas (means of valid knowledge), was founded by:",
+    "options_hi": [
+      "अक्षपाद गौतम",
+      "जैमिनी",
+      "उलूक कणाद",
+      "Kumarila Bhatta"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Sage Akshapada Gautama composed the Nyaya Sutras, creating the classical system of Indian logic."
   },
   {
     "id": 147,
@@ -2055,7 +3369,16 @@
       "Uluka Kanada"
     ],
     "correctAnswer": "D",
-    "explanation": "Sage Kanada (also known as Uluka) authored the Vaisheshika Sutras, proposing that all material objects are composed of indivisible atoms (paramanu)."
+    "explanation": "Sage Kanada (also known as Uluka) authored the Vaisheshika Sutras, proposing that all material objects are composed of indivisible atoms (paramanu).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #147] The Vaisheshika school, which formulated an atomic theory of the physical cosmos (Paramanuvada), was founded by:",
+    "options_hi": [
+      "कपिल",
+      "पतंजलि",
+      "बादरायण",
+      "उलूक कणाद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Sage Kanada (also known as Uluka) authored the Vaisheshika Sutras, proposing that all material objects are composed of indivisible atoms (paramanu)."
   },
   {
     "id": 148,
@@ -2069,7 +3392,16 @@
       "Gautama"
     ],
     "correctAnswer": "B",
-    "explanation": "Sage Jaimini authored the Mimamsa Sutras, asserting the supreme authority and eternality of the Vedic injunctions."
+    "explanation": "Sage Jaimini authored the Mimamsa Sutras, asserting the supreme authority and eternality of the Vedic injunctions.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #148] The Purva Mimamsa school, which focuses on Vedic orthodoxy and ritual dharma, was established by:",
+    "options_hi": [
+      "बादरायण",
+      "जैमिनी",
+      "कपिल",
+      "Gautama"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Sage Jaimini authored the Mimamsa Sutras, asserting the supreme authority and eternality of the Vedic injunctions."
   },
   {
     "id": 149,
@@ -2083,7 +3415,16 @@
       "Kanada"
     ],
     "correctAnswer": "C",
-    "explanation": "Sage Badarayana compiled the Brahma Sutras (Vedanta Sutras), synthesizing the philosophical teachings of the Upanishads."
+    "explanation": "Sage Badarayana compiled the Brahma Sutras (Vedanta Sutras), synthesizing the philosophical teachings of the Upanishads.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #149] The Uttara Mimamsa (Vedanta) school, based on the Upanishads and the 'Brahma Sutras', was founded by:",
+    "options_hi": [
+      "जैमिनी",
+      "कपिल",
+      "Badarayana (Veda Vyasa)",
+      "Kanada"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Sage Badarayana compiled the Brahma Sutras (Vedanta Sutras), synthesizing the philosophical teachings of the Upanishads."
   },
   {
     "id": 150,
@@ -2097,7 +3438,16 @@
       "Kavya"
     ],
     "correctAnswer": "C",
-    "explanation": "The epic grew in three stages: first 'Jaya' (8,800 verses), then 'Bharata' (24,000 verses), and finally 'Mahabharata' (100,000 verses)."
+    "explanation": "The epic grew in three stages: first 'Jaya' (8,800 verses), then 'Bharata' (24,000 verses), and finally 'Mahabharata' (100,000 verses).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #150] The Mahabharata originally consisted of 8,800 verses and was known by which ancient title?",
+    "options_hi": [
+      "Bharata",
+      "Shatasahasri Samhita",
+      "Jaya Samhita",
+      "Kavya"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The epic grew in three stages: first 'Jaya' (8,800 verses), then 'Bharata' (24,000 verses), and finally 'Mahabharata' (100,000 verses)."
   },
   {
     "id": 151,
@@ -2111,7 +3461,16 @@
       "Banawali"
     ],
     "correctAnswer": "B",
-    "explanation": "Lothal is located near Saragwala village in Dholka taluka of Ahmedabad district, Gujarat."
+    "explanation": "Lothal is located near Saragwala village in Dholka taluka of Ahmedabad district, Gujarat.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #151] Which of the following Harappan sites is located in the Indian state of Gujarat?",
+    "options_hi": [
+      "कालीबंगा",
+      "लोथल",
+      "राखीगढ़ी",
+      "बनावली"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Lothal is located near Saragwala village in Dholka taluka of Ahmedabad district, Gujarat."
   },
   {
     "id": 152,
@@ -2125,7 +3484,16 @@
       "Rough uncut quarry stone"
     ],
     "correctAnswer": "B",
-    "explanation": "Unlike contemporary Egyptian and Mesopotamian civilizations which relied on sun-dried bricks, Harappans extensively used standardized kiln-burnt baked bricks."
+    "explanation": "Unlike contemporary Egyptian and Mesopotamian civilizations which relied on sun-dried bricks, Harappans extensively used standardized kiln-burnt baked bricks.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #152] What type of bricks did the Harappans primarily utilize for constructing domestic houses and water drains?",
+    "options_hi": [
+      "धूप में सुखाई गई कच्ची ईंटें",
+      "आग में पकी हुई ईंटें",
+      "Granite monoliths",
+      "Rough uncut quarry stone"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Unlike contemporary Egyptian and Mesopotamian civilizations which relied on sun-dried bricks, Harappans extensively used standardized kiln-burnt baked bricks."
   },
   {
     "id": 153,
@@ -2139,7 +3507,16 @@
       "Ravi"
     ],
     "correctAnswer": "A",
-    "explanation": "Chanhudaro is situated on the east bank of the Indus river in Sindh, Pakistan."
+    "explanation": "Chanhudaro is situated on the east bank of the Indus river in Sindh, Pakistan.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #153] The site of Chanhudaro is situated on the bank of which river?",
+    "options_hi": [
+      "सिंधु",
+      "भोगवा",
+      "घग्घर",
+      "रावी"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Chanhudaro is situated on the east bank of the Indus river in Sindh, Pakistan."
   },
   {
     "id": 154,
@@ -2153,7 +3530,16 @@
       "Sorghum and Millet"
     ],
     "correctAnswer": "A",
-    "explanation": "Wheat and barley were the foundational staple grains found in granaries across Harappa and Mohenjodaro."
+    "explanation": "Wheat and barley were the foundational staple grains found in granaries across Harappa and Mohenjodaro.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #154] What were the two primary staple cereal crops cultivated by the Indus people?",
+    "options_hi": [
+      "गेहूं और जौ",
+      "राई और जई",
+      "चावल और मक्का",
+      "ज्वार और बाजरा"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Wheat and barley were the foundational staple grains found in granaries across Harappa and Mohenjodaro."
   },
   {
     "id": 155,
@@ -2167,7 +3553,16 @@
       "Sage Veda Vyasa"
     ],
     "correctAnswer": "B",
-    "explanation": "Sage Valmiki, known as the 'Adi Kavi' (first poet), authored the Ramayana in Sanskrit."
+    "explanation": "Sage Valmiki, known as the 'Adi Kavi' (first poet), authored the Ramayana in Sanskrit.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #155] Who is traditionally venerated as the author of the epic Ramayana?",
+    "options_hi": [
+      "Sage Kalidasa",
+      "Sage Valmiki",
+      "Sage Tulsidas",
+      "Sage Veda Vyasa"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Sage Valmiki, known as the 'Adi Kavi' (first poet), authored the Ramayana in Sanskrit."
   },
   {
     "id": 156,
@@ -2181,7 +3576,16 @@
       "18 Parvas"
     ],
     "correctAnswer": "D",
-    "explanation": "The Mahabharata consists of 18 Parvas (books), with the Bhagavad Gita contained within the 6th book (Bhishma Parva)."
+    "explanation": "The Mahabharata consists of 18 Parvas (books), with the Bhagavad Gita contained within the 6th book (Bhishma Parva).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #156] The epic Mahabharata is composed of how many total parvas (books)?",
+    "options_hi": [
+      "24 Parvas",
+      "7 Parvas",
+      "12 Parvas",
+      "18 पर्व"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The Mahabharata consists of 18 Parvas (books), with the Bhagavad Gita contained within the 6th book (Bhishma Parva)."
   },
   {
     "id": 157,
@@ -2195,7 +3599,16 @@
       "12"
     ],
     "correctAnswer": "B",
-    "explanation": "There are traditionally 18 Maha-Puranas (including Vishnu, Bhagavata, Vayu, Matsya, Shiva Puranas)."
+    "explanation": "There are traditionally 18 Maha-Puranas (including Vishnu, Bhagavata, Vayu, Matsya, Shiva Puranas).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #157] How many canonical Maha-Puranas exist in classical Sanskrit literature?",
+    "options_hi": [
+      "108",
+      "18",
+      "24",
+      "12"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - There are traditionally 18 Maha-Puranas (including Vishnu, Bhagavata, Vayu, Matsya, Shiva Puranas)."
   },
   {
     "id": 158,
@@ -2209,7 +3622,16 @@
       "Garuda Purana"
     ],
     "correctAnswer": "C",
-    "explanation": "The Matsya Purana is regarded by historians as one of the oldest and most genealogically reliable Puranas."
+    "explanation": "The Matsya Purana is regarded by historians as one of the oldest and most genealogically reliable Puranas.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #158] Which Purana is widely considered by historians to be the oldest surviving Purana text?",
+    "options_hi": [
+      "Vayu Purana",
+      "Vishnu Purana",
+      "Matsya Purana",
+      "Garuda Purana"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Matsya Purana is regarded by historians as one of the oldest and most genealogically reliable Puranas."
   },
   {
     "id": 159,
@@ -2223,7 +3645,16 @@
       "Brahmana"
     ],
     "correctAnswer": "C",
-    "explanation": "The Vaishyas engaged in commerce, agriculture, and livestock breeding, and were the sole tax-paying class."
+    "explanation": "The Vaishyas engaged in commerce, agriculture, and livestock breeding, and were the sole tax-paying class.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #159] In the Later Vedic period, which varna was primarily associated with agriculture, trade, and cattle-rearing?",
+    "options_hi": [
+      "Shudra",
+      "Kshatriya",
+      "Vaishya",
+      "ब्रह्मा (Brahma)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - The Vaishyas engaged in commerce, agriculture, and livestock breeding, and were the sole tax-paying class."
   },
   {
     "id": 160,
@@ -2237,7 +3668,16 @@
       "Narada Smriti"
     ],
     "correctAnswer": "B",
-    "explanation": "Manusmriti, codified between the 2nd century BC and 2nd century AD, is the oldest and foremost legal Smriti text."
+    "explanation": "Manusmriti, codified between the 2nd century BC and 2nd century AD, is the oldest and foremost legal Smriti text.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #160] Which of the following is regarded as the oldest legal treatise and Smriti text in ancient India?",
+    "options_hi": [
+      "Yajnavalkya Smriti",
+      "Manusmriti (Manava Dharmashastra)",
+      "Parashara Smriti",
+      "Narada Smriti"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Manusmriti, codified between the 2nd century BC and 2nd century AD, is the oldest and foremost legal Smriti text."
   },
   {
     "id": 161,
@@ -2251,7 +3691,16 @@
       "Sindh"
     ],
     "correctAnswer": "C",
-    "explanation": "Harappa is located in Sahiwal (formerly Montgomery) district of Pakistani Punjab."
+    "explanation": "Harappa is located in Sahiwal (formerly Montgomery) district of Pakistani Punjab.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #161] In which modern Pakistani province is the site of Harappa located?",
+    "options_hi": [
+      "Baluchistan",
+      "Khyber Pakhtunkhwa",
+      "Punjab",
+      "Sindh"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Harappa is located in Sahiwal (formerly Montgomery) district of Pakistani Punjab."
   },
   {
     "id": 162,
@@ -2265,7 +3714,16 @@
       "Baluchistan"
     ],
     "correctAnswer": "B",
-    "explanation": "Mohenjodaro is situated in Larkana district of the Sindh province of Pakistan."
+    "explanation": "Mohenjodaro is situated in Larkana district of the Sindh province of Pakistan.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #162] In which modern Pakistani province is the site of Mohenjodaro located?",
+    "options_hi": [
+      "Gilgit-Baltistan",
+      "Sindh",
+      "Punjab",
+      "Baluchistan"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Mohenjodaro is situated in Larkana district of the Sindh province of Pakistan."
   },
   {
     "id": 163,
@@ -2279,7 +3737,16 @@
       "Mohenjodaro"
     ],
     "correctAnswer": "A",
-    "explanation": "At Harappa, Mound F contained rows of single-roomed barracks for laborers and 18 circular brick working floors for pounding grain."
+    "explanation": "At Harappa, Mound F contained rows of single-roomed barracks for laborers and 18 circular brick working floors for pounding grain.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #163] The residential quarters for workmen and circular brick threshing platforms were unearthed immediately outside the citadel of:",
+    "options_hi": [
+      "हड़प्पा",
+      "चन्हुदड़ो",
+      "लोथल",
+      "मोहनजोदड़ो"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - At Harappa, Mound F contained rows of single-roomed barracks for laborers and 18 circular brick working floors for pounding grain."
   },
   {
     "id": 164,
@@ -2293,7 +3760,16 @@
       "By flushing water using pumps"
     ],
     "correctAnswer": "C",
-    "explanation": "Underground masonry drains had loose stone slabs or removable bricks serving as inspection manholes at regular intervals."
+    "explanation": "Underground masonry drains had loose stone slabs or removable bricks serving as inspection manholes at regular intervals.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #164] How did Harappan engineers ensure that covered street drains could be inspected and cleared of silt?",
+    "options_hi": [
+      "By keeping drains completely open",
+      "By building vertical tunnels",
+      "By installing regular inspection manholes covered with loose brick slabs",
+      "By flushing water using pumps"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Underground masonry drains had loose stone slabs or removable bricks serving as inspection manholes at regular intervals."
   },
   {
     "id": 165,
@@ -2307,7 +3783,16 @@
       "Surkotada and Manda"
     ],
     "correctAnswer": "B",
-    "explanation": "Cylindrical seals characteristic of Mesopotamian city-states were excavated at Kalibangan and Mohenjodaro."
+    "explanation": "Cylindrical seals characteristic of Mesopotamian city-states were excavated at Kalibangan and Mohenjodaro.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #165] Which Harappan site yielded two distinctive cylindrical seals similar to those found in Mesopotamia?",
+    "options_hi": [
+      "Dholavira and Chanhudaro",
+      "Kalibangan and Mohenjodaro",
+      "Banawali and Lothal",
+      "Surkotada and Manda"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Cylindrical seals characteristic of Mesopotamian city-states were excavated at Kalibangan and Mohenjodaro."
   },
   {
     "id": 166,
@@ -2321,7 +3806,16 @@
       "Public community sacrifices and grand royal rituals"
     ],
     "correctAnswer": "D",
-    "explanation": "Shrauta Sutras prescribe rules for major public sacrificial ceremonies (like Rajasuya, Ashvamedha, Vajapeya)."
+    "explanation": "Shrauta Sutras prescribe rules for major public sacrificial ceremonies (like Rajasuya, Ashvamedha, Vajapeya).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #166] The 'Shrauta Sutras', a branch of the Kalpa Vedanga, deal specifically with:",
+    "options_hi": [
+      "Geometric altar rules",
+      "Civil and criminal laws",
+      "Domestic household rites",
+      "Public community sacrifices and grand royal rituals"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Shrauta Sutras prescribe rules for major public sacrificial ceremonies (like Rajasuya, Ashvamedha, Vajapeya)."
   },
   {
     "id": 167,
@@ -2335,7 +3829,16 @@
       "Astronomy and calendars"
     ],
     "correctAnswer": "A",
-    "explanation": "Grihya Sutras codify domestic rituals, birth rites, marriages, funerals, and daily household obligations."
+    "explanation": "Grihya Sutras codify domestic rituals, birth rites, marriages, funerals, and daily household obligations.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #167] The 'Grihya Sutras' regulate:",
+    "options_hi": [
+      "Domestic life-cycle ceremonies (Samskaras) and household rituals",
+      "Military weaponry",
+      "State administration",
+      "Astronomy and calendars"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Grihya Sutras codify domestic rituals, birth rites, marriages, funerals, and daily household obligations."
   },
   {
     "id": 168,
@@ -2349,7 +3852,16 @@
       "Pronunciation of mantras"
     ],
     "correctAnswer": "A",
-    "explanation": "Dharma Sutras (like those of Gautama, Baudhayana, Apastamba) laid down legal codes, duties of Varnas, and royal governance."
+    "explanation": "Dharma Sutras (like those of Gautama, Baudhayana, Apastamba) laid down legal codes, duties of Varnas, and royal governance.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #168] The 'Dharma Sutras' treat which aspect of ancient Indian life?",
+    "options_hi": [
+      "Social law, ethics, royal duties, and civil jurisprudence",
+      "Temple architecture",
+      "Musical tuning",
+      "Pronunciation of mantras"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Dharma Sutras (like those of Gautama, Baudhayana, Apastamba) laid down legal codes, duties of Varnas, and royal governance."
   },
   {
     "id": 169,
@@ -2363,7 +3875,16 @@
       "Katha Upanishad"
     ],
     "correctAnswer": "C",
-    "explanation": "Mundaka Upanishad (1.2.7) asserts that ceremonial sacrifices are unstable rafts that cannot ferry human beings across sorrow."
+    "explanation": "Mundaka Upanishad (1.2.7) asserts that ceremonial sacrifices are unstable rafts that cannot ferry human beings across sorrow.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #169] The metaphor comparing formal Vedic sacrificial rituals to 'frail, unseaworthy boats' (Adridha Nau) is found in:",
+    "options_hi": [
+      "Kena Upanishad",
+      "Prashna Upanishad",
+      "मुण्डक उपनिषद",
+      "कठ उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Mundaka Upanishad (1.2.7) asserts that ceremonial sacrifices are unstable rafts that cannot ferry human beings across sorrow."
   },
   {
     "id": 170,
@@ -2377,7 +3898,16 @@
       "Brihadaranyaka Upanishad"
     ],
     "correctAnswer": "D",
-    "explanation": "This celebrated prayer is located in the Pavamana Abhyaroha section of the Brihadaranyaka Upanishad (1.3.28)."
+    "explanation": "This celebrated prayer is located in the Pavamana Abhyaroha section of the Brihadaranyaka Upanishad (1.3.28).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #170] The famous invocation 'Asato Ma Sadgamaya, Tamaso Ma Jyotirgamaya' (Lead me from the unreal to the real) occurs in:",
+    "options_hi": [
+      "मांडूक्य उपनिषद",
+      "छांदोग्य उपनिषद",
+      "Isha Upanishad",
+      "बृहदारण्यक उपनिषद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - This celebrated prayer is located in the Pavamana Abhyaroha section of the Brihadaranyaka Upanishad (1.3.28)."
   },
   {
     "id": 171,
@@ -2391,7 +3921,16 @@
       "Hisar district of Haryana"
     ],
     "correctAnswer": "C",
-    "explanation": "Surkotada was excavated in 1964 by J.P. Joshi in the Rapar taluka of Kutchh district, Gujarat."
+    "explanation": "Surkotada was excavated in 1964 by J.P. Joshi in the Rapar taluka of Kutchh district, Gujarat.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #171] The site of Surkotada, known for horse bone specimens and stone-covered cairn graves, is located in:",
+    "options_hi": [
+      "Hanumangarh district of Rajasthan",
+      "Larkana district of Sindh",
+      "Kutchh district of Gujarat",
+      "Hisar district of Haryana"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Surkotada was excavated in 1964 by J.P. Joshi in the Rapar taluka of Kutchh district, Gujarat."
   },
   {
     "id": 172,
@@ -2405,7 +3944,16 @@
       "Siswal"
     ],
     "correctAnswer": "D",
-    "explanation": "Siswal in Haryana was excavated by Suraj Bhan, identifying the pre-Harappan Siswal ceramic culture."
+    "explanation": "Siswal in Haryana was excavated by Suraj Bhan, identifying the pre-Harappan Siswal ceramic culture.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #172] Which Harappan site located on the dry bed of the ancient Drishadvati river was excavated by Suraj Bhan?",
+    "options_hi": [
+      "बनावली",
+      "राखीगढ़ी",
+      "Mitathal",
+      "Siswal"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Siswal in Haryana was excavated by Suraj Bhan, identifying the pre-Harappan Siswal ceramic culture."
   },
   {
     "id": 173,
@@ -2419,7 +3967,16 @@
       "Lost-wax casting (cire perdue)"
     ],
     "correctAnswer": "D",
-    "explanation": "Harappans used 'cire perdue' (lost-wax process) by modelling figures in beeswax, coating them in clay, baking to melt out the wax, and pouring molten bronze."
+    "explanation": "Harappans used 'cire perdue' (lost-wax process) by modelling figures in beeswax, coating them in clay, baking to melt out the wax, and pouring molten bronze.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #173] What technique was utilized by Indus sculptors to cast their delicate bronze hollow and solid figurines?",
+    "options_hi": [
+      "Sand mould stamping",
+      "Riveted sheet joining",
+      "Hammered repousse technique",
+      "द्रुत-मोम ढलाई विधि (Cire Perdue / Lost-wax)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Harappans used 'cire perdue' (lost-wax process) by modelling figures in beeswax, coating them in clay, baking to melt out the wax, and pouring molten bronze."
   },
   {
     "id": 174,
@@ -2433,7 +3990,16 @@
       "Northern Black Polished Ware (NBPW)"
     ],
     "correctAnswer": "A",
-    "explanation": "Harappan pottery was fast-wheel-turned Red Ware treated with red slip and decorated with designs painted in black manganese pigment."
+    "explanation": "Harappan pottery was fast-wheel-turned Red Ware treated with red slip and decorated with designs painted in black manganese pigment.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #174] What was the dominant style of decorated pottery produced across mature Harappan settlements?",
+    "options_hi": [
+      "Red and Black ware with black painted motifs on a red slip",
+      "Ochre Coloured Pottery (OCP)",
+      "Painted Grey Ware (PGW)",
+      "Northern Black Polished Ware (NBPW)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Harappan pottery was fast-wheel-turned Red Ware treated with red slip and decorated with designs painted in black manganese pigment."
   },
   {
     "id": 175,
@@ -2447,7 +4013,16 @@
       "Durum wheat and Spelt wheat"
     ],
     "correctAnswer": "C",
-    "explanation": "Botanical analyses of charred grains from granaries identified Triticum compactum and Triticum sphaerococcum."
+    "explanation": "Botanical analyses of charred grains from granaries identified Triticum compactum and Triticum sphaerococcum.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #175] What two specific archaeological varieties of wheat were cultivated by the farmers of Harappa and Mohenjodaro?",
+    "options_hi": [
+      "Einkorn wheat and Emmer wheat",
+      "Wild Rye and Khorasan wheat",
+      "Club wheat (Triticum compactum) and Indian dwarf wheat (Triticum sphaerococcum)",
+      "Durum wheat and Spelt wheat"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Botanical analyses of charred grains from granaries identified Triticum compactum and Triticum sphaerococcum."
   },
   {
     "id": 176,
@@ -2461,7 +4036,16 @@
       "Lapis Lazuli"
     ],
     "correctAnswer": "A",
-    "explanation": "Turquoise was imported from the mines of Nishapur in Khorasan (northeastern Iran)."
+    "explanation": "Turquoise was imported from the mines of Nishapur in Khorasan (northeastern Iran).",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #176] Which precious blue-green gemstone was imported by the Harappans from the Khorasan region of northeastern Persia?",
+    "options_hi": [
+      "Turquoise",
+      "Jade",
+      "Amethyst",
+      "लाजवर्द (Lapis Lazuli)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Turquoise was imported from the mines of Nishapur in Khorasan (northeastern Iran)."
   },
   {
     "id": 177,
@@ -2475,7 +4059,16 @@
       "Central Asia / Khotan"
     ],
     "correctAnswer": "D",
-    "explanation": "Green nephrite jade was imported through trans-Himalayan caravan routes from Khotan and the Pamir regions of Central Asia."
+    "explanation": "Green nephrite jade was imported through trans-Himalayan caravan routes from Khotan and the Pamir regions of Central Asia.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #177] Jade beads discovered in Harappan settlements were sourced from trade exchanges with:",
+    "options_hi": [
+      "Egypt",
+      "South India",
+      "Mesopotamia",
+      "मध्य एशिया"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Green nephrite jade was imported through trans-Himalayan caravan routes from Khotan and the Pamir regions of Central Asia."
   },
   {
     "id": 178,
@@ -2489,7 +4082,16 @@
       "The Deccan traps of Maharashtra"
     ],
     "correctAnswer": "D",
-    "explanation": "Amethyst crystals were obtained from cavities in the volcanic Deccan trap rock formations in Maharashtra."
+    "explanation": "Amethyst crystals were obtained from cavities in the volcanic Deccan trap rock formations in Maharashtra.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #178] Amethyst, a violet gemstone found in Harappan ornamental beads, was brought from:",
+    "options_hi": [
+      "कर्नाटक की कोलार खदानें",
+      "Badakhshan in Afghanistan",
+      "राजस्थान की खेतड़ी खदानें",
+      "The Deccan traps of Maharashtra"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Amethyst crystals were obtained from cavities in the volcanic Deccan trap rock formations in Maharashtra."
   },
   {
     "id": 179,
@@ -2503,7 +4105,16 @@
       "Ratanpur in Rajpipla, Gujarat"
     ],
     "correctAnswer": "D",
-    "explanation": "Ratanpur mines near the Narmada valley in Gujarat were the premier ancient supplier of agate and carnelian nodules."
+    "explanation": "Ratanpur mines near the Narmada valley in Gujarat were the premier ancient supplier of agate and carnelian nodules.",
+    "topic_hi": "सिंधु घाटी सभ्यता",
+    "question_hi": "[प्रश्न #179] Carnelian, renowned for producing translucent red Harappan beads, was sourced from:",
+    "options_hi": [
+      "Makran in Baluchistan",
+      "कर्नाटक की कोलार खदानें",
+      "Badakhshan in Afghanistan",
+      "Ratanpur in Rajpipla, Gujarat"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Ratanpur mines near the Narmada valley in Gujarat were the premier ancient supplier of agate and carnelian nodules."
   },
   {
     "id": 180,
@@ -2517,7 +4128,16 @@
       "1st Mandala"
     ],
     "correctAnswer": "A",
-    "explanation": "The Nasadiya Sukta (Hymn of Non-Eternity, 10.129) is a philosophical hymn pondering what existed before creation."
+    "explanation": "The Nasadiya Sukta (Hymn of Non-Eternity, 10.129) is a philosophical hymn pondering what existed before creation.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #180] The 'Nasadiya Sukta', which contemplates the mystery of cosmic creation before time and existence, is in which Mandala?",
+    "options_hi": [
+      "10वां मण्डल",
+      "नौवां मण्डल",
+      "2nd Mandala",
+      "पहला मण्डल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Nasadiya Sukta (Hymn of Non-Eternity, 10.129) is a philosophical hymn pondering what existed before creation."
   },
   {
     "id": 181,
@@ -2531,7 +4151,16 @@
       "3rd Mandala"
     ],
     "correctAnswer": "B",
-    "explanation": "Hymn 75 of the 10th Mandala enumerates Vedic rivers systematically starting from the Ganga in the east to the Kubha in the west."
+    "explanation": "Hymn 75 of the 10th Mandala enumerates Vedic rivers systematically starting from the Ganga in the east to the Kubha in the west.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #181] The 'Nadistuti Sukta' (Hymn in praise of rivers), cataloging 21 rivers from east to west, is found in which Mandala of the Rig Veda?",
+    "options_hi": [
+      "सातवां मण्डल",
+      "10वां मण्डल",
+      "5th Mandala",
+      "तीसरा मण्डल"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Hymn 75 of the 10th Mandala enumerates Vedic rivers systematically starting from the Ganga in the east to the Kubha in the west."
   },
   {
     "id": 182,
@@ -2545,7 +4174,16 @@
       "Atharva Veda (Book 1)"
     ],
     "correctAnswer": "A",
-    "explanation": "Hymn 85 of the 10th Mandala depicts the celestial wedding of Surya (daughter of the Sun) and Soma, establishing marriage vows."
+    "explanation": "Hymn 85 of the 10th Mandala depicts the celestial wedding of Surya (daughter of the Sun) and Soma, establishing marriage vows.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #182] The 'Vivaha Sukta' (Marriage Hymn), which forms the liturgical core of Hindu wedding vows, is found in:",
+    "options_hi": [
+      "ऋग्वेद",
+      "ब्रह्मा (Brahma)",
+      "ब्रह्मा (Brahma)",
+      "अथर्ववेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Hymn 85 of the 10th Mandala depicts the celestial wedding of Surya (daughter of the Sun) and Soma, establishing marriage vows."
   },
   {
     "id": 183,
@@ -2559,7 +4197,16 @@
       "Sama Veda"
     ],
     "correctAnswer": "A",
-    "explanation": "Shukla Yajur Veda is preserved in two shakhas: Madhyandina and Kanva, collectively termed the Vajasaneyi Samhita."
+    "explanation": "Shukla Yajur Veda is preserved in two shakhas: Madhyandina and Kanva, collectively termed the Vajasaneyi Samhita.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #183] The 'Vajasaneyi Samhita' is the standard textual recension of which Vedic collection?",
+    "options_hi": [
+      "यजुर्वेद",
+      "अथर्ववेद",
+      "यजुर्वेद",
+      "सामवेद"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Shukla Yajur Veda is preserved in two shakhas: Madhyandina and Kanva, collectively termed the Vajasaneyi Samhita."
   },
   {
     "id": 184,
@@ -2573,7 +4220,16 @@
       "Shaunaka and Pippalada"
     ],
     "correctAnswer": "B",
-    "explanation": "Krishna Yajurveda is preserved across the Taittiriya, Maitrayani, Katha, and Kapisthala recensions."
+    "explanation": "Krishna Yajurveda is preserved across the Taittiriya, Maitrayani, Katha, and Kapisthala recensions.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #184] Which of the following Shakhas (recensions) belongs to the Krishna (Black) Yajur Veda?",
+    "options_hi": [
+      "Kauthuma and Ranayaniya",
+      "Taittiriya, Maitrayani, Katha, and Kapisthala",
+      "Shakala and Baskala",
+      "Shaunaka and Pippalada"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - Krishna Yajurveda is preserved across the Taittiriya, Maitrayani, Katha, and Kapisthala recensions."
   },
   {
     "id": 185,
@@ -2587,7 +4243,16 @@
       "Shaunaka and Pippalada"
     ],
     "correctAnswer": "D",
-    "explanation": "Out of nine traditional branches, only the Shaunaka and Pippalada Shakhas of the Atharva Veda have survived into modern times."
+    "explanation": "Out of nine traditional branches, only the Shaunaka and Pippalada Shakhas of the Atharva Veda have survived into modern times.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #185] Which are the two surviving recensions (Shakhas) of the Atharva Veda Samhita?",
+    "options_hi": [
+      "Panchavimsha and Jaiminiya",
+      "Vajasaneyi and Kanva",
+      "Aitareya and Kaushitaki",
+      "Shaunaka and Pippalada"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Out of nine traditional branches, only the Shaunaka and Pippalada Shakhas of the Atharva Veda have survived into modern times."
   },
   {
     "id": 186,
@@ -2601,7 +4266,16 @@
       "Shaunaka, Paippalada, and Charanavaidya"
     ],
     "correctAnswer": "A",
-    "explanation": "The three surviving Sama Veda schools are Kauthuma (Gujarat/Bengal), Ranayaniya (Maharashtra/Karnataka), and Jaiminiya (Kerala/Tamil Nadu)."
+    "explanation": "The three surviving Sama Veda schools are Kauthuma (Gujarat/Bengal), Ranayaniya (Maharashtra/Karnataka), and Jaiminiya (Kerala/Tamil Nadu).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #186] The three extant shakhas of the Sama Veda Samhita are:",
+    "options_hi": [
+      "Kauthuma, Ranayaniya, and Jaiminiya",
+      "Taittiriya, Maitrayani, and Katha",
+      "Shakala, Baskala, and Mandukeya",
+      "Shaunaka, Paippalada, and Charanavaidya"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The three surviving Sama Veda schools are Kauthuma (Gujarat/Bengal), Ranayaniya (Maharashtra/Karnataka), and Jaiminiya (Kerala/Tamil Nadu)."
   },
   {
     "id": 187,
@@ -2615,7 +4289,16 @@
       "The Ganapatha"
     ],
     "correctAnswer": "B",
-    "explanation": "The Nighantu was a traditional glossary of obscure Vedic words; Yaska's Nirukta is its earliest surviving systematic analytical commentary."
+    "explanation": "The Nighantu was a traditional glossary of obscure Vedic words; Yaska's Nirukta is its earliest surviving systematic analytical commentary.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #187] Yaska's 'Nirukta' is composed as a comprehensive philological commentary upon which older lexicon of Vedic terms?",
+    "options_hi": [
+      "The Dhatupatha",
+      "The Nighantu",
+      "The Amarakosha",
+      "The Ganapatha"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Nighantu was a traditional glossary of obscure Vedic words; Yaska's Nirukta is its earliest surviving systematic analytical commentary."
   },
   {
     "id": 188,
@@ -2629,7 +4312,16 @@
       "Katyayana (Vararuchi)"
     ],
     "correctAnswer": "D",
-    "explanation": "Katyayana composed the Varttikas (~3rd century BC) to explain, defend, and update Panini's aphorisms."
+    "explanation": "Katyayana composed the Varttikas (~3rd century BC) to explain, defend, and update Panini's aphorisms.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #188] Who authored the 'Varttikas', an essential supplementary critical commentary on Panini's Ashtadhyayi?",
+    "options_hi": [
+      "पतंजलि",
+      "Jayaditya",
+      "Bhartrihari",
+      "Katyayana (Vararuchi)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Katyayana composed the Varttikas (~3rd century BC) to explain, defend, and update Panini's aphorisms."
   },
   {
     "id": 189,
@@ -2643,7 +4335,16 @@
       "Panini"
     ],
     "correctAnswer": "C",
-    "explanation": "Sage Patanjali (~2nd century BC) composed the Mahabhashya, completing the grammatical triumvirate of Panini, Katyayana, and Patanjali."
+    "explanation": "Sage Patanjali (~2nd century BC) composed the Mahabhashya, completing the grammatical triumvirate of Panini, Katyayana, and Patanjali.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #189] Who composed the monumental grammatical treatise 'Mahabhashya', completing the Muni-Traya (Trio of Sages) of Sanskrit grammar?",
+    "options_hi": [
+      "यास्क",
+      "Katyayana",
+      "पतंजलि",
+      "पाणिनि"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Sage Patanjali (~2nd century BC) composed the Mahabhashya, completing the grammatical triumvirate of Panini, Katyayana, and Patanjali."
   },
   {
     "id": 190,
@@ -2657,7 +4358,16 @@
       "Apastamba Shulva Sutra"
     ],
     "correctAnswer": "A",
-    "explanation": "The Baudhayana Shulva Sutra (~800–600 BC) states that the diagonal of a rectangle produces by itself the sum of the areas produced by both sides."
+    "explanation": "The Baudhayana Shulva Sutra (~800–600 BC) states that the diagonal of a rectangle produces by itself the sum of the areas produced by both sides.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #190] Which ancient Shulva Sutra provides the earliest explicit statement of the Pythagorean geometric theorem in India?",
+    "options_hi": [
+      "बौधायन शुल्व सूत्र",
+      "Manava Shulva Sutra",
+      "Katyayana Shulva Sutra",
+      "Apastamba Shulva Sutra"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Baudhayana Shulva Sutra (~800–600 BC) states that the diagonal of a rectangle produces by itself the sum of the areas produced by both sides."
   },
   {
     "id": 191,
@@ -2671,7 +4381,16 @@
       "Ishvarakrishna"
     ],
     "correctAnswer": "D",
-    "explanation": "While sage Kapila founded the school, Ishvarakrishna (~4th century AD) authored the classical standard text 'Samkhyakarika'."
+    "explanation": "While sage Kapila founded the school, Ishvarakrishna (~4th century AD) authored the classical standard text 'Samkhyakarika'.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #191] Who authored the 'Samkhyakarika', the earliest surviving authoritative philosophical manual of the Samkhya school?",
+    "options_hi": [
+      "Panchashikha",
+      "Asuri",
+      "कपिल",
+      "Ishvarakrishna"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - While sage Kapila founded the school, Ishvarakrishna (~4th century AD) authored the classical standard text 'Samkhyakarika'."
   },
   {
     "id": 192,
@@ -2685,7 +4404,16 @@
       "Three (Pratyaksha, Anumana, Shabda)"
     ],
     "correctAnswer": "A",
-    "explanation": "Nyaya recognizes four pramanas: Pratyaksha (perception), Anumana (inference), Upamana (comparison), and Shabda (verbal testimony)."
+    "explanation": "Nyaya recognizes four pramanas: Pratyaksha (perception), Anumana (inference), Upamana (comparison), and Shabda (verbal testimony).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #192] How many pramanas (valid sources of knowledge) are formally recognized in the Nyaya epistemological system?",
+    "options_hi": [
+      "Four (Pratyaksha, Anumana, Upamana, Shabda)",
+      "Two (Pratyaksha, Anumana)",
+      "Six (including Arthapatti and Anupalabdhi)",
+      "Three (Pratyaksha, Anumana, Shabda)"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Nyaya recognizes four pramanas: Pratyaksha (perception), Anumana (inference), Upamana (comparison), and Shabda (verbal testimony)."
   },
   {
     "id": 193,
@@ -2699,7 +4427,16 @@
       "Three"
     ],
     "correctAnswer": "B",
-    "explanation": "The Vaisheshika system analyzes reality into six categories: Substance (Dravya), Quality (Guna), Action (Karma), Generality (Samanya), Particularity (Vishesha), and Inherence (Samavaya)."
+    "explanation": "The Vaisheshika system analyzes reality into six categories: Substance (Dravya), Quality (Guna), Action (Karma), Generality (Samanya), Particularity (Vishesha), and Inherence (Samavaya).",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #193] How many fundamental ontological categories (Padarthas) are classified in Kanada's Vaisheshika system?",
+    "options_hi": [
+      "Twenty-four",
+      "Six (Dravya, Guna, Karma, Samanya, Vishesha, Samavaya)",
+      "Twelve",
+      "Three"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Vaisheshika system analyzes reality into six categories: Substance (Dravya), Quality (Guna), Action (Karma), Generality (Samanya), Particularity (Vishesha), and Inherence (Samavaya)."
   },
   {
     "id": 194,
@@ -2713,7 +4450,16 @@
       "Madhvacharya"
     ],
     "correctAnswer": "C",
-    "explanation": "Adi Shankaracharya (8th century AD) established Advaita (Non-dualist) Vedanta, interpreting the Upanishads and Brahma Sutras."
+    "explanation": "Adi Shankaracharya (8th century AD) established Advaita (Non-dualist) Vedanta, interpreting the Upanishads and Brahma Sutras.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #194] The philosophical doctrine that the world is an illusion (Maya) and that Brahman alone is ultimate reality was systematically synthesized by:",
+    "options_hi": [
+      "Ramanujacharya",
+      "Vallabhacharya",
+      "आदि शंकराचार्य",
+      "Madhvacharya"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Adi Shankaracharya (8th century AD) established Advaita (Non-dualist) Vedanta, interpreting the Upanishads and Brahma Sutras."
   },
   {
     "id": 195,
@@ -2727,7 +4473,16 @@
       "Udyoga Parva"
     ],
     "correctAnswer": "A",
-    "explanation": "Chapters 23 to 40 of the Bhishma Parva constitute the 700 verses of the Bhagavad Gita."
+    "explanation": "Chapters 23 to 40 of the Bhishma Parva constitute the 700 verses of the Bhagavad Gita.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #195] The sacred philosophical discourse of the 'Bhagavad Gita' occurs in which Parva of the Mahabharata?",
+    "options_hi": [
+      "भीष्म पर्व",
+      "Drona Parva",
+      "शांति पर्व",
+      "Udyoga Parva"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - Chapters 23 to 40 of the Bhishma Parva constitute the 700 verses of the Bhagavad Gita."
   },
   {
     "id": 196,
@@ -2741,7 +4496,16 @@
       "Anushasana Parva"
     ],
     "correctAnswer": "A",
-    "explanation": "The Shanti Parva contains Bhishma's teachings to Yudhishthira from his bed of arrows on kingship, law, and liberation."
+    "explanation": "The Shanti Parva contains Bhishma's teachings to Yudhishthira from his bed of arrows on kingship, law, and liberation.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #196] Which Parva is the largest of the 18 Parvas of the Mahabharata, containing extensive discourses on statecraft and Raja Dharma?",
+    "options_hi": [
+      "शांति पर्व",
+      "Vana Parva",
+      "Sabha Parva",
+      "Anushasana Parva"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प A) - The Shanti Parva contains Bhishma's teachings to Yudhishthira from his bed of arrows on kingship, law, and liberation."
   },
   {
     "id": 197,
@@ -2755,7 +4519,16 @@
       "Shankara"
     ],
     "correctAnswer": "B",
-    "explanation": "The Dvaita philosopher Madhvacharya composed the Mahabharata-Tatparya-Nirnaya to expound the theological meaning of the epic."
+    "explanation": "The Dvaita philosopher Madhvacharya composed the Mahabharata-Tatparya-Nirnaya to expound the theological meaning of the epic.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #197] Who composed the monumental commentary 'Mahabharata-Tatparya-Nirnaya'?",
+    "options_hi": [
+      "Ramanuja",
+      "Madhvacharya",
+      "Nimbarka",
+      "Shankara"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प B) - The Dvaita philosopher Madhvacharya composed the Mahabharata-Tatparya-Nirnaya to expound the theological meaning of the epic."
   },
   {
     "id": 198,
@@ -2769,7 +4542,16 @@
       "Manusmriti"
     ],
     "correctAnswer": "C",
-    "explanation": "Vijnaneshvara (11th century) authored the Mitakshara, a commentary on the Yajnavalkya Smriti governing Hindu inheritance."
+    "explanation": "Vijnaneshvara (11th century) authored the Mitakshara, a commentary on the Yajnavalkya Smriti governing Hindu inheritance.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #198] Which Smriti is famous for its legal clarity and the commentary written upon it by Vijnaneshvara known as the 'Mitakshara'?",
+    "options_hi": [
+      "Narada Smriti",
+      "Brihaspati Smriti",
+      "Yajnavalkya Smriti",
+      "Manusmriti"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प C) - Vijnaneshvara (11th century) authored the Mitakshara, a commentary on the Yajnavalkya Smriti governing Hindu inheritance."
   },
   {
     "id": 199,
@@ -2783,7 +4565,16 @@
       "Jimutavahana"
     ],
     "correctAnswer": "D",
-    "explanation": "Jimutavahana authored the Dayabhaga (~12th century), which became the pre-eminent legal code for inheritance in Bengal and Assam."
+    "explanation": "Jimutavahana authored the Dayabhaga (~12th century), which became the pre-eminent legal code for inheritance in Bengal and Assam.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #199] The rival school of Hindu inheritance law known as 'Dayabhaga' was authored by:",
+    "options_hi": [
+      "Medhatithi",
+      "Kulluka Bhatta",
+      "Vijnaneshvara",
+      "Jimutavahana"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - Jimutavahana authored the Dayabhaga (~12th century), which became the pre-eminent legal code for inheritance in Bengal and Assam."
   },
   {
     "id": 200,
@@ -2797,6 +4588,15 @@
       "Dharma Sutras and Smritis"
     ],
     "correctAnswer": "D",
-    "explanation": "The classical Ashrama framework was fully codified in the Dharma Sutras (Apastamba, Gautama) and early Smritis as an organized societal pathway."
+    "explanation": "The classical Ashrama framework was fully codified in the Dharma Sutras (Apastamba, Gautama) and early Smritis as an organized societal pathway.",
+    "topic_hi": "वैदिक साहित्य एवं संस्कृति",
+    "question_hi": "[प्रश्न #200] The famous passage comparing the four stages of life (Ashramas) to an ascent toward spiritual liberation was first systematized in which class of literature?",
+    "options_hi": [
+      "शुल्व सूत्र (वेदी ज्यामिति)",
+      "ऋग्वेद",
+      "सामवेद",
+      "धर्म सूत्र"
+    ],
+    "explanation_hi": "(उत्तर: विकल्प D) - The classical Ashrama framework was fully codified in the Dharma Sutras (Apastamba, Gautama) and early Smritis as an organized societal pathway."
   }
 ]
