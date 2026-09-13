@@ -1,0 +1,10 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Large raw PDF files (prevents GitHub 50MB+ push warnings)
+docs/*.pdf
+
+# Node / Dependencies
+node_modules/
+npm-debug.log*
