@@ -11498,5 +11498,4605 @@
     "correctAnswer": "C",
     "explanation": "Mahavira passed away at Pavapuri in modern Nalanda district of Bihar.",
     "explanation_hi": "(सही उत्तर: विकल्प C) — महावीर स्वामी ने बिहार के आधुनिक नालंदा जिले में स्थित पावापुरी में निर्वाण प्राप्त किया।"
+  },
+  {
+    "id": 501,
+    "difficulty": "Difficult",
+    "topic": "Post-Mauryan - Sunga Dynasty",
+    "topic_hi": "मौर्योत्तर काल - शुंग वंश",
+    "question": "[Part-3 Q#501] Who established the Sunga Dynasty in 185 BC after assassinating the last Mauryan ruler Brihadratha?",
+    "question_hi": "185 ईसा पूर्व में अंतिम मौर्य शासक बृहद्रथ की हत्या करके शुंग वंश की स्थापना किसने की थी?",
+    "options": [
+      "Agnimitra",
+      "Pushyamitra Sunga",
+      "Vasumitra",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "अग्निमित्र",
+      "पुष्यमित्र शुंग",
+      "वसुमित्र",
+      "देवभूति"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pushyamitra Sunga, the commander-in-chief (Senapati) of Brihadratha, established the Sunga Dynasty with Vidisha/Pataliputra as capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — मौर्य सेनापति पुष्यमित्र शुंग ने अंतिम मौर्य राजा बृहद्रथ की हत्या कर 185 ईसा पूर्व में शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 502,
+    "difficulty": "Moderate",
+    "topic": "Sunga Dynasty - Patanjali",
+    "topic_hi": "शुंग वंश - पतंजलि",
+    "question": "[Part-3 Q#502] Which great grammarian and philosopher was the contemporary and chief priest of Pushyamitra Sunga's two Ashvamedha sacrifices?",
+    "question_hi": "पुष्यमित्र शुंग द्वारा किए गए दो अश्वमेध यज्ञों के मुख्य पुरोहित कौन से महान वैयाकरण थे?",
+    "options": [
+      "Patanjali",
+      "Panini",
+      "Katyayana",
+      "Charaka"
+    ],
+    "options_hi": [
+      "पतंजलि",
+      "पाणिनि",
+      "कात्यायन",
+      "चरक"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Patanjali, the author of the 'Mahabhashya', was the royal priest who conducted two Ashvamedha yajnas for Pushyamitra Sunga.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — महाभाष्य के रचयिता महर्षि पतंजलि पुष्यमित्र शुंग के समकालीन थे और उन्होंने उसके दो अश्वमेध यज्ञ संपन्न कराए थे।"
+  },
+  {
+    "id": 503,
+    "difficulty": "Easy",
+    "topic": "Sunga Dynasty - Bharhut",
+    "topic_hi": "शुंग वंश - भरहुत स्तूप",
+    "question": "[Part-3 Q#503] The monumental stone railing and decorative gateways of the famous Bharhut Stupa in Madhya Pradesh were constructed during which dynasty?",
+    "question_hi": "मध्य प्रदेश के प्रसिद्ध भरहुत स्तूप की पाषाण वेदिका (रेलिंग) और तोरण द्वार का निर्माण किस वंश के काल में हुआ था?",
+    "options": [
+      "Mauryan Dynasty",
+      "Sunga Dynasty",
+      "Kushana Dynasty",
+      "Gupta Dynasty"
+    ],
+    "options_hi": [
+      "मौर्य वंश",
+      "शुंग वंश",
+      "कुषाण वंश",
+      "गुप्त वंश"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The stone gateways and balustrade surrounding the Bharhut Stupa were erected during the reign of the Sungas.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — भरहुत स्तूप के चारों ओर सुंदर नक्काशीदार पाषाण रेलिंग और तोरणों का निर्माण शुंग काल में किया गया था।"
+  },
+  {
+    "id": 504,
+    "difficulty": "Difficult",
+    "topic": "Kalidasa's Drama - Agnimitra",
+    "topic_hi": "कालिदास का नाटक - अग्निमित्र",
+    "question": "[Part-3 Q#504] The Sunga prince Agnimitra is the celebrated hero of which classical Sanskrit drama authored by Kalidasa?",
+    "question_hi": "शुंग राजकुमार अग्निमित्र महाकवि कालिदास के किस प्रसिद्ध संस्कृत नाटक का नायक है?",
+    "options": [
+      "Abhijnanashakuntalam",
+      "Malavikagnimitram",
+      "Vikramorvashiyam",
+      "Mudrarakshasa"
+    ],
+    "options_hi": [
+      "अभिज्ञानशाकुंतलम्",
+      "मालविकाग्निमित्रम्",
+      "विक्रमोर्वशीयम्",
+      "मुद्राराक्षस"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Kalidasa's first play, 'Malavikagnimitram', depicts the love affair of Sunga king Agnimitra and maiden Malavika.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — कालिदास के प्रथम नाटक 'मालविकाग्निमित्रम्' का नायक शुंग शासक अग्निमित्र है।"
+  },
+  {
+    "id": 505,
+    "difficulty": "Easy",
+    "topic": "Satavahana Dynasty",
+    "topic_hi": "सातवाहन वंश",
+    "question": "[Part-3 Q#505] Who was the founder of the powerful Satavahana (Andhra) Dynasty in the Deccan?",
+    "question_hi": "दक्कन में शक्तिशाली सातवाहन (आंध्र) वंश की स्थापना किसने की थी?",
+    "options": [
+      "Hala",
+      "Satakarni I",
+      "Gautamiputra Satakarni",
+      "Simuka"
+    ],
+    "options_hi": [
+      "हाल",
+      "शातकर्णी प्रथम",
+      "गौतमीपुत्र शातकर्णी",
+      "सिमुक"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।"
+  },
+  {
+    "id": 506,
+    "difficulty": "Moderate",
+    "topic": "Satavahana - Coins",
+    "topic_hi": "सातवाहन - मुद्राएं",
+    "question": "[Part-3 Q#506] The Satavahanas are historically famous for issuing the largest number of coins made of which unique metal?",
+    "question_hi": "सातवाहन शासक किस विशेष धातु के सर्वाधिक सिक्के जारी करने के लिए इतिहास में प्रसिद्ध हैं?",
+    "options": [
+      "Silver only",
+      "Pure Gold",
+      "Lead (Potin)",
+      "Iron"
+    ],
+    "options_hi": [
+      "केवल चांदी",
+      "शुद्ध सोना",
+      "सीसा (पोटिन)",
+      "लोहा"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Satavahanas predominantly minted coins of lead, potin (base metal alloy), copper, and bronze.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — सातवाहन शासकों ने सर्वाधिक सिक्के सीसे (Lead) और पोटिन के जारी किए थे।"
+  },
+  {
+    "id": 507,
+    "difficulty": "Difficult",
+    "topic": "Satavahana - Gautamiputra Satakarni",
+    "topic_hi": "सातवाहन - गौतमीपुत्र शातकर्णी",
+    "question": "[Part-3 Q#507] Which Satavahana ruler is celebrated in the Nasik Prasasti as 'Ekabrahmana' and the destroyer of the Sakas?",
+    "question_hi": "नासिक प्रशस्ति में किस सातवाहन शासक को 'एकाब्राह्मण' और शकों का विनाशक कहा गया है?",
+    "options": [
+      "Simuka",
+      "Vashishtiputra Pulumayi",
+      "Gautamiputra Satakarni",
+      "Hala"
+    ],
+    "options_hi": [
+      "सिमुक",
+      "वासिष्ठीपुत्र पुलुमावी",
+      "गौतमीपुत्र शातकर्णी",
+      "हाल"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Gautamiputra Satakarni (106–130 AD) was the greatest Satavahana king, praised by his mother Gautami Balasri in the Nasik cave inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — गौतमीपुत्र शातकर्णी (23वां राजा) को नासिक प्रशस्ति में 'अद्वितीय ब्राह्मण' और क्षत्रियों के दर्प का दमन करने वाला कहा गया है।"
+  },
+  {
+    "id": 508,
+    "difficulty": "Moderate",
+    "topic": "Satavahana - Literature",
+    "topic_hi": "सातवाहन - प्राकृत साहित्य",
+    "question": "[Part-3 Q#508] The 17th Satavahana ruler, King Hala, composed the celebrated Prakrit poetic anthology known as:",
+    "question_hi": "17वें सातवाहन राजा हाल ने प्राकृत भाषा में किस प्रसिद्ध मुक्तक काव्य ग्रंथ की रचना की थी?",
+    "options": [
+      "Brihatkatha",
+      "Gatha Saptasati (Sattasai)",
+      "Kavyamimamsa",
+      "Lilavati"
+    ],
+    "options_hi": [
+      "बृहत्कथा",
+      "गाथासप्तशती (सत्तसई)",
+      "काव्यमीमांसा",
+      "लीलावती"
+    ],
+    "correctAnswer": "B",
+    "explanation": "King Hala composed 'Gatha Saptasati' (700 romantic couplets in Maharashtri Prakrit). Gunadhya, author of Brihatkatha, was in his court.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — राजा हाल ने महाराष्ट्री प्राकृत में 700 श्लोकों का संग्रह 'गाथासप्तशती' लिखा था।"
+  },
+  {
+    "id": 509,
+    "difficulty": "Easy",
+    "topic": "Chedi Dynasty - Hathigumpha",
+    "topic_hi": "चेदि वंश - हाथीगुंफा अभिलेख",
+    "question": "[Part-3 Q#509] The biographical and chronological military expeditions of King Kharavela of Kalinga are engraved in which famous inscription?",
+    "question_hi": "कलिंग के महान शासक खारवेल के जीवन और सैन्य अभियानों का प्रामाणिक विवरण किस प्रसिद्ध अभिलेख में उत्कीर्ण है?",
+    "options": [
+      "Junagarh Inscription",
+      "Hathigumpha Inscription (Udayagiri)",
+      "Aihole Inscription",
+      "Nasik Cave Inscription"
+    ],
+    "options_hi": [
+      "जूनागढ़ अभिलेख",
+      "हाथीगुंफा अभिलेख (उदयगिरि)",
+      "एहोल अभिलेख",
+      "नासिक गुहा अभिलेख"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The undated Prakrit Hathigumpha inscription on the Udayagiri hills near Bhubaneswar records Kharavela's military conquests year-by-year.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — भुवनेश्वर के निकट उदयगिरि की हाथीगुंफा में बिना तिथि वाला प्राकृत अभिलेख खारवेल के शासन के 13 वर्षों का क्रमबद्ध विवरण देता है।"
+  },
+  {
+    "id": 510,
+    "difficulty": "Difficult",
+    "topic": "Indo-Greeks - Gold Coins",
+    "topic_hi": "हिन्द-यूनानी - स्वर्ण मुद्राएं",
+    "question": "[Part-3 Q#510] Who were the FIRST rulers in Indian history to issue regular gold coins with portrait busts and bilingual legends?",
+    "question_hi": "भारतीय इतिहास में राजाओं के नाम और छवि वाले नियमित स्वर्ण सिक्के जारी करने वाले प्रथम शासक कौन थे?",
+    "options": [
+      "Mauryas",
+      "Kushanas",
+      "Guptas",
+      "Indo-Greeks (Bactrians)"
+    ],
+    "options_hi": [
+      "मौर्य",
+      "कुषाण",
+      "गुप्त",
+      "हिन्द-यूनानी (इंडो-ग्रीक)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Indo-Greeks were the first to issue gold coins bearing royal portraits and inscriptions in Greek and Kharosthi.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — भारत में सबसे पहले नियमित सोने के सिक्के हिन्द-यूनानी शासकों द्वारा जारी किए गए थे।"
+  },
+  {
+    "id": 511,
+    "difficulty": "Easy",
+    "topic": "Indo-Greeks - Milindapanho",
+    "topic_hi": "हिन्द-यूनानी - मिलिंदपन्हो",
+    "question": "[Part-3 Q#511] The philosophical Pali dialogue 'Milindapanho' records conversations between Indo-Greek King Menander and which Buddhist monk?",
+    "question_hi": "प्रसिद्ध पालि दार्शनिक ग्रंथ 'मिलिंदपन्हो' में हिन्द-यूनानी राजा मिनांडर (मिलिंद) और किस बौद्ध भिक्षु के संवाद संकलित हैं?",
+    "options": [
+      "Moggaliputta Tissa",
+      "Ashvaghosha",
+      "Vasumitra",
+      "Nagasena (Nagajuna)"
+    ],
+    "options_hi": [
+      "मोग्गलिपुत्त तिस्स",
+      "अश्वघोष",
+      "वसुमित्र",
+      "नागसेन"
+    ],
+    "correctAnswer": "D",
+    "explanation": "King Menander questioned Buddhist monk Nagasena, and his intellectual queries and eventual conversion are compiled in 'Milindapanho'.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — राजा मिनांडर ने बौद्ध धर्म स्वीकार करने से पूर्व भिक्षु नागसेन से अनेक दार्शनिक प्रश्न पूछे जो 'मिलिंदपन्हो' में संकलित हैं।"
+  },
+  {
+    "id": 512,
+    "difficulty": "Moderate",
+    "topic": "Sakas - Rudradaman I",
+    "topic_hi": "शक - रुद्रदामन प्रथम",
+    "question": "[Part-3 Q#512] The first long and grammatically flawless inscription in chaste Classical Sanskrit was engraved at Junagarh by:",
+    "question_hi": "विशुद्ध संस्कृत भाषा में उत्कीर्ण पहला विशाल और प्रामाणिक अभिलेख जूनागढ़ में किसके द्वारा लिखवाया गया था?",
+    "options": [
+      "Saka King Rudradaman I",
+      "Kanishka",
+      "Samudragupta",
+      "Chandragupta II"
+    ],
+    "options_hi": [
+      "शक शासक रुद्रदामन प्रथम",
+      "कनिष्क",
+      "समुद्रगुप्त",
+      "चन्द्रगुप्त द्वितीय"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Junagarh rock inscription (150 AD) of Rudradaman I is the earliest long epigraph in pure Classical Sanskrit.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — रुद्रदामन प्रथम (150 ईस्वी) का गिरनार (जूनागढ़) अभिलेख संस्कृत गद्य का प्राचीनतम उत्कृष्ट नमूना है।"
+  },
+  {
+    "id": 513,
+    "difficulty": "Difficult",
+    "topic": "Sudarshana Lake",
+    "topic_hi": "सुदर्शन झील का जीर्णोद्धार",
+    "question": "[Part-3 Q#513] Saka ruler Rudradaman I earned historic fame for repairing which ancient lake in Saurashtra without imposing taxes on subjects?",
+    "question_hi": "शक राजा रुद्रदामन प्रथम ने प्रजा पर कोई अतिरिक्त कर लगाए बिना सौराष्ट्र की किस प्राचीन झील के बांध का जीर्णोद्धार कराया था?",
+    "options": [
+      "Chilika Lake",
+      "Pushkar Lake",
+      "Nal Lake",
+      "Sudarshana Lake"
+    ],
+    "options_hi": [
+      "चिल्का झील",
+      "पुष्कर झील",
+      "नल झील",
+      "सुदर्शन झील"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Originally built by Chandragupta Maurya's governor Pushyagupta, the dam of Lake Sudarshana was rebuilt by Rudradaman at his own expense.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — मौर्यों द्वारा निर्मित सुदर्शन झील के टूट जाने पर रुद्रदामन ने अपने निजी कोष से उसका पुनर्निर्माण कराया था।"
+  },
+  {
+    "id": 514,
+    "difficulty": "Moderate",
+    "topic": "Kushana Dynasty - Kanishka",
+    "topic_hi": "कुषाण वंश - कनिष्क",
+    "question": "[Part-3 Q#514] Kanishka ascended the Kushana throne in 78 AD, inaugurating which historic era adopted by the Government of India?",
+    "question_hi": "78 ईस्वी में कनिष्क के राज्यारोहण के उपलक्ष्य में किस ऐतिहासिक संवत की शुरुआत हुई जिसे भारत सरकार का राष्ट्रीय संवत माना गया है?",
+    "options": [
+      "Gupta Era (319 AD)",
+      "Vikrama Era (58 BC)",
+      "Saka Era (78 AD)",
+      "Harsha Era (606 AD)"
+    ],
+    "options_hi": [
+      "गुप्त संवत (319 ई.)",
+      "विक्रम संवत (58 ई.पू.)",
+      "शक संवत (78 ई.)",
+      "हर्ष संवत (606 ई.)"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kanishka founded the Saka Era in 78 AD, which serves as the base of the official Indian National Calendar.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कनिष्क ने 78 ईस्वी में राज्यारोहण के समय शक संवत का प्रवर्तन किया, जो भारत का राष्ट्रीय कैलेंडर है।"
+  },
+  {
+    "id": 515,
+    "difficulty": "Easy",
+    "topic": "Kushana - Capitals",
+    "topic_hi": "कुषाण - राजधानियां",
+    "question": "[Part-3 Q#515] What were the two primary capitals of Emperor Kanishka's vast Eurasian empire?",
+    "question_hi": "कुषाण सम्राट कनिष्क के विशाल साम्राज्य की दो प्रमुख राजधानियां कौन सी थीं?",
+    "options": [
+      "Sarnath and Kausambi",
+      "Taxila and Pataliputra",
+      "Ujjain and Vidisha",
+      "Purushapura (Peshawar) and Mathura"
+    ],
+    "options_hi": [
+      "सारनाथ और कौशाम्बी",
+      "तक्षशिला और पाटलिपुत्र",
+      "उज्जैन और विदिशा",
+      "पुरुषपुर (पेशावर) और मथुरा"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Purushapura (modern Peshawar) was Kanishka's primary political capital, while Mathura served as his second cultural capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — कनिष्क की प्रथम राजधानी पुरुषपुर (पेशावर) तथा द्वितीय राजधानी मथुरा थी।"
+  },
+  {
+    "id": 516,
+    "difficulty": "Difficult",
+    "topic": "Kushana - Court Scholars",
+    "topic_hi": "कुषाण - दरबारी विद्वान",
+    "question": "[Part-3 Q#516] Which physician, considered the 'Father of Indian Medicine' and author of Charaka Samhita, adorned the court of Kanishka?",
+    "question_hi": "'भारतीय चिकित्सा शास्त्र के जनक' माने जाने वाले चरक संहिता के रचयिता महर्षि चरक किसके राजवैद्य थे?",
+    "options": [
+      "Emperor Kanishka",
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "सम्राट कनिष्क",
+      "चन्द्रगुप्त मौर्य",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Charaka, author of the foundational Ayurvedic medical encyclopaedia 'Charaka Samhita', was the royal physician of Kanishka.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — आयुर्वेद के विख्यात आचार्य चरक कुषाण सम्राट कनिष्क के राजदरबार में राजवैद्य थे।"
+  },
+  {
+    "id": 517,
+    "difficulty": "Easy",
+    "topic": "Sangam Age - Assemblies",
+    "topic_hi": "संगम काल - परिषदें",
+    "question": "[Part-3 Q#517] The three historic Sangams (literary academies of Tamil poets) were convened under the royal patronage of which dynasty?",
+    "question_hi": "तीन ऐतिहासिक तमिल संगमों (कवि परिषदों) का आयोजन किस राजवंश के संरक्षण में मदुरै और कपाटपुरम में हुआ था?",
+    "options": [
+      "Chola Dynasty",
+      "Pandya Dynasty",
+      "Chera Dynasty",
+      "Pallava Dynasty"
+    ],
+    "options_hi": [
+      "चोल वंश",
+      "पाण्ड्य वंश",
+      "चेर वंश",
+      "पल्लव वंश"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Pandya rulers of Madurai were the royal patrons of all three Sangams of classical Tamil literature.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — तीनों संगमों का आयोजन मदुरै के पाण्ड्य राजाओं के संरक्षण में किया गया था।"
+  },
+  {
+    "id": 518,
+    "difficulty": "Moderate",
+    "topic": "Sangam - Tolkappiyam",
+    "topic_hi": "संगम - तोलकाप्पियम",
+    "question": "[Part-3 Q#518] The oldest surviving masterwork of classical Tamil grammar and poetics, 'Tolkappiyam', was authored by:",
+    "question_hi": "तमिल व्याकरण और काव्यशास्त्र का प्राचीनतम उपलब्ध मानक ग्रंथ 'तोलकाप्पियम' किसकी रचना है?",
+    "options": [
+      "Ilango Adigal",
+      "Tolkappiyar",
+      "Tiruvalluvar",
+      "Sittalai Sattanar"
+    ],
+    "options_hi": [
+      "इलांगो आदिगल",
+      "तोलकाप्पियर",
+      "तिरुवल्लुवर",
+      "शीतलै सत्तनार"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tolkappiyar (a disciple of Sage Agastya) composed the Tolkappiyam during the Second Sangam.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — तोलकाप्पियम द्वितीय संगम की एकमात्र जीवित रचना है जिसे तोलकाप्पियर ने लिखा था।"
+  },
+  {
+    "id": 519,
+    "difficulty": "Difficult",
+    "topic": "Sangam - Tirukkural",
+    "topic_hi": "संगम - तिरुक्कुरल",
+    "question": "[Part-3 Q#519] Which philosophical text, authored by Tiruvalluvar, is revered as the 'Bible of the Tamil Land' (Fifth Veda of Tamil)?",
+    "question_hi": "संत तिरुवल्लुवर द्वारा रचित किस नीतिपरक ग्रंथ को 'तमिल भूमि की बाइबल' और पंचम वेद माना जाता है?",
+    "options": [
+      "Manimekalai",
+      "Silappadikaram",
+      "Tirukkural (Kural)",
+      "Naladiyar"
+    ],
+    "options_hi": [
+      "मणिमेकलै",
+      "शिलप्पादिकारम्",
+      "तिरुक्कुरल (कुरल)",
+      "नालदियार"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tirukkural composed by Tiruvalluvar comprises 1,330 couplets categorized into Dharma (Aram), Artha (Porul), and Kama (Inbam).",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — तिरुवल्लुवर कृत 'तिरुक्कुरल' तमिल साहित्य का अप्रतिम नीतिग्रंथ है जिसे तमिल बाइबिल कहा जाता है।"
+  },
+  {
+    "id": 520,
+    "difficulty": "Moderate",
+    "topic": "Sangam - Silappadikaram",
+    "topic_hi": "संगम - शिलप्पादिकारम्",
+    "question": "[Part-3 Q#520] The tragic romantic epic 'Silappadikaram' (The Tale of the Anklet), featuring Kovalan and Kannagi, was composed by:",
+    "question_hi": "कोवलन और कण्णगि के अमर प्रेम पर आधारित प्रसिद्ध तमिल महाकाव्य 'शिलप्पादिकारम्' (नूपुर की कहानी) के रचयिता कौन थे?",
+    "options": [
+      "Sittalai Sattanar",
+      "Ilango Adigal",
+      "Tiruvalluvar",
+      "Kamban"
+    ],
+    "options_hi": [
+      "शीतलै सत्तनार",
+      "इलांगो आदिगल",
+      "तिरुवल्लुवर",
+      "कंबन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Prince Ilango Adigal (brother of Chera king Senguttuvan) composed the famous epic Silappadikaram.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — चेर राजकुमार इलांगो आदिगल ने प्रसिद्ध महाकाव्य शिलप्पादिकारम् की रचना की थी।"
+  },
+  {
+    "id": 521,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Founder",
+    "topic_hi": "गुप्त वंश - संस्थापक",
+    "question": "[Part-3 Q#521] Who was the founder of the Gupta Dynasty around 275 AD?",
+    "question_hi": "लगभग 275 ईस्वी में गुप्त वंश की स्थापना किसने की थी?",
+    "options": [
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Samudragupta"
+    ],
+    "options_hi": [
+      "श्रीगुप्त",
+      "घटोत्कच",
+      "चन्द्रगुप्त प्रथम",
+      "समुद्रगुप्त"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sri Gupta founded the dynasty and took the title of 'Maharaja', succeeded by his son Ghatotkacha.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गुप्त राजवंश की स्थापना श्रीगुप्त द्वारा की गई थी और उसने 'महाराजा' की उपाधि धारण की थी।"
+  },
+  {
+    "id": 522,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Chandragupta I",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त प्रथम",
+    "question": "[Part-3 Q#522] Who was the first Gupta monarch to assume the supreme imperial title of 'Maharajadhiraja'?",
+    "question_hi": "'महाराजाधिराज' की भव्य साम्राज्यिक उपाधि धारण करने वाला प्रथम गुप्त सम्राट कौन था?",
+    "options": [
+      "Ghatotkacha",
+      "Sri Gupta",
+      "Chandragupta I",
+      "Kumaragupta I"
+    ],
+    "options_hi": [
+      "घटोत्कच",
+      "श्रीगुप्त",
+      "चन्द्रगुप्त प्रथम",
+      "कुमारगुप्त प्रथम"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Chandragupta I (319–335 AD) founded the Gupta Era in 319 AD and married the Lichchhavi princess Kumaradevi.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — चन्द्रगुप्त प्रथम ने 319 ईस्वी में गुप्त संवत चलाया और 'महाराजाधिराज' की पदवी ग्रहण की।"
+  },
+  {
+    "id": 523,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Samudragupta",
+    "topic_hi": "गुप्त वंश - समुद्रगुप्त",
+    "question": "[Part-3 Q#523] Which British historian famously described Emperor Samudragupta as the 'Napoleon of India' for his unbroken military conquests?",
+    "question_hi": "किस ब्रिटिश इतिहासकार ने सम्राट समुद्रगुप्त के अजेय सैन्य अभियानों के कारण उसे 'भारत का नेपोलियन' कहा था?",
+    "options": [
+      "Max Muller",
+      "A.L. Basham",
+      "Sir William Jones",
+      "Vincent A. Smith"
+    ],
+    "options_hi": [
+      "मैक्स मूलर",
+      "ए. एल. बाशम",
+      "सर विलियम जोन्स",
+      "विंसेंट ए. स्मिथ"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Historian V.A. Smith in 'Early History of India' designated Samudragupta the 'Napoleon of India'.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — विंसेंट स्मिथ ने समुद्रगुप्त की दिग्विजयों और वीरता को देखकर उसे 'भारत का नेपोलियन' की संज्ञा दी।"
+  },
+  {
+    "id": 524,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Prayaga Prashasti",
+    "topic_hi": "गुप्त वंश - प्रयाग प्रशस्ति",
+    "question": "[Part-3 Q#524] The celebrated Prayaga Prashasti (Allahabad Pillar inscription) recording Samudragupta's conquests was composed in chaste Sanskrit by:",
+    "question_hi": "समुद्रगुप्त की विजयों का गुणगान करने वाली विख्यात 'प्रयाग प्रशस्ति' (इलाहाबाद स्तंभ लेख) की रचना किसने की थी?",
+    "options": [
+      "Banabhatta",
+      "Kalidasa",
+      "Court poet Harisena",
+      "Ravikirti"
+    ],
+    "options_hi": [
+      "बाणभट्ट",
+      "कालिदास",
+      "दरबारी कवि हरिषेण",
+      "रविकीर्ति"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Harisena, Samudragupta's court poet and minister for war and peace (Sandhivigrahika), composed the Prayaga Prashasti in Champu Kavya.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — महादंडनायक और संधि-विग्रहिक हरिषेण ने कौशाम्बी/इलाहाबाद के अशोक स्तंभ पर चम्पू शैली में प्रयाग प्रशस्ति लिखी थी।"
+  },
+  {
+    "id": 525,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Coins of Samudragupta",
+    "topic_hi": "गुप्त वंश - वीणा बजाते सिक्के",
+    "question": "[Part-3 Q#525] Samudragupta's passion for music is proven by gold coins depicting him playing which classical musical instrument?",
+    "question_hi": "सम्राट समुद्रगुप्त के संगीत प्रेम का प्रत्यक्ष प्रमाण उन स्वर्ण मुद्राओं से मिलता है जिन पर उन्हें क्या बजाते हुए दर्शाया गया है?",
+    "options": [
+      "Flute",
+      "Veena (Lute)",
+      "Mridangam",
+      "Sitar"
+    ],
+    "options_hi": [
+      "बांसुरी",
+      "वीणा",
+      "मृदंगम",
+      "सितार"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Samudragupta issued gold coins with the legend 'Kaviraja' showing the emperor seated on a couch playing the Veena.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — समुद्रगुप्त के वीणा-वादन प्रकार के सिक्कों पर उसे सोफे पर बैठकर वीणा बजाते दिखाया गया है।"
+  },
+  {
+    "id": 526,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Chandragupta II",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त द्वितीय विक्रमादित्य",
+    "question": "[Part-3 Q#526] Which Chinese Buddhist pilgrim visited India during the glorious reign of Chandragupta II Vikramaditya?",
+    "question_hi": "सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य के समृद्ध शासनकाल में किस चीनी बौद्ध यात्री ने भारत की यात्रा की थी?",
+    "options": [
+      "Sung-Yun",
+      "Hiuen-Tsang (Xuanzang)",
+      "I-Tsing (Yijing)",
+      "Fa-Hien (Faxian)"
+    ],
+    "options_hi": [
+      "सुंग-युन",
+      "ह्वेनसांग",
+      "इत्सिंग",
+      "फाह्यान"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Fa-Hien visited India between 399 and 414 AD to collect Buddhist manuscripts, praising the peace and prosperity of the Gupta realm.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — फाह्यान ने 399 से 414 ईस्वी के बीच भारत भ्रमण किया और गुप्त साम्राज्य की शांति व न्याय व्यवस्था की भूरि-भूरि प्रशंसा की।"
+  },
+  {
+    "id": 527,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Mehrauli Pillar",
+    "topic_hi": "गुप्त वंश - महरौली लौह स्तंभ",
+    "question": "[Part-3 Q#527] The rustless 4th-century Iron Pillar standing near the Qutub Minar in Mehrauli, Delhi, bears an inscription praising King:",
+    "question_hi": "कुतुब मीनार परिसर (महरौली, दिल्ली) में स्थित जंग-रहित ऐतिहासिक लौह स्तंभ पर किस राजा 'चन्द्र' की विजयों का उल्लेख है?",
+    "options": [
+      "Chandra (Chandragupta II Vikramaditya)",
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "चन्द्र (चन्द्रगुप्त द्वितीय विक्रमादित्य)",
+      "चन्द्रगुप्त मौर्य",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Mehrauli Iron Pillar commemorates King Chandra (identified with Chandragupta II) defeating the Vahlikas across the Indus.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — महरौली का जंग-रहित लौह स्तंभ गुप्त सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य की बंगाल और बह्लीक विजय का साक्षी है।"
+  },
+  {
+    "id": 528,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Nalanda University",
+    "topic_hi": "गुप्त वंश - नालंदा विश्वविद्यालय",
+    "question": "[Part-3 Q#528] Which Gupta emperor founded the world-famous Buddhist monastic university of Nalanda in Bihar?",
+    "question_hi": "बिहार में विश्वविख्यात प्राचीन नालंदा महाविहार (विश्वविद्यालय) की स्थापना किस गुप्त सम्राट ने की थी?",
+    "options": [
+      "Samudragupta",
+      "Kumaragupta I (Mahendraditya)",
+      "Chandragupta II",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "समुद्रगुप्त",
+      "कुमारगुप्त प्रथम (महेंद्रादित्य)",
+      "चन्द्रगुप्त द्वितीय",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Kumaragupta I (415–455 AD), adopting the title Mahendraditya, founded Nalanda Mahavihara, which became an international center of learning.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — कुमारगुप्त प्रथम महेंद्रादित्य ने 5वीं शताब्दी में विश्वप्रसिद्ध नालंदा विश्वविद्यालय की नींव रखी थी।"
+  },
+  {
+    "id": 529,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Skandagupta",
+    "topic_hi": "गुप्त वंश - स्कंदगुप्त एवं हूण",
+    "question": "[Part-3 Q#529] Which courageous Gupta emperor successfully repelled the savage invasions of the White Hunas under Toramana and Mihirakula?",
+    "question_hi": "किस साहसी गुप्त सम्राट ने श्वेत हूणों के बर्बर आक्रमणों को सफलतापूर्वक विफल कर भारत की रक्षा की थी?",
+    "options": [
+      "Skandagupta",
+      "Kumaragupta I",
+      "Buddhagupta",
+      "Purugupta"
+    ],
+    "options_hi": [
+      "स्कंदगुप्त",
+      "कुमारगुप्त प्रथम",
+      "बुधगुप्त",
+      "पुरुगुप्त"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Skandagupta (455–467 AD) crushed the fierce Hunas, documented in his Bhitari pillar inscription in Ghazipur, UP.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — स्कंदगुप्त ने गाजीपुर के भीतरी स्तंभ अभिलेख के अनुसार हूणों को परास्त कर देश को उनके अत्याचारों से बचाया था।"
+  },
+  {
+    "id": 530,
+    "difficulty": "Moderate",
+    "topic": "Gupta Science - Aryabhata",
+    "topic_hi": "गुप्त विज्ञान - आर्यभट्ट",
+    "question": "[Part-3 Q#530] Who authored 'Aryabhatiya' and 'Surya Siddhanta', discovering that the Earth is spherical and rotates on its own axis?",
+    "question_hi": "किस महान खगोलशास्त्री ने 'आर्यभटीय' लिखकर सिद्ध किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है?",
+    "options": [
+      "Varahamihira",
+      "Aryabhata",
+      "Brahmagupta",
+      "Bhaskaracharya"
+    ],
+    "options_hi": [
+      "वराहमिहिर",
+      "आर्यभट्ट",
+      "ब्रह्मगुप्त",
+      "भास्कराचार्य"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Aryabhata (born 476 AD at Pataliputra) formulated zero, decimal place value, value of pi (3.1416), and the solar-lunar eclipse rationale.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — आर्यभट्ट ने पाई का मान (3.1416), शून्य का प्रयोग और चंद्रग्रहण व सूर्यग्रहण का वैज्ञानिक कारण सर्वप्रथम प्रतिपादित किया।"
+  },
+  {
+    "id": 531,
+    "difficulty": "Difficult",
+    "topic": "Gupta Science - Varahamihira",
+    "topic_hi": "गुप्त विज्ञान - वराहमिहिर",
+    "question": "[Part-3 Q#531] The monumental encyclopaedic Sanskrit treatises 'Brihat Samhita' and 'Pancha Siddhantika' were authored by:",
+    "question_hi": "विशाल संस्कृत ज्ञानकोश 'बृहत्संहिता' और 'पंचसिद्धांतिका' के रचयिता कौन थे?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Varahamihira",
+      "Lagadha Muni"
+    ],
+    "options_hi": [
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "लगध मुनि"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Varahamihira was one of the Navaratnas of Chandragupta II, summarizing five ancient astronomical systems in Pancha Siddhantika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — वराहमिहिर चन्द्रगुप्त द्वितीय के नवरत्नों में से एक थे और उन्होंने खगोल तथा ऋतुविज्ञान पर बृहत्संहिता लिखी।"
+  },
+  {
+    "id": 532,
+    "difficulty": "Moderate",
+    "topic": "Gupta Science - Brahmagupta",
+    "topic_hi": "गुप्त विज्ञान - ब्रह्मगुप्त",
+    "question": "[Part-3 Q#532] Which Indian mathematician-astronomer anticipated Newton's Law of Gravitation by declaring that all objects fall toward Earth by natural attraction?",
+    "question_hi": "न्यूटन से सदियों पूर्व किस भारतीय गणितज्ञ ने घोषणा की थी कि सभी वस्तुएं पृथ्वी के प्राकृतिक आकर्षण से उसकी ओर गिरती हैं?",
+    "options": [
+      "Aryabhata",
+      "Brahmagupta",
+      "Varahamihira",
+      "Kanada"
+    ],
+    "options_hi": [
+      "आर्यभट्ट",
+      "ब्रह्मगुप्त",
+      "वराहमिहिर",
+      "कणाद"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Brahmagupta in 'Brahmasphutasiddhanta' stated: 'Bodies fall towards the earth as it is in the nature of the earth to attract bodies'.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — ब्रह्मगुप्त ने 'ब्रह्मस्फुटसिद्धांत' में गुरुत्वाकर्षण के नियम की पूर्व-घोषणा करते हुए पृथ्वी के आकर्षण गुण का उल्लेख किया था।"
+  },
+  {
+    "id": 533,
+    "difficulty": "Easy",
+    "topic": "Harshavardhana",
+    "topic_hi": "हर्षवर्धन - कन्नौज",
+    "question": "[Part-3 Q#533] King Harshavardhana shifted his imperial capital from Thaneswar to which historic North Indian city?",
+    "question_hi": "सम्राट हर्षवर्धन ने अपनी राजधानी थानेश्वर (हरियाणा) से किस ऐतिहासिक नगर में स्थानांतरित की थी?",
+    "options": [
+      "Prayagraj",
+      "Pataliputra",
+      "Kannauj (Kanyakubja)",
+      "Varanasi"
+    ],
+    "options_hi": [
+      "प्रयागराज",
+      "पाटलिपुत्र",
+      "कन्नौज (कान्यकुब्ज)",
+      "वाराणसी"
+    ],
+    "correctAnswer": "C",
+    "explanation": "After the murder of his brother-in-law Grahavarman of Kannauj, Harsha united Thaneswar and Kannauj, making Kannauj his capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — हर्षवर्धन ने अपनी बहन राज्यश्री को बचाने के उपरांत थानेश्वर और कन्नौज का एकीकरण कर कन्नौज को अपनी राजधानी बनाया।"
+  },
+  {
+    "id": 534,
+    "difficulty": "Difficult",
+    "topic": "Harshavardhana - Battle on Narmada",
+    "topic_hi": "हर्षवर्धन - नर्मदा का युद्ध",
+    "question": "[Part-3 Q#534] Harsha's southward expansion into the Deccan was decisively halted on the banks of the Narmada River by which Western Chalukya monarch?",
+    "question_hi": "दक्षिण भारत की ओर बढ़ते हर्षवर्धन के विजय अभियान को नर्मदा नदी के तट पर किस चालुक्य सम्राट ने रोका था?",
+    "options": [
+      "Kirtivarman I",
+      "Pulakesin II",
+      "Vikramaditya I",
+      "Mangalesha"
+    ],
+    "options_hi": [
+      "कीर्तिवर्मन प्रथम",
+      "पुलकेशिन द्वितीय",
+      "विक्रमादित्य प्रथम",
+      "मंगलेश"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pulakesin II of the Vatapi Chalukyas defeated Harsha, celebrated by court poet Ravikirti in the Aihole Inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — चालुक्य नरेश पुलकेशिन द्वितीय ने नर्मदा के युद्ध में हर्ष को पराजित किया, जिसका वर्णन रविकीर्ति के एहोल अभिलेख में है।"
+  },
+  {
+    "id": 535,
+    "difficulty": "Easy",
+    "topic": "Hiuen Tsang (Xuanzang)",
+    "topic_hi": "ह्वेनसांग - तीर्थयात्रियों का राजकुमार",
+    "question": "[Part-3 Q#535] The Chinese Buddhist pilgrim Hiuen Tsang (Xuanzang), celebrated as the 'Prince of Pilgrims', visited India during the reign of:",
+    "question_hi": "'यात्रियों का राजकुमार' कहे जाने वाले प्रसिद्ध चीनी यात्री ह्वेनसांग ने किसके शासनकाल में भारत की यात्रा की थी?",
+    "options": [
+      "Ashoka",
+      "Chandragupta II",
+      "Kanishka",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "अशोक",
+      "चन्द्रगुप्त द्वितीय",
+      "कनिष्क",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Hiuen Tsang resided in India from 630 to 645 AD, studied at Nalanda under Abbot Silabhadra, and attended Harsha's assemblies.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — ह्वेनसांग ने 630-645 ईस्वी में हर्ष के समय भारत की यात्रा की और अपना यात्रा वृत्तांत 'सी-यू-की' (Si-Yu-Ki) नाम से लिखा।"
+  },
+  {
+    "id": 536,
+    "difficulty": "Moderate",
+    "topic": "Harsha - Literary Compositions",
+    "topic_hi": "हर्षवर्धन - संस्कृत नाटक",
+    "question": "[Part-3 Q#536] Which three celebrated Sanskrit plays were authored by King Harshavardhana himself?",
+    "question_hi": "सम्राट हर्षवर्धन ने स्वयं किन तीन प्रसिद्ध संस्कृत नाटकों की रचना की थी?",
+    "options": [
+      "Mudrarakshasa, Devichandragupta, and Svapnavasavadatta",
+      "Malavikagnimitram, Meghaduta, and Shakuntala",
+      "Ratnavali, Priyadarsika, and Nagananda",
+      "Kiratarjuniya, Shishupalavadha, and Naishadha"
+    ],
+    "options_hi": [
+      "मुद्राराक्षस, देवीचंद्रगुप्त और स्वप्नवासवदत्ता",
+      "मालविकाग्निमित्रम्, मेघदूत और शकुंतला",
+      "रत्नावली, प्रियदर्शिका और नागानंद",
+      "किरातार्जुनीय, शिशुपालवध और नैषध"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Harsha was an accomplished playwright who composed Ratnavali, Priyadarsika, and the Buddhist-themed drama Nagananda.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — हर्षवर्धन एक कुशल नाटककार था जिसने रत्नावली, प्रियदर्शिका और नागानंद नामक तीन प्रसिद्ध नाटक लिखे।"
+  },
+  {
+    "id": 537,
+    "difficulty": "Difficult",
+    "topic": "Banabhatta",
+    "topic_hi": "बाणभट्ट - हर्षचरित एवं कादंबरी",
+    "question": "[Part-3 Q#537] Who was Harsha's chief court poet (Asthana Kavi) that composed 'Harshacharita' and the world's earliest prose novel 'Kadambari'?",
+    "question_hi": "हर्षवर्धन के दरबारी कवि कौन थे जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादंबरी' रचा था?",
+    "options": [
+      "Banabhatta",
+      "Mayura",
+      "Harisena",
+      "Bhavabhuti"
+    ],
+    "options_hi": [
+      "बाणभट्ट",
+      "मयूर",
+      "हरिषेण",
+      "भवभूति"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Banabhatta authored Harshacharita (biography of Harsha) and Kadambari. Mayura (author of Mayurasataka) was also in Harsha's court.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — बाणभट्ट ने हर्ष के जीवन चरित्र पर 'हर्षचरित' तथा प्रसिद्ध प्रेम-कथा 'कादंबरी' की रचना की थी।"
+  },
+  {
+    "id": 538,
+    "difficulty": "Moderate",
+    "topic": "Pallava Dynasty - Rock-Cut Temples",
+    "topic_hi": "पल्लव वंश - रथ मंदिर",
+    "question": "[Part-3 Q#538] The monolithic rock-cut 'Pancha Pandava Rathas' at Mahabalipuram were sculpted under which great Pallava monarch?",
+    "question_hi": "महाबलीपुरम (मामल्लपुरम) के एकाश्मक 'पंच पांडव रथ मंदिर' किस प्रतापी पल्लव शासक के काल में तराशे गए थे?",
+    "options": [
+      "Narasimhavarman I (Mamalla)",
+      "Mahendravarman I",
+      "Narasimhavarman II (Rajasimha)",
+      "Simhavishnu"
+    ],
+    "options_hi": [
+      "नरसिंहवर्मन प्रथम (मामल्ल)",
+      "महेंद्रवर्मन प्रथम",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "सिंहविष्णु"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Narasimhavarman I (630–668 AD), who assumed the title 'Vatapikonda' after conquering Badami, built the rock-cut Rathas at Mamallapuram.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — नरसिंहवर्मन प्रथम मामल्ल ने महाबलीपुरम के एकाश्म रथ मंदिरों (सप्त पैगोडा) का निर्माण कराया था।"
+  },
+  {
+    "id": 539,
+    "difficulty": "Easy",
+    "topic": "Pallava - Shore Temple",
+    "topic_hi": "पल्लव वंश - शोर मंदिर एवं कैलाशनाथ",
+    "question": "[Part-3 Q#539] The celebrated structural Shore Temple at Mahabalipuram and the Kailasanatha Temple at Kanchipuram were built by:",
+    "question_hi": "महाबलीपुरम का प्रसिद्ध तट मंदिर (शोर मंदिर) और कांचीपुरम का कैलाशनाथ मंदिर किस पल्लव राजा ने बनवाया था?",
+    "options": [
+      "Aparajita",
+      "Narasimhavarman I",
+      "Mahendravarman I",
+      "Narasimhavarman II (Rajasimha)"
+    ],
+    "options_hi": [
+      "अपराजित",
+      "नरसिंहवर्मन प्रथम",
+      "महेंद्रवर्मन प्रथम",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Narasimhavarman II Rajasimha (700–728 AD) ushered in the Dravidian structural stone temple era with the Shore Temple and Kailasanatha temple.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — राजसिंह (नरसिंहवर्मन द्वितीय) ने कांची के कैलाशनाथ मंदिर तथा महाबलीपुरम के तट मंदिर का निर्माण कराया।"
+  },
+  {
+    "id": 540,
+    "difficulty": "Difficult",
+    "topic": "Post-Mauryan - Sunga Dynasty",
+    "topic_hi": "मौर्योत्तर काल - शुंग वंश",
+    "question": "[Part-3 Q#540] Who established the Sunga Dynasty in 185 BC after assassinating the last Mauryan ruler Brihadratha?",
+    "question_hi": "185 ईसा पूर्व में अंतिम मौर्य शासक बृहद्रथ की हत्या करके शुंग वंश की स्थापना किसने की थी?",
+    "options": [
+      "Vasumitra",
+      "Agnimitra",
+      "Pushyamitra Sunga",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "वसुमित्र",
+      "अग्निमित्र",
+      "पुष्यमित्र शुंग",
+      "देवभूति"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pushyamitra Sunga, the commander-in-chief (Senapati) of Brihadratha, established the Sunga Dynasty with Vidisha/Pataliputra as capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — मौर्य सेनापति पुष्यमित्र शुंग ने अंतिम मौर्य राजा बृहद्रथ की हत्या कर 185 ईसा पूर्व में शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 541,
+    "difficulty": "Easy",
+    "topic": "Sunga Dynasty - Patanjali",
+    "topic_hi": "शुंग वंश - पतंजलि",
+    "question": "[Part-3 Q#541] Which great grammarian and philosopher was the contemporary and chief priest of Pushyamitra Sunga's two Ashvamedha sacrifices?",
+    "question_hi": "पुष्यमित्र शुंग द्वारा किए गए दो अश्वमेध यज्ञों के मुख्य पुरोहित कौन से महान वैयाकरण थे?",
+    "options": [
+      "Katyayana",
+      "Panini",
+      "Patanjali",
+      "Charaka"
+    ],
+    "options_hi": [
+      "कात्यायन",
+      "पाणिनि",
+      "पतंजलि",
+      "चरक"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Patanjali, the author of the 'Mahabhashya', was the royal priest who conducted two Ashvamedha yajnas for Pushyamitra Sunga.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — महाभाष्य के रचयिता महर्षि पतंजलि पुष्यमित्र शुंग के समकालीन थे और उन्होंने उसके दो अश्वमेध यज्ञ संपन्न कराए थे।"
+  },
+  {
+    "id": 542,
+    "difficulty": "Moderate",
+    "topic": "Sunga Dynasty - Bharhut",
+    "topic_hi": "शुंग वंश - भरहुत स्तूप",
+    "question": "[Part-3 Q#542] The monumental stone railing and decorative gateways of the famous Bharhut Stupa in Madhya Pradesh were constructed during which dynasty?",
+    "question_hi": "मध्य प्रदेश के प्रसिद्ध भरहुत स्तूप की पाषाण वेदिका (रेलिंग) और तोरण द्वार का निर्माण किस वंश के काल में हुआ था?",
+    "options": [
+      "Sunga Dynasty",
+      "Mauryan Dynasty",
+      "Kushana Dynasty",
+      "Gupta Dynasty"
+    ],
+    "options_hi": [
+      "शुंग वंश",
+      "मौर्य वंश",
+      "कुषाण वंश",
+      "गुप्त वंश"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The stone gateways and balustrade surrounding the Bharhut Stupa were erected during the reign of the Sungas.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — भरहुत स्तूप के चारों ओर सुंदर नक्काशीदार पाषाण रेलिंग और तोरणों का निर्माण शुंग काल में किया गया था।"
+  },
+  {
+    "id": 543,
+    "difficulty": "Difficult",
+    "topic": "Kalidasa's Drama - Agnimitra",
+    "topic_hi": "कालिदास का नाटक - अग्निमित्र",
+    "question": "[Part-3 Q#543] The Sunga prince Agnimitra is the celebrated hero of which classical Sanskrit drama authored by Kalidasa?",
+    "question_hi": "शुंग राजकुमार अग्निमित्र महाकवि कालिदास के किस प्रसिद्ध संस्कृत नाटक का नायक है?",
+    "options": [
+      "Malavikagnimitram",
+      "Abhijnanashakuntalam",
+      "Vikramorvashiyam",
+      "Mudrarakshasa"
+    ],
+    "options_hi": [
+      "मालविकाग्निमित्रम्",
+      "अभिज्ञानशाकुंतलम्",
+      "विक्रमोर्वशीयम्",
+      "मुद्राराक्षस"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Kalidasa's first play, 'Malavikagnimitram', depicts the love affair of Sunga king Agnimitra and maiden Malavika.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — कालिदास के प्रथम नाटक 'मालविकाग्निमित्रम्' का नायक शुंग शासक अग्निमित्र है।"
+  },
+  {
+    "id": 544,
+    "difficulty": "Moderate",
+    "topic": "Satavahana Dynasty",
+    "topic_hi": "सातवाहन वंश",
+    "question": "[Part-3 Q#544] Who was the founder of the powerful Satavahana (Andhra) Dynasty in the Deccan?",
+    "question_hi": "दक्कन में शक्तिशाली सातवाहन (आंध्र) वंश की स्थापना किसने की थी?",
+    "options": [
+      "Hala",
+      "Satakarni I",
+      "Gautamiputra Satakarni",
+      "Simuka"
+    ],
+    "options_hi": [
+      "हाल",
+      "शातकर्णी प्रथम",
+      "गौतमीपुत्र शातकर्णी",
+      "सिमुक"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।"
+  },
+  {
+    "id": 545,
+    "difficulty": "Easy",
+    "topic": "Satavahana - Coins",
+    "topic_hi": "सातवाहन - मुद्राएं",
+    "question": "[Part-3 Q#545] The Satavahanas are historically famous for issuing the largest number of coins made of which unique metal?",
+    "question_hi": "सातवाहन शासक किस विशेष धातु के सर्वाधिक सिक्के जारी करने के लिए इतिहास में प्रसिद्ध हैं?",
+    "options": [
+      "Lead (Potin)",
+      "Pure Gold",
+      "Silver only",
+      "Iron"
+    ],
+    "options_hi": [
+      "सीसा (पोटिन)",
+      "शुद्ध सोना",
+      "केवल चांदी",
+      "लोहा"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Satavahanas predominantly minted coins of lead, potin (base metal alloy), copper, and bronze.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — सातवाहन शासकों ने सर्वाधिक सिक्के सीसे (Lead) और पोटिन के जारी किए थे।"
+  },
+  {
+    "id": 546,
+    "difficulty": "Difficult",
+    "topic": "Satavahana - Gautamiputra Satakarni",
+    "topic_hi": "सातवाहन - गौतमीपुत्र शातकर्णी",
+    "question": "[Part-3 Q#546] Which Satavahana ruler is celebrated in the Nasik Prasasti as 'Ekabrahmana' and the destroyer of the Sakas?",
+    "question_hi": "नासिक प्रशस्ति में किस सातवाहन शासक को 'एकाब्राह्मण' और शकों का विनाशक कहा गया है?",
+    "options": [
+      "Gautamiputra Satakarni",
+      "Vashishtiputra Pulumayi",
+      "Simuka",
+      "Hala"
+    ],
+    "options_hi": [
+      "गौतमीपुत्र शातकर्णी",
+      "वासिष्ठीपुत्र पुलुमावी",
+      "सिमुक",
+      "हाल"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gautamiputra Satakarni (106–130 AD) was the greatest Satavahana king, praised by his mother Gautami Balasri in the Nasik cave inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गौतमीपुत्र शातकर्णी (23वां राजा) को नासिक प्रशस्ति में 'अद्वितीय ब्राह्मण' और क्षत्रियों के दर्प का दमन करने वाला कहा गया है।"
+  },
+  {
+    "id": 547,
+    "difficulty": "Easy",
+    "topic": "Satavahana - Literature",
+    "topic_hi": "सातवाहन - प्राकृत साहित्य",
+    "question": "[Part-3 Q#547] The 17th Satavahana ruler, King Hala, composed the celebrated Prakrit poetic anthology known as:",
+    "question_hi": "17वें सातवाहन राजा हाल ने प्राकृत भाषा में किस प्रसिद्ध मुक्तक काव्य ग्रंथ की रचना की थी?",
+    "options": [
+      "Brihatkatha",
+      "Gatha Saptasati (Sattasai)",
+      "Kavyamimamsa",
+      "Lilavati"
+    ],
+    "options_hi": [
+      "बृहत्कथा",
+      "गाथासप्तशती (सत्तसई)",
+      "काव्यमीमांसा",
+      "लीलावती"
+    ],
+    "correctAnswer": "B",
+    "explanation": "King Hala composed 'Gatha Saptasati' (700 romantic couplets in Maharashtri Prakrit). Gunadhya, author of Brihatkatha, was in his court.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — राजा हाल ने महाराष्ट्री प्राकृत में 700 श्लोकों का संग्रह 'गाथासप्तशती' लिखा था।"
+  },
+  {
+    "id": 548,
+    "difficulty": "Moderate",
+    "topic": "Chedi Dynasty - Hathigumpha",
+    "topic_hi": "चेदि वंश - हाथीगुंफा अभिलेख",
+    "question": "[Part-3 Q#548] The biographical and chronological military expeditions of King Kharavela of Kalinga are engraved in which famous inscription?",
+    "question_hi": "कलिंग के महान शासक खारवेल के जीवन और सैन्य अभियानों का प्रामाणिक विवरण किस प्रसिद्ध अभिलेख में उत्कीर्ण है?",
+    "options": [
+      "Hathigumpha Inscription (Udayagiri)",
+      "Junagarh Inscription",
+      "Aihole Inscription",
+      "Nasik Cave Inscription"
+    ],
+    "options_hi": [
+      "हाथीगुंफा अभिलेख (उदयगिरि)",
+      "जूनागढ़ अभिलेख",
+      "एहोल अभिलेख",
+      "नासिक गुहा अभिलेख"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The undated Prakrit Hathigumpha inscription on the Udayagiri hills near Bhubaneswar records Kharavela's military conquests year-by-year.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — भुवनेश्वर के निकट उदयगिरि की हाथीगुंफा में बिना तिथि वाला प्राकृत अभिलेख खारवेल के शासन के 13 वर्षों का क्रमबद्ध विवरण देता है।"
+  },
+  {
+    "id": 549,
+    "difficulty": "Difficult",
+    "topic": "Indo-Greeks - Gold Coins",
+    "topic_hi": "हिन्द-यूनानी - स्वर्ण मुद्राएं",
+    "question": "[Part-3 Q#549] Who were the FIRST rulers in Indian history to issue regular gold coins with portrait busts and bilingual legends?",
+    "question_hi": "भारतीय इतिहास में राजाओं के नाम और छवि वाले नियमित स्वर्ण सिक्के जारी करने वाले प्रथम शासक कौन थे?",
+    "options": [
+      "Kushanas",
+      "Indo-Greeks (Bactrians)",
+      "Guptas",
+      "Mauryas"
+    ],
+    "options_hi": [
+      "कुषाण",
+      "हिन्द-यूनानी (इंडो-ग्रीक)",
+      "गुप्त",
+      "मौर्य"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Indo-Greeks were the first to issue gold coins bearing royal portraits and inscriptions in Greek and Kharosthi.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — भारत में सबसे पहले नियमित सोने के सिक्के हिन्द-यूनानी शासकों द्वारा जारी किए गए थे।"
+  },
+  {
+    "id": 550,
+    "difficulty": "Moderate",
+    "topic": "Indo-Greeks - Milindapanho",
+    "topic_hi": "हिन्द-यूनानी - मिलिंदपन्हो",
+    "question": "[Part-3 Q#550] The philosophical Pali dialogue 'Milindapanho' records conversations between Indo-Greek King Menander and which Buddhist monk?",
+    "question_hi": "प्रसिद्ध पालि दार्शनिक ग्रंथ 'मिलिंदपन्हो' में हिन्द-यूनानी राजा मिनांडर (मिलिंद) और किस बौद्ध भिक्षु के संवाद संकलित हैं?",
+    "options": [
+      "Ashvaghosha",
+      "Nagasena (Nagajuna)",
+      "Vasumitra",
+      "Moggaliputta Tissa"
+    ],
+    "options_hi": [
+      "अश्वघोष",
+      "नागसेन",
+      "वसुमित्र",
+      "मोग्गलिपुत्त तिस्स"
+    ],
+    "correctAnswer": "B",
+    "explanation": "King Menander questioned Buddhist monk Nagasena, and his intellectual queries and eventual conversion are compiled in 'Milindapanho'.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — राजा मिनांडर ने बौद्ध धर्म स्वीकार करने से पूर्व भिक्षु नागसेन से अनेक दार्शनिक प्रश्न पूछे जो 'मिलिंदपन्हो' में संकलित हैं।"
+  },
+  {
+    "id": 551,
+    "difficulty": "Easy",
+    "topic": "Sakas - Rudradaman I",
+    "topic_hi": "शक - रुद्रदामन प्रथम",
+    "question": "[Part-3 Q#551] The first long and grammatically flawless inscription in chaste Classical Sanskrit was engraved at Junagarh by:",
+    "question_hi": "विशुद्ध संस्कृत भाषा में उत्कीर्ण पहला विशाल और प्रामाणिक अभिलेख जूनागढ़ में किसके द्वारा लिखवाया गया था?",
+    "options": [
+      "Chandragupta II",
+      "Kanishka",
+      "Samudragupta",
+      "Saka King Rudradaman I"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त द्वितीय",
+      "कनिष्क",
+      "समुद्रगुप्त",
+      "शक शासक रुद्रदामन प्रथम"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Junagarh rock inscription (150 AD) of Rudradaman I is the earliest long epigraph in pure Classical Sanskrit.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — रुद्रदामन प्रथम (150 ईस्वी) का गिरनार (जूनागढ़) अभिलेख संस्कृत गद्य का प्राचीनतम उत्कृष्ट नमूना है।"
+  },
+  {
+    "id": 552,
+    "difficulty": "Difficult",
+    "topic": "Sudarshana Lake",
+    "topic_hi": "सुदर्शन झील का जीर्णोद्धार",
+    "question": "[Part-3 Q#552] Saka ruler Rudradaman I earned historic fame for repairing which ancient lake in Saurashtra without imposing taxes on subjects?",
+    "question_hi": "शक राजा रुद्रदामन प्रथम ने प्रजा पर कोई अतिरिक्त कर लगाए बिना सौराष्ट्र की किस प्राचीन झील के बांध का जीर्णोद्धार कराया था?",
+    "options": [
+      "Pushkar Lake",
+      "Sudarshana Lake",
+      "Nal Lake",
+      "Chilika Lake"
+    ],
+    "options_hi": [
+      "पुष्कर झील",
+      "सुदर्शन झील",
+      "नल झील",
+      "चिल्का झील"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Originally built by Chandragupta Maurya's governor Pushyagupta, the dam of Lake Sudarshana was rebuilt by Rudradaman at his own expense.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — मौर्यों द्वारा निर्मित सुदर्शन झील के टूट जाने पर रुद्रदामन ने अपने निजी कोष से उसका पुनर्निर्माण कराया था।"
+  },
+  {
+    "id": 553,
+    "difficulty": "Easy",
+    "topic": "Kushana Dynasty - Kanishka",
+    "topic_hi": "कुषाण वंश - कनिष्क",
+    "question": "[Part-3 Q#553] Kanishka ascended the Kushana throne in 78 AD, inaugurating which historic era adopted by the Government of India?",
+    "question_hi": "78 ईस्वी में कनिष्क के राज्यारोहण के उपलक्ष्य में किस ऐतिहासिक संवत की शुरुआत हुई जिसे भारत सरकार का राष्ट्रीय संवत माना गया है?",
+    "options": [
+      "Vikrama Era (58 BC)",
+      "Saka Era (78 AD)",
+      "Gupta Era (319 AD)",
+      "Harsha Era (606 AD)"
+    ],
+    "options_hi": [
+      "विक्रम संवत (58 ई.पू.)",
+      "शक संवत (78 ई.)",
+      "गुप्त संवत (319 ई.)",
+      "हर्ष संवत (606 ई.)"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Kanishka founded the Saka Era in 78 AD, which serves as the base of the official Indian National Calendar.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — कनिष्क ने 78 ईस्वी में राज्यारोहण के समय शक संवत का प्रवर्तन किया, जो भारत का राष्ट्रीय कैलेंडर है।"
+  },
+  {
+    "id": 554,
+    "difficulty": "Moderate",
+    "topic": "Kushana - Capitals",
+    "topic_hi": "कुषाण - राजधानियां",
+    "question": "[Part-3 Q#554] What were the two primary capitals of Emperor Kanishka's vast Eurasian empire?",
+    "question_hi": "कुषाण सम्राट कनिष्क के विशाल साम्राज्य की दो प्रमुख राजधानियां कौन सी थीं?",
+    "options": [
+      "Purushapura (Peshawar) and Mathura",
+      "Taxila and Pataliputra",
+      "Ujjain and Vidisha",
+      "Sarnath and Kausambi"
+    ],
+    "options_hi": [
+      "पुरुषपुर (पेशावर) और मथुरा",
+      "तक्षशिला और पाटलिपुत्र",
+      "उज्जैन और विदिशा",
+      "सारनाथ और कौशाम्बी"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Purushapura (modern Peshawar) was Kanishka's primary political capital, while Mathura served as his second cultural capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — कनिष्क की प्रथम राजधानी पुरुषपुर (पेशावर) तथा द्वितीय राजधानी मथुरा थी।"
+  },
+  {
+    "id": 555,
+    "difficulty": "Difficult",
+    "topic": "Kushana - Court Scholars",
+    "topic_hi": "कुषाण - दरबारी विद्वान",
+    "question": "[Part-3 Q#555] Which physician, considered the 'Father of Indian Medicine' and author of Charaka Samhita, adorned the court of Kanishka?",
+    "question_hi": "'भारतीय चिकित्सा शास्त्र के जनक' माने जाने वाले चरक संहिता के रचयिता महर्षि चरक किसके राजवैद्य थे?",
+    "options": [
+      "Emperor Kanishka",
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "सम्राट कनिष्क",
+      "चन्द्रगुप्त मौर्य",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Charaka, author of the foundational Ayurvedic medical encyclopaedia 'Charaka Samhita', was the royal physician of Kanishka.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — आयुर्वेद के विख्यात आचार्य चरक कुषाण सम्राट कनिष्क के राजदरबार में राजवैद्य थे।"
+  },
+  {
+    "id": 556,
+    "difficulty": "Moderate",
+    "topic": "Sangam Age - Assemblies",
+    "topic_hi": "संगम काल - परिषदें",
+    "question": "[Part-3 Q#556] The three historic Sangams (literary academies of Tamil poets) were convened under the royal patronage of which dynasty?",
+    "question_hi": "तीन ऐतिहासिक तमिल संगमों (कवि परिषदों) का आयोजन किस राजवंश के संरक्षण में मदुरै और कपाटपुरम में हुआ था?",
+    "options": [
+      "Pallava Dynasty",
+      "Chola Dynasty",
+      "Chera Dynasty",
+      "Pandya Dynasty"
+    ],
+    "options_hi": [
+      "पल्लव वंश",
+      "चोल वंश",
+      "चेर वंश",
+      "पाण्ड्य वंश"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Pandya rulers of Madurai were the royal patrons of all three Sangams of classical Tamil literature.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — तीनों संगमों का आयोजन मदुरै के पाण्ड्य राजाओं के संरक्षण में किया गया था।"
+  },
+  {
+    "id": 557,
+    "difficulty": "Easy",
+    "topic": "Sangam - Tolkappiyam",
+    "topic_hi": "संगम - तोलकाप्पियम",
+    "question": "[Part-3 Q#557] The oldest surviving masterwork of classical Tamil grammar and poetics, 'Tolkappiyam', was authored by:",
+    "question_hi": "तमिल व्याकरण और काव्यशास्त्र का प्राचीनतम उपलब्ध मानक ग्रंथ 'तोलकाप्पियम' किसकी रचना है?",
+    "options": [
+      "Ilango Adigal",
+      "Tolkappiyar",
+      "Tiruvalluvar",
+      "Sittalai Sattanar"
+    ],
+    "options_hi": [
+      "इलांगो आदिगल",
+      "तोलकाप्पियर",
+      "तिरुवल्लुवर",
+      "शीतलै सत्तनार"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tolkappiyar (a disciple of Sage Agastya) composed the Tolkappiyam during the Second Sangam.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — तोलकाप्पियम द्वितीय संगम की एकमात्र जीवित रचना है जिसे तोलकाप्पियर ने लिखा था।"
+  },
+  {
+    "id": 558,
+    "difficulty": "Difficult",
+    "topic": "Sangam - Tirukkural",
+    "topic_hi": "संगम - तिरुक्कुरल",
+    "question": "[Part-3 Q#558] Which philosophical text, authored by Tiruvalluvar, is revered as the 'Bible of the Tamil Land' (Fifth Veda of Tamil)?",
+    "question_hi": "संत तिरुवल्लुवर द्वारा रचित किस नीतिपरक ग्रंथ को 'तमिल भूमि की बाइबल' और पंचम वेद माना जाता है?",
+    "options": [
+      "Naladiyar",
+      "Silappadikaram",
+      "Manimekalai",
+      "Tirukkural (Kural)"
+    ],
+    "options_hi": [
+      "नालदियार",
+      "शिलप्पादिकारम्",
+      "मणिमेकलै",
+      "तिरुक्कुरल (कुरल)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Tirukkural composed by Tiruvalluvar comprises 1,330 couplets categorized into Dharma (Aram), Artha (Porul), and Kama (Inbam).",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — तिरुवल्लुवर कृत 'तिरुक्कुरल' तमिल साहित्य का अप्रतिम नीतिग्रंथ है जिसे तमिल बाइबिल कहा जाता है।"
+  },
+  {
+    "id": 559,
+    "difficulty": "Easy",
+    "topic": "Sangam - Silappadikaram",
+    "topic_hi": "संगम - शिलप्पादिकारम्",
+    "question": "[Part-3 Q#559] The tragic romantic epic 'Silappadikaram' (The Tale of the Anklet), featuring Kovalan and Kannagi, was composed by:",
+    "question_hi": "कोवलन और कण्णगि के अमर प्रेम पर आधारित प्रसिद्ध तमिल महाकाव्य 'शिलप्पादिकारम्' (नूपुर की कहानी) के रचयिता कौन थे?",
+    "options": [
+      "Ilango Adigal",
+      "Sittalai Sattanar",
+      "Tiruvalluvar",
+      "Kamban"
+    ],
+    "options_hi": [
+      "इलांगो आदिगल",
+      "शीतलै सत्तनार",
+      "तिरुवल्लुवर",
+      "कंबन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prince Ilango Adigal (brother of Chera king Senguttuvan) composed the famous epic Silappadikaram.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — चेर राजकुमार इलांगो आदिगल ने प्रसिद्ध महाकाव्य शिलप्पादिकारम् की रचना की थी।"
+  },
+  {
+    "id": 560,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Founder",
+    "topic_hi": "गुप्त वंश - संस्थापक",
+    "question": "[Part-3 Q#560] Who was the founder of the Gupta Dynasty around 275 AD?",
+    "question_hi": "लगभग 275 ईस्वी में गुप्त वंश की स्थापना किसने की थी?",
+    "options": [
+      "Samudragupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Sri Gupta"
+    ],
+    "options_hi": [
+      "समुद्रगुप्त",
+      "घटोत्कच",
+      "चन्द्रगुप्त प्रथम",
+      "श्रीगुप्त"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Sri Gupta founded the dynasty and took the title of 'Maharaja', succeeded by his son Ghatotkacha.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — गुप्त राजवंश की स्थापना श्रीगुप्त द्वारा की गई थी और उसने 'महाराजा' की उपाधि धारण की थी।"
+  },
+  {
+    "id": 561,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Chandragupta I",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त प्रथम",
+    "question": "[Part-3 Q#561] Who was the first Gupta monarch to assume the supreme imperial title of 'Maharajadhiraja'?",
+    "question_hi": "'महाराजाधिराज' की भव्य साम्राज्यिक उपाधि धारण करने वाला प्रथम गुप्त सम्राट कौन था?",
+    "options": [
+      "Chandragupta I",
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Kumaragupta I"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त प्रथम",
+      "श्रीगुप्त",
+      "घटोत्कच",
+      "कुमारगुप्त प्रथम"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Chandragupta I (319–335 AD) founded the Gupta Era in 319 AD and married the Lichchhavi princess Kumaradevi.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — चन्द्रगुप्त प्रथम ने 319 ईस्वी में गुप्त संवत चलाया और 'महाराजाधिराज' की पदवी ग्रहण की।"
+  },
+  {
+    "id": 562,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Samudragupta",
+    "topic_hi": "गुप्त वंश - समुद्रगुप्त",
+    "question": "[Part-3 Q#562] Which British historian famously described Emperor Samudragupta as the 'Napoleon of India' for his unbroken military conquests?",
+    "question_hi": "किस ब्रिटिश इतिहासकार ने सम्राट समुद्रगुप्त के अजेय सैन्य अभियानों के कारण उसे 'भारत का नेपोलियन' कहा था?",
+    "options": [
+      "Max Muller",
+      "A.L. Basham",
+      "Sir William Jones",
+      "Vincent A. Smith"
+    ],
+    "options_hi": [
+      "मैक्स मूलर",
+      "ए. एल. बाशम",
+      "सर विलियम जोन्स",
+      "विंसेंट ए. स्मिथ"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Historian V.A. Smith in 'Early History of India' designated Samudragupta the 'Napoleon of India'.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — विंसेंट स्मिथ ने समुद्रगुप्त की दिग्विजयों और वीरता को देखकर उसे 'भारत का नेपोलियन' की संज्ञा दी।"
+  },
+  {
+    "id": 563,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Prayaga Prashasti",
+    "topic_hi": "गुप्त वंश - प्रयाग प्रशस्ति",
+    "question": "[Part-3 Q#563] The celebrated Prayaga Prashasti (Allahabad Pillar inscription) recording Samudragupta's conquests was composed in chaste Sanskrit by:",
+    "question_hi": "समुद्रगुप्त की विजयों का गुणगान करने वाली विख्यात 'प्रयाग प्रशस्ति' (इलाहाबाद स्तंभ लेख) की रचना किसने की थी?",
+    "options": [
+      "Court poet Harisena",
+      "Kalidasa",
+      "Banabhatta",
+      "Ravikirti"
+    ],
+    "options_hi": [
+      "दरबारी कवि हरिषेण",
+      "कालिदास",
+      "बाणभट्ट",
+      "रविकीर्ति"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Harisena, Samudragupta's court poet and minister for war and peace (Sandhivigrahika), composed the Prayaga Prashasti in Champu Kavya.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — महादंडनायक और संधि-विग्रहिक हरिषेण ने कौशाम्बी/इलाहाबाद के अशोक स्तंभ पर चम्पू शैली में प्रयाग प्रशस्ति लिखी थी।"
+  },
+  {
+    "id": 564,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Coins of Samudragupta",
+    "topic_hi": "गुप्त वंश - वीणा बजाते सिक्के",
+    "question": "[Part-3 Q#564] Samudragupta's passion for music is proven by gold coins depicting him playing which classical musical instrument?",
+    "question_hi": "सम्राट समुद्रगुप्त के संगीत प्रेम का प्रत्यक्ष प्रमाण उन स्वर्ण मुद्राओं से मिलता है जिन पर उन्हें क्या बजाते हुए दर्शाया गया है?",
+    "options": [
+      "Sitar",
+      "Flute",
+      "Mridangam",
+      "Veena (Lute)"
+    ],
+    "options_hi": [
+      "सितार",
+      "बांसुरी",
+      "मृदंगम",
+      "वीणा"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Samudragupta issued gold coins with the legend 'Kaviraja' showing the emperor seated on a couch playing the Veena.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — समुद्रगुप्त के वीणा-वादन प्रकार के सिक्कों पर उसे सोफे पर बैठकर वीणा बजाते दिखाया गया है।"
+  },
+  {
+    "id": 565,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Chandragupta II",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त द्वितीय विक्रमादित्य",
+    "question": "[Part-3 Q#565] Which Chinese Buddhist pilgrim visited India during the glorious reign of Chandragupta II Vikramaditya?",
+    "question_hi": "सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य के समृद्ध शासनकाल में किस चीनी बौद्ध यात्री ने भारत की यात्रा की थी?",
+    "options": [
+      "Fa-Hien (Faxian)",
+      "Hiuen-Tsang (Xuanzang)",
+      "I-Tsing (Yijing)",
+      "Sung-Yun"
+    ],
+    "options_hi": [
+      "फाह्यान",
+      "ह्वेनसांग",
+      "इत्सिंग",
+      "सुंग-युन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fa-Hien visited India between 399 and 414 AD to collect Buddhist manuscripts, praising the peace and prosperity of the Gupta realm.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — फाह्यान ने 399 से 414 ईस्वी के बीच भारत भ्रमण किया और गुप्त साम्राज्य की शांति व न्याय व्यवस्था की भूरि-भूरि प्रशंसा की।"
+  },
+  {
+    "id": 566,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Mehrauli Pillar",
+    "topic_hi": "गुप्त वंश - महरौली लौह स्तंभ",
+    "question": "[Part-3 Q#566] The rustless 4th-century Iron Pillar standing near the Qutub Minar in Mehrauli, Delhi, bears an inscription praising King:",
+    "question_hi": "कुतुब मीनार परिसर (महरौली, दिल्ली) में स्थित जंग-रहित ऐतिहासिक लौह स्तंभ पर किस राजा 'चन्द्र' की विजयों का उल्लेख है?",
+    "options": [
+      "Harshavardhana",
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Chandra (Chandragupta II Vikramaditya)"
+    ],
+    "options_hi": [
+      "हर्षवर्धन",
+      "चन्द्रगुप्त मौर्य",
+      "समुद्रगुप्त",
+      "चन्द्र (चन्द्रगुप्त द्वितीय विक्रमादित्य)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Mehrauli Iron Pillar commemorates King Chandra (identified with Chandragupta II) defeating the Vahlikas across the Indus.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — महरौली का जंग-रहित लौह स्तंभ गुप्त सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य की बंगाल और बह्लीक विजय का साक्षी है।"
+  },
+  {
+    "id": 567,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Nalanda University",
+    "topic_hi": "गुप्त वंश - नालंदा विश्वविद्यालय",
+    "question": "[Part-3 Q#567] Which Gupta emperor founded the world-famous Buddhist monastic university of Nalanda in Bihar?",
+    "question_hi": "बिहार में विश्वविख्यात प्राचीन नालंदा महाविहार (विश्वविद्यालय) की स्थापना किस गुप्त सम्राट ने की थी?",
+    "options": [
+      "Skandagupta",
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I (Mahendraditya)"
+    ],
+    "options_hi": [
+      "स्कंदगुप्त",
+      "समुद्रगुप्त",
+      "चन्द्रगुप्त द्वितीय",
+      "कुमारगुप्त प्रथम (महेंद्रादित्य)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Kumaragupta I (415–455 AD), adopting the title Mahendraditya, founded Nalanda Mahavihara, which became an international center of learning.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — कुमारगुप्त प्रथम महेंद्रादित्य ने 5वीं शताब्दी में विश्वप्रसिद्ध नालंदा विश्वविद्यालय की नींव रखी थी।"
+  },
+  {
+    "id": 568,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Skandagupta",
+    "topic_hi": "गुप्त वंश - स्कंदगुप्त एवं हूण",
+    "question": "[Part-3 Q#568] Which courageous Gupta emperor successfully repelled the savage invasions of the White Hunas under Toramana and Mihirakula?",
+    "question_hi": "किस साहसी गुप्त सम्राट ने श्वेत हूणों के बर्बर आक्रमणों को सफलतापूर्वक विफल कर भारत की रक्षा की थी?",
+    "options": [
+      "Purugupta",
+      "Kumaragupta I",
+      "Buddhagupta",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "पुरुगुप्त",
+      "कुमारगुप्त प्रथम",
+      "बुधगुप्त",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Skandagupta (455–467 AD) crushed the fierce Hunas, documented in his Bhitari pillar inscription in Ghazipur, UP.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — स्कंदगुप्त ने गाजीपुर के भीतरी स्तंभ अभिलेख के अनुसार हूणों को परास्त कर देश को उनके अत्याचारों से बचाया था।"
+  },
+  {
+    "id": 569,
+    "difficulty": "Easy",
+    "topic": "Gupta Science - Aryabhata",
+    "topic_hi": "गुप्त विज्ञान - आर्यभट्ट",
+    "question": "[Part-3 Q#569] Who authored 'Aryabhatiya' and 'Surya Siddhanta', discovering that the Earth is spherical and rotates on its own axis?",
+    "question_hi": "किस महान खगोलशास्त्री ने 'आर्यभटीय' लिखकर सिद्ध किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है?",
+    "options": [
+      "Bhaskaracharya",
+      "Varahamihira",
+      "Brahmagupta",
+      "Aryabhata"
+    ],
+    "options_hi": [
+      "भास्कराचार्य",
+      "वराहमिहिर",
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Aryabhata (born 476 AD at Pataliputra) formulated zero, decimal place value, value of pi (3.1416), and the solar-lunar eclipse rationale.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — आर्यभट्ट ने पाई का मान (3.1416), शून्य का प्रयोग और चंद्रग्रहण व सूर्यग्रहण का वैज्ञानिक कारण सर्वप्रथम प्रतिपादित किया।"
+  },
+  {
+    "id": 570,
+    "difficulty": "Difficult",
+    "topic": "Gupta Science - Varahamihira",
+    "topic_hi": "गुप्त विज्ञान - वराहमिहिर",
+    "question": "[Part-3 Q#570] The monumental encyclopaedic Sanskrit treatises 'Brihat Samhita' and 'Pancha Siddhantika' were authored by:",
+    "question_hi": "विशाल संस्कृत ज्ञानकोश 'बृहत्संहिता' और 'पंचसिद्धांतिका' के रचयिता कौन थे?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Varahamihira",
+      "Lagadha Muni"
+    ],
+    "options_hi": [
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "लगध मुनि"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Varahamihira was one of the Navaratnas of Chandragupta II, summarizing five ancient astronomical systems in Pancha Siddhantika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — वराहमिहिर चन्द्रगुप्त द्वितीय के नवरत्नों में से एक थे और उन्होंने खगोल तथा ऋतुविज्ञान पर बृहत्संहिता लिखी।"
+  },
+  {
+    "id": 571,
+    "difficulty": "Easy",
+    "topic": "Gupta Science - Brahmagupta",
+    "topic_hi": "गुप्त विज्ञान - ब्रह्मगुप्त",
+    "question": "[Part-3 Q#571] Which Indian mathematician-astronomer anticipated Newton's Law of Gravitation by declaring that all objects fall toward Earth by natural attraction?",
+    "question_hi": "न्यूटन से सदियों पूर्व किस भारतीय गणितज्ञ ने घोषणा की थी कि सभी वस्तुएं पृथ्वी के प्राकृतिक आकर्षण से उसकी ओर गिरती हैं?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Varahamihira",
+      "Kanada"
+    ],
+    "options_hi": [
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "कणाद"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Brahmagupta in 'Brahmasphutasiddhanta' stated: 'Bodies fall towards the earth as it is in the nature of the earth to attract bodies'.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — ब्रह्मगुप्त ने 'ब्रह्मस्फुटसिद्धांत' में गुरुत्वाकर्षण के नियम की पूर्व-घोषणा करते हुए पृथ्वी के आकर्षण गुण का उल्लेख किया था।"
+  },
+  {
+    "id": 572,
+    "difficulty": "Moderate",
+    "topic": "Harshavardhana",
+    "topic_hi": "हर्षवर्धन - कन्नौज",
+    "question": "[Part-3 Q#572] King Harshavardhana shifted his imperial capital from Thaneswar to which historic North Indian city?",
+    "question_hi": "सम्राट हर्षवर्धन ने अपनी राजधानी थानेश्वर (हरियाणा) से किस ऐतिहासिक नगर में स्थानांतरित की थी?",
+    "options": [
+      "Kannauj (Kanyakubja)",
+      "Pataliputra",
+      "Prayagraj",
+      "Varanasi"
+    ],
+    "options_hi": [
+      "कन्नौज (कान्यकुब्ज)",
+      "पाटलिपुत्र",
+      "प्रयागराज",
+      "वाराणसी"
+    ],
+    "correctAnswer": "A",
+    "explanation": "After the murder of his brother-in-law Grahavarman of Kannauj, Harsha united Thaneswar and Kannauj, making Kannauj his capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — हर्षवर्धन ने अपनी बहन राज्यश्री को बचाने के उपरांत थानेश्वर और कन्नौज का एकीकरण कर कन्नौज को अपनी राजधानी बनाया।"
+  },
+  {
+    "id": 573,
+    "difficulty": "Difficult",
+    "topic": "Harshavardhana - Battle on Narmada",
+    "topic_hi": "हर्षवर्धन - नर्मदा का युद्ध",
+    "question": "[Part-3 Q#573] Harsha's southward expansion into the Deccan was decisively halted on the banks of the Narmada River by which Western Chalukya monarch?",
+    "question_hi": "दक्षिण भारत की ओर बढ़ते हर्षवर्धन के विजय अभियान को नर्मदा नदी के तट पर किस चालुक्य सम्राट ने रोका था?",
+    "options": [
+      "Vikramaditya I",
+      "Kirtivarman I",
+      "Pulakesin II",
+      "Mangalesha"
+    ],
+    "options_hi": [
+      "विक्रमादित्य प्रथम",
+      "कीर्तिवर्मन प्रथम",
+      "पुलकेशिन द्वितीय",
+      "मंगलेश"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pulakesin II of the Vatapi Chalukyas defeated Harsha, celebrated by court poet Ravikirti in the Aihole Inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — चालुक्य नरेश पुलकेशिन द्वितीय ने नर्मदा के युद्ध में हर्ष को पराजित किया, जिसका वर्णन रविकीर्ति के एहोल अभिलेख में है।"
+  },
+  {
+    "id": 574,
+    "difficulty": "Moderate",
+    "topic": "Hiuen Tsang (Xuanzang)",
+    "topic_hi": "ह्वेनसांग - तीर्थयात्रियों का राजकुमार",
+    "question": "[Part-3 Q#574] The Chinese Buddhist pilgrim Hiuen Tsang (Xuanzang), celebrated as the 'Prince of Pilgrims', visited India during the reign of:",
+    "question_hi": "'यात्रियों का राजकुमार' कहे जाने वाले प्रसिद्ध चीनी यात्री ह्वेनसांग ने किसके शासनकाल में भारत की यात्रा की थी?",
+    "options": [
+      "Harshavardhana",
+      "Chandragupta II",
+      "Kanishka",
+      "Ashoka"
+    ],
+    "options_hi": [
+      "हर्षवर्धन",
+      "चन्द्रगुप्त द्वितीय",
+      "कनिष्क",
+      "अशोक"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Hiuen Tsang resided in India from 630 to 645 AD, studied at Nalanda under Abbot Silabhadra, and attended Harsha's assemblies.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — ह्वेनसांग ने 630-645 ईस्वी में हर्ष के समय भारत की यात्रा की और अपना यात्रा वृत्तांत 'सी-यू-की' (Si-Yu-Ki) नाम से लिखा।"
+  },
+  {
+    "id": 575,
+    "difficulty": "Easy",
+    "topic": "Harsha - Literary Compositions",
+    "topic_hi": "हर्षवर्धन - संस्कृत नाटक",
+    "question": "[Part-3 Q#575] Which three celebrated Sanskrit plays were authored by King Harshavardhana himself?",
+    "question_hi": "सम्राट हर्षवर्धन ने स्वयं किन तीन प्रसिद्ध संस्कृत नाटकों की रचना की थी?",
+    "options": [
+      "Ratnavali, Priyadarsika, and Nagananda",
+      "Malavikagnimitram, Meghaduta, and Shakuntala",
+      "Mudrarakshasa, Devichandragupta, and Svapnavasavadatta",
+      "Kiratarjuniya, Shishupalavadha, and Naishadha"
+    ],
+    "options_hi": [
+      "रत्नावली, प्रियदर्शिका और नागानंद",
+      "मालविकाग्निमित्रम्, मेघदूत और शकुंतला",
+      "मुद्राराक्षस, देवीचंद्रगुप्त और स्वप्नवासवदत्ता",
+      "किरातार्जुनीय, शिशुपालवध और नैषध"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Harsha was an accomplished playwright who composed Ratnavali, Priyadarsika, and the Buddhist-themed drama Nagananda.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — हर्षवर्धन एक कुशल नाटककार था जिसने रत्नावली, प्रियदर्शिका और नागानंद नामक तीन प्रसिद्ध नाटक लिखे।"
+  },
+  {
+    "id": 576,
+    "difficulty": "Difficult",
+    "topic": "Banabhatta",
+    "topic_hi": "बाणभट्ट - हर्षचरित एवं कादंबरी",
+    "question": "[Part-3 Q#576] Who was Harsha's chief court poet (Asthana Kavi) that composed 'Harshacharita' and the world's earliest prose novel 'Kadambari'?",
+    "question_hi": "हर्षवर्धन के दरबारी कवि कौन थे जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादंबरी' रचा था?",
+    "options": [
+      "Mayura",
+      "Banabhatta",
+      "Harisena",
+      "Bhavabhuti"
+    ],
+    "options_hi": [
+      "मयूर",
+      "बाणभट्ट",
+      "हरिषेण",
+      "भवभूति"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Banabhatta authored Harshacharita (biography of Harsha) and Kadambari. Mayura (author of Mayurasataka) was also in Harsha's court.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — बाणभट्ट ने हर्ष के जीवन चरित्र पर 'हर्षचरित' तथा प्रसिद्ध प्रेम-कथा 'कादंबरी' की रचना की थी।"
+  },
+  {
+    "id": 577,
+    "difficulty": "Easy",
+    "topic": "Pallava Dynasty - Rock-Cut Temples",
+    "topic_hi": "पल्लव वंश - रथ मंदिर",
+    "question": "[Part-3 Q#577] The monolithic rock-cut 'Pancha Pandava Rathas' at Mahabalipuram were sculpted under which great Pallava monarch?",
+    "question_hi": "महाबलीपुरम (मामल्लपुरम) के एकाश्मक 'पंच पांडव रथ मंदिर' किस प्रतापी पल्लव शासक के काल में तराशे गए थे?",
+    "options": [
+      "Mahendravarman I",
+      "Narasimhavarman I (Mamalla)",
+      "Narasimhavarman II (Rajasimha)",
+      "Simhavishnu"
+    ],
+    "options_hi": [
+      "महेंद्रवर्मन प्रथम",
+      "नरसिंहवर्मन प्रथम (मामल्ल)",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "सिंहविष्णु"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Narasimhavarman I (630–668 AD), who assumed the title 'Vatapikonda' after conquering Badami, built the rock-cut Rathas at Mamallapuram.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — नरसिंहवर्मन प्रथम मामल्ल ने महाबलीपुरम के एकाश्म रथ मंदिरों (सप्त पैगोडा) का निर्माण कराया था।"
+  },
+  {
+    "id": 578,
+    "difficulty": "Moderate",
+    "topic": "Pallava - Shore Temple",
+    "topic_hi": "पल्लव वंश - शोर मंदिर एवं कैलाशनाथ",
+    "question": "[Part-3 Q#578] The celebrated structural Shore Temple at Mahabalipuram and the Kailasanatha Temple at Kanchipuram were built by:",
+    "question_hi": "महाबलीपुरम का प्रसिद्ध तट मंदिर (शोर मंदिर) और कांचीपुरम का कैलाशनाथ मंदिर किस पल्लव राजा ने बनवाया था?",
+    "options": [
+      "Narasimhavarman II (Rajasimha)",
+      "Narasimhavarman I",
+      "Mahendravarman I",
+      "Aparajita"
+    ],
+    "options_hi": [
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "नरसिंहवर्मन प्रथम",
+      "महेंद्रवर्मन प्रथम",
+      "अपराजित"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Narasimhavarman II Rajasimha (700–728 AD) ushered in the Dravidian structural stone temple era with the Shore Temple and Kailasanatha temple.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — राजसिंह (नरसिंहवर्मन द्वितीय) ने कांची के कैलाशनाथ मंदिर तथा महाबलीपुरम के तट मंदिर का निर्माण कराया।"
+  },
+  {
+    "id": 579,
+    "difficulty": "Difficult",
+    "topic": "Post-Mauryan - Sunga Dynasty",
+    "topic_hi": "मौर्योत्तर काल - शुंग वंश",
+    "question": "[Part-3 Q#579] Who established the Sunga Dynasty in 185 BC after assassinating the last Mauryan ruler Brihadratha?",
+    "question_hi": "185 ईसा पूर्व में अंतिम मौर्य शासक बृहद्रथ की हत्या करके शुंग वंश की स्थापना किसने की थी?",
+    "options": [
+      "Pushyamitra Sunga",
+      "Agnimitra",
+      "Vasumitra",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "पुष्यमित्र शुंग",
+      "अग्निमित्र",
+      "वसुमित्र",
+      "देवभूति"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pushyamitra Sunga, the commander-in-chief (Senapati) of Brihadratha, established the Sunga Dynasty with Vidisha/Pataliputra as capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — मौर्य सेनापति पुष्यमित्र शुंग ने अंतिम मौर्य राजा बृहद्रथ की हत्या कर 185 ईसा पूर्व में शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 580,
+    "difficulty": "Moderate",
+    "topic": "Sunga Dynasty - Patanjali",
+    "topic_hi": "शुंग वंश - पतंजलि",
+    "question": "[Part-3 Q#580] Which great grammarian and philosopher was the contemporary and chief priest of Pushyamitra Sunga's two Ashvamedha sacrifices?",
+    "question_hi": "पुष्यमित्र शुंग द्वारा किए गए दो अश्वमेध यज्ञों के मुख्य पुरोहित कौन से महान वैयाकरण थे?",
+    "options": [
+      "Katyayana",
+      "Panini",
+      "Patanjali",
+      "Charaka"
+    ],
+    "options_hi": [
+      "कात्यायन",
+      "पाणिनि",
+      "पतंजलि",
+      "चरक"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Patanjali, the author of the 'Mahabhashya', was the royal priest who conducted two Ashvamedha yajnas for Pushyamitra Sunga.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — महाभाष्य के रचयिता महर्षि पतंजलि पुष्यमित्र शुंग के समकालीन थे और उन्होंने उसके दो अश्वमेध यज्ञ संपन्न कराए थे।"
+  },
+  {
+    "id": 581,
+    "difficulty": "Easy",
+    "topic": "Sunga Dynasty - Bharhut",
+    "topic_hi": "शुंग वंश - भरहुत स्तूप",
+    "question": "[Part-3 Q#581] The monumental stone railing and decorative gateways of the famous Bharhut Stupa in Madhya Pradesh were constructed during which dynasty?",
+    "question_hi": "मध्य प्रदेश के प्रसिद्ध भरहुत स्तूप की पाषाण वेदिका (रेलिंग) और तोरण द्वार का निर्माण किस वंश के काल में हुआ था?",
+    "options": [
+      "Kushana Dynasty",
+      "Mauryan Dynasty",
+      "Sunga Dynasty",
+      "Gupta Dynasty"
+    ],
+    "options_hi": [
+      "कुषाण वंश",
+      "मौर्य वंश",
+      "शुंग वंश",
+      "गुप्त वंश"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The stone gateways and balustrade surrounding the Bharhut Stupa were erected during the reign of the Sungas.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — भरहुत स्तूप के चारों ओर सुंदर नक्काशीदार पाषाण रेलिंग और तोरणों का निर्माण शुंग काल में किया गया था।"
+  },
+  {
+    "id": 582,
+    "difficulty": "Difficult",
+    "topic": "Kalidasa's Drama - Agnimitra",
+    "topic_hi": "कालिदास का नाटक - अग्निमित्र",
+    "question": "[Part-3 Q#582] The Sunga prince Agnimitra is the celebrated hero of which classical Sanskrit drama authored by Kalidasa?",
+    "question_hi": "शुंग राजकुमार अग्निमित्र महाकवि कालिदास के किस प्रसिद्ध संस्कृत नाटक का नायक है?",
+    "options": [
+      "Vikramorvashiyam",
+      "Abhijnanashakuntalam",
+      "Malavikagnimitram",
+      "Mudrarakshasa"
+    ],
+    "options_hi": [
+      "विक्रमोर्वशीयम्",
+      "अभिज्ञानशाकुंतलम्",
+      "मालविकाग्निमित्रम्",
+      "मुद्राराक्षस"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kalidasa's first play, 'Malavikagnimitram', depicts the love affair of Sunga king Agnimitra and maiden Malavika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कालिदास के प्रथम नाटक 'मालविकाग्निमित्रम्' का नायक शुंग शासक अग्निमित्र है।"
+  },
+  {
+    "id": 583,
+    "difficulty": "Easy",
+    "topic": "Satavahana Dynasty",
+    "topic_hi": "सातवाहन वंश",
+    "question": "[Part-3 Q#583] Who was the founder of the powerful Satavahana (Andhra) Dynasty in the Deccan?",
+    "question_hi": "दक्कन में शक्तिशाली सातवाहन (आंध्र) वंश की स्थापना किसने की थी?",
+    "options": [
+      "Satakarni I",
+      "Simuka",
+      "Gautamiputra Satakarni",
+      "Hala"
+    ],
+    "options_hi": [
+      "शातकर्णी प्रथम",
+      "सिमुक",
+      "गौतमीपुत्र शातकर्णी",
+      "हाल"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।"
+  },
+  {
+    "id": 584,
+    "difficulty": "Moderate",
+    "topic": "Satavahana - Coins",
+    "topic_hi": "सातवाहन - मुद्राएं",
+    "question": "[Part-3 Q#584] The Satavahanas are historically famous for issuing the largest number of coins made of which unique metal?",
+    "question_hi": "सातवाहन शासक किस विशेष धातु के सर्वाधिक सिक्के जारी करने के लिए इतिहास में प्रसिद्ध हैं?",
+    "options": [
+      "Silver only",
+      "Pure Gold",
+      "Lead (Potin)",
+      "Iron"
+    ],
+    "options_hi": [
+      "केवल चांदी",
+      "शुद्ध सोना",
+      "सीसा (पोटिन)",
+      "लोहा"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Satavahanas predominantly minted coins of lead, potin (base metal alloy), copper, and bronze.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — सातवाहन शासकों ने सर्वाधिक सिक्के सीसे (Lead) और पोटिन के जारी किए थे।"
+  },
+  {
+    "id": 585,
+    "difficulty": "Difficult",
+    "topic": "Satavahana - Gautamiputra Satakarni",
+    "topic_hi": "सातवाहन - गौतमीपुत्र शातकर्णी",
+    "question": "[Part-3 Q#585] Which Satavahana ruler is celebrated in the Nasik Prasasti as 'Ekabrahmana' and the destroyer of the Sakas?",
+    "question_hi": "नासिक प्रशस्ति में किस सातवाहन शासक को 'एकाब्राह्मण' और शकों का विनाशक कहा गया है?",
+    "options": [
+      "Gautamiputra Satakarni",
+      "Vashishtiputra Pulumayi",
+      "Simuka",
+      "Hala"
+    ],
+    "options_hi": [
+      "गौतमीपुत्र शातकर्णी",
+      "वासिष्ठीपुत्र पुलुमावी",
+      "सिमुक",
+      "हाल"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gautamiputra Satakarni (106–130 AD) was the greatest Satavahana king, praised by his mother Gautami Balasri in the Nasik cave inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गौतमीपुत्र शातकर्णी (23वां राजा) को नासिक प्रशस्ति में 'अद्वितीय ब्राह्मण' और क्षत्रियों के दर्प का दमन करने वाला कहा गया है।"
+  },
+  {
+    "id": 586,
+    "difficulty": "Moderate",
+    "topic": "Satavahana - Literature",
+    "topic_hi": "सातवाहन - प्राकृत साहित्य",
+    "question": "[Part-3 Q#586] The 17th Satavahana ruler, King Hala, composed the celebrated Prakrit poetic anthology known as:",
+    "question_hi": "17वें सातवाहन राजा हाल ने प्राकृत भाषा में किस प्रसिद्ध मुक्तक काव्य ग्रंथ की रचना की थी?",
+    "options": [
+      "Lilavati",
+      "Brihatkatha",
+      "Kavyamimamsa",
+      "Gatha Saptasati (Sattasai)"
+    ],
+    "options_hi": [
+      "लीलावती",
+      "बृहत्कथा",
+      "काव्यमीमांसा",
+      "गाथासप्तशती (सत्तसई)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "King Hala composed 'Gatha Saptasati' (700 romantic couplets in Maharashtri Prakrit). Gunadhya, author of Brihatkatha, was in his court.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — राजा हाल ने महाराष्ट्री प्राकृत में 700 श्लोकों का संग्रह 'गाथासप्तशती' लिखा था।"
+  },
+  {
+    "id": 587,
+    "difficulty": "Easy",
+    "topic": "Chedi Dynasty - Hathigumpha",
+    "topic_hi": "चेदि वंश - हाथीगुंफा अभिलेख",
+    "question": "[Part-3 Q#587] The biographical and chronological military expeditions of King Kharavela of Kalinga are engraved in which famous inscription?",
+    "question_hi": "कलिंग के महान शासक खारवेल के जीवन और सैन्य अभियानों का प्रामाणिक विवरण किस प्रसिद्ध अभिलेख में उत्कीर्ण है?",
+    "options": [
+      "Hathigumpha Inscription (Udayagiri)",
+      "Junagarh Inscription",
+      "Aihole Inscription",
+      "Nasik Cave Inscription"
+    ],
+    "options_hi": [
+      "हाथीगुंफा अभिलेख (उदयगिरि)",
+      "जूनागढ़ अभिलेख",
+      "एहोल अभिलेख",
+      "नासिक गुहा अभिलेख"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The undated Prakrit Hathigumpha inscription on the Udayagiri hills near Bhubaneswar records Kharavela's military conquests year-by-year.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — भुवनेश्वर के निकट उदयगिरि की हाथीगुंफा में बिना तिथि वाला प्राकृत अभिलेख खारवेल के शासन के 13 वर्षों का क्रमबद्ध विवरण देता है।"
+  },
+  {
+    "id": 588,
+    "difficulty": "Difficult",
+    "topic": "Indo-Greeks - Gold Coins",
+    "topic_hi": "हिन्द-यूनानी - स्वर्ण मुद्राएं",
+    "question": "[Part-3 Q#588] Who were the FIRST rulers in Indian history to issue regular gold coins with portrait busts and bilingual legends?",
+    "question_hi": "भारतीय इतिहास में राजाओं के नाम और छवि वाले नियमित स्वर्ण सिक्के जारी करने वाले प्रथम शासक कौन थे?",
+    "options": [
+      "Kushanas",
+      "Indo-Greeks (Bactrians)",
+      "Guptas",
+      "Mauryas"
+    ],
+    "options_hi": [
+      "कुषाण",
+      "हिन्द-यूनानी (इंडो-ग्रीक)",
+      "गुप्त",
+      "मौर्य"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Indo-Greeks were the first to issue gold coins bearing royal portraits and inscriptions in Greek and Kharosthi.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — भारत में सबसे पहले नियमित सोने के सिक्के हिन्द-यूनानी शासकों द्वारा जारी किए गए थे।"
+  },
+  {
+    "id": 589,
+    "difficulty": "Easy",
+    "topic": "Indo-Greeks - Milindapanho",
+    "topic_hi": "हिन्द-यूनानी - मिलिंदपन्हो",
+    "question": "[Part-3 Q#589] The philosophical Pali dialogue 'Milindapanho' records conversations between Indo-Greek King Menander and which Buddhist monk?",
+    "question_hi": "प्रसिद्ध पालि दार्शनिक ग्रंथ 'मिलिंदपन्हो' में हिन्द-यूनानी राजा मिनांडर (मिलिंद) और किस बौद्ध भिक्षु के संवाद संकलित हैं?",
+    "options": [
+      "Vasumitra",
+      "Ashvaghosha",
+      "Nagasena (Nagajuna)",
+      "Moggaliputta Tissa"
+    ],
+    "options_hi": [
+      "वसुमित्र",
+      "अश्वघोष",
+      "नागसेन",
+      "मोग्गलिपुत्त तिस्स"
+    ],
+    "correctAnswer": "C",
+    "explanation": "King Menander questioned Buddhist monk Nagasena, and his intellectual queries and eventual conversion are compiled in 'Milindapanho'.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — राजा मिनांडर ने बौद्ध धर्म स्वीकार करने से पूर्व भिक्षु नागसेन से अनेक दार्शनिक प्रश्न पूछे जो 'मिलिंदपन्हो' में संकलित हैं।"
+  },
+  {
+    "id": 590,
+    "difficulty": "Moderate",
+    "topic": "Sakas - Rudradaman I",
+    "topic_hi": "शक - रुद्रदामन प्रथम",
+    "question": "[Part-3 Q#590] The first long and grammatically flawless inscription in chaste Classical Sanskrit was engraved at Junagarh by:",
+    "question_hi": "विशुद्ध संस्कृत भाषा में उत्कीर्ण पहला विशाल और प्रामाणिक अभिलेख जूनागढ़ में किसके द्वारा लिखवाया गया था?",
+    "options": [
+      "Saka King Rudradaman I",
+      "Kanishka",
+      "Samudragupta",
+      "Chandragupta II"
+    ],
+    "options_hi": [
+      "शक शासक रुद्रदामन प्रथम",
+      "कनिष्क",
+      "समुद्रगुप्त",
+      "चन्द्रगुप्त द्वितीय"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Junagarh rock inscription (150 AD) of Rudradaman I is the earliest long epigraph in pure Classical Sanskrit.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — रुद्रदामन प्रथम (150 ईस्वी) का गिरनार (जूनागढ़) अभिलेख संस्कृत गद्य का प्राचीनतम उत्कृष्ट नमूना है।"
+  },
+  {
+    "id": 591,
+    "difficulty": "Difficult",
+    "topic": "Sudarshana Lake",
+    "topic_hi": "सुदर्शन झील का जीर्णोद्धार",
+    "question": "[Part-3 Q#591] Saka ruler Rudradaman I earned historic fame for repairing which ancient lake in Saurashtra without imposing taxes on subjects?",
+    "question_hi": "शक राजा रुद्रदामन प्रथम ने प्रजा पर कोई अतिरिक्त कर लगाए बिना सौराष्ट्र की किस प्राचीन झील के बांध का जीर्णोद्धार कराया था?",
+    "options": [
+      "Chilika Lake",
+      "Pushkar Lake",
+      "Nal Lake",
+      "Sudarshana Lake"
+    ],
+    "options_hi": [
+      "चिल्का झील",
+      "पुष्कर झील",
+      "नल झील",
+      "सुदर्शन झील"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Originally built by Chandragupta Maurya's governor Pushyagupta, the dam of Lake Sudarshana was rebuilt by Rudradaman at his own expense.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — मौर्यों द्वारा निर्मित सुदर्शन झील के टूट जाने पर रुद्रदामन ने अपने निजी कोष से उसका पुनर्निर्माण कराया था।"
+  },
+  {
+    "id": 592,
+    "difficulty": "Moderate",
+    "topic": "Kushana Dynasty - Kanishka",
+    "topic_hi": "कुषाण वंश - कनिष्क",
+    "question": "[Part-3 Q#592] Kanishka ascended the Kushana throne in 78 AD, inaugurating which historic era adopted by the Government of India?",
+    "question_hi": "78 ईस्वी में कनिष्क के राज्यारोहण के उपलक्ष्य में किस ऐतिहासिक संवत की शुरुआत हुई जिसे भारत सरकार का राष्ट्रीय संवत माना गया है?",
+    "options": [
+      "Gupta Era (319 AD)",
+      "Vikrama Era (58 BC)",
+      "Saka Era (78 AD)",
+      "Harsha Era (606 AD)"
+    ],
+    "options_hi": [
+      "गुप्त संवत (319 ई.)",
+      "विक्रम संवत (58 ई.पू.)",
+      "शक संवत (78 ई.)",
+      "हर्ष संवत (606 ई.)"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kanishka founded the Saka Era in 78 AD, which serves as the base of the official Indian National Calendar.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कनिष्क ने 78 ईस्वी में राज्यारोहण के समय शक संवत का प्रवर्तन किया, जो भारत का राष्ट्रीय कैलेंडर है।"
+  },
+  {
+    "id": 593,
+    "difficulty": "Easy",
+    "topic": "Kushana - Capitals",
+    "topic_hi": "कुषाण - राजधानियां",
+    "question": "[Part-3 Q#593] What were the two primary capitals of Emperor Kanishka's vast Eurasian empire?",
+    "question_hi": "कुषाण सम्राट कनिष्क के विशाल साम्राज्य की दो प्रमुख राजधानियां कौन सी थीं?",
+    "options": [
+      "Purushapura (Peshawar) and Mathura",
+      "Taxila and Pataliputra",
+      "Ujjain and Vidisha",
+      "Sarnath and Kausambi"
+    ],
+    "options_hi": [
+      "पुरुषपुर (पेशावर) और मथुरा",
+      "तक्षशिला और पाटलिपुत्र",
+      "उज्जैन और विदिशा",
+      "सारनाथ और कौशाम्बी"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Purushapura (modern Peshawar) was Kanishka's primary political capital, while Mathura served as his second cultural capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — कनिष्क की प्रथम राजधानी पुरुषपुर (पेशावर) तथा द्वितीय राजधानी मथुरा थी।"
+  },
+  {
+    "id": 594,
+    "difficulty": "Difficult",
+    "topic": "Kushana - Court Scholars",
+    "topic_hi": "कुषाण - दरबारी विद्वान",
+    "question": "[Part-3 Q#594] Which physician, considered the 'Father of Indian Medicine' and author of Charaka Samhita, adorned the court of Kanishka?",
+    "question_hi": "'भारतीय चिकित्सा शास्त्र के जनक' माने जाने वाले चरक संहिता के रचयिता महर्षि चरक किसके राजवैद्य थे?",
+    "options": [
+      "Emperor Kanishka",
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "सम्राट कनिष्क",
+      "चन्द्रगुप्त मौर्य",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Charaka, author of the foundational Ayurvedic medical encyclopaedia 'Charaka Samhita', was the royal physician of Kanishka.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — आयुर्वेद के विख्यात आचार्य चरक कुषाण सम्राट कनिष्क के राजदरबार में राजवैद्य थे।"
+  },
+  {
+    "id": 595,
+    "difficulty": "Easy",
+    "topic": "Sangam Age - Assemblies",
+    "topic_hi": "संगम काल - परिषदें",
+    "question": "[Part-3 Q#595] The three historic Sangams (literary academies of Tamil poets) were convened under the royal patronage of which dynasty?",
+    "question_hi": "तीन ऐतिहासिक तमिल संगमों (कवि परिषदों) का आयोजन किस राजवंश के संरक्षण में मदुरै और कपाटपुरम में हुआ था?",
+    "options": [
+      "Pandya Dynasty",
+      "Chola Dynasty",
+      "Chera Dynasty",
+      "Pallava Dynasty"
+    ],
+    "options_hi": [
+      "पाण्ड्य वंश",
+      "चोल वंश",
+      "चेर वंश",
+      "पल्लव वंश"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Pandya rulers of Madurai were the royal patrons of all three Sangams of classical Tamil literature.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — तीनों संगमों का आयोजन मदुरै के पाण्ड्य राजाओं के संरक्षण में किया गया था।"
+  },
+  {
+    "id": 596,
+    "difficulty": "Moderate",
+    "topic": "Sangam - Tolkappiyam",
+    "topic_hi": "संगम - तोलकाप्पियम",
+    "question": "[Part-3 Q#596] The oldest surviving masterwork of classical Tamil grammar and poetics, 'Tolkappiyam', was authored by:",
+    "question_hi": "तमिल व्याकरण और काव्यशास्त्र का प्राचीनतम उपलब्ध मानक ग्रंथ 'तोलकाप्पियम' किसकी रचना है?",
+    "options": [
+      "Tiruvalluvar",
+      "Ilango Adigal",
+      "Tolkappiyar",
+      "Sittalai Sattanar"
+    ],
+    "options_hi": [
+      "तिरुवल्लुवर",
+      "इलांगो आदिगल",
+      "तोलकाप्पियर",
+      "शीतलै सत्तनार"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tolkappiyar (a disciple of Sage Agastya) composed the Tolkappiyam during the Second Sangam.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — तोलकाप्पियम द्वितीय संगम की एकमात्र जीवित रचना है जिसे तोलकाप्पियर ने लिखा था।"
+  },
+  {
+    "id": 597,
+    "difficulty": "Difficult",
+    "topic": "Sangam - Tirukkural",
+    "topic_hi": "संगम - तिरुक्कुरल",
+    "question": "[Part-3 Q#597] Which philosophical text, authored by Tiruvalluvar, is revered as the 'Bible of the Tamil Land' (Fifth Veda of Tamil)?",
+    "question_hi": "संत तिरुवल्लुवर द्वारा रचित किस नीतिपरक ग्रंथ को 'तमिल भूमि की बाइबल' और पंचम वेद माना जाता है?",
+    "options": [
+      "Tirukkural (Kural)",
+      "Silappadikaram",
+      "Manimekalai",
+      "Naladiyar"
+    ],
+    "options_hi": [
+      "तिरुक्कुरल (कुरल)",
+      "शिलप्पादिकारम्",
+      "मणिमेकलै",
+      "नालदियार"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Tirukkural composed by Tiruvalluvar comprises 1,330 couplets categorized into Dharma (Aram), Artha (Porul), and Kama (Inbam).",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — तिरुवल्लुवर कृत 'तिरुक्कुरल' तमिल साहित्य का अप्रतिम नीतिग्रंथ है जिसे तमिल बाइबिल कहा जाता है।"
+  },
+  {
+    "id": 598,
+    "difficulty": "Moderate",
+    "topic": "Sangam - Silappadikaram",
+    "topic_hi": "संगम - शिलप्पादिकारम्",
+    "question": "[Part-3 Q#598] The tragic romantic epic 'Silappadikaram' (The Tale of the Anklet), featuring Kovalan and Kannagi, was composed by:",
+    "question_hi": "कोवलन और कण्णगि के अमर प्रेम पर आधारित प्रसिद्ध तमिल महाकाव्य 'शिलप्पादिकारम्' (नूपुर की कहानी) के रचयिता कौन थे?",
+    "options": [
+      "Ilango Adigal",
+      "Sittalai Sattanar",
+      "Tiruvalluvar",
+      "Kamban"
+    ],
+    "options_hi": [
+      "इलांगो आदिगल",
+      "शीतलै सत्तनार",
+      "तिरुवल्लुवर",
+      "कंबन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Prince Ilango Adigal (brother of Chera king Senguttuvan) composed the famous epic Silappadikaram.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — चेर राजकुमार इलांगो आदिगल ने प्रसिद्ध महाकाव्य शिलप्पादिकारम् की रचना की थी।"
+  },
+  {
+    "id": 599,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Founder",
+    "topic_hi": "गुप्त वंश - संस्थापक",
+    "question": "[Part-3 Q#599] Who was the founder of the Gupta Dynasty around 275 AD?",
+    "question_hi": "लगभग 275 ईस्वी में गुप्त वंश की स्थापना किसने की थी?",
+    "options": [
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Samudragupta"
+    ],
+    "options_hi": [
+      "श्रीगुप्त",
+      "घटोत्कच",
+      "चन्द्रगुप्त प्रथम",
+      "समुद्रगुप्त"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sri Gupta founded the dynasty and took the title of 'Maharaja', succeeded by his son Ghatotkacha.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गुप्त राजवंश की स्थापना श्रीगुप्त द्वारा की गई थी और उसने 'महाराजा' की उपाधि धारण की थी।"
+  },
+  {
+    "id": 600,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Chandragupta I",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त प्रथम",
+    "question": "[Part-3 Q#600] Who was the first Gupta monarch to assume the supreme imperial title of 'Maharajadhiraja'?",
+    "question_hi": "'महाराजाधिराज' की भव्य साम्राज्यिक उपाधि धारण करने वाला प्रथम गुप्त सम्राट कौन था?",
+    "options": [
+      "Chandragupta I",
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Kumaragupta I"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त प्रथम",
+      "श्रीगुप्त",
+      "घटोत्कच",
+      "कुमारगुप्त प्रथम"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Chandragupta I (319–335 AD) founded the Gupta Era in 319 AD and married the Lichchhavi princess Kumaradevi.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — चन्द्रगुप्त प्रथम ने 319 ईस्वी में गुप्त संवत चलाया और 'महाराजाधिराज' की पदवी ग्रहण की।"
+  },
+  {
+    "id": 601,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Samudragupta",
+    "topic_hi": "गुप्त वंश - समुद्रगुप्त",
+    "question": "[Part-3 Q#601] Which British historian famously described Emperor Samudragupta as the 'Napoleon of India' for his unbroken military conquests?",
+    "question_hi": "किस ब्रिटिश इतिहासकार ने सम्राट समुद्रगुप्त के अजेय सैन्य अभियानों के कारण उसे 'भारत का नेपोलियन' कहा था?",
+    "options": [
+      "A.L. Basham",
+      "Vincent A. Smith",
+      "Sir William Jones",
+      "Max Muller"
+    ],
+    "options_hi": [
+      "ए. एल. बाशम",
+      "विंसेंट ए. स्मिथ",
+      "सर विलियम जोन्स",
+      "मैक्स मूलर"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Historian V.A. Smith in 'Early History of India' designated Samudragupta the 'Napoleon of India'.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — विंसेंट स्मिथ ने समुद्रगुप्त की दिग्विजयों और वीरता को देखकर उसे 'भारत का नेपोलियन' की संज्ञा दी।"
+  },
+  {
+    "id": 602,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Prayaga Prashasti",
+    "topic_hi": "गुप्त वंश - प्रयाग प्रशस्ति",
+    "question": "[Part-3 Q#602] The celebrated Prayaga Prashasti (Allahabad Pillar inscription) recording Samudragupta's conquests was composed in chaste Sanskrit by:",
+    "question_hi": "समुद्रगुप्त की विजयों का गुणगान करने वाली विख्यात 'प्रयाग प्रशस्ति' (इलाहाबाद स्तंभ लेख) की रचना किसने की थी?",
+    "options": [
+      "Kalidasa",
+      "Court poet Harisena",
+      "Banabhatta",
+      "Ravikirti"
+    ],
+    "options_hi": [
+      "कालिदास",
+      "दरबारी कवि हरिषेण",
+      "बाणभट्ट",
+      "रविकीर्ति"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Harisena, Samudragupta's court poet and minister for war and peace (Sandhivigrahika), composed the Prayaga Prashasti in Champu Kavya.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — महादंडनायक और संधि-विग्रहिक हरिषेण ने कौशाम्बी/इलाहाबाद के अशोक स्तंभ पर चम्पू शैली में प्रयाग प्रशस्ति लिखी थी।"
+  },
+  {
+    "id": 603,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Coins of Samudragupta",
+    "topic_hi": "गुप्त वंश - वीणा बजाते सिक्के",
+    "question": "[Part-3 Q#603] Samudragupta's passion for music is proven by gold coins depicting him playing which classical musical instrument?",
+    "question_hi": "सम्राट समुद्रगुप्त के संगीत प्रेम का प्रत्यक्ष प्रमाण उन स्वर्ण मुद्राओं से मिलता है जिन पर उन्हें क्या बजाते हुए दर्शाया गया है?",
+    "options": [
+      "Sitar",
+      "Flute",
+      "Mridangam",
+      "Veena (Lute)"
+    ],
+    "options_hi": [
+      "सितार",
+      "बांसुरी",
+      "मृदंगम",
+      "वीणा"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Samudragupta issued gold coins with the legend 'Kaviraja' showing the emperor seated on a couch playing the Veena.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — समुद्रगुप्त के वीणा-वादन प्रकार के सिक्कों पर उसे सोफे पर बैठकर वीणा बजाते दिखाया गया है।"
+  },
+  {
+    "id": 604,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Chandragupta II",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त द्वितीय विक्रमादित्य",
+    "question": "[Part-3 Q#604] Which Chinese Buddhist pilgrim visited India during the glorious reign of Chandragupta II Vikramaditya?",
+    "question_hi": "सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य के समृद्ध शासनकाल में किस चीनी बौद्ध यात्री ने भारत की यात्रा की थी?",
+    "options": [
+      "Fa-Hien (Faxian)",
+      "Hiuen-Tsang (Xuanzang)",
+      "I-Tsing (Yijing)",
+      "Sung-Yun"
+    ],
+    "options_hi": [
+      "फाह्यान",
+      "ह्वेनसांग",
+      "इत्सिंग",
+      "सुंग-युन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fa-Hien visited India between 399 and 414 AD to collect Buddhist manuscripts, praising the peace and prosperity of the Gupta realm.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — फाह्यान ने 399 से 414 ईस्वी के बीच भारत भ्रमण किया और गुप्त साम्राज्य की शांति व न्याय व्यवस्था की भूरि-भूरि प्रशंसा की।"
+  },
+  {
+    "id": 605,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Mehrauli Pillar",
+    "topic_hi": "गुप्त वंश - महरौली लौह स्तंभ",
+    "question": "[Part-3 Q#605] The rustless 4th-century Iron Pillar standing near the Qutub Minar in Mehrauli, Delhi, bears an inscription praising King:",
+    "question_hi": "कुतुब मीनार परिसर (महरौली, दिल्ली) में स्थित जंग-रहित ऐतिहासिक लौह स्तंभ पर किस राजा 'चन्द्र' की विजयों का उल्लेख है?",
+    "options": [
+      "Chandragupta Maurya",
+      "Chandra (Chandragupta II Vikramaditya)",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त मौर्य",
+      "चन्द्र (चन्द्रगुप्त द्वितीय विक्रमादित्य)",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Mehrauli Iron Pillar commemorates King Chandra (identified with Chandragupta II) defeating the Vahlikas across the Indus.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — महरौली का जंग-रहित लौह स्तंभ गुप्त सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य की बंगाल और बह्लीक विजय का साक्षी है।"
+  },
+  {
+    "id": 606,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Nalanda University",
+    "topic_hi": "गुप्त वंश - नालंदा विश्वविद्यालय",
+    "question": "[Part-3 Q#606] Which Gupta emperor founded the world-famous Buddhist monastic university of Nalanda in Bihar?",
+    "question_hi": "बिहार में विश्वविख्यात प्राचीन नालंदा महाविहार (विश्वविद्यालय) की स्थापना किस गुप्त सम्राट ने की थी?",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Kumaragupta I (Mahendraditya)",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त द्वितीय",
+      "समुद्रगुप्त",
+      "कुमारगुप्त प्रथम (महेंद्रादित्य)",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kumaragupta I (415–455 AD), adopting the title Mahendraditya, founded Nalanda Mahavihara, which became an international center of learning.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कुमारगुप्त प्रथम महेंद्रादित्य ने 5वीं शताब्दी में विश्वप्रसिद्ध नालंदा विश्वविद्यालय की नींव रखी थी।"
+  },
+  {
+    "id": 607,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Skandagupta",
+    "topic_hi": "गुप्त वंश - स्कंदगुप्त एवं हूण",
+    "question": "[Part-3 Q#607] Which courageous Gupta emperor successfully repelled the savage invasions of the White Hunas under Toramana and Mihirakula?",
+    "question_hi": "किस साहसी गुप्त सम्राट ने श्वेत हूणों के बर्बर आक्रमणों को सफलतापूर्वक विफल कर भारत की रक्षा की थी?",
+    "options": [
+      "Purugupta",
+      "Kumaragupta I",
+      "Buddhagupta",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "पुरुगुप्त",
+      "कुमारगुप्त प्रथम",
+      "बुधगुप्त",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Skandagupta (455–467 AD) crushed the fierce Hunas, documented in his Bhitari pillar inscription in Ghazipur, UP.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — स्कंदगुप्त ने गाजीपुर के भीतरी स्तंभ अभिलेख के अनुसार हूणों को परास्त कर देश को उनके अत्याचारों से बचाया था।"
+  },
+  {
+    "id": 608,
+    "difficulty": "Moderate",
+    "topic": "Gupta Science - Aryabhata",
+    "topic_hi": "गुप्त विज्ञान - आर्यभट्ट",
+    "question": "[Part-3 Q#608] Who authored 'Aryabhatiya' and 'Surya Siddhanta', discovering that the Earth is spherical and rotates on its own axis?",
+    "question_hi": "किस महान खगोलशास्त्री ने 'आर्यभटीय' लिखकर सिद्ध किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है?",
+    "options": [
+      "Aryabhata",
+      "Varahamihira",
+      "Brahmagupta",
+      "Bhaskaracharya"
+    ],
+    "options_hi": [
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "ब्रह्मगुप्त",
+      "भास्कराचार्य"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Aryabhata (born 476 AD at Pataliputra) formulated zero, decimal place value, value of pi (3.1416), and the solar-lunar eclipse rationale.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — आर्यभट्ट ने पाई का मान (3.1416), शून्य का प्रयोग और चंद्रग्रहण व सूर्यग्रहण का वैज्ञानिक कारण सर्वप्रथम प्रतिपादित किया।"
+  },
+  {
+    "id": 609,
+    "difficulty": "Difficult",
+    "topic": "Gupta Science - Varahamihira",
+    "topic_hi": "गुप्त विज्ञान - वराहमिहिर",
+    "question": "[Part-3 Q#609] The monumental encyclopaedic Sanskrit treatises 'Brihat Samhita' and 'Pancha Siddhantika' were authored by:",
+    "question_hi": "विशाल संस्कृत ज्ञानकोश 'बृहत्संहिता' और 'पंचसिद्धांतिका' के रचयिता कौन थे?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Varahamihira",
+      "Lagadha Muni"
+    ],
+    "options_hi": [
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "लगध मुनि"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Varahamihira was one of the Navaratnas of Chandragupta II, summarizing five ancient astronomical systems in Pancha Siddhantika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — वराहमिहिर चन्द्रगुप्त द्वितीय के नवरत्नों में से एक थे और उन्होंने खगोल तथा ऋतुविज्ञान पर बृहत्संहिता लिखी।"
+  },
+  {
+    "id": 610,
+    "difficulty": "Moderate",
+    "topic": "Gupta Science - Brahmagupta",
+    "topic_hi": "गुप्त विज्ञान - ब्रह्मगुप्त",
+    "question": "[Part-3 Q#610] Which Indian mathematician-astronomer anticipated Newton's Law of Gravitation by declaring that all objects fall toward Earth by natural attraction?",
+    "question_hi": "न्यूटन से सदियों पूर्व किस भारतीय गणितज्ञ ने घोषणा की थी कि सभी वस्तुएं पृथ्वी के प्राकृतिक आकर्षण से उसकी ओर गिरती हैं?",
+    "options": [
+      "Varahamihira",
+      "Aryabhata",
+      "Brahmagupta",
+      "Kanada"
+    ],
+    "options_hi": [
+      "वराहमिहिर",
+      "आर्यभट्ट",
+      "ब्रह्मगुप्त",
+      "कणाद"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Brahmagupta in 'Brahmasphutasiddhanta' stated: 'Bodies fall towards the earth as it is in the nature of the earth to attract bodies'.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — ब्रह्मगुप्त ने 'ब्रह्मस्फुटसिद्धांत' में गुरुत्वाकर्षण के नियम की पूर्व-घोषणा करते हुए पृथ्वी के आकर्षण गुण का उल्लेख किया था।"
+  },
+  {
+    "id": 611,
+    "difficulty": "Easy",
+    "topic": "Harshavardhana",
+    "topic_hi": "हर्षवर्धन - कन्नौज",
+    "question": "[Part-3 Q#611] King Harshavardhana shifted his imperial capital from Thaneswar to which historic North Indian city?",
+    "question_hi": "सम्राट हर्षवर्धन ने अपनी राजधानी थानेश्वर (हरियाणा) से किस ऐतिहासिक नगर में स्थानांतरित की थी?",
+    "options": [
+      "Prayagraj",
+      "Pataliputra",
+      "Kannauj (Kanyakubja)",
+      "Varanasi"
+    ],
+    "options_hi": [
+      "प्रयागराज",
+      "पाटलिपुत्र",
+      "कन्नौज (कान्यकुब्ज)",
+      "वाराणसी"
+    ],
+    "correctAnswer": "C",
+    "explanation": "After the murder of his brother-in-law Grahavarman of Kannauj, Harsha united Thaneswar and Kannauj, making Kannauj his capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — हर्षवर्धन ने अपनी बहन राज्यश्री को बचाने के उपरांत थानेश्वर और कन्नौज का एकीकरण कर कन्नौज को अपनी राजधानी बनाया।"
+  },
+  {
+    "id": 612,
+    "difficulty": "Difficult",
+    "topic": "Harshavardhana - Battle on Narmada",
+    "topic_hi": "हर्षवर्धन - नर्मदा का युद्ध",
+    "question": "[Part-3 Q#612] Harsha's southward expansion into the Deccan was decisively halted on the banks of the Narmada River by which Western Chalukya monarch?",
+    "question_hi": "दक्षिण भारत की ओर बढ़ते हर्षवर्धन के विजय अभियान को नर्मदा नदी के तट पर किस चालुक्य सम्राट ने रोका था?",
+    "options": [
+      "Pulakesin II",
+      "Kirtivarman I",
+      "Vikramaditya I",
+      "Mangalesha"
+    ],
+    "options_hi": [
+      "पुलकेशिन द्वितीय",
+      "कीर्तिवर्मन प्रथम",
+      "विक्रमादित्य प्रथम",
+      "मंगलेश"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pulakesin II of the Vatapi Chalukyas defeated Harsha, celebrated by court poet Ravikirti in the Aihole Inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — चालुक्य नरेश पुलकेशिन द्वितीय ने नर्मदा के युद्ध में हर्ष को पराजित किया, जिसका वर्णन रविकीर्ति के एहोल अभिलेख में है।"
+  },
+  {
+    "id": 613,
+    "difficulty": "Easy",
+    "topic": "Hiuen Tsang (Xuanzang)",
+    "topic_hi": "ह्वेनसांग - तीर्थयात्रियों का राजकुमार",
+    "question": "[Part-3 Q#613] The Chinese Buddhist pilgrim Hiuen Tsang (Xuanzang), celebrated as the 'Prince of Pilgrims', visited India during the reign of:",
+    "question_hi": "'यात्रियों का राजकुमार' कहे जाने वाले प्रसिद्ध चीनी यात्री ह्वेनसांग ने किसके शासनकाल में भारत की यात्रा की थी?",
+    "options": [
+      "Harshavardhana",
+      "Chandragupta II",
+      "Kanishka",
+      "Ashoka"
+    ],
+    "options_hi": [
+      "हर्षवर्धन",
+      "चन्द्रगुप्त द्वितीय",
+      "कनिष्क",
+      "अशोक"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Hiuen Tsang resided in India from 630 to 645 AD, studied at Nalanda under Abbot Silabhadra, and attended Harsha's assemblies.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — ह्वेनसांग ने 630-645 ईस्वी में हर्ष के समय भारत की यात्रा की और अपना यात्रा वृत्तांत 'सी-यू-की' (Si-Yu-Ki) नाम से लिखा।"
+  },
+  {
+    "id": 614,
+    "difficulty": "Moderate",
+    "topic": "Harsha - Literary Compositions",
+    "topic_hi": "हर्षवर्धन - संस्कृत नाटक",
+    "question": "[Part-3 Q#614] Which three celebrated Sanskrit plays were authored by King Harshavardhana himself?",
+    "question_hi": "सम्राट हर्षवर्धन ने स्वयं किन तीन प्रसिद्ध संस्कृत नाटकों की रचना की थी?",
+    "options": [
+      "Kiratarjuniya, Shishupalavadha, and Naishadha",
+      "Malavikagnimitram, Meghaduta, and Shakuntala",
+      "Mudrarakshasa, Devichandragupta, and Svapnavasavadatta",
+      "Ratnavali, Priyadarsika, and Nagananda"
+    ],
+    "options_hi": [
+      "किरातार्जुनीय, शिशुपालवध और नैषध",
+      "मालविकाग्निमित्रम्, मेघदूत और शकुंतला",
+      "मुद्राराक्षस, देवीचंद्रगुप्त और स्वप्नवासवदत्ता",
+      "रत्नावली, प्रियदर्शिका और नागानंद"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Harsha was an accomplished playwright who composed Ratnavali, Priyadarsika, and the Buddhist-themed drama Nagananda.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — हर्षवर्धन एक कुशल नाटककार था जिसने रत्नावली, प्रियदर्शिका और नागानंद नामक तीन प्रसिद्ध नाटक लिखे।"
+  },
+  {
+    "id": 615,
+    "difficulty": "Difficult",
+    "topic": "Banabhatta",
+    "topic_hi": "बाणभट्ट - हर्षचरित एवं कादंबरी",
+    "question": "[Part-3 Q#615] Who was Harsha's chief court poet (Asthana Kavi) that composed 'Harshacharita' and the world's earliest prose novel 'Kadambari'?",
+    "question_hi": "हर्षवर्धन के दरबारी कवि कौन थे जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादंबरी' रचा था?",
+    "options": [
+      "Mayura",
+      "Banabhatta",
+      "Harisena",
+      "Bhavabhuti"
+    ],
+    "options_hi": [
+      "मयूर",
+      "बाणभट्ट",
+      "हरिषेण",
+      "भवभूति"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Banabhatta authored Harshacharita (biography of Harsha) and Kadambari. Mayura (author of Mayurasataka) was also in Harsha's court.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — बाणभट्ट ने हर्ष के जीवन चरित्र पर 'हर्षचरित' तथा प्रसिद्ध प्रेम-कथा 'कादंबरी' की रचना की थी।"
+  },
+  {
+    "id": 616,
+    "difficulty": "Moderate",
+    "topic": "Pallava Dynasty - Rock-Cut Temples",
+    "topic_hi": "पल्लव वंश - रथ मंदिर",
+    "question": "[Part-3 Q#616] The monolithic rock-cut 'Pancha Pandava Rathas' at Mahabalipuram were sculpted under which great Pallava monarch?",
+    "question_hi": "महाबलीपुरम (मामल्लपुरम) के एकाश्मक 'पंच पांडव रथ मंदिर' किस प्रतापी पल्लव शासक के काल में तराशे गए थे?",
+    "options": [
+      "Simhavishnu",
+      "Mahendravarman I",
+      "Narasimhavarman II (Rajasimha)",
+      "Narasimhavarman I (Mamalla)"
+    ],
+    "options_hi": [
+      "सिंहविष्णु",
+      "महेंद्रवर्मन प्रथम",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "नरसिंहवर्मन प्रथम (मामल्ल)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Narasimhavarman I (630–668 AD), who assumed the title 'Vatapikonda' after conquering Badami, built the rock-cut Rathas at Mamallapuram.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — नरसिंहवर्मन प्रथम मामल्ल ने महाबलीपुरम के एकाश्म रथ मंदिरों (सप्त पैगोडा) का निर्माण कराया था।"
+  },
+  {
+    "id": 617,
+    "difficulty": "Easy",
+    "topic": "Pallava - Shore Temple",
+    "topic_hi": "पल्लव वंश - शोर मंदिर एवं कैलाशनाथ",
+    "question": "[Part-3 Q#617] The celebrated structural Shore Temple at Mahabalipuram and the Kailasanatha Temple at Kanchipuram were built by:",
+    "question_hi": "महाबलीपुरम का प्रसिद्ध तट मंदिर (शोर मंदिर) और कांचीपुरम का कैलाशनाथ मंदिर किस पल्लव राजा ने बनवाया था?",
+    "options": [
+      "Narasimhavarman II (Rajasimha)",
+      "Narasimhavarman I",
+      "Mahendravarman I",
+      "Aparajita"
+    ],
+    "options_hi": [
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "नरसिंहवर्मन प्रथम",
+      "महेंद्रवर्मन प्रथम",
+      "अपराजित"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Narasimhavarman II Rajasimha (700–728 AD) ushered in the Dravidian structural stone temple era with the Shore Temple and Kailasanatha temple.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — राजसिंह (नरसिंहवर्मन द्वितीय) ने कांची के कैलाशनाथ मंदिर तथा महाबलीपुरम के तट मंदिर का निर्माण कराया।"
+  },
+  {
+    "id": 618,
+    "difficulty": "Difficult",
+    "topic": "Post-Mauryan - Sunga Dynasty",
+    "topic_hi": "मौर्योत्तर काल - शुंग वंश",
+    "question": "[Part-3 Q#618] Who established the Sunga Dynasty in 185 BC after assassinating the last Mauryan ruler Brihadratha?",
+    "question_hi": "185 ईसा पूर्व में अंतिम मौर्य शासक बृहद्रथ की हत्या करके शुंग वंश की स्थापना किसने की थी?",
+    "options": [
+      "Vasumitra",
+      "Agnimitra",
+      "Pushyamitra Sunga",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "वसुमित्र",
+      "अग्निमित्र",
+      "पुष्यमित्र शुंग",
+      "देवभूति"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pushyamitra Sunga, the commander-in-chief (Senapati) of Brihadratha, established the Sunga Dynasty with Vidisha/Pataliputra as capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — मौर्य सेनापति पुष्यमित्र शुंग ने अंतिम मौर्य राजा बृहद्रथ की हत्या कर 185 ईसा पूर्व में शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 619,
+    "difficulty": "Easy",
+    "topic": "Sunga Dynasty - Patanjali",
+    "topic_hi": "शुंग वंश - पतंजलि",
+    "question": "[Part-3 Q#619] Which great grammarian and philosopher was the contemporary and chief priest of Pushyamitra Sunga's two Ashvamedha sacrifices?",
+    "question_hi": "पुष्यमित्र शुंग द्वारा किए गए दो अश्वमेध यज्ञों के मुख्य पुरोहित कौन से महान वैयाकरण थे?",
+    "options": [
+      "Patanjali",
+      "Panini",
+      "Katyayana",
+      "Charaka"
+    ],
+    "options_hi": [
+      "पतंजलि",
+      "पाणिनि",
+      "कात्यायन",
+      "चरक"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Patanjali, the author of the 'Mahabhashya', was the royal priest who conducted two Ashvamedha yajnas for Pushyamitra Sunga.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — महाभाष्य के रचयिता महर्षि पतंजलि पुष्यमित्र शुंग के समकालीन थे और उन्होंने उसके दो अश्वमेध यज्ञ संपन्न कराए थे।"
+  },
+  {
+    "id": 620,
+    "difficulty": "Moderate",
+    "topic": "Sunga Dynasty - Bharhut",
+    "topic_hi": "शुंग वंश - भरहुत स्तूप",
+    "question": "[Part-3 Q#620] The monumental stone railing and decorative gateways of the famous Bharhut Stupa in Madhya Pradesh were constructed during which dynasty?",
+    "question_hi": "मध्य प्रदेश के प्रसिद्ध भरहुत स्तूप की पाषाण वेदिका (रेलिंग) और तोरण द्वार का निर्माण किस वंश के काल में हुआ था?",
+    "options": [
+      "Sunga Dynasty",
+      "Mauryan Dynasty",
+      "Kushana Dynasty",
+      "Gupta Dynasty"
+    ],
+    "options_hi": [
+      "शुंग वंश",
+      "मौर्य वंश",
+      "कुषाण वंश",
+      "गुप्त वंश"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The stone gateways and balustrade surrounding the Bharhut Stupa were erected during the reign of the Sungas.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — भरहुत स्तूप के चारों ओर सुंदर नक्काशीदार पाषाण रेलिंग और तोरणों का निर्माण शुंग काल में किया गया था।"
+  },
+  {
+    "id": 621,
+    "difficulty": "Difficult",
+    "topic": "Kalidasa's Drama - Agnimitra",
+    "topic_hi": "कालिदास का नाटक - अग्निमित्र",
+    "question": "[Part-3 Q#621] The Sunga prince Agnimitra is the celebrated hero of which classical Sanskrit drama authored by Kalidasa?",
+    "question_hi": "शुंग राजकुमार अग्निमित्र महाकवि कालिदास के किस प्रसिद्ध संस्कृत नाटक का नायक है?",
+    "options": [
+      "Vikramorvashiyam",
+      "Abhijnanashakuntalam",
+      "Malavikagnimitram",
+      "Mudrarakshasa"
+    ],
+    "options_hi": [
+      "विक्रमोर्वशीयम्",
+      "अभिज्ञानशाकुंतलम्",
+      "मालविकाग्निमित्रम्",
+      "मुद्राराक्षस"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kalidasa's first play, 'Malavikagnimitram', depicts the love affair of Sunga king Agnimitra and maiden Malavika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कालिदास के प्रथम नाटक 'मालविकाग्निमित्रम्' का नायक शुंग शासक अग्निमित्र है।"
+  },
+  {
+    "id": 622,
+    "difficulty": "Moderate",
+    "topic": "Satavahana Dynasty",
+    "topic_hi": "सातवाहन वंश",
+    "question": "[Part-3 Q#622] Who was the founder of the powerful Satavahana (Andhra) Dynasty in the Deccan?",
+    "question_hi": "दक्कन में शक्तिशाली सातवाहन (आंध्र) वंश की स्थापना किसने की थी?",
+    "options": [
+      "Satakarni I",
+      "Simuka",
+      "Gautamiputra Satakarni",
+      "Hala"
+    ],
+    "options_hi": [
+      "शातकर्णी प्रथम",
+      "सिमुक",
+      "गौतमीपुत्र शातकर्णी",
+      "हाल"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।"
+  },
+  {
+    "id": 623,
+    "difficulty": "Easy",
+    "topic": "Satavahana - Coins",
+    "topic_hi": "सातवाहन - मुद्राएं",
+    "question": "[Part-3 Q#623] The Satavahanas are historically famous for issuing the largest number of coins made of which unique metal?",
+    "question_hi": "सातवाहन शासक किस विशेष धातु के सर्वाधिक सिक्के जारी करने के लिए इतिहास में प्रसिद्ध हैं?",
+    "options": [
+      "Iron",
+      "Pure Gold",
+      "Silver only",
+      "Lead (Potin)"
+    ],
+    "options_hi": [
+      "लोहा",
+      "शुद्ध सोना",
+      "केवल चांदी",
+      "सीसा (पोटिन)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Satavahanas predominantly minted coins of lead, potin (base metal alloy), copper, and bronze.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — सातवाहन शासकों ने सर्वाधिक सिक्के सीसे (Lead) और पोटिन के जारी किए थे।"
+  },
+  {
+    "id": 624,
+    "difficulty": "Difficult",
+    "topic": "Satavahana - Gautamiputra Satakarni",
+    "topic_hi": "सातवाहन - गौतमीपुत्र शातकर्णी",
+    "question": "[Part-3 Q#624] Which Satavahana ruler is celebrated in the Nasik Prasasti as 'Ekabrahmana' and the destroyer of the Sakas?",
+    "question_hi": "नासिक प्रशस्ति में किस सातवाहन शासक को 'एकाब्राह्मण' और शकों का विनाशक कहा गया है?",
+    "options": [
+      "Gautamiputra Satakarni",
+      "Vashishtiputra Pulumayi",
+      "Simuka",
+      "Hala"
+    ],
+    "options_hi": [
+      "गौतमीपुत्र शातकर्णी",
+      "वासिष्ठीपुत्र पुलुमावी",
+      "सिमुक",
+      "हाल"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gautamiputra Satakarni (106–130 AD) was the greatest Satavahana king, praised by his mother Gautami Balasri in the Nasik cave inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गौतमीपुत्र शातकर्णी (23वां राजा) को नासिक प्रशस्ति में 'अद्वितीय ब्राह्मण' और क्षत्रियों के दर्प का दमन करने वाला कहा गया है।"
+  },
+  {
+    "id": 625,
+    "difficulty": "Easy",
+    "topic": "Satavahana - Literature",
+    "topic_hi": "सातवाहन - प्राकृत साहित्य",
+    "question": "[Part-3 Q#625] The 17th Satavahana ruler, King Hala, composed the celebrated Prakrit poetic anthology known as:",
+    "question_hi": "17वें सातवाहन राजा हाल ने प्राकृत भाषा में किस प्रसिद्ध मुक्तक काव्य ग्रंथ की रचना की थी?",
+    "options": [
+      "Lilavati",
+      "Brihatkatha",
+      "Kavyamimamsa",
+      "Gatha Saptasati (Sattasai)"
+    ],
+    "options_hi": [
+      "लीलावती",
+      "बृहत्कथा",
+      "काव्यमीमांसा",
+      "गाथासप्तशती (सत्तसई)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "King Hala composed 'Gatha Saptasati' (700 romantic couplets in Maharashtri Prakrit). Gunadhya, author of Brihatkatha, was in his court.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — राजा हाल ने महाराष्ट्री प्राकृत में 700 श्लोकों का संग्रह 'गाथासप्तशती' लिखा था।"
+  },
+  {
+    "id": 626,
+    "difficulty": "Moderate",
+    "topic": "Chedi Dynasty - Hathigumpha",
+    "topic_hi": "चेदि वंश - हाथीगुंफा अभिलेख",
+    "question": "[Part-3 Q#626] The biographical and chronological military expeditions of King Kharavela of Kalinga are engraved in which famous inscription?",
+    "question_hi": "कलिंग के महान शासक खारवेल के जीवन और सैन्य अभियानों का प्रामाणिक विवरण किस प्रसिद्ध अभिलेख में उत्कीर्ण है?",
+    "options": [
+      "Aihole Inscription",
+      "Junagarh Inscription",
+      "Hathigumpha Inscription (Udayagiri)",
+      "Nasik Cave Inscription"
+    ],
+    "options_hi": [
+      "एहोल अभिलेख",
+      "जूनागढ़ अभिलेख",
+      "हाथीगुंफा अभिलेख (उदयगिरि)",
+      "नासिक गुहा अभिलेख"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The undated Prakrit Hathigumpha inscription on the Udayagiri hills near Bhubaneswar records Kharavela's military conquests year-by-year.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — भुवनेश्वर के निकट उदयगिरि की हाथीगुंफा में बिना तिथि वाला प्राकृत अभिलेख खारवेल के शासन के 13 वर्षों का क्रमबद्ध विवरण देता है।"
+  },
+  {
+    "id": 627,
+    "difficulty": "Difficult",
+    "topic": "Indo-Greeks - Gold Coins",
+    "topic_hi": "हिन्द-यूनानी - स्वर्ण मुद्राएं",
+    "question": "[Part-3 Q#627] Who were the FIRST rulers in Indian history to issue regular gold coins with portrait busts and bilingual legends?",
+    "question_hi": "भारतीय इतिहास में राजाओं के नाम और छवि वाले नियमित स्वर्ण सिक्के जारी करने वाले प्रथम शासक कौन थे?",
+    "options": [
+      "Guptas",
+      "Kushanas",
+      "Indo-Greeks (Bactrians)",
+      "Mauryas"
+    ],
+    "options_hi": [
+      "गुप्त",
+      "कुषाण",
+      "हिन्द-यूनानी (इंडो-ग्रीक)",
+      "मौर्य"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Indo-Greeks were the first to issue gold coins bearing royal portraits and inscriptions in Greek and Kharosthi.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — भारत में सबसे पहले नियमित सोने के सिक्के हिन्द-यूनानी शासकों द्वारा जारी किए गए थे।"
+  },
+  {
+    "id": 628,
+    "difficulty": "Moderate",
+    "topic": "Indo-Greeks - Milindapanho",
+    "topic_hi": "हिन्द-यूनानी - मिलिंदपन्हो",
+    "question": "[Part-3 Q#628] The philosophical Pali dialogue 'Milindapanho' records conversations between Indo-Greek King Menander and which Buddhist monk?",
+    "question_hi": "प्रसिद्ध पालि दार्शनिक ग्रंथ 'मिलिंदपन्हो' में हिन्द-यूनानी राजा मिनांडर (मिलिंद) और किस बौद्ध भिक्षु के संवाद संकलित हैं?",
+    "options": [
+      "Vasumitra",
+      "Ashvaghosha",
+      "Nagasena (Nagajuna)",
+      "Moggaliputta Tissa"
+    ],
+    "options_hi": [
+      "वसुमित्र",
+      "अश्वघोष",
+      "नागसेन",
+      "मोग्गलिपुत्त तिस्स"
+    ],
+    "correctAnswer": "C",
+    "explanation": "King Menander questioned Buddhist monk Nagasena, and his intellectual queries and eventual conversion are compiled in 'Milindapanho'.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — राजा मिनांडर ने बौद्ध धर्म स्वीकार करने से पूर्व भिक्षु नागसेन से अनेक दार्शनिक प्रश्न पूछे जो 'मिलिंदपन्हो' में संकलित हैं।"
+  },
+  {
+    "id": 629,
+    "difficulty": "Easy",
+    "topic": "Sakas - Rudradaman I",
+    "topic_hi": "शक - रुद्रदामन प्रथम",
+    "question": "[Part-3 Q#629] The first long and grammatically flawless inscription in chaste Classical Sanskrit was engraved at Junagarh by:",
+    "question_hi": "विशुद्ध संस्कृत भाषा में उत्कीर्ण पहला विशाल और प्रामाणिक अभिलेख जूनागढ़ में किसके द्वारा लिखवाया गया था?",
+    "options": [
+      "Chandragupta II",
+      "Kanishka",
+      "Samudragupta",
+      "Saka King Rudradaman I"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त द्वितीय",
+      "कनिष्क",
+      "समुद्रगुप्त",
+      "शक शासक रुद्रदामन प्रथम"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Junagarh rock inscription (150 AD) of Rudradaman I is the earliest long epigraph in pure Classical Sanskrit.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — रुद्रदामन प्रथम (150 ईस्वी) का गिरनार (जूनागढ़) अभिलेख संस्कृत गद्य का प्राचीनतम उत्कृष्ट नमूना है।"
+  },
+  {
+    "id": 630,
+    "difficulty": "Difficult",
+    "topic": "Sudarshana Lake",
+    "topic_hi": "सुदर्शन झील का जीर्णोद्धार",
+    "question": "[Part-3 Q#630] Saka ruler Rudradaman I earned historic fame for repairing which ancient lake in Saurashtra without imposing taxes on subjects?",
+    "question_hi": "शक राजा रुद्रदामन प्रथम ने प्रजा पर कोई अतिरिक्त कर लगाए बिना सौराष्ट्र की किस प्राचीन झील के बांध का जीर्णोद्धार कराया था?",
+    "options": [
+      "Nal Lake",
+      "Pushkar Lake",
+      "Sudarshana Lake",
+      "Chilika Lake"
+    ],
+    "options_hi": [
+      "नल झील",
+      "पुष्कर झील",
+      "सुदर्शन झील",
+      "चिल्का झील"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Originally built by Chandragupta Maurya's governor Pushyagupta, the dam of Lake Sudarshana was rebuilt by Rudradaman at his own expense.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — मौर्यों द्वारा निर्मित सुदर्शन झील के टूट जाने पर रुद्रदामन ने अपने निजी कोष से उसका पुनर्निर्माण कराया था।"
+  },
+  {
+    "id": 631,
+    "difficulty": "Easy",
+    "topic": "Kushana Dynasty - Kanishka",
+    "topic_hi": "कुषाण वंश - कनिष्क",
+    "question": "[Part-3 Q#631] Kanishka ascended the Kushana throne in 78 AD, inaugurating which historic era adopted by the Government of India?",
+    "question_hi": "78 ईस्वी में कनिष्क के राज्यारोहण के उपलक्ष्य में किस ऐतिहासिक संवत की शुरुआत हुई जिसे भारत सरकार का राष्ट्रीय संवत माना गया है?",
+    "options": [
+      "Harsha Era (606 AD)",
+      "Vikrama Era (58 BC)",
+      "Gupta Era (319 AD)",
+      "Saka Era (78 AD)"
+    ],
+    "options_hi": [
+      "हर्ष संवत (606 ई.)",
+      "विक्रम संवत (58 ई.पू.)",
+      "गुप्त संवत (319 ई.)",
+      "शक संवत (78 ई.)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Kanishka founded the Saka Era in 78 AD, which serves as the base of the official Indian National Calendar.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — कनिष्क ने 78 ईस्वी में राज्यारोहण के समय शक संवत का प्रवर्तन किया, जो भारत का राष्ट्रीय कैलेंडर है।"
+  },
+  {
+    "id": 632,
+    "difficulty": "Moderate",
+    "topic": "Kushana - Capitals",
+    "topic_hi": "कुषाण - राजधानियां",
+    "question": "[Part-3 Q#632] What were the two primary capitals of Emperor Kanishka's vast Eurasian empire?",
+    "question_hi": "कुषाण सम्राट कनिष्क के विशाल साम्राज्य की दो प्रमुख राजधानियां कौन सी थीं?",
+    "options": [
+      "Taxila and Pataliputra",
+      "Purushapura (Peshawar) and Mathura",
+      "Ujjain and Vidisha",
+      "Sarnath and Kausambi"
+    ],
+    "options_hi": [
+      "तक्षशिला और पाटलिपुत्र",
+      "पुरुषपुर (पेशावर) और मथुरा",
+      "उज्जैन और विदिशा",
+      "सारनाथ और कौशाम्बी"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Purushapura (modern Peshawar) was Kanishka's primary political capital, while Mathura served as his second cultural capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — कनिष्क की प्रथम राजधानी पुरुषपुर (पेशावर) तथा द्वितीय राजधानी मथुरा थी।"
+  },
+  {
+    "id": 633,
+    "difficulty": "Difficult",
+    "topic": "Kushana - Court Scholars",
+    "topic_hi": "कुषाण - दरबारी विद्वान",
+    "question": "[Part-3 Q#633] Which physician, considered the 'Father of Indian Medicine' and author of Charaka Samhita, adorned the court of Kanishka?",
+    "question_hi": "'भारतीय चिकित्सा शास्त्र के जनक' माने जाने वाले चरक संहिता के रचयिता महर्षि चरक किसके राजवैद्य थे?",
+    "options": [
+      "Chandragupta Maurya",
+      "Emperor Kanishka",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त मौर्य",
+      "सम्राट कनिष्क",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Charaka, author of the foundational Ayurvedic medical encyclopaedia 'Charaka Samhita', was the royal physician of Kanishka.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — आयुर्वेद के विख्यात आचार्य चरक कुषाण सम्राट कनिष्क के राजदरबार में राजवैद्य थे।"
+  },
+  {
+    "id": 634,
+    "difficulty": "Moderate",
+    "topic": "Sangam Age - Assemblies",
+    "topic_hi": "संगम काल - परिषदें",
+    "question": "[Part-3 Q#634] The three historic Sangams (literary academies of Tamil poets) were convened under the royal patronage of which dynasty?",
+    "question_hi": "तीन ऐतिहासिक तमिल संगमों (कवि परिषदों) का आयोजन किस राजवंश के संरक्षण में मदुरै और कपाटपुरम में हुआ था?",
+    "options": [
+      "Pandya Dynasty",
+      "Chola Dynasty",
+      "Chera Dynasty",
+      "Pallava Dynasty"
+    ],
+    "options_hi": [
+      "पाण्ड्य वंश",
+      "चोल वंश",
+      "चेर वंश",
+      "पल्लव वंश"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Pandya rulers of Madurai were the royal patrons of all three Sangams of classical Tamil literature.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — तीनों संगमों का आयोजन मदुरै के पाण्ड्य राजाओं के संरक्षण में किया गया था।"
+  },
+  {
+    "id": 635,
+    "difficulty": "Easy",
+    "topic": "Sangam - Tolkappiyam",
+    "topic_hi": "संगम - तोलकाप्पियम",
+    "question": "[Part-3 Q#635] The oldest surviving masterwork of classical Tamil grammar and poetics, 'Tolkappiyam', was authored by:",
+    "question_hi": "तमिल व्याकरण और काव्यशास्त्र का प्राचीनतम उपलब्ध मानक ग्रंथ 'तोलकाप्पियम' किसकी रचना है?",
+    "options": [
+      "Tolkappiyar",
+      "Ilango Adigal",
+      "Tiruvalluvar",
+      "Sittalai Sattanar"
+    ],
+    "options_hi": [
+      "तोलकाप्पियर",
+      "इलांगो आदिगल",
+      "तिरुवल्लुवर",
+      "शीतलै सत्तनार"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Tolkappiyar (a disciple of Sage Agastya) composed the Tolkappiyam during the Second Sangam.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — तोलकाप्पियम द्वितीय संगम की एकमात्र जीवित रचना है जिसे तोलकाप्पियर ने लिखा था।"
+  },
+  {
+    "id": 636,
+    "difficulty": "Difficult",
+    "topic": "Sangam - Tirukkural",
+    "topic_hi": "संगम - तिरुक्कुरल",
+    "question": "[Part-3 Q#636] Which philosophical text, authored by Tiruvalluvar, is revered as the 'Bible of the Tamil Land' (Fifth Veda of Tamil)?",
+    "question_hi": "संत तिरुवल्लुवर द्वारा रचित किस नीतिपरक ग्रंथ को 'तमिल भूमि की बाइबल' और पंचम वेद माना जाता है?",
+    "options": [
+      "Tirukkural (Kural)",
+      "Silappadikaram",
+      "Manimekalai",
+      "Naladiyar"
+    ],
+    "options_hi": [
+      "तिरुक्कुरल (कुरल)",
+      "शिलप्पादिकारम्",
+      "मणिमेकलै",
+      "नालदियार"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Tirukkural composed by Tiruvalluvar comprises 1,330 couplets categorized into Dharma (Aram), Artha (Porul), and Kama (Inbam).",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — तिरुवल्लुवर कृत 'तिरुक्कुरल' तमिल साहित्य का अप्रतिम नीतिग्रंथ है जिसे तमिल बाइबिल कहा जाता है।"
+  },
+  {
+    "id": 637,
+    "difficulty": "Easy",
+    "topic": "Sangam - Silappadikaram",
+    "topic_hi": "संगम - शिलप्पादिकारम्",
+    "question": "[Part-3 Q#637] The tragic romantic epic 'Silappadikaram' (The Tale of the Anklet), featuring Kovalan and Kannagi, was composed by:",
+    "question_hi": "कोवलन और कण्णगि के अमर प्रेम पर आधारित प्रसिद्ध तमिल महाकाव्य 'शिलप्पादिकारम्' (नूपुर की कहानी) के रचयिता कौन थे?",
+    "options": [
+      "Sittalai Sattanar",
+      "Ilango Adigal",
+      "Tiruvalluvar",
+      "Kamban"
+    ],
+    "options_hi": [
+      "शीतलै सत्तनार",
+      "इलांगो आदिगल",
+      "तिरुवल्लुवर",
+      "कंबन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Prince Ilango Adigal (brother of Chera king Senguttuvan) composed the famous epic Silappadikaram.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — चेर राजकुमार इलांगो आदिगल ने प्रसिद्ध महाकाव्य शिलप्पादिकारम् की रचना की थी।"
+  },
+  {
+    "id": 638,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Founder",
+    "topic_hi": "गुप्त वंश - संस्थापक",
+    "question": "[Part-3 Q#638] Who was the founder of the Gupta Dynasty around 275 AD?",
+    "question_hi": "लगभग 275 ईस्वी में गुप्त वंश की स्थापना किसने की थी?",
+    "options": [
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Samudragupta"
+    ],
+    "options_hi": [
+      "श्रीगुप्त",
+      "घटोत्कच",
+      "चन्द्रगुप्त प्रथम",
+      "समुद्रगुप्त"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sri Gupta founded the dynasty and took the title of 'Maharaja', succeeded by his son Ghatotkacha.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गुप्त राजवंश की स्थापना श्रीगुप्त द्वारा की गई थी और उसने 'महाराजा' की उपाधि धारण की थी।"
+  },
+  {
+    "id": 639,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Chandragupta I",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त प्रथम",
+    "question": "[Part-3 Q#639] Who was the first Gupta monarch to assume the supreme imperial title of 'Maharajadhiraja'?",
+    "question_hi": "'महाराजाधिराज' की भव्य साम्राज्यिक उपाधि धारण करने वाला प्रथम गुप्त सम्राट कौन था?",
+    "options": [
+      "Ghatotkacha",
+      "Sri Gupta",
+      "Chandragupta I",
+      "Kumaragupta I"
+    ],
+    "options_hi": [
+      "घटोत्कच",
+      "श्रीगुप्त",
+      "चन्द्रगुप्त प्रथम",
+      "कुमारगुप्त प्रथम"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Chandragupta I (319–335 AD) founded the Gupta Era in 319 AD and married the Lichchhavi princess Kumaradevi.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — चन्द्रगुप्त प्रथम ने 319 ईस्वी में गुप्त संवत चलाया और 'महाराजाधिराज' की पदवी ग्रहण की।"
+  },
+  {
+    "id": 640,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Samudragupta",
+    "topic_hi": "गुप्त वंश - समुद्रगुप्त",
+    "question": "[Part-3 Q#640] Which British historian famously described Emperor Samudragupta as the 'Napoleon of India' for his unbroken military conquests?",
+    "question_hi": "किस ब्रिटिश इतिहासकार ने सम्राट समुद्रगुप्त के अजेय सैन्य अभियानों के कारण उसे 'भारत का नेपोलियन' कहा था?",
+    "options": [
+      "Max Muller",
+      "A.L. Basham",
+      "Sir William Jones",
+      "Vincent A. Smith"
+    ],
+    "options_hi": [
+      "मैक्स मूलर",
+      "ए. एल. बाशम",
+      "सर विलियम जोन्स",
+      "विंसेंट ए. स्मिथ"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Historian V.A. Smith in 'Early History of India' designated Samudragupta the 'Napoleon of India'.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — विंसेंट स्मिथ ने समुद्रगुप्त की दिग्विजयों और वीरता को देखकर उसे 'भारत का नेपोलियन' की संज्ञा दी।"
+  },
+  {
+    "id": 641,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Prayaga Prashasti",
+    "topic_hi": "गुप्त वंश - प्रयाग प्रशस्ति",
+    "question": "[Part-3 Q#641] The celebrated Prayaga Prashasti (Allahabad Pillar inscription) recording Samudragupta's conquests was composed in chaste Sanskrit by:",
+    "question_hi": "समुद्रगुप्त की विजयों का गुणगान करने वाली विख्यात 'प्रयाग प्रशस्ति' (इलाहाबाद स्तंभ लेख) की रचना किसने की थी?",
+    "options": [
+      "Banabhatta",
+      "Kalidasa",
+      "Court poet Harisena",
+      "Ravikirti"
+    ],
+    "options_hi": [
+      "बाणभट्ट",
+      "कालिदास",
+      "दरबारी कवि हरिषेण",
+      "रविकीर्ति"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Harisena, Samudragupta's court poet and minister for war and peace (Sandhivigrahika), composed the Prayaga Prashasti in Champu Kavya.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — महादंडनायक और संधि-विग्रहिक हरिषेण ने कौशाम्बी/इलाहाबाद के अशोक स्तंभ पर चम्पू शैली में प्रयाग प्रशस्ति लिखी थी।"
+  },
+  {
+    "id": 642,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Coins of Samudragupta",
+    "topic_hi": "गुप्त वंश - वीणा बजाते सिक्के",
+    "question": "[Part-3 Q#642] Samudragupta's passion for music is proven by gold coins depicting him playing which classical musical instrument?",
+    "question_hi": "सम्राट समुद्रगुप्त के संगीत प्रेम का प्रत्यक्ष प्रमाण उन स्वर्ण मुद्राओं से मिलता है जिन पर उन्हें क्या बजाते हुए दर्शाया गया है?",
+    "options": [
+      "Sitar",
+      "Flute",
+      "Mridangam",
+      "Veena (Lute)"
+    ],
+    "options_hi": [
+      "सितार",
+      "बांसुरी",
+      "मृदंगम",
+      "वीणा"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Samudragupta issued gold coins with the legend 'Kaviraja' showing the emperor seated on a couch playing the Veena.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — समुद्रगुप्त के वीणा-वादन प्रकार के सिक्कों पर उसे सोफे पर बैठकर वीणा बजाते दिखाया गया है।"
+  },
+  {
+    "id": 643,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Chandragupta II",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त द्वितीय विक्रमादित्य",
+    "question": "[Part-3 Q#643] Which Chinese Buddhist pilgrim visited India during the glorious reign of Chandragupta II Vikramaditya?",
+    "question_hi": "सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य के समृद्ध शासनकाल में किस चीनी बौद्ध यात्री ने भारत की यात्रा की थी?",
+    "options": [
+      "Hiuen-Tsang (Xuanzang)",
+      "Fa-Hien (Faxian)",
+      "I-Tsing (Yijing)",
+      "Sung-Yun"
+    ],
+    "options_hi": [
+      "ह्वेनसांग",
+      "फाह्यान",
+      "इत्सिंग",
+      "सुंग-युन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Fa-Hien visited India between 399 and 414 AD to collect Buddhist manuscripts, praising the peace and prosperity of the Gupta realm.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — फाह्यान ने 399 से 414 ईस्वी के बीच भारत भ्रमण किया और गुप्त साम्राज्य की शांति व न्याय व्यवस्था की भूरि-भूरि प्रशंसा की।"
+  },
+  {
+    "id": 644,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Mehrauli Pillar",
+    "topic_hi": "गुप्त वंश - महरौली लौह स्तंभ",
+    "question": "[Part-3 Q#644] The rustless 4th-century Iron Pillar standing near the Qutub Minar in Mehrauli, Delhi, bears an inscription praising King:",
+    "question_hi": "कुतुब मीनार परिसर (महरौली, दिल्ली) में स्थित जंग-रहित ऐतिहासिक लौह स्तंभ पर किस राजा 'चन्द्र' की विजयों का उल्लेख है?",
+    "options": [
+      "Chandragupta Maurya",
+      "Chandra (Chandragupta II Vikramaditya)",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त मौर्य",
+      "चन्द्र (चन्द्रगुप्त द्वितीय विक्रमादित्य)",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Mehrauli Iron Pillar commemorates King Chandra (identified with Chandragupta II) defeating the Vahlikas across the Indus.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — महरौली का जंग-रहित लौह स्तंभ गुप्त सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य की बंगाल और बह्लीक विजय का साक्षी है।"
+  },
+  {
+    "id": 645,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Nalanda University",
+    "topic_hi": "गुप्त वंश - नालंदा विश्वविद्यालय",
+    "question": "[Part-3 Q#645] Which Gupta emperor founded the world-famous Buddhist monastic university of Nalanda in Bihar?",
+    "question_hi": "बिहार में विश्वविख्यात प्राचीन नालंदा महाविहार (विश्वविद्यालय) की स्थापना किस गुप्त सम्राट ने की थी?",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Kumaragupta I (Mahendraditya)",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त द्वितीय",
+      "समुद्रगुप्त",
+      "कुमारगुप्त प्रथम (महेंद्रादित्य)",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kumaragupta I (415–455 AD), adopting the title Mahendraditya, founded Nalanda Mahavihara, which became an international center of learning.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कुमारगुप्त प्रथम महेंद्रादित्य ने 5वीं शताब्दी में विश्वप्रसिद्ध नालंदा विश्वविद्यालय की नींव रखी थी।"
+  },
+  {
+    "id": 646,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Skandagupta",
+    "topic_hi": "गुप्त वंश - स्कंदगुप्त एवं हूण",
+    "question": "[Part-3 Q#646] Which courageous Gupta emperor successfully repelled the savage invasions of the White Hunas under Toramana and Mihirakula?",
+    "question_hi": "किस साहसी गुप्त सम्राट ने श्वेत हूणों के बर्बर आक्रमणों को सफलतापूर्वक विफल कर भारत की रक्षा की थी?",
+    "options": [
+      "Purugupta",
+      "Kumaragupta I",
+      "Buddhagupta",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "पुरुगुप्त",
+      "कुमारगुप्त प्रथम",
+      "बुधगुप्त",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Skandagupta (455–467 AD) crushed the fierce Hunas, documented in his Bhitari pillar inscription in Ghazipur, UP.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — स्कंदगुप्त ने गाजीपुर के भीतरी स्तंभ अभिलेख के अनुसार हूणों को परास्त कर देश को उनके अत्याचारों से बचाया था।"
+  },
+  {
+    "id": 647,
+    "difficulty": "Easy",
+    "topic": "Gupta Science - Aryabhata",
+    "topic_hi": "गुप्त विज्ञान - आर्यभट्ट",
+    "question": "[Part-3 Q#647] Who authored 'Aryabhatiya' and 'Surya Siddhanta', discovering that the Earth is spherical and rotates on its own axis?",
+    "question_hi": "किस महान खगोलशास्त्री ने 'आर्यभटीय' लिखकर सिद्ध किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है?",
+    "options": [
+      "Varahamihira",
+      "Aryabhata",
+      "Brahmagupta",
+      "Bhaskaracharya"
+    ],
+    "options_hi": [
+      "वराहमिहिर",
+      "आर्यभट्ट",
+      "ब्रह्मगुप्त",
+      "भास्कराचार्य"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Aryabhata (born 476 AD at Pataliputra) formulated zero, decimal place value, value of pi (3.1416), and the solar-lunar eclipse rationale.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — आर्यभट्ट ने पाई का मान (3.1416), शून्य का प्रयोग और चंद्रग्रहण व सूर्यग्रहण का वैज्ञानिक कारण सर्वप्रथम प्रतिपादित किया।"
+  },
+  {
+    "id": 648,
+    "difficulty": "Difficult",
+    "topic": "Gupta Science - Varahamihira",
+    "topic_hi": "गुप्त विज्ञान - वराहमिहिर",
+    "question": "[Part-3 Q#648] The monumental encyclopaedic Sanskrit treatises 'Brihat Samhita' and 'Pancha Siddhantika' were authored by:",
+    "question_hi": "विशाल संस्कृत ज्ञानकोश 'बृहत्संहिता' और 'पंचसिद्धांतिका' के रचयिता कौन थे?",
+    "options": [
+      "Lagadha Muni",
+      "Aryabhata",
+      "Brahmagupta",
+      "Varahamihira"
+    ],
+    "options_hi": [
+      "लगध मुनि",
+      "आर्यभट्ट",
+      "ब्रह्मगुप्त",
+      "वराहमिहिर"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Varahamihira was one of the Navaratnas of Chandragupta II, summarizing five ancient astronomical systems in Pancha Siddhantika.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — वराहमिहिर चन्द्रगुप्त द्वितीय के नवरत्नों में से एक थे और उन्होंने खगोल तथा ऋतुविज्ञान पर बृहत्संहिता लिखी।"
+  },
+  {
+    "id": 649,
+    "difficulty": "Easy",
+    "topic": "Gupta Science - Brahmagupta",
+    "topic_hi": "गुप्त विज्ञान - ब्रह्मगुप्त",
+    "question": "[Part-3 Q#649] Which Indian mathematician-astronomer anticipated Newton's Law of Gravitation by declaring that all objects fall toward Earth by natural attraction?",
+    "question_hi": "न्यूटन से सदियों पूर्व किस भारतीय गणितज्ञ ने घोषणा की थी कि सभी वस्तुएं पृथ्वी के प्राकृतिक आकर्षण से उसकी ओर गिरती हैं?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Varahamihira",
+      "Kanada"
+    ],
+    "options_hi": [
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "कणाद"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Brahmagupta in 'Brahmasphutasiddhanta' stated: 'Bodies fall towards the earth as it is in the nature of the earth to attract bodies'.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — ब्रह्मगुप्त ने 'ब्रह्मस्फुटसिद्धांत' में गुरुत्वाकर्षण के नियम की पूर्व-घोषणा करते हुए पृथ्वी के आकर्षण गुण का उल्लेख किया था।"
+  },
+  {
+    "id": 650,
+    "difficulty": "Moderate",
+    "topic": "Harshavardhana",
+    "topic_hi": "हर्षवर्धन - कन्नौज",
+    "question": "[Part-3 Q#650] King Harshavardhana shifted his imperial capital from Thaneswar to which historic North Indian city?",
+    "question_hi": "सम्राट हर्षवर्धन ने अपनी राजधानी थानेश्वर (हरियाणा) से किस ऐतिहासिक नगर में स्थानांतरित की थी?",
+    "options": [
+      "Prayagraj",
+      "Pataliputra",
+      "Kannauj (Kanyakubja)",
+      "Varanasi"
+    ],
+    "options_hi": [
+      "प्रयागराज",
+      "पाटलिपुत्र",
+      "कन्नौज (कान्यकुब्ज)",
+      "वाराणसी"
+    ],
+    "correctAnswer": "C",
+    "explanation": "After the murder of his brother-in-law Grahavarman of Kannauj, Harsha united Thaneswar and Kannauj, making Kannauj his capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — हर्षवर्धन ने अपनी बहन राज्यश्री को बचाने के उपरांत थानेश्वर और कन्नौज का एकीकरण कर कन्नौज को अपनी राजधानी बनाया।"
+  },
+  {
+    "id": 651,
+    "difficulty": "Difficult",
+    "topic": "Harshavardhana - Battle on Narmada",
+    "topic_hi": "हर्षवर्धन - नर्मदा का युद्ध",
+    "question": "[Part-3 Q#651] Harsha's southward expansion into the Deccan was decisively halted on the banks of the Narmada River by which Western Chalukya monarch?",
+    "question_hi": "दक्षिण भारत की ओर बढ़ते हर्षवर्धन के विजय अभियान को नर्मदा नदी के तट पर किस चालुक्य सम्राट ने रोका था?",
+    "options": [
+      "Mangalesha",
+      "Kirtivarman I",
+      "Vikramaditya I",
+      "Pulakesin II"
+    ],
+    "options_hi": [
+      "मंगलेश",
+      "कीर्तिवर्मन प्रथम",
+      "विक्रमादित्य प्रथम",
+      "पुलकेशिन द्वितीय"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Pulakesin II of the Vatapi Chalukyas defeated Harsha, celebrated by court poet Ravikirti in the Aihole Inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — चालुक्य नरेश पुलकेशिन द्वितीय ने नर्मदा के युद्ध में हर्ष को पराजित किया, जिसका वर्णन रविकीर्ति के एहोल अभिलेख में है।"
+  },
+  {
+    "id": 652,
+    "difficulty": "Moderate",
+    "topic": "Hiuen Tsang (Xuanzang)",
+    "topic_hi": "ह्वेनसांग - तीर्थयात्रियों का राजकुमार",
+    "question": "[Part-3 Q#652] The Chinese Buddhist pilgrim Hiuen Tsang (Xuanzang), celebrated as the 'Prince of Pilgrims', visited India during the reign of:",
+    "question_hi": "'यात्रियों का राजकुमार' कहे जाने वाले प्रसिद्ध चीनी यात्री ह्वेनसांग ने किसके शासनकाल में भारत की यात्रा की थी?",
+    "options": [
+      "Harshavardhana",
+      "Chandragupta II",
+      "Kanishka",
+      "Ashoka"
+    ],
+    "options_hi": [
+      "हर्षवर्धन",
+      "चन्द्रगुप्त द्वितीय",
+      "कनिष्क",
+      "अशोक"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Hiuen Tsang resided in India from 630 to 645 AD, studied at Nalanda under Abbot Silabhadra, and attended Harsha's assemblies.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — ह्वेनसांग ने 630-645 ईस्वी में हर्ष के समय भारत की यात्रा की और अपना यात्रा वृत्तांत 'सी-यू-की' (Si-Yu-Ki) नाम से लिखा।"
+  },
+  {
+    "id": 653,
+    "difficulty": "Easy",
+    "topic": "Harsha - Literary Compositions",
+    "topic_hi": "हर्षवर्धन - संस्कृत नाटक",
+    "question": "[Part-3 Q#653] Which three celebrated Sanskrit plays were authored by King Harshavardhana himself?",
+    "question_hi": "सम्राट हर्षवर्धन ने स्वयं किन तीन प्रसिद्ध संस्कृत नाटकों की रचना की थी?",
+    "options": [
+      "Kiratarjuniya, Shishupalavadha, and Naishadha",
+      "Malavikagnimitram, Meghaduta, and Shakuntala",
+      "Mudrarakshasa, Devichandragupta, and Svapnavasavadatta",
+      "Ratnavali, Priyadarsika, and Nagananda"
+    ],
+    "options_hi": [
+      "किरातार्जुनीय, शिशुपालवध और नैषध",
+      "मालविकाग्निमित्रम्, मेघदूत और शकुंतला",
+      "मुद्राराक्षस, देवीचंद्रगुप्त और स्वप्नवासवदत्ता",
+      "रत्नावली, प्रियदर्शिका और नागानंद"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Harsha was an accomplished playwright who composed Ratnavali, Priyadarsika, and the Buddhist-themed drama Nagananda.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — हर्षवर्धन एक कुशल नाटककार था जिसने रत्नावली, प्रियदर्शिका और नागानंद नामक तीन प्रसिद्ध नाटक लिखे।"
+  },
+  {
+    "id": 654,
+    "difficulty": "Difficult",
+    "topic": "Banabhatta",
+    "topic_hi": "बाणभट्ट - हर्षचरित एवं कादंबरी",
+    "question": "[Part-3 Q#654] Who was Harsha's chief court poet (Asthana Kavi) that composed 'Harshacharita' and the world's earliest prose novel 'Kadambari'?",
+    "question_hi": "हर्षवर्धन के दरबारी कवि कौन थे जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादंबरी' रचा था?",
+    "options": [
+      "Banabhatta",
+      "Mayura",
+      "Harisena",
+      "Bhavabhuti"
+    ],
+    "options_hi": [
+      "बाणभट्ट",
+      "मयूर",
+      "हरिषेण",
+      "भवभूति"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Banabhatta authored Harshacharita (biography of Harsha) and Kadambari. Mayura (author of Mayurasataka) was also in Harsha's court.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — बाणभट्ट ने हर्ष के जीवन चरित्र पर 'हर्षचरित' तथा प्रसिद्ध प्रेम-कथा 'कादंबरी' की रचना की थी।"
+  },
+  {
+    "id": 655,
+    "difficulty": "Easy",
+    "topic": "Pallava Dynasty - Rock-Cut Temples",
+    "topic_hi": "पल्लव वंश - रथ मंदिर",
+    "question": "[Part-3 Q#655] The monolithic rock-cut 'Pancha Pandava Rathas' at Mahabalipuram were sculpted under which great Pallava monarch?",
+    "question_hi": "महाबलीपुरम (मामल्लपुरम) के एकाश्मक 'पंच पांडव रथ मंदिर' किस प्रतापी पल्लव शासक के काल में तराशे गए थे?",
+    "options": [
+      "Simhavishnu",
+      "Mahendravarman I",
+      "Narasimhavarman II (Rajasimha)",
+      "Narasimhavarman I (Mamalla)"
+    ],
+    "options_hi": [
+      "सिंहविष्णु",
+      "महेंद्रवर्मन प्रथम",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "नरसिंहवर्मन प्रथम (मामल्ल)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Narasimhavarman I (630–668 AD), who assumed the title 'Vatapikonda' after conquering Badami, built the rock-cut Rathas at Mamallapuram.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — नरसिंहवर्मन प्रथम मामल्ल ने महाबलीपुरम के एकाश्म रथ मंदिरों (सप्त पैगोडा) का निर्माण कराया था।"
+  },
+  {
+    "id": 656,
+    "difficulty": "Moderate",
+    "topic": "Pallava - Shore Temple",
+    "topic_hi": "पल्लव वंश - शोर मंदिर एवं कैलाशनाथ",
+    "question": "[Part-3 Q#656] The celebrated structural Shore Temple at Mahabalipuram and the Kailasanatha Temple at Kanchipuram were built by:",
+    "question_hi": "महाबलीपुरम का प्रसिद्ध तट मंदिर (शोर मंदिर) और कांचीपुरम का कैलाशनाथ मंदिर किस पल्लव राजा ने बनवाया था?",
+    "options": [
+      "Narasimhavarman II (Rajasimha)",
+      "Narasimhavarman I",
+      "Mahendravarman I",
+      "Aparajita"
+    ],
+    "options_hi": [
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "नरसिंहवर्मन प्रथम",
+      "महेंद्रवर्मन प्रथम",
+      "अपराजित"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Narasimhavarman II Rajasimha (700–728 AD) ushered in the Dravidian structural stone temple era with the Shore Temple and Kailasanatha temple.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — राजसिंह (नरसिंहवर्मन द्वितीय) ने कांची के कैलाशनाथ मंदिर तथा महाबलीपुरम के तट मंदिर का निर्माण कराया।"
+  },
+  {
+    "id": 657,
+    "difficulty": "Difficult",
+    "topic": "Post-Mauryan - Sunga Dynasty",
+    "topic_hi": "मौर्योत्तर काल - शुंग वंश",
+    "question": "[Part-3 Q#657] Who established the Sunga Dynasty in 185 BC after assassinating the last Mauryan ruler Brihadratha?",
+    "question_hi": "185 ईसा पूर्व में अंतिम मौर्य शासक बृहद्रथ की हत्या करके शुंग वंश की स्थापना किसने की थी?",
+    "options": [
+      "Pushyamitra Sunga",
+      "Agnimitra",
+      "Vasumitra",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "पुष्यमित्र शुंग",
+      "अग्निमित्र",
+      "वसुमित्र",
+      "देवभूति"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pushyamitra Sunga, the commander-in-chief (Senapati) of Brihadratha, established the Sunga Dynasty with Vidisha/Pataliputra as capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — मौर्य सेनापति पुष्यमित्र शुंग ने अंतिम मौर्य राजा बृहद्रथ की हत्या कर 185 ईसा पूर्व में शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 658,
+    "difficulty": "Moderate",
+    "topic": "Sunga Dynasty - Patanjali",
+    "topic_hi": "शुंग वंश - पतंजलि",
+    "question": "[Part-3 Q#658] Which great grammarian and philosopher was the contemporary and chief priest of Pushyamitra Sunga's two Ashvamedha sacrifices?",
+    "question_hi": "पुष्यमित्र शुंग द्वारा किए गए दो अश्वमेध यज्ञों के मुख्य पुरोहित कौन से महान वैयाकरण थे?",
+    "options": [
+      "Panini",
+      "Patanjali",
+      "Katyayana",
+      "Charaka"
+    ],
+    "options_hi": [
+      "पाणिनि",
+      "पतंजलि",
+      "कात्यायन",
+      "चरक"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Patanjali, the author of the 'Mahabhashya', was the royal priest who conducted two Ashvamedha yajnas for Pushyamitra Sunga.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — महाभाष्य के रचयिता महर्षि पतंजलि पुष्यमित्र शुंग के समकालीन थे और उन्होंने उसके दो अश्वमेध यज्ञ संपन्न कराए थे।"
+  },
+  {
+    "id": 659,
+    "difficulty": "Easy",
+    "topic": "Sunga Dynasty - Bharhut",
+    "topic_hi": "शुंग वंश - भरहुत स्तूप",
+    "question": "[Part-3 Q#659] The monumental stone railing and decorative gateways of the famous Bharhut Stupa in Madhya Pradesh were constructed during which dynasty?",
+    "question_hi": "मध्य प्रदेश के प्रसिद्ध भरहुत स्तूप की पाषाण वेदिका (रेलिंग) और तोरण द्वार का निर्माण किस वंश के काल में हुआ था?",
+    "options": [
+      "Gupta Dynasty",
+      "Mauryan Dynasty",
+      "Kushana Dynasty",
+      "Sunga Dynasty"
+    ],
+    "options_hi": [
+      "गुप्त वंश",
+      "मौर्य वंश",
+      "कुषाण वंश",
+      "शुंग वंश"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The stone gateways and balustrade surrounding the Bharhut Stupa were erected during the reign of the Sungas.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — भरहुत स्तूप के चारों ओर सुंदर नक्काशीदार पाषाण रेलिंग और तोरणों का निर्माण शुंग काल में किया गया था।"
+  },
+  {
+    "id": 660,
+    "difficulty": "Difficult",
+    "topic": "Kalidasa's Drama - Agnimitra",
+    "topic_hi": "कालिदास का नाटक - अग्निमित्र",
+    "question": "[Part-3 Q#660] The Sunga prince Agnimitra is the celebrated hero of which classical Sanskrit drama authored by Kalidasa?",
+    "question_hi": "शुंग राजकुमार अग्निमित्र महाकवि कालिदास के किस प्रसिद्ध संस्कृत नाटक का नायक है?",
+    "options": [
+      "Malavikagnimitram",
+      "Abhijnanashakuntalam",
+      "Vikramorvashiyam",
+      "Mudrarakshasa"
+    ],
+    "options_hi": [
+      "मालविकाग्निमित्रम्",
+      "अभिज्ञानशाकुंतलम्",
+      "विक्रमोर्वशीयम्",
+      "मुद्राराक्षस"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Kalidasa's first play, 'Malavikagnimitram', depicts the love affair of Sunga king Agnimitra and maiden Malavika.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — कालिदास के प्रथम नाटक 'मालविकाग्निमित्रम्' का नायक शुंग शासक अग्निमित्र है।"
+  },
+  {
+    "id": 661,
+    "difficulty": "Easy",
+    "topic": "Satavahana Dynasty",
+    "topic_hi": "सातवाहन वंश",
+    "question": "[Part-3 Q#661] Who was the founder of the powerful Satavahana (Andhra) Dynasty in the Deccan?",
+    "question_hi": "दक्कन में शक्तिशाली सातवाहन (आंध्र) वंश की स्थापना किसने की थी?",
+    "options": [
+      "Satakarni I",
+      "Simuka",
+      "Gautamiputra Satakarni",
+      "Hala"
+    ],
+    "options_hi": [
+      "शातकर्णी प्रथम",
+      "सिमुक",
+      "गौतमीपुत्र शातकर्णी",
+      "हाल"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।"
+  },
+  {
+    "id": 662,
+    "difficulty": "Moderate",
+    "topic": "Satavahana - Coins",
+    "topic_hi": "सातवाहन - मुद्राएं",
+    "question": "[Part-3 Q#662] The Satavahanas are historically famous for issuing the largest number of coins made of which unique metal?",
+    "question_hi": "सातवाहन शासक किस विशेष धातु के सर्वाधिक सिक्के जारी करने के लिए इतिहास में प्रसिद्ध हैं?",
+    "options": [
+      "Iron",
+      "Pure Gold",
+      "Silver only",
+      "Lead (Potin)"
+    ],
+    "options_hi": [
+      "लोहा",
+      "शुद्ध सोना",
+      "केवल चांदी",
+      "सीसा (पोटिन)"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Satavahanas predominantly minted coins of lead, potin (base metal alloy), copper, and bronze.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — सातवाहन शासकों ने सर्वाधिक सिक्के सीसे (Lead) और पोटिन के जारी किए थे।"
+  },
+  {
+    "id": 663,
+    "difficulty": "Difficult",
+    "topic": "Satavahana - Gautamiputra Satakarni",
+    "topic_hi": "सातवाहन - गौतमीपुत्र शातकर्णी",
+    "question": "[Part-3 Q#663] Which Satavahana ruler is celebrated in the Nasik Prasasti as 'Ekabrahmana' and the destroyer of the Sakas?",
+    "question_hi": "नासिक प्रशस्ति में किस सातवाहन शासक को 'एकाब्राह्मण' और शकों का विनाशक कहा गया है?",
+    "options": [
+      "Gautamiputra Satakarni",
+      "Vashishtiputra Pulumayi",
+      "Simuka",
+      "Hala"
+    ],
+    "options_hi": [
+      "गौतमीपुत्र शातकर्णी",
+      "वासिष्ठीपुत्र पुलुमावी",
+      "सिमुक",
+      "हाल"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Gautamiputra Satakarni (106–130 AD) was the greatest Satavahana king, praised by his mother Gautami Balasri in the Nasik cave inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गौतमीपुत्र शातकर्णी (23वां राजा) को नासिक प्रशस्ति में 'अद्वितीय ब्राह्मण' और क्षत्रियों के दर्प का दमन करने वाला कहा गया है।"
+  },
+  {
+    "id": 664,
+    "difficulty": "Moderate",
+    "topic": "Satavahana - Literature",
+    "topic_hi": "सातवाहन - प्राकृत साहित्य",
+    "question": "[Part-3 Q#664] The 17th Satavahana ruler, King Hala, composed the celebrated Prakrit poetic anthology known as:",
+    "question_hi": "17वें सातवाहन राजा हाल ने प्राकृत भाषा में किस प्रसिद्ध मुक्तक काव्य ग्रंथ की रचना की थी?",
+    "options": [
+      "Kavyamimamsa",
+      "Brihatkatha",
+      "Gatha Saptasati (Sattasai)",
+      "Lilavati"
+    ],
+    "options_hi": [
+      "काव्यमीमांसा",
+      "बृहत्कथा",
+      "गाथासप्तशती (सत्तसई)",
+      "लीलावती"
+    ],
+    "correctAnswer": "C",
+    "explanation": "King Hala composed 'Gatha Saptasati' (700 romantic couplets in Maharashtri Prakrit). Gunadhya, author of Brihatkatha, was in his court.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — राजा हाल ने महाराष्ट्री प्राकृत में 700 श्लोकों का संग्रह 'गाथासप्तशती' लिखा था।"
+  },
+  {
+    "id": 665,
+    "difficulty": "Easy",
+    "topic": "Chedi Dynasty - Hathigumpha",
+    "topic_hi": "चेदि वंश - हाथीगुंफा अभिलेख",
+    "question": "[Part-3 Q#665] The biographical and chronological military expeditions of King Kharavela of Kalinga are engraved in which famous inscription?",
+    "question_hi": "कलिंग के महान शासक खारवेल के जीवन और सैन्य अभियानों का प्रामाणिक विवरण किस प्रसिद्ध अभिलेख में उत्कीर्ण है?",
+    "options": [
+      "Hathigumpha Inscription (Udayagiri)",
+      "Junagarh Inscription",
+      "Aihole Inscription",
+      "Nasik Cave Inscription"
+    ],
+    "options_hi": [
+      "हाथीगुंफा अभिलेख (उदयगिरि)",
+      "जूनागढ़ अभिलेख",
+      "एहोल अभिलेख",
+      "नासिक गुहा अभिलेख"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The undated Prakrit Hathigumpha inscription on the Udayagiri hills near Bhubaneswar records Kharavela's military conquests year-by-year.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — भुवनेश्वर के निकट उदयगिरि की हाथीगुंफा में बिना तिथि वाला प्राकृत अभिलेख खारवेल के शासन के 13 वर्षों का क्रमबद्ध विवरण देता है।"
+  },
+  {
+    "id": 666,
+    "difficulty": "Difficult",
+    "topic": "Indo-Greeks - Gold Coins",
+    "topic_hi": "हिन्द-यूनानी - स्वर्ण मुद्राएं",
+    "question": "[Part-3 Q#666] Who were the FIRST rulers in Indian history to issue regular gold coins with portrait busts and bilingual legends?",
+    "question_hi": "भारतीय इतिहास में राजाओं के नाम और छवि वाले नियमित स्वर्ण सिक्के जारी करने वाले प्रथम शासक कौन थे?",
+    "options": [
+      "Kushanas",
+      "Indo-Greeks (Bactrians)",
+      "Guptas",
+      "Mauryas"
+    ],
+    "options_hi": [
+      "कुषाण",
+      "हिन्द-यूनानी (इंडो-ग्रीक)",
+      "गुप्त",
+      "मौर्य"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Indo-Greeks were the first to issue gold coins bearing royal portraits and inscriptions in Greek and Kharosthi.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — भारत में सबसे पहले नियमित सोने के सिक्के हिन्द-यूनानी शासकों द्वारा जारी किए गए थे।"
+  },
+  {
+    "id": 667,
+    "difficulty": "Easy",
+    "topic": "Indo-Greeks - Milindapanho",
+    "topic_hi": "हिन्द-यूनानी - मिलिंदपन्हो",
+    "question": "[Part-3 Q#667] The philosophical Pali dialogue 'Milindapanho' records conversations between Indo-Greek King Menander and which Buddhist monk?",
+    "question_hi": "प्रसिद्ध पालि दार्शनिक ग्रंथ 'मिलिंदपन्हो' में हिन्द-यूनानी राजा मिनांडर (मिलिंद) और किस बौद्ध भिक्षु के संवाद संकलित हैं?",
+    "options": [
+      "Nagasena (Nagajuna)",
+      "Ashvaghosha",
+      "Vasumitra",
+      "Moggaliputta Tissa"
+    ],
+    "options_hi": [
+      "नागसेन",
+      "अश्वघोष",
+      "वसुमित्र",
+      "मोग्गलिपुत्त तिस्स"
+    ],
+    "correctAnswer": "A",
+    "explanation": "King Menander questioned Buddhist monk Nagasena, and his intellectual queries and eventual conversion are compiled in 'Milindapanho'.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — राजा मिनांडर ने बौद्ध धर्म स्वीकार करने से पूर्व भिक्षु नागसेन से अनेक दार्शनिक प्रश्न पूछे जो 'मिलिंदपन्हो' में संकलित हैं।"
+  },
+  {
+    "id": 668,
+    "difficulty": "Moderate",
+    "topic": "Sakas - Rudradaman I",
+    "topic_hi": "शक - रुद्रदामन प्रथम",
+    "question": "[Part-3 Q#668] The first long and grammatically flawless inscription in chaste Classical Sanskrit was engraved at Junagarh by:",
+    "question_hi": "विशुद्ध संस्कृत भाषा में उत्कीर्ण पहला विशाल और प्रामाणिक अभिलेख जूनागढ़ में किसके द्वारा लिखवाया गया था?",
+    "options": [
+      "Kanishka",
+      "Saka King Rudradaman I",
+      "Samudragupta",
+      "Chandragupta II"
+    ],
+    "options_hi": [
+      "कनिष्क",
+      "शक शासक रुद्रदामन प्रथम",
+      "समुद्रगुप्त",
+      "चन्द्रगुप्त द्वितीय"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Junagarh rock inscription (150 AD) of Rudradaman I is the earliest long epigraph in pure Classical Sanskrit.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — रुद्रदामन प्रथम (150 ईस्वी) का गिरनार (जूनागढ़) अभिलेख संस्कृत गद्य का प्राचीनतम उत्कृष्ट नमूना है।"
+  },
+  {
+    "id": 669,
+    "difficulty": "Difficult",
+    "topic": "Sudarshana Lake",
+    "topic_hi": "सुदर्शन झील का जीर्णोद्धार",
+    "question": "[Part-3 Q#669] Saka ruler Rudradaman I earned historic fame for repairing which ancient lake in Saurashtra without imposing taxes on subjects?",
+    "question_hi": "शक राजा रुद्रदामन प्रथम ने प्रजा पर कोई अतिरिक्त कर लगाए बिना सौराष्ट्र की किस प्राचीन झील के बांध का जीर्णोद्धार कराया था?",
+    "options": [
+      "Nal Lake",
+      "Pushkar Lake",
+      "Sudarshana Lake",
+      "Chilika Lake"
+    ],
+    "options_hi": [
+      "नल झील",
+      "पुष्कर झील",
+      "सुदर्शन झील",
+      "चिल्का झील"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Originally built by Chandragupta Maurya's governor Pushyagupta, the dam of Lake Sudarshana was rebuilt by Rudradaman at his own expense.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — मौर्यों द्वारा निर्मित सुदर्शन झील के टूट जाने पर रुद्रदामन ने अपने निजी कोष से उसका पुनर्निर्माण कराया था।"
+  },
+  {
+    "id": 670,
+    "difficulty": "Moderate",
+    "topic": "Kushana Dynasty - Kanishka",
+    "topic_hi": "कुषाण वंश - कनिष्क",
+    "question": "[Part-3 Q#670] Kanishka ascended the Kushana throne in 78 AD, inaugurating which historic era adopted by the Government of India?",
+    "question_hi": "78 ईस्वी में कनिष्क के राज्यारोहण के उपलक्ष्य में किस ऐतिहासिक संवत की शुरुआत हुई जिसे भारत सरकार का राष्ट्रीय संवत माना गया है?",
+    "options": [
+      "Gupta Era (319 AD)",
+      "Vikrama Era (58 BC)",
+      "Saka Era (78 AD)",
+      "Harsha Era (606 AD)"
+    ],
+    "options_hi": [
+      "गुप्त संवत (319 ई.)",
+      "विक्रम संवत (58 ई.पू.)",
+      "शक संवत (78 ई.)",
+      "हर्ष संवत (606 ई.)"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kanishka founded the Saka Era in 78 AD, which serves as the base of the official Indian National Calendar.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कनिष्क ने 78 ईस्वी में राज्यारोहण के समय शक संवत का प्रवर्तन किया, जो भारत का राष्ट्रीय कैलेंडर है।"
+  },
+  {
+    "id": 671,
+    "difficulty": "Easy",
+    "topic": "Kushana - Capitals",
+    "topic_hi": "कुषाण - राजधानियां",
+    "question": "[Part-3 Q#671] What were the two primary capitals of Emperor Kanishka's vast Eurasian empire?",
+    "question_hi": "कुषाण सम्राट कनिष्क के विशाल साम्राज्य की दो प्रमुख राजधानियां कौन सी थीं?",
+    "options": [
+      "Sarnath and Kausambi",
+      "Taxila and Pataliputra",
+      "Ujjain and Vidisha",
+      "Purushapura (Peshawar) and Mathura"
+    ],
+    "options_hi": [
+      "सारनाथ और कौशाम्बी",
+      "तक्षशिला और पाटलिपुत्र",
+      "उज्जैन और विदिशा",
+      "पुरुषपुर (पेशावर) और मथुरा"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Purushapura (modern Peshawar) was Kanishka's primary political capital, while Mathura served as his second cultural capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — कनिष्क की प्रथम राजधानी पुरुषपुर (पेशावर) तथा द्वितीय राजधानी मथुरा थी।"
+  },
+  {
+    "id": 672,
+    "difficulty": "Difficult",
+    "topic": "Kushana - Court Scholars",
+    "topic_hi": "कुषाण - दरबारी विद्वान",
+    "question": "[Part-3 Q#672] Which physician, considered the 'Father of Indian Medicine' and author of Charaka Samhita, adorned the court of Kanishka?",
+    "question_hi": "'भारतीय चिकित्सा शास्त्र के जनक' माने जाने वाले चरक संहिता के रचयिता महर्षि चरक किसके राजवैद्य थे?",
+    "options": [
+      "Chandragupta Maurya",
+      "Emperor Kanishka",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त मौर्य",
+      "सम्राट कनिष्क",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Charaka, author of the foundational Ayurvedic medical encyclopaedia 'Charaka Samhita', was the royal physician of Kanishka.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — आयुर्वेद के विख्यात आचार्य चरक कुषाण सम्राट कनिष्क के राजदरबार में राजवैद्य थे।"
+  },
+  {
+    "id": 673,
+    "difficulty": "Easy",
+    "topic": "Sangam Age - Assemblies",
+    "topic_hi": "संगम काल - परिषदें",
+    "question": "[Part-3 Q#673] The three historic Sangams (literary academies of Tamil poets) were convened under the royal patronage of which dynasty?",
+    "question_hi": "तीन ऐतिहासिक तमिल संगमों (कवि परिषदों) का आयोजन किस राजवंश के संरक्षण में मदुरै और कपाटपुरम में हुआ था?",
+    "options": [
+      "Chera Dynasty",
+      "Chola Dynasty",
+      "Pandya Dynasty",
+      "Pallava Dynasty"
+    ],
+    "options_hi": [
+      "चेर वंश",
+      "चोल वंश",
+      "पाण्ड्य वंश",
+      "पल्लव वंश"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Pandya rulers of Madurai were the royal patrons of all three Sangams of classical Tamil literature.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — तीनों संगमों का आयोजन मदुरै के पाण्ड्य राजाओं के संरक्षण में किया गया था।"
+  },
+  {
+    "id": 674,
+    "difficulty": "Moderate",
+    "topic": "Sangam - Tolkappiyam",
+    "topic_hi": "संगम - तोलकाप्पियम",
+    "question": "[Part-3 Q#674] The oldest surviving masterwork of classical Tamil grammar and poetics, 'Tolkappiyam', was authored by:",
+    "question_hi": "तमिल व्याकरण और काव्यशास्त्र का प्राचीनतम उपलब्ध मानक ग्रंथ 'तोलकाप्पियम' किसकी रचना है?",
+    "options": [
+      "Ilango Adigal",
+      "Tolkappiyar",
+      "Tiruvalluvar",
+      "Sittalai Sattanar"
+    ],
+    "options_hi": [
+      "इलांगो आदिगल",
+      "तोलकाप्पियर",
+      "तिरुवल्लुवर",
+      "शीतलै सत्तनार"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tolkappiyar (a disciple of Sage Agastya) composed the Tolkappiyam during the Second Sangam.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — तोलकाप्पियम द्वितीय संगम की एकमात्र जीवित रचना है जिसे तोलकाप्पियर ने लिखा था।"
+  },
+  {
+    "id": 675,
+    "difficulty": "Difficult",
+    "topic": "Sangam - Tirukkural",
+    "topic_hi": "संगम - तिरुक्कुरल",
+    "question": "[Part-3 Q#675] Which philosophical text, authored by Tiruvalluvar, is revered as the 'Bible of the Tamil Land' (Fifth Veda of Tamil)?",
+    "question_hi": "संत तिरुवल्लुवर द्वारा रचित किस नीतिपरक ग्रंथ को 'तमिल भूमि की बाइबल' और पंचम वेद माना जाता है?",
+    "options": [
+      "Silappadikaram",
+      "Tirukkural (Kural)",
+      "Manimekalai",
+      "Naladiyar"
+    ],
+    "options_hi": [
+      "शिलप्पादिकारम्",
+      "तिरुक्कुरल (कुरल)",
+      "मणिमेकलै",
+      "नालदियार"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Tirukkural composed by Tiruvalluvar comprises 1,330 couplets categorized into Dharma (Aram), Artha (Porul), and Kama (Inbam).",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — तिरुवल्लुवर कृत 'तिरुक्कुरल' तमिल साहित्य का अप्रतिम नीतिग्रंथ है जिसे तमिल बाइबिल कहा जाता है।"
+  },
+  {
+    "id": 676,
+    "difficulty": "Moderate",
+    "topic": "Sangam - Silappadikaram",
+    "topic_hi": "संगम - शिलप्पादिकारम्",
+    "question": "[Part-3 Q#676] The tragic romantic epic 'Silappadikaram' (The Tale of the Anklet), featuring Kovalan and Kannagi, was composed by:",
+    "question_hi": "कोवलन और कण्णगि के अमर प्रेम पर आधारित प्रसिद्ध तमिल महाकाव्य 'शिलप्पादिकारम्' (नूपुर की कहानी) के रचयिता कौन थे?",
+    "options": [
+      "Kamban",
+      "Sittalai Sattanar",
+      "Tiruvalluvar",
+      "Ilango Adigal"
+    ],
+    "options_hi": [
+      "कंबन",
+      "शीतलै सत्तनार",
+      "तिरुवल्लुवर",
+      "इलांगो आदिगल"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Prince Ilango Adigal (brother of Chera king Senguttuvan) composed the famous epic Silappadikaram.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — चेर राजकुमार इलांगो आदिगल ने प्रसिद्ध महाकाव्य शिलप्पादिकारम् की रचना की थी।"
+  },
+  {
+    "id": 677,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Founder",
+    "topic_hi": "गुप्त वंश - संस्थापक",
+    "question": "[Part-3 Q#677] Who was the founder of the Gupta Dynasty around 275 AD?",
+    "question_hi": "लगभग 275 ईस्वी में गुप्त वंश की स्थापना किसने की थी?",
+    "options": [
+      "Sri Gupta",
+      "Ghatotkacha",
+      "Chandragupta I",
+      "Samudragupta"
+    ],
+    "options_hi": [
+      "श्रीगुप्त",
+      "घटोत्कच",
+      "चन्द्रगुप्त प्रथम",
+      "समुद्रगुप्त"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sri Gupta founded the dynasty and took the title of 'Maharaja', succeeded by his son Ghatotkacha.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — गुप्त राजवंश की स्थापना श्रीगुप्त द्वारा की गई थी और उसने 'महाराजा' की उपाधि धारण की थी।"
+  },
+  {
+    "id": 678,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Chandragupta I",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त प्रथम",
+    "question": "[Part-3 Q#678] Who was the first Gupta monarch to assume the supreme imperial title of 'Maharajadhiraja'?",
+    "question_hi": "'महाराजाधिराज' की भव्य साम्राज्यिक उपाधि धारण करने वाला प्रथम गुप्त सम्राट कौन था?",
+    "options": [
+      "Ghatotkacha",
+      "Sri Gupta",
+      "Chandragupta I",
+      "Kumaragupta I"
+    ],
+    "options_hi": [
+      "घटोत्कच",
+      "श्रीगुप्त",
+      "चन्द्रगुप्त प्रथम",
+      "कुमारगुप्त प्रथम"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Chandragupta I (319–335 AD) founded the Gupta Era in 319 AD and married the Lichchhavi princess Kumaradevi.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — चन्द्रगुप्त प्रथम ने 319 ईस्वी में गुप्त संवत चलाया और 'महाराजाधिराज' की पदवी ग्रहण की।"
+  },
+  {
+    "id": 679,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Samudragupta",
+    "topic_hi": "गुप्त वंश - समुद्रगुप्त",
+    "question": "[Part-3 Q#679] Which British historian famously described Emperor Samudragupta as the 'Napoleon of India' for his unbroken military conquests?",
+    "question_hi": "किस ब्रिटिश इतिहासकार ने सम्राट समुद्रगुप्त के अजेय सैन्य अभियानों के कारण उसे 'भारत का नेपोलियन' कहा था?",
+    "options": [
+      "A.L. Basham",
+      "Vincent A. Smith",
+      "Sir William Jones",
+      "Max Muller"
+    ],
+    "options_hi": [
+      "ए. एल. बाशम",
+      "विंसेंट ए. स्मिथ",
+      "सर विलियम जोन्स",
+      "मैक्स मूलर"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Historian V.A. Smith in 'Early History of India' designated Samudragupta the 'Napoleon of India'.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — विंसेंट स्मिथ ने समुद्रगुप्त की दिग्विजयों और वीरता को देखकर उसे 'भारत का नेपोलियन' की संज्ञा दी।"
+  },
+  {
+    "id": 680,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Prayaga Prashasti",
+    "topic_hi": "गुप्त वंश - प्रयाग प्रशस्ति",
+    "question": "[Part-3 Q#680] The celebrated Prayaga Prashasti (Allahabad Pillar inscription) recording Samudragupta's conquests was composed in chaste Sanskrit by:",
+    "question_hi": "समुद्रगुप्त की विजयों का गुणगान करने वाली विख्यात 'प्रयाग प्रशस्ति' (इलाहाबाद स्तंभ लेख) की रचना किसने की थी?",
+    "options": [
+      "Ravikirti",
+      "Kalidasa",
+      "Banabhatta",
+      "Court poet Harisena"
+    ],
+    "options_hi": [
+      "रविकीर्ति",
+      "कालिदास",
+      "बाणभट्ट",
+      "दरबारी कवि हरिषेण"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Harisena, Samudragupta's court poet and minister for war and peace (Sandhivigrahika), composed the Prayaga Prashasti in Champu Kavya.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — महादंडनायक और संधि-विग्रहिक हरिषेण ने कौशाम्बी/इलाहाबाद के अशोक स्तंभ पर चम्पू शैली में प्रयाग प्रशस्ति लिखी थी।"
+  },
+  {
+    "id": 681,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Coins of Samudragupta",
+    "topic_hi": "गुप्त वंश - वीणा बजाते सिक्के",
+    "question": "[Part-3 Q#681] Samudragupta's passion for music is proven by gold coins depicting him playing which classical musical instrument?",
+    "question_hi": "सम्राट समुद्रगुप्त के संगीत प्रेम का प्रत्यक्ष प्रमाण उन स्वर्ण मुद्राओं से मिलता है जिन पर उन्हें क्या बजाते हुए दर्शाया गया है?",
+    "options": [
+      "Flute",
+      "Veena (Lute)",
+      "Mridangam",
+      "Sitar"
+    ],
+    "options_hi": [
+      "बांसुरी",
+      "वीणा",
+      "मृदंगम",
+      "सितार"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Samudragupta issued gold coins with the legend 'Kaviraja' showing the emperor seated on a couch playing the Veena.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — समुद्रगुप्त के वीणा-वादन प्रकार के सिक्कों पर उसे सोफे पर बैठकर वीणा बजाते दिखाया गया है।"
+  },
+  {
+    "id": 682,
+    "difficulty": "Moderate",
+    "topic": "Gupta Empire - Chandragupta II",
+    "topic_hi": "गुप्त वंश - चन्द्रगुप्त द्वितीय विक्रमादित्य",
+    "question": "[Part-3 Q#682] Which Chinese Buddhist pilgrim visited India during the glorious reign of Chandragupta II Vikramaditya?",
+    "question_hi": "सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य के समृद्ध शासनकाल में किस चीनी बौद्ध यात्री ने भारत की यात्रा की थी?",
+    "options": [
+      "Fa-Hien (Faxian)",
+      "Hiuen-Tsang (Xuanzang)",
+      "I-Tsing (Yijing)",
+      "Sung-Yun"
+    ],
+    "options_hi": [
+      "फाह्यान",
+      "ह्वेनसांग",
+      "इत्सिंग",
+      "सुंग-युन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Fa-Hien visited India between 399 and 414 AD to collect Buddhist manuscripts, praising the peace and prosperity of the Gupta realm.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — फाह्यान ने 399 से 414 ईस्वी के बीच भारत भ्रमण किया और गुप्त साम्राज्य की शांति व न्याय व्यवस्था की भूरि-भूरि प्रशंसा की।"
+  },
+  {
+    "id": 683,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Mehrauli Pillar",
+    "topic_hi": "गुप्त वंश - महरौली लौह स्तंभ",
+    "question": "[Part-3 Q#683] The rustless 4th-century Iron Pillar standing near the Qutub Minar in Mehrauli, Delhi, bears an inscription praising King:",
+    "question_hi": "कुतुब मीनार परिसर (महरौली, दिल्ली) में स्थित जंग-रहित ऐतिहासिक लौह स्तंभ पर किस राजा 'चन्द्र' की विजयों का उल्लेख है?",
+    "options": [
+      "Chandra (Chandragupta II Vikramaditya)",
+      "Chandragupta Maurya",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "options_hi": [
+      "चन्द्र (चन्द्रगुप्त द्वितीय विक्रमादित्य)",
+      "चन्द्रगुप्त मौर्य",
+      "समुद्रगुप्त",
+      "हर्षवर्धन"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Mehrauli Iron Pillar commemorates King Chandra (identified with Chandragupta II) defeating the Vahlikas across the Indus.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — महरौली का जंग-रहित लौह स्तंभ गुप्त सम्राट चन्द्रगुप्त द्वितीय विक्रमादित्य की बंगाल और बह्लीक विजय का साक्षी है।"
+  },
+  {
+    "id": 684,
+    "difficulty": "Difficult",
+    "topic": "Gupta Empire - Nalanda University",
+    "topic_hi": "गुप्त वंश - नालंदा विश्वविद्यालय",
+    "question": "[Part-3 Q#684] Which Gupta emperor founded the world-famous Buddhist monastic university of Nalanda in Bihar?",
+    "question_hi": "बिहार में विश्वविख्यात प्राचीन नालंदा महाविहार (विश्वविद्यालय) की स्थापना किस गुप्त सम्राट ने की थी?",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Kumaragupta I (Mahendraditya)",
+      "Skandagupta"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त द्वितीय",
+      "समुद्रगुप्त",
+      "कुमारगुप्त प्रथम (महेंद्रादित्य)",
+      "स्कंदगुप्त"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kumaragupta I (415–455 AD), adopting the title Mahendraditya, founded Nalanda Mahavihara, which became an international center of learning.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कुमारगुप्त प्रथम महेंद्रादित्य ने 5वीं शताब्दी में विश्वप्रसिद्ध नालंदा विश्वविद्यालय की नींव रखी थी।"
+  },
+  {
+    "id": 685,
+    "difficulty": "Easy",
+    "topic": "Gupta Empire - Skandagupta",
+    "topic_hi": "गुप्त वंश - स्कंदगुप्त एवं हूण",
+    "question": "[Part-3 Q#685] Which courageous Gupta emperor successfully repelled the savage invasions of the White Hunas under Toramana and Mihirakula?",
+    "question_hi": "किस साहसी गुप्त सम्राट ने श्वेत हूणों के बर्बर आक्रमणों को सफलतापूर्वक विफल कर भारत की रक्षा की थी?",
+    "options": [
+      "Skandagupta",
+      "Kumaragupta I",
+      "Buddhagupta",
+      "Purugupta"
+    ],
+    "options_hi": [
+      "स्कंदगुप्त",
+      "कुमारगुप्त प्रथम",
+      "बुधगुप्त",
+      "पुरुगुप्त"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Skandagupta (455–467 AD) crushed the fierce Hunas, documented in his Bhitari pillar inscription in Ghazipur, UP.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — स्कंदगुप्त ने गाजीपुर के भीतरी स्तंभ अभिलेख के अनुसार हूणों को परास्त कर देश को उनके अत्याचारों से बचाया था।"
+  },
+  {
+    "id": 686,
+    "difficulty": "Moderate",
+    "topic": "Gupta Science - Aryabhata",
+    "topic_hi": "गुप्त विज्ञान - आर्यभट्ट",
+    "question": "[Part-3 Q#686] Who authored 'Aryabhatiya' and 'Surya Siddhanta', discovering that the Earth is spherical and rotates on its own axis?",
+    "question_hi": "किस महान खगोलशास्त्री ने 'आर्यभटीय' लिखकर सिद्ध किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है?",
+    "options": [
+      "Varahamihira",
+      "Aryabhata",
+      "Brahmagupta",
+      "Bhaskaracharya"
+    ],
+    "options_hi": [
+      "वराहमिहिर",
+      "आर्यभट्ट",
+      "ब्रह्मगुप्त",
+      "भास्कराचार्य"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Aryabhata (born 476 AD at Pataliputra) formulated zero, decimal place value, value of pi (3.1416), and the solar-lunar eclipse rationale.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — आर्यभट्ट ने पाई का मान (3.1416), शून्य का प्रयोग और चंद्रग्रहण व सूर्यग्रहण का वैज्ञानिक कारण सर्वप्रथम प्रतिपादित किया।"
+  },
+  {
+    "id": 687,
+    "difficulty": "Difficult",
+    "topic": "Gupta Science - Varahamihira",
+    "topic_hi": "गुप्त विज्ञान - वराहमिहिर",
+    "question": "[Part-3 Q#687] The monumental encyclopaedic Sanskrit treatises 'Brihat Samhita' and 'Pancha Siddhantika' were authored by:",
+    "question_hi": "विशाल संस्कृत ज्ञानकोश 'बृहत्संहिता' और 'पंचसिद्धांतिका' के रचयिता कौन थे?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Varahamihira",
+      "Lagadha Muni"
+    ],
+    "options_hi": [
+      "ब्रह्मगुप्त",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "लगध मुनि"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Varahamihira was one of the Navaratnas of Chandragupta II, summarizing five ancient astronomical systems in Pancha Siddhantika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — वराहमिहिर चन्द्रगुप्त द्वितीय के नवरत्नों में से एक थे और उन्होंने खगोल तथा ऋतुविज्ञान पर बृहत्संहिता लिखी।"
+  },
+  {
+    "id": 688,
+    "difficulty": "Moderate",
+    "topic": "Gupta Science - Brahmagupta",
+    "topic_hi": "गुप्त विज्ञान - ब्रह्मगुप्त",
+    "question": "[Part-3 Q#688] Which Indian mathematician-astronomer anticipated Newton's Law of Gravitation by declaring that all objects fall toward Earth by natural attraction?",
+    "question_hi": "न्यूटन से सदियों पूर्व किस भारतीय गणितज्ञ ने घोषणा की थी कि सभी वस्तुएं पृथ्वी के प्राकृतिक आकर्षण से उसकी ओर गिरती हैं?",
+    "options": [
+      "Kanada",
+      "Aryabhata",
+      "Varahamihira",
+      "Brahmagupta"
+    ],
+    "options_hi": [
+      "कणाद",
+      "आर्यभट्ट",
+      "वराहमिहिर",
+      "ब्रह्मगुप्त"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Brahmagupta in 'Brahmasphutasiddhanta' stated: 'Bodies fall towards the earth as it is in the nature of the earth to attract bodies'.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — ब्रह्मगुप्त ने 'ब्रह्मस्फुटसिद्धांत' में गुरुत्वाकर्षण के नियम की पूर्व-घोषणा करते हुए पृथ्वी के आकर्षण गुण का उल्लेख किया था।"
+  },
+  {
+    "id": 689,
+    "difficulty": "Easy",
+    "topic": "Harshavardhana",
+    "topic_hi": "हर्षवर्धन - कन्नौज",
+    "question": "[Part-3 Q#689] King Harshavardhana shifted his imperial capital from Thaneswar to which historic North Indian city?",
+    "question_hi": "सम्राट हर्षवर्धन ने अपनी राजधानी थानेश्वर (हरियाणा) से किस ऐतिहासिक नगर में स्थानांतरित की थी?",
+    "options": [
+      "Pataliputra",
+      "Kannauj (Kanyakubja)",
+      "Prayagraj",
+      "Varanasi"
+    ],
+    "options_hi": [
+      "पाटलिपुत्र",
+      "कन्नौज (कान्यकुब्ज)",
+      "प्रयागराज",
+      "वाराणसी"
+    ],
+    "correctAnswer": "B",
+    "explanation": "After the murder of his brother-in-law Grahavarman of Kannauj, Harsha united Thaneswar and Kannauj, making Kannauj his capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — हर्षवर्धन ने अपनी बहन राज्यश्री को बचाने के उपरांत थानेश्वर और कन्नौज का एकीकरण कर कन्नौज को अपनी राजधानी बनाया।"
+  },
+  {
+    "id": 690,
+    "difficulty": "Difficult",
+    "topic": "Harshavardhana - Battle on Narmada",
+    "topic_hi": "हर्षवर्धन - नर्मदा का युद्ध",
+    "question": "[Part-3 Q#690] Harsha's southward expansion into the Deccan was decisively halted on the banks of the Narmada River by which Western Chalukya monarch?",
+    "question_hi": "दक्षिण भारत की ओर बढ़ते हर्षवर्धन के विजय अभियान को नर्मदा नदी के तट पर किस चालुक्य सम्राट ने रोका था?",
+    "options": [
+      "Mangalesha",
+      "Kirtivarman I",
+      "Vikramaditya I",
+      "Pulakesin II"
+    ],
+    "options_hi": [
+      "मंगलेश",
+      "कीर्तिवर्मन प्रथम",
+      "विक्रमादित्य प्रथम",
+      "पुलकेशिन द्वितीय"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Pulakesin II of the Vatapi Chalukyas defeated Harsha, celebrated by court poet Ravikirti in the Aihole Inscription.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — चालुक्य नरेश पुलकेशिन द्वितीय ने नर्मदा के युद्ध में हर्ष को पराजित किया, जिसका वर्णन रविकीर्ति के एहोल अभिलेख में है।"
+  },
+  {
+    "id": 691,
+    "difficulty": "Easy",
+    "topic": "Hiuen Tsang (Xuanzang)",
+    "topic_hi": "ह्वेनसांग - तीर्थयात्रियों का राजकुमार",
+    "question": "[Part-3 Q#691] The Chinese Buddhist pilgrim Hiuen Tsang (Xuanzang), celebrated as the 'Prince of Pilgrims', visited India during the reign of:",
+    "question_hi": "'यात्रियों का राजकुमार' कहे जाने वाले प्रसिद्ध चीनी यात्री ह्वेनसांग ने किसके शासनकाल में भारत की यात्रा की थी?",
+    "options": [
+      "Chandragupta II",
+      "Harshavardhana",
+      "Kanishka",
+      "Ashoka"
+    ],
+    "options_hi": [
+      "चन्द्रगुप्त द्वितीय",
+      "हर्षवर्धन",
+      "कनिष्क",
+      "अशोक"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Hiuen Tsang resided in India from 630 to 645 AD, studied at Nalanda under Abbot Silabhadra, and attended Harsha's assemblies.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — ह्वेनसांग ने 630-645 ईस्वी में हर्ष के समय भारत की यात्रा की और अपना यात्रा वृत्तांत 'सी-यू-की' (Si-Yu-Ki) नाम से लिखा।"
+  },
+  {
+    "id": 692,
+    "difficulty": "Moderate",
+    "topic": "Harsha - Literary Compositions",
+    "topic_hi": "हर्षवर्धन - संस्कृत नाटक",
+    "question": "[Part-3 Q#692] Which three celebrated Sanskrit plays were authored by King Harshavardhana himself?",
+    "question_hi": "सम्राट हर्षवर्धन ने स्वयं किन तीन प्रसिद्ध संस्कृत नाटकों की रचना की थी?",
+    "options": [
+      "Kiratarjuniya, Shishupalavadha, and Naishadha",
+      "Malavikagnimitram, Meghaduta, and Shakuntala",
+      "Mudrarakshasa, Devichandragupta, and Svapnavasavadatta",
+      "Ratnavali, Priyadarsika, and Nagananda"
+    ],
+    "options_hi": [
+      "किरातार्जुनीय, शिशुपालवध और नैषध",
+      "मालविकाग्निमित्रम्, मेघदूत और शकुंतला",
+      "मुद्राराक्षस, देवीचंद्रगुप्त और स्वप्नवासवदत्ता",
+      "रत्नावली, प्रियदर्शिका और नागानंद"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Harsha was an accomplished playwright who composed Ratnavali, Priyadarsika, and the Buddhist-themed drama Nagananda.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — हर्षवर्धन एक कुशल नाटककार था जिसने रत्नावली, प्रियदर्शिका और नागानंद नामक तीन प्रसिद्ध नाटक लिखे।"
+  },
+  {
+    "id": 693,
+    "difficulty": "Difficult",
+    "topic": "Banabhatta",
+    "topic_hi": "बाणभट्ट - हर्षचरित एवं कादंबरी",
+    "question": "[Part-3 Q#693] Who was Harsha's chief court poet (Asthana Kavi) that composed 'Harshacharita' and the world's earliest prose novel 'Kadambari'?",
+    "question_hi": "हर्षवर्धन के दरबारी कवि कौन थे जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादंबरी' रचा था?",
+    "options": [
+      "Bhavabhuti",
+      "Mayura",
+      "Harisena",
+      "Banabhatta"
+    ],
+    "options_hi": [
+      "भवभूति",
+      "मयूर",
+      "हरिषेण",
+      "बाणभट्ट"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Banabhatta authored Harshacharita (biography of Harsha) and Kadambari. Mayura (author of Mayurasataka) was also in Harsha's court.",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — बाणभट्ट ने हर्ष के जीवन चरित्र पर 'हर्षचरित' तथा प्रसिद्ध प्रेम-कथा 'कादंबरी' की रचना की थी।"
+  },
+  {
+    "id": 694,
+    "difficulty": "Moderate",
+    "topic": "Pallava Dynasty - Rock-Cut Temples",
+    "topic_hi": "पल्लव वंश - रथ मंदिर",
+    "question": "[Part-3 Q#694] The monolithic rock-cut 'Pancha Pandava Rathas' at Mahabalipuram were sculpted under which great Pallava monarch?",
+    "question_hi": "महाबलीपुरम (मामल्लपुरम) के एकाश्मक 'पंच पांडव रथ मंदिर' किस प्रतापी पल्लव शासक के काल में तराशे गए थे?",
+    "options": [
+      "Mahendravarman I",
+      "Narasimhavarman I (Mamalla)",
+      "Narasimhavarman II (Rajasimha)",
+      "Simhavishnu"
+    ],
+    "options_hi": [
+      "महेंद्रवर्मन प्रथम",
+      "नरसिंहवर्मन प्रथम (मामल्ल)",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "सिंहविष्णु"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Narasimhavarman I (630–668 AD), who assumed the title 'Vatapikonda' after conquering Badami, built the rock-cut Rathas at Mamallapuram.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — नरसिंहवर्मन प्रथम मामल्ल ने महाबलीपुरम के एकाश्म रथ मंदिरों (सप्त पैगोडा) का निर्माण कराया था।"
+  },
+  {
+    "id": 695,
+    "difficulty": "Easy",
+    "topic": "Pallava - Shore Temple",
+    "topic_hi": "पल्लव वंश - शोर मंदिर एवं कैलाशनाथ",
+    "question": "[Part-3 Q#695] The celebrated structural Shore Temple at Mahabalipuram and the Kailasanatha Temple at Kanchipuram were built by:",
+    "question_hi": "महाबलीपुरम का प्रसिद्ध तट मंदिर (शोर मंदिर) और कांचीपुरम का कैलाशनाथ मंदिर किस पल्लव राजा ने बनवाया था?",
+    "options": [
+      "Narasimhavarman I",
+      "Narasimhavarman II (Rajasimha)",
+      "Mahendravarman I",
+      "Aparajita"
+    ],
+    "options_hi": [
+      "नरसिंहवर्मन प्रथम",
+      "नरसिंहवर्मन द्वितीय (राजसिंह)",
+      "महेंद्रवर्मन प्रथम",
+      "अपराजित"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Narasimhavarman II Rajasimha (700–728 AD) ushered in the Dravidian structural stone temple era with the Shore Temple and Kailasanatha temple.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — राजसिंह (नरसिंहवर्मन द्वितीय) ने कांची के कैलाशनाथ मंदिर तथा महाबलीपुरम के तट मंदिर का निर्माण कराया।"
+  },
+  {
+    "id": 696,
+    "difficulty": "Difficult",
+    "topic": "Post-Mauryan - Sunga Dynasty",
+    "topic_hi": "मौर्योत्तर काल - शुंग वंश",
+    "question": "[Part-3 Q#696] Who established the Sunga Dynasty in 185 BC after assassinating the last Mauryan ruler Brihadratha?",
+    "question_hi": "185 ईसा पूर्व में अंतिम मौर्य शासक बृहद्रथ की हत्या करके शुंग वंश की स्थापना किसने की थी?",
+    "options": [
+      "Pushyamitra Sunga",
+      "Agnimitra",
+      "Vasumitra",
+      "Devabhuti"
+    ],
+    "options_hi": [
+      "पुष्यमित्र शुंग",
+      "अग्निमित्र",
+      "वसुमित्र",
+      "देवभूति"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pushyamitra Sunga, the commander-in-chief (Senapati) of Brihadratha, established the Sunga Dynasty with Vidisha/Pataliputra as capital.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — मौर्य सेनापति पुष्यमित्र शुंग ने अंतिम मौर्य राजा बृहद्रथ की हत्या कर 185 ईसा पूर्व में शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 697,
+    "difficulty": "Easy",
+    "topic": "Sunga Dynasty - Patanjali",
+    "topic_hi": "शुंग वंश - पतंजलि",
+    "question": "[Part-3 Q#697] Which great grammarian and philosopher was the contemporary and chief priest of Pushyamitra Sunga's two Ashvamedha sacrifices?",
+    "question_hi": "पुष्यमित्र शुंग द्वारा किए गए दो अश्वमेध यज्ञों के मुख्य पुरोहित कौन से महान वैयाकरण थे?",
+    "options": [
+      "Panini",
+      "Patanjali",
+      "Katyayana",
+      "Charaka"
+    ],
+    "options_hi": [
+      "पाणिनि",
+      "पतंजलि",
+      "कात्यायन",
+      "चरक"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Patanjali, the author of the 'Mahabhashya', was the royal priest who conducted two Ashvamedha yajnas for Pushyamitra Sunga.",
+    "explanation_hi": "(सही उत्तर: विकल्प B) — महाभाष्य के रचयिता महर्षि पतंजलि पुष्यमित्र शुंग के समकालीन थे और उन्होंने उसके दो अश्वमेध यज्ञ संपन्न कराए थे।"
+  },
+  {
+    "id": 698,
+    "difficulty": "Moderate",
+    "topic": "Sunga Dynasty - Bharhut",
+    "topic_hi": "शुंग वंश - भरहुत स्तूप",
+    "question": "[Part-3 Q#698] The monumental stone railing and decorative gateways of the famous Bharhut Stupa in Madhya Pradesh were constructed during which dynasty?",
+    "question_hi": "मध्य प्रदेश के प्रसिद्ध भरहुत स्तूप की पाषाण वेदिका (रेलिंग) और तोरण द्वार का निर्माण किस वंश के काल में हुआ था?",
+    "options": [
+      "Sunga Dynasty",
+      "Mauryan Dynasty",
+      "Kushana Dynasty",
+      "Gupta Dynasty"
+    ],
+    "options_hi": [
+      "शुंग वंश",
+      "मौर्य वंश",
+      "कुषाण वंश",
+      "गुप्त वंश"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The stone gateways and balustrade surrounding the Bharhut Stupa were erected during the reign of the Sungas.",
+    "explanation_hi": "(सही उत्तर: विकल्प A) — भरहुत स्तूप के चारों ओर सुंदर नक्काशीदार पाषाण रेलिंग और तोरणों का निर्माण शुंग काल में किया गया था।"
+  },
+  {
+    "id": 699,
+    "difficulty": "Difficult",
+    "topic": "Kalidasa's Drama - Agnimitra",
+    "topic_hi": "कालिदास का नाटक - अग्निमित्र",
+    "question": "[Part-3 Q#699] The Sunga prince Agnimitra is the celebrated hero of which classical Sanskrit drama authored by Kalidasa?",
+    "question_hi": "शुंग राजकुमार अग्निमित्र महाकवि कालिदास के किस प्रसिद्ध संस्कृत नाटक का नायक है?",
+    "options": [
+      "Vikramorvashiyam",
+      "Abhijnanashakuntalam",
+      "Malavikagnimitram",
+      "Mudrarakshasa"
+    ],
+    "options_hi": [
+      "विक्रमोर्वशीयम्",
+      "अभिज्ञानशाकुंतलम्",
+      "मालविकाग्निमित्रम्",
+      "मुद्राराक्षस"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Kalidasa's first play, 'Malavikagnimitram', depicts the love affair of Sunga king Agnimitra and maiden Malavika.",
+    "explanation_hi": "(सही उत्तर: विकल्प C) — कालिदास के प्रथम नाटक 'मालविकाग्निमित्रम्' का नायक शुंग शासक अग्निमित्र है।"
+  },
+  {
+    "id": 700,
+    "difficulty": "Moderate",
+    "topic": "Satavahana Dynasty",
+    "topic_hi": "सातवाहन वंश",
+    "question": "[Part-3 Q#700] Who was the founder of the powerful Satavahana (Andhra) Dynasty in the Deccan?",
+    "question_hi": "दक्कन में शक्तिशाली सातवाहन (आंध्र) वंश की स्थापना किसने की थी?",
+    "options": [
+      "Hala",
+      "Satakarni I",
+      "Gautamiputra Satakarni",
+      "Simuka"
+    ],
+    "options_hi": [
+      "हाल",
+      "शातकर्णी प्रथम",
+      "गौतमीपुत्र शातकर्णी",
+      "सिमुक"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Simuka founded the Satavahana dynasty around 60 BC with its capital at Pratishthana (modern Paithan in Maharashtra).",
+    "explanation_hi": "(सही उत्तर: विकल्प D) — सिमुक ने लगभग 60 ईसा पूर्व में कण्व वंश को समाप्त कर प्रतिष्ठान (पैठन, महाराष्ट्र) को राजधानी बनाकर सातवाहन वंश की स्थापना की।"
   }
 ]

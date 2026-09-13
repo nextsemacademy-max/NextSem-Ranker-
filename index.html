@@ -644,11 +644,12 @@
     <div class="sections-container">
       <span class="sections-legend">Sections</span>
       <div class="section-tabs">
-        <button class="sec-tab active" id="secTab1" onclick="switchSection(1, this)">Reasoning (Indus Valley)</button>
-        <button class="sec-tab" id="secTab2" onclick="switchSection(2, this)">Numerical Ability (Vedic Culture)</button>
-        <button class="sec-tab" id="secTab3" onclick="switchSection(3, this)">General Awareness (Mahajanapadas)</button>
-        <button class="sec-tab" id="secTab4" onclick="switchSection(4, this)">History (Buddhism, Jainism & Maurya)</button>
-        <button class="sec-tab" id="secTabAll" onclick="switchSection('all', this)">All 500 Questions</button>
+        <button class="sec-tab active" id="secTab1" onclick="switchSection(1, this)">Reasoning (Indus)</button>
+        <button class="sec-tab" id="secTab2" onclick="switchSection(2, this)">Quant (Vedic Culture)</button>
+        <button class="sec-tab" id="secTab3" onclick="switchSection(3, this)">GK (Mahajanapadas)</button>
+        <button class="sec-tab" id="secTab4" onclick="switchSection(4, this)">History (Buddhism & Maurya)</button>
+        <button class="sec-tab" id="secTab5" onclick="switchSection(5, this)">Ancient India (Gupta & South)</button>
+        <button class="sec-tab" id="secTabAll" onclick="switchSection('all', this)">All 700 Questions</button>
       </div>
     </div>
 
@@ -815,16 +816,19 @@
         label.innerText = "Reasoning (Indus Valley: Q1-100)";
         sectionIndices = allQuestions.map((q, i) => i < 100 ? i : -1).filter(i => i !== -1);
       } else if (sec === 2) {
-        label.innerText = "Numerical Ability (Vedic Culture: Q101-200)";
+        label.innerText = "Quant (Vedic Culture: Q101-200)";
         sectionIndices = allQuestions.map((q, i) => (i >= 100 && i < 200) ? i : -1).filter(i => i !== -1);
       } else if (sec === 3) {
-        label.innerText = "General Awareness (Mahajanapadas & Magadha: Q201-350)";
+        label.innerText = "GK (Mahajanapadas & Magadha: Q201-350)";
         sectionIndices = allQuestions.map((q, i) => (i >= 200 && i < 350) ? i : -1).filter(i => i !== -1);
       } else if (sec === 4) {
         label.innerText = "History (Buddhism, Jainism & Maurya: Q351-500)";
-        sectionIndices = allQuestions.map((q, i) => i >= 350 ? i : -1).filter(i => i !== -1);
+        sectionIndices = allQuestions.map((q, i) => (i >= 350 && i < 500) ? i : -1).filter(i => i !== -1);
+      } else if (sec === 5) {
+        label.innerText = "Ancient India (Gupta Empire, Harsha & South: Q501-700)";
+        sectionIndices = allQuestions.map((q, i) => i >= 500 ? i : -1).filter(i => i !== -1);
       } else {
-        label.innerText = "All 500 Questions";
+        label.innerText = "All 700 Questions";
         sectionIndices = allQuestions.map((_, i) => i);
       }
 
