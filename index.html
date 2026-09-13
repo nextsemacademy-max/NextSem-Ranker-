@@ -3,722 +3,786 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NextSem Ranker 🎯 | 200 Masterclass MCQs (Ancient India & Vedic Age)</title>
-  <meta name="description" content="Official interactive test engine and question bank for Indian competitive & teaching exams (CTET, KVS, DSSSB, State TETs).">
+  <title>RRB Assistant-01 | NextSem Ranker CBT Exam</title>
+  <meta name="description" content="Authentic RRB Railway and Indian Competitive Exam Computer Based Test (CBT) Interface">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg-primary: #17181c;
-      --bg-surface: #1f2128;
-      --bg-card: #272a34;
-      --border-color: #323644;
-      --accent-green: #04AA6D;
-      --accent-green-hover: #039861;
-      --accent-purple: #8b5cf6;
-      --accent-red: #ef4444;
-      --accent-yellow: #f59e0b;
-      --text-white: #ffffff;
-      --text-muted: #94a3b8;
-      --font-main: 'Outfit', 'Noto Sans Devanagari', -apple-system, sans-serif;
-      --font-hindi: 'Noto Sans Devanagari', sans-serif;
-      --font-mono: 'JetBrains Mono', monospace;
+      --rrb-blue: #007cb9;
+      --rrb-dark-blue: #005f8e;
+      --rrb-light-blue: #bce0fd;
+      --rrb-border-blue: #70b4e8;
+      --rrb-gray-border: #c8d1d8;
+      --rrb-bg-light: #f4f7f9;
+      --rrb-sidebar-bg: #e5f0f9;
+      --green-answered: #22c55e;
+      --red-unanswered: #ef4444;
+      --purple-marked: #a855f7;
+      --gray-notvisited: #e2e8f0;
+      --text-dark: #1e293b;
+      --font-family: 'Roboto', 'Noto Sans Devanagari', Arial, sans-serif;
     }
 
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
+      user-select: none;
     }
 
     body {
-      background-color: var(--bg-primary);
-      color: var(--text-white);
-      font-family: var(--font-main);
-      min-height: 100vh;
+      font-family: var(--font-family);
+      background-color: #ffffff;
+      color: var(--text-dark);
       display: flex;
       flex-direction: column;
-      line-height: 1.6;
-      overflow-x: hidden;
+      height: 100vh;
+      overflow: hidden;
     }
 
-    /* Header Bar */
-    header {
-      background: rgba(31, 33, 40, 0.85);
-      backdrop-filter: blur(12px);
-      border-bottom: 1px solid var(--border-color);
-      position: sticky;
-      top: 0;
-      z-index: 50;
-      padding: 12px 24px;
+    /* 1. Top Blue Header */
+    .rrb-header {
+      background: var(--rrb-blue);
+      color: #ffffff;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      flex-shrink: 0;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    }
+
+    .header-left {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    }
+
+    .header-logo {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 22px;
+      font-weight: 800;
+    }
+
+    .header-logo span.logo-icon {
+      background: #ffffff;
+      color: var(--rrb-blue);
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+    }
+
+    /* 2. Top Info Subheader (Sections & Candidate Profile) */
+    .rrb-sub-header {
+      background: #ffffff;
+      border-bottom: 2px solid var(--rrb-gray-border);
+      padding: 8px 16px;
       display: flex;
       justify-content: space-between;
+      align-items: center;
+      flex-shrink: 0;
+      gap: 16px;
+    }
+
+    .sections-container {
+      border: 1px solid #b0bec5;
+      border-radius: 4px;
+      padding: 4px 12px 6px;
+      position: relative;
+    }
+
+    .sections-legend {
+      font-size: 12px;
+      font-weight: 700;
+      color: #475569;
+      background: #ffffff;
+      padding: 0 4px;
+      position: absolute;
+      top: -9px;
+      left: 10px;
+    }
+
+    .section-tabs {
+      display: flex;
+      gap: 6px;
+      margin-top: 4px;
+    }
+
+    .sec-tab {
+      background: #e2e8f0;
+      border: 1px solid #94a3b8;
+      color: #1e293b;
+      padding: 5px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      border-radius: 3px;
+      transition: all 0.15s;
+    }
+
+    .sec-tab.active {
+      background: var(--rrb-blue);
+      color: #ffffff;
+      border-color: var(--rrb-dark-blue);
+    }
+
+    .candidate-info-box {
+      display: flex;
       align-items: center;
       gap: 16px;
     }
 
-    .brand {
+    .candidate-avatar {
       display: flex;
+      flex-direction: column;
       align-items: center;
-      gap: 12px;
-      text-decoration: none;
-      color: var(--text-white);
+      font-size: 10px;
+      color: #64748b;
     }
 
-    .brand-logo {
-      width: 38px;
-      height: 38px;
-      background: linear-gradient(135deg, #04AA6D, #10b981);
-      border-radius: 10px;
+    .avatar-icon {
+      width: 44px;
+      height: 44px;
+      background: #cbd5e1;
+      border-radius: 4px;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 20px;
-      box-shadow: 0 4px 14px rgba(4, 170, 109, 0.3);
+      font-size: 26px;
+      color: #475569;
+      border: 1px solid #94a3b8;
     }
 
-    .brand-title {
-      font-size: 20px;
-      font-weight: 800;
-      letter-spacing: -0.5px;
-    }
-
-    .brand-tagline {
-      font-size: 11px;
-      color: var(--text-muted);
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      font-weight: 600;
-    }
-
-    .header-actions {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .timer-badge {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      background: rgba(0, 0, 0, 0.4);
-      border: 1px solid var(--border-color);
-      padding: 6px 14px;
-      border-radius: 20px;
-      font-family: var(--font-mono);
-      font-size: 14px;
-      color: var(--text-white);
-    }
-
-    .btn {
-      padding: 8px 16px;
-      border-radius: 8px;
-      font-weight: 600;
-      font-size: 13px;
-      cursor: pointer;
-      border: none;
-      transition: all 0.2s ease;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      text-decoration: none;
-    }
-
-    .btn-green {
-      background: var(--accent-green);
-      color: white;
-    }
-    .btn-green:hover {
-      background: var(--accent-green-hover);
-      transform: translateY(-1px);
-    }
-
-    .btn-outline {
-      background: transparent;
-      border: 1px solid var(--border-color);
-      color: var(--text-white);
-    }
-    .btn-outline:hover {
-      background: var(--bg-card);
-      border-color: #475569;
-    }
-
-    .btn-purple {
-      background: var(--accent-purple);
-      color: white;
-    }
-
-    /* Sub-nav filter */
-    .filter-bar {
-      background: var(--bg-surface);
-      border-bottom: 1px solid var(--border-color);
-      padding: 10px 24px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 12px;
-    }
-
-    .filter-tabs {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-    }
-
-    .tab-btn {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      color: var(--text-muted);
-      padding: 6px 14px;
-      border-radius: 6px;
-      font-size: 12px;
-      font-weight: 600;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-
-    .tab-btn.active {
-      background: var(--accent-green);
-      color: white;
-      border-color: var(--accent-green);
-    }
-
-    .mode-toggle {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 13px;
-      color: var(--text-muted);
-    }
-
-    /* Main Container Grid */
-    .app-container {
-      display: grid;
-      grid-template-columns: 1fr 340px;
-      flex: 1;
-      max-width: 1400px;
-      margin: 0 auto;
-      width: 100%;
-      padding: 24px;
-      gap: 24px;
-    }
-
-    @media (max-width: 960px) {
-      .app-container {
-        grid-template-columns: 1fr;
-        padding: 16px;
-      }
-    }
-
-    /* Question Card Area */
-    .question-card {
-      background: var(--bg-surface);
-      border: 1px solid var(--border-color);
-      border-radius: 16px;
-      padding: 28px;
+    .timer-container {
       display: flex;
       flex-direction: column;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      align-items: flex-end;
     }
 
-    .question-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-
-    .badges-group {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-    }
-
-    .badge {
-      padding: 4px 10px;
-      border-radius: 6px;
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.5px;
-      text-transform: uppercase;
-    }
-
-    .badge-easy { background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); }
-    .badge-moderate { background: rgba(245, 158, 11, 0.2); color: #f59e0b; border: 1px solid rgba(245, 158, 11, 0.4); }
-    .badge-difficult { background: rgba(239, 68, 68, 0.2); color: #ef4444; border: 1px solid rgba(239, 68, 68, 0.4); }
-    .badge-topic { background: rgba(148, 163, 184, 0.15); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.3); }
-
-    .q-text {
-      font-size: 19px;
-      font-weight: 700;
-      color: var(--text-white);
-      margin-bottom: 24px;
-      line-height: 1.5;
-    }
-
-    .options-grid {
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-      margin-bottom: 28px;
-    }
-
-    .option-item {
-      background: var(--bg-card);
-      border: 1px solid var(--border-color);
-      border-radius: 10px;
-      padding: 14px 18px;
-      cursor: pointer;
-      display: flex;
-      align-items: flex-start;
-      gap: 14px;
-      transition: all 0.2s ease;
+    .timer-text {
       font-size: 15px;
+      font-weight: 700;
+      color: #0f172a;
     }
 
-    .option-item:hover {
-      border-color: #64748b;
-      background: #2e3240;
+    .candidate-name {
+      font-size: 13px;
+      font-style: italic;
+      color: #334155;
     }
 
-    .option-item.selected {
-      border-color: var(--accent-green);
-      background: rgba(4, 170, 109, 0.12);
-    }
-
-    .option-item.correct {
-      border-color: #10b981;
-      background: rgba(16, 185, 129, 0.2) !important;
-    }
-
-    .option-item.incorrect {
-      border-color: #ef4444;
-      background: rgba(239, 68, 68, 0.2) !important;
-    }
-
-    .opt-letter {
-      width: 28px;
-      height: 28px;
-      border-radius: 6px;
-      background: rgba(255, 255, 255, 0.08);
+    .pause-btn {
+      background: transparent;
+      border: none;
+      font-size: 13px;
+      color: #0f172a;
+      cursor: pointer;
       display: flex;
       align-items: center;
-      justify-content: center;
+      gap: 4px;
+      margin-top: 2px;
+      font-weight: 600;
+    }
+
+    /* 3. Main Split CBT Area */
+    .rrb-main-container {
+      display: flex;
+      flex: 1;
+      height: calc(100vh - 120px);
+      overflow: hidden;
+      background: #ffffff;
+    }
+
+    /* Left Question Panel */
+    .question-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      border-right: 2px solid var(--rrb-gray-border);
+      height: 100%;
+      background: #ffffff;
+      overflow: hidden;
+    }
+
+    .question-panel-header {
+      background: #ffffff;
+      padding: 10px 18px;
+      border-bottom: 2px solid var(--rrb-gray-border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       font-weight: 700;
-      font-size: 13px;
+      font-size: 16px;
+      color: #0f172a;
       flex-shrink: 0;
     }
 
-    .option-item.selected .opt-letter {
-      background: var(--accent-green);
-      color: white;
+    .marks-info {
+      font-size: 12px;
+      font-weight: 600;
+      color: #475569;
     }
 
-    /* Explanation Box */
-    .explanation-box {
-      background: rgba(4, 170, 109, 0.08);
-      border-left: 4px solid var(--accent-green);
-      border-radius: 0 10px 10px 0;
-      padding: 16px 20px;
-      margin-bottom: 24px;
+    .question-scroll-content {
+      flex: 1;
+      padding: 18px 24px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .q-statement-box {
+      font-size: 16px;
+      line-height: 1.6;
+      color: #0f172a;
+      border-bottom: 1px solid #e2e8f0;
+      padding-bottom: 14px;
+    }
+
+    .q-statement-en {
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+
+    .q-statement-hi {
+      color: #1e3a8a;
+      font-family: 'Noto Sans Devanagari', sans-serif;
+      font-weight: 500;
+    }
+
+    .options-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 8px;
+    }
+
+    .option-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      cursor: pointer;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background 0.15s;
+    }
+
+    .option-row:hover {
+      background: #f1f5f9;
+    }
+
+    .option-row input[type="radio"] {
+      margin-top: 4px;
+      cursor: pointer;
+      width: 17px;
+      height: 17px;
+      accent-color: var(--rrb-blue);
+    }
+
+    .option-labels {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      font-size: 15px;
+    }
+
+    .opt-en {
+      font-weight: 500;
+      color: #0f172a;
+    }
+
+    .opt-hi {
+      color: #334155;
+      font-size: 14px;
+      font-family: 'Noto Sans Devanagari', sans-serif;
+    }
+
+    /* Explanation Accordion */
+    .rrb-explanation {
+      background: #f0fdf4;
+      border: 1px solid #86efac;
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin-top: 16px;
       display: none;
     }
 
-    .explanation-box.show {
+    .rrb-explanation.show {
       display: block;
-      animation: fadeIn 0.3s ease;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(6px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    .explanation-title {
-      font-size: 13px;
-      text-transform: uppercase;
-      font-weight: 700;
-      color: var(--accent-green);
-      margin-bottom: 6px;
-      letter-spacing: 0.5px;
-    }
-
-    .explanation-text {
-      font-size: 14px;
-      color: #e2e8f0;
-      line-height: 1.6;
-    }
-
-    /* Action bar */
-    .card-actions {
+    /* Left Bottom Action Bar */
+    .question-panel-footer {
+      border-top: 2px solid var(--rrb-gray-border);
+      padding: 10px 18px;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      flex-wrap: wrap;
-      gap: 12px;
-      padding-top: 20px;
-      border-top: 1px solid var(--border-color);
+      background: #f8fafc;
+      flex-shrink: 0;
     }
 
-    .nav-buttons {
+    .footer-left-btns {
       display: flex;
       gap: 10px;
     }
 
-    /* Right Sidebar Palette */
-    .palette-card {
-      background: var(--bg-surface);
-      border: 1px solid var(--border-color);
-      border-radius: 16px;
-      padding: 20px;
+    .btn-rrb-light {
+      background: var(--rrb-light-blue);
+      border: 1px solid var(--rrb-border-blue);
+      color: #0f172a;
+      padding: 8px 18px;
+      font-size: 13px;
+      font-weight: 700;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .btn-rrb-light:hover {
+      background: #a5d4fc;
+    }
+
+    .btn-rrb-primary {
+      background: var(--rrb-blue);
+      border: 1px solid var(--rrb-dark-blue);
+      color: #ffffff;
+      padding: 8px 24px;
+      font-size: 13px;
+      font-weight: 700;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .btn-rrb-primary:hover {
+      background: var(--rrb-dark-blue);
+    }
+
+    /* Right Palette Sidebar */
+    .palette-panel {
+      width: 320px;
+      background: var(--rrb-sidebar-bg);
       display: flex;
       flex-direction: column;
-      max-height: 700px;
-      position: sticky;
-      top: 90px;
+      height: 100%;
+      flex-shrink: 0;
+      border-left: 1px solid var(--rrb-gray-border);
     }
 
-    .palette-header {
-      font-size: 16px;
-      font-weight: 700;
-      margin-bottom: 12px;
+    .palette-scrollable {
+      flex: 1;
+      padding: 14px 16px;
+      overflow-y: auto;
       display: flex;
-      justify-content: space-between;
-      align-items: center;
+      flex-direction: column;
+      gap: 12px;
     }
 
-    .stats-summary {
+    .legend-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #0f172a;
+      border-bottom: 1px solid #cbd5e1;
+      padding-bottom: 4px;
+    }
+
+    .legend-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 8px;
-      margin-bottom: 16px;
+      gap: 8px 12px;
       font-size: 12px;
+      font-weight: 600;
     }
 
-    .stat-pill {
-      background: var(--bg-card);
-      padding: 6px 10px;
-      border-radius: 6px;
+    .legend-item {
       display: flex;
       align-items: center;
-      justify-content: space-between;
-      border: 1px solid var(--border-color);
-    }
-
-    .stat-dot {
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
-      margin-right: 6px;
-      display: inline-block;
-    }
-
-    .palette-grid {
-      display: grid;
-      grid-template-columns: repeat(5, 1fr);
       gap: 6px;
-      overflow-y: auto;
-      padding-right: 4px;
-      flex: 1;
-      margin-bottom: 16px;
     }
 
-    .palette-btn {
-      aspect-ratio: 1;
-      border-radius: 6px;
-      border: 1px solid var(--border-color);
-      background: var(--bg-card);
-      color: var(--text-white);
-      font-weight: 600;
+    .badge-icon {
+      width: 26px;
+      height: 22px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 11px;
+      border-radius: 3px;
+    }
+
+    .badge-answered {
+      background: #22c55e;
+      clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
+    }
+
+    .badge-not-answered {
+      background: #ef4444;
+      clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
+    }
+
+    .badge-marked {
+      background: #a855f7;
+      border-radius: 50%;
+      width: 22px;
+      height: 22px;
+    }
+
+    .badge-not-visited {
+      background: #cbd5e1;
+      color: #334155;
+      border: 1px solid #94a3b8;
+    }
+
+    .palette-section-info {
       font-size: 12px;
+      color: #1e293b;
+      margin-top: 4px;
+      font-weight: 600;
+    }
+
+    .palette-buttons-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      margin-top: 6px;
+    }
+
+    .pal-num-btn {
+      aspect-ratio: 1.2;
+      background: #ffffff;
+      border: 1px solid #94a3b8;
+      border-radius: 3px;
+      font-weight: 700;
+      font-size: 13px;
+      color: #1e293b;
       cursor: pointer;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: all 0.15s ease;
+      transition: all 0.15s;
     }
 
-    .palette-btn:hover {
-      transform: scale(1.08);
+    .pal-num-btn:hover {
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      border-color: var(--rrb-blue);
     }
 
-    .palette-btn.current {
-      outline: 2px solid #38bdf8;
+    .pal-num-btn.active {
+      outline: 2px solid #0284c7;
       outline-offset: 1px;
     }
 
-    .palette-btn.answered {
-      background: var(--accent-green);
-      border-color: var(--accent-green);
-      color: white;
+    .pal-num-btn.answered {
+      background: #22c55e;
+      color: #ffffff;
+      border-color: #16a34a;
+      clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
     }
 
-    .palette-btn.marked {
-      background: var(--accent-purple);
-      border-color: var(--accent-purple);
-      color: white;
+    .pal-num-btn.not-answered {
+      background: #ef4444;
+      color: #ffffff;
+      border-color: #dc2626;
+      clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
+    }
+
+    .pal-num-btn.marked {
+      background: #a855f7;
+      color: #ffffff;
+      border-color: #9333ea;
+      border-radius: 50%;
+    }
+
+    /* Right Bottom Utility Action Grid */
+    .palette-bottom-actions {
+      border-top: 2px solid var(--rrb-gray-border);
+      padding: 10px 14px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      background: #ffffff;
+      flex-shrink: 0;
+    }
+
+    .btn-pal-util {
+      background: var(--rrb-light-blue);
+      border: 1px solid var(--rrb-border-blue);
+      color: #0f172a;
+      padding: 7px 0;
+      font-size: 12px;
+      font-weight: 600;
+      border-radius: 3px;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .btn-pal-util:hover {
+      background: #9fd3fc;
+    }
+
+    .btn-pal-submit {
+      background: var(--rrb-blue);
+      border: 1px solid var(--rrb-dark-blue);
+      color: #ffffff;
+      font-weight: 700;
+    }
+
+    .btn-pal-submit:hover {
+      background: var(--rrb-dark-blue);
     }
 
     /* Modal */
-    .modal-overlay {
+    .rrb-modal-overlay {
       position: fixed;
       inset: 0;
-      background: rgba(0, 0, 0, 0.75);
-      backdrop-filter: blur(6px);
+      background: rgba(0,0,0,0.6);
       display: none;
       align-items: center;
       justify-content: center;
-      z-index: 100;
+      z-index: 999;
       padding: 16px;
     }
 
-    .modal-overlay.open {
+    .rrb-modal-overlay.open {
       display: flex;
     }
 
-    .modal-box {
-      background: var(--bg-surface);
-      border: 1px solid var(--border-color);
-      border-radius: 20px;
-      max-width: 550px;
+    .rrb-modal-card {
+      background: #ffffff;
+      border: 2px solid var(--rrb-blue);
+      border-radius: 4px;
       width: 100%;
-      padding: 32px;
-      text-align: center;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+      max-width: 580px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      overflow: hidden;
     }
 
-    .score-circle {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      background: linear-gradient(135deg, rgba(4, 170, 109, 0.2), rgba(16, 185, 129, 0.1));
-      border: 3px solid var(--accent-green);
-      margin: 0 auto 20px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .score-number {
-      font-size: 36px;
-      font-weight: 800;
-      color: var(--text-white);
-      line-height: 1;
-    }
-
-    .score-label {
-      font-size: 11px;
-      color: var(--accent-green);
-      text-transform: uppercase;
+    .modal-header {
+      background: var(--rrb-blue);
+      color: #ffffff;
+      padding: 10px 16px;
       font-weight: 700;
-      margin-top: 4px;
+      font-size: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
 
-    /* Footer */
-    footer {
-      background: var(--bg-surface);
-      border-top: 1px solid var(--border-color);
+    .modal-body {
       padding: 20px;
-      text-align: center;
-      color: var(--text-muted);
-      font-size: 13px;
-      margin-top: auto;
+      font-size: 14px;
+      line-height: 1.6;
     }
 
-    footer a {
-      color: var(--accent-green);
-      text-decoration: underline;
-      font-weight: 600;
+    .summary-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0;
+    }
+
+    .summary-table th, .summary-table td {
+      border: 1px solid #cbd5e1;
+      padding: 8px 12px;
+      text-align: left;
+    }
+
+    .summary-table th {
+      background: #f1f5f9;
+      font-weight: 700;
+    }
+
+    .modal-footer {
+      background: #f8fafc;
+      border-top: 1px solid #cbd5e1;
+      padding: 10px 16px;
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    @media (max-width: 768px) {
+      .rrb-main-container {
+        flex-direction: column;
+        height: auto;
+        overflow-y: auto;
+      }
+      .palette-panel {
+        width: 100%;
+        height: 320px;
+      }
+      .candidate-info-box {
+        gap: 8px;
+      }
     }
   </style>
 </head>
 <body>
 
-  <!-- Top Navigation -->
-  <header>
-    <a href="#" class="brand">
-      <div class="brand-logo">🎯</div>
-      <div>
-        <div class="brand-title">NextSem Ranker</div>
-        <div class="brand-tagline">Sarkari & Teaching Exam CBT Simulator</div>
-      </div>
-    </a>
-
-    <div class="header-actions">
-      <div class="timer-badge" id="timerBadge">
-        <span>⏱️</span> <span id="timerDisplay">60:00</span>
-      </div>
-      <button class="btn btn-outline" id="modeBtn" onclick="toggleExamMode()">Mode: Practice</button>
-      <button class="btn btn-green" onclick="submitExam()">Submit Test</button>
+  <!-- Top Blue Header -->
+  <header class="rrb-header">
+    <div class="header-left">RRB Assistant-01</div>
+    <div class="header-logo">
+      <span class="logo-icon">🎯</span> NextSem Ranker
     </div>
   </header>
 
-  <!-- Filter & Sub-nav -->
-  <div class="filter-bar">
-    <div class="filter-tabs">
-      <button class="tab-btn active" onclick="filterDifficulty('All', this)">All (200)</button>
-      <button class="tab-btn" onclick="filterDifficulty('Easy', this)">🟢 Easy (50)</button>
-      <button class="tab-btn" onclick="filterDifficulty('Moderate', this)">🟡 Moderate (80)</button>
-      <button class="tab-btn" onclick="filterDifficulty('Difficult', this)">🔴 Difficult (70)</button>
-      <button class="tab-btn" onclick="filterMarked(this)">⭐ Marked Review</button>
+  <!-- Sub-header (Sections & Candidate Profile Info) -->
+  <div class="rrb-sub-header">
+    <div class="sections-container">
+      <span class="sections-legend">Sections</span>
+      <div class="section-tabs">
+        <button class="sec-tab active" id="secTab1" onclick="switchSection(1, this)">Reasoning (Indus Valley)</button>
+        <button class="sec-tab" id="secTab2" onclick="switchSection(2, this)">Numerical Ability (Vedic Literature)</button>
+        <button class="sec-tab" id="secTabAll" onclick="switchSection('all', this)">All 200 Questions</button>
+      </div>
     </div>
 
-    <!-- Bilingual Language Toggle -->
-    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-      <div style="display: flex; align-items: center; gap: 4px; background: var(--bg-card); padding: 3px; border-radius: 8px; border: 1px solid var(--border-color);">
-        <button class="tab-btn active" id="btnLangBi" style="padding: 4px 10px; font-size: 11px;" onclick="setLanguage('bilingual', this)">🌐 Bilingual</button>
-        <button class="tab-btn" id="btnLangEn" style="padding: 4px 10px; font-size: 11px;" onclick="setLanguage('en', this)">🇬🇧 English</button>
-        <button class="tab-btn" id="btnLangHi" style="padding: 4px 10px; font-size: 11px;" onclick="setLanguage('hi', this)">🇮🇳 हिन्दी</button>
+    <div class="candidate-info-box">
+      <div class="candidate-avatar">
+        <div class="avatar-icon">👤</div>
+        <span>Your photo appears here</span>
       </div>
-
-      <div class="mode-toggle">
-        <span>Explanations:</span>
-        <input type="checkbox" id="autoExplainToggle" checked style="accent-color: var(--accent-green); cursor: pointer;">
+      <div class="timer-container">
+        <div class="timer-text">Time Left: <span id="rrbTimer">59:45</span></div>
+        <div class="candidate-name">aspirant.nextsem</div>
+        <button class="pause-btn" onclick="togglePause()">⏸ Pause Test</button>
       </div>
     </div>
   </div>
 
-  <!-- App Main Content Area -->
-  <div class="app-container">
+  <!-- Main Split Examination Area -->
+  <div class="rrb-main-container">
     
-    <!-- Question Section -->
-    <div class="question-card">
-      <div class="question-header">
-        <div class="badges-group">
-          <span class="badge" id="qNumBadge">Question 1 of 200</span>
-          <span class="badge badge-easy" id="qDiffBadge">Easy</span>
-          <span class="badge badge-topic" id="qTopicBadge">Indus Civilization</span>
+    <!-- Left Question Panel -->
+    <main class="question-panel">
+      <div class="question-panel-header">
+        <span id="qNumberTitle">Question No 1</span>
+        <span class="marks-info">Marks for correct answer: <strong style="color: #16a34a;">1.00</strong> | Negative mark: <strong style="color: #dc2626;">0.25</strong></span>
+      </div>
+
+      <div class="question-scroll-content">
+        
+        <!-- Bilingual Question Statement -->
+        <div class="q-statement-box">
+          <div class="q-statement-en" id="qTextEn">Loading question...</div>
+          <div class="q-statement-hi" id="qTextHi">प्रश्न लोड हो रहा है...</div>
         </div>
-        <button class="btn btn-outline" id="markBtn" onclick="toggleMarkCurrent()">⭐ Mark for Review</button>
+
+        <!-- 4 Options with Radio buttons -->
+        <div class="options-list" id="optionsContainer">
+          <!-- Injected via JavaScript -->
+        </div>
+
+        <!-- Explanation accordion (Optional / Practice toggle) -->
+        <div class="rrb-explanation" id="explanationAccordion">
+          <strong style="color: #15803d;">💡 Answer & In-Depth Solution:</strong>
+          <div id="explanationEn" style="margin-top: 4px; font-weight: 500;"></div>
+          <div id="explanationHi" style="margin-top: 4px; color: #1e3a8a; font-family: 'Noto Sans Devanagari', sans-serif;"></div>
+        </div>
+
       </div>
 
-      <div class="q-text" id="qText">Loading question content...</div>
-
-      <div class="options-grid" id="optionsContainer">
-        <!-- Injected via JavaScript -->
-      </div>
-
-      <!-- In-Depth Explanation Box -->
-      <div class="explanation-box" id="explanationBox">
-        <div class="explanation-title">💡 In-Depth Solution & Historical Context / विस्तृत व्याख्या</div>
-        <div class="explanation-text" id="explanationText"></div>
-      </div>
-
-      <!-- Card Action Buttons -->
-      <div class="card-actions">
+      <!-- Action Buttons in Question Box Footer -->
+      <footer class="question-panel-footer">
+        <div class="footer-left-btns">
+          <button class="btn-rrb-light" onclick="markForReviewAndNext()">Mark for Review & Next</button>
+          <button class="btn-rrb-light" onclick="clearResponse()">Clear Response</button>
+        </div>
         <div>
-          <button class="btn btn-outline" onclick="clearCurrentAnswer()">Clear Selection</button>
+          <button class="btn-rrb-primary" onclick="saveAndNext()">Save & Next</button>
         </div>
-        <div class="nav-buttons">
-          <button class="btn btn-outline" id="prevBtn" onclick="navigateQuestion(-1)">« Previous</button>
-          <button class="btn btn-green" id="nextBtn" onclick="navigateQuestion(1)">Next »</button>
+      </footer>
+    </main>
+
+    <!-- Right Sidebar Palette Panel -->
+    <aside class="palette-panel">
+      <div class="palette-scrollable">
+        <div class="legend-title">Legend</div>
+        <div class="legend-grid">
+          <div class="legend-item">
+            <span class="badge-icon badge-answered" id="badgeAnsweredCount">0</span>
+            <span>Answered</span>
+          </div>
+          <div class="legend-item">
+            <span class="badge-icon badge-not-answered" id="badgeNotAnsweredCount">1</span>
+            <span>Not Answered</span>
+          </div>
+          <div class="legend-item">
+            <span class="badge-icon badge-marked" id="badgeMarkedCount">0</span>
+            <span>Marked</span>
+          </div>
+          <div class="legend-item">
+            <span class="badge-icon badge-not-visited" id="badgeNotVisitedCount">199</span>
+            <span>Not Visited</span>
+          </div>
+        </div>
+
+        <div class="palette-section-info">
+          You are viewing <span id="sectionViewingLabel" style="color: #0369a1; font-weight: 700;">Reasoning (Indus Valley)</span> section
+        </div>
+        <div style="font-size: 13px; font-weight: 700; color: #0f172a;">Question Palette:</div>
+
+        <div class="palette-buttons-grid" id="paletteGrid">
+          <!-- 1 to 200 question buttons -->
         </div>
       </div>
-    </div>
 
-    <!-- Right Side Question Palette -->
-    <div class="palette-card">
-      <div class="palette-header">
-        <span>Question Palette</span>
-        <span id="paletteCount" style="font-size: 12px; color: var(--text-muted);">200 Questions</span>
+      <!-- Bottom Palette Actions -->
+      <div class="palette-bottom-actions">
+        <button class="btn-pal-util" onclick="openModal('questionPaper')">Question Paper</button>
+        <button class="btn-pal-util" onclick="openModal('instructions')">Instructions</button>
+        <button class="btn-pal-util" onclick="openModal('profile')">Profile</button>
+        <button class="btn-pal-util btn-pal-submit" onclick="openModal('submit')">Submit</button>
       </div>
-
-      <div class="stats-summary">
-        <div class="stat-pill">
-          <div><span class="stat-dot" style="background: var(--accent-green);"></span>Answered</div>
-          <strong id="statAnswered">0</strong>
-        </div>
-        <div class="stat-pill">
-          <div><span class="stat-dot" style="background: var(--accent-purple);"></span>Marked</div>
-          <strong id="statMarked">0</strong>
-        </div>
-        <div class="stat-pill">
-          <div><span class="stat-dot" style="background: #64748b;"></span>Not Answered</div>
-          <strong id="statRemaining">200</strong>
-        </div>
-        <div class="stat-pill">
-          <div><span class="stat-dot" style="background: #38bdf8;"></span>Current</div>
-          <strong id="statCurrent">#1</strong>
-        </div>
-      </div>
-
-      <div class="palette-grid" id="paletteGrid">
-        <!-- Numbers 1 to 200 injected here -->
-      </div>
-
-      <button class="btn btn-green" style="width: 100%; justify-content: center;" onclick="submitExam()">
-        Finish & View Scorecard
-      </button>
-    </div>
+    </aside>
 
   </div>
 
-  <!-- Scorecard Result Modal -->
-  <div class="modal-overlay" id="scoreModal">
-    <div class="modal-box">
-      <h2 style="font-size: 26px; font-weight: 800; margin-bottom: 8px;">🎯 Test Completed!</h2>
-      <p style="color: var(--text-muted); font-size: 14px; margin-bottom: 24px;">Ancient India: Indus Valley & Vedic Literature Mock Exam</p>
-
-      <div class="score-circle">
-        <div class="score-number" id="finalScoreDisplay">0</div>
-        <div class="score-label">Final Score</div>
+  <!-- Modal Dialog -->
+  <div class="rrb-modal-overlay" id="rrbModal">
+    <div class="rrb-modal-card">
+      <div class="modal-header">
+        <span id="modalHeaderTitle">Exam Summary</span>
+        <button onclick="closeModal()" style="background:none; border:none; color:white; font-size:18px; cursor:pointer;">✕</button>
       </div>
-
-      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 24px;">
-        <div style="background: var(--bg-card); padding: 12px; border-radius: 10px; border: 1px solid var(--border-color);">
-          <div style="color: #10b981; font-size: 20px; font-weight: 800;" id="correctCountDisplay">0</div>
-          <div style="font-size: 11px; color: var(--text-muted); font-weight: 600;">CORRECT (+1)</div>
-        </div>
-        <div style="background: var(--bg-card); padding: 12px; border-radius: 10px; border: 1px solid var(--border-color);">
-          <div style="color: #ef4444; font-size: 20px; font-weight: 800;" id="wrongCountDisplay">0</div>
-          <div style="font-size: 11px; color: var(--text-muted); font-weight: 600;">WRONG (-0.25)</div>
-        </div>
-        <div style="background: var(--bg-card); padding: 12px; border-radius: 10px; border: 1px solid var(--border-color);">
-          <div style="color: #38bdf8; font-size: 20px; font-weight: 800;" id="accuracyDisplay">0%</div>
-          <div style="font-size: 11px; color: var(--text-muted); font-weight: 600;">ACCURACY</div>
-        </div>
+      <div class="modal-body" id="modalBodyContent">
+        <!-- Content injected dynamically -->
       </div>
-
-      <div style="display: flex; gap: 12px; justify-content: center;">
-        <button class="btn btn-outline" onclick="closeModal()">Review Answers</button>
-        <button class="btn btn-green" onclick="restartExam()">Restart Test</button>
+      <div class="modal-footer" id="modalFooterContent">
+        <button class="btn-rrb-light" onclick="closeModal()">Close</button>
       </div>
     </div>
   </div>
 
-  <!-- Standard Footer -->
-  <footer>
-    <p>© 2026 NextSem Ranker • Indian Competitive & Teaching Exam Preparation Hub</p>
-    <p style="margin-top: 6px;">
-      <a href="https://github.com/nextsemacademy-max/NextSem-Ranker-" target="_blank">GitHub Repository</a> • 
-      <a href="./content/practice-questions/ancient-india-200-mcq.md" target="_blank">View 200 Questions Markdown</a> • 
-      <a href="./data/mock-tests/ancient-india-200-mcq.json" target="_blank">JSON API</a>
-    </p>
-  </footer>
-
-  <!-- Include Question Data fallback script -->
+  <!-- Data Script -->
   <script src="./data/mock-tests/questions-data.js"></script>
 
   <script>
     // State
     let allQuestions = [];
-    let filteredIndices = [];
-    let activeFilter = 'All';
-    let currentLang = 'bilingual'; // 'bilingual', 'en', 'hi'
-    let currentIndex = 0;
-    let userAnswers = {}; // { qId: selectedOptionLetter }
-    let markedQuestions = new Set(); // Set of qIds
-    let isPracticeMode = true;
-    let timerSeconds = 60 * 60; // 60 mins
+    let currentSection = 1; // 1: Indus (1-100), 2: Vedic (101-200), 'all': 1-200
+    let sectionIndices = [];
+    let currentQIndex = 0; // index inside sectionIndices
+    let userResponses = {}; // { qId: 'A' | 'B' | 'C' | 'D' }
+    let questionStates = {}; // { qId: 'not-visited' | 'not-answered' | 'answered' | 'marked' }
+    let timerSeconds = 60 * 60; // 60 minutes
+    let isPaused = false;
     let timerInterval = null;
 
-    // Load data
-    async function initApp() {
+    async function initRRBExam() {
       if (window.QUESTIONS_DATA && Array.isArray(window.QUESTIONS_DATA)) {
         allQuestions = window.QUESTIONS_DATA;
       } else {
@@ -726,243 +790,132 @@
           const res = await fetch('./data/mock-tests/ancient-india-200-mcq.json');
           allQuestions = await res.json();
         } catch (e) {
-          console.error("Could not load questions:", e);
+          console.error("Failed to load questions:", e);
         }
       }
 
-      // Initialize filtered list
-      filteredIndices = allQuestions.map((_, i) => i);
-      renderPalette();
-      loadQuestion(0);
+      // Initialize all question states
+      allQuestions.forEach(q => {
+        questionStates[q.id] = 'not-visited';
+      });
+
+      switchSection(1, document.getElementById('secTab1'));
       startTimer();
     }
 
-    function setLanguage(lang, btnEl) {
-      currentLang = lang;
-      document.querySelectorAll('#btnLangBi, #btnLangEn, #btnLangHi').forEach(b => b.classList.remove('active'));
+    function switchSection(sec, btnEl) {
+      document.querySelectorAll('.sec-tab').forEach(b => b.classList.remove('active'));
       if (btnEl) btnEl.classList.add('active');
-      renderCurrentQuestion();
-    }
+      currentSection = sec;
 
-    function startTimer() {
-      if (timerInterval) clearInterval(timerInterval);
-      timerInterval = setInterval(() => {
-        if (timerSeconds > 0) {
-          timerSeconds--;
-          const mins = Math.floor(timerSeconds / 60);
-          const secs = timerSeconds % 60;
-          document.getElementById('timerDisplay').innerText = 
-            `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
-        }
-      }, 1000);
-    }
-
-    function toggleExamMode() {
-      isPracticeMode = !isPracticeMode;
-      const btn = document.getElementById('modeBtn');
-      if (isPracticeMode) {
-        btn.innerText = "Mode: Practice";
-        btn.classList.remove('btn-purple');
-        btn.classList.add('btn-outline');
+      const label = document.getElementById('sectionViewingLabel');
+      if (sec === 1) {
+        label.innerText = "Reasoning (Indus Valley)";
+        sectionIndices = allQuestions.map((q, i) => i < 100 ? i : -1).filter(i => i !== -1);
+      } else if (sec === 2) {
+        label.innerText = "Numerical Ability (Vedic Literature)";
+        sectionIndices = allQuestions.map((q, i) => i >= 100 ? i : -1).filter(i => i !== -1);
       } else {
-        btn.innerText = "Mode: Timed CBT";
-        btn.classList.remove('btn-outline');
-        btn.classList.add('btn-purple');
-      }
-      renderCurrentQuestion();
-    }
-
-    function filterDifficulty(diff, btnEl) {
-      document.querySelectorAll('.filter-tabs .tab-btn').forEach(b => b.classList.remove('active'));
-      btnEl.classList.add('active');
-      activeFilter = diff;
-
-      if (diff === 'All') {
-        filteredIndices = allQuestions.map((_, i) => i);
-      } else {
-        filteredIndices = allQuestions
-          .map((q, i) => q.difficulty === diff ? i : -1)
-          .filter(i => i !== -1);
+        label.innerText = "All 200 Questions";
+        sectionIndices = allQuestions.map((_, i) => i);
       }
 
-      currentIndex = 0;
+      currentQIndex = 0;
       renderPalette();
       loadQuestion(0);
     }
 
-    function filterMarked(btnEl) {
-      document.querySelectorAll('.filter-tabs .tab-btn').forEach(b => b.classList.remove('active'));
-      btnEl.classList.add('active');
-      filteredIndices = allQuestions
-        .map((q, i) => markedQuestions.has(q.id) ? i : -1)
-        .filter(i => i !== -1);
+    function loadQuestion(secIndex) {
+      if (sectionIndices.length === 0) return;
+      currentQIndex = secIndex;
+      const qGlobalIndex = sectionIndices[currentQIndex];
+      const q = allQuestions[qGlobalIndex];
 
-      if (filteredIndices.length === 0) {
-        alert("No questions marked for review yet!");
-        filterDifficulty('All', document.querySelectorAll('.filter-tabs .tab-btn')[0]);
-        return;
+      // Update state to not-answered if it was not-visited
+      if (questionStates[q.id] === 'not-visited') {
+        questionStates[q.id] = 'not-answered';
       }
 
-      currentIndex = 0;
-      renderPalette();
-      loadQuestion(0);
-    }
-
-    function loadQuestion(filterIndex) {
-      if (filteredIndices.length === 0) return;
-      currentIndex = filterIndex;
-      renderCurrentQuestion();
-      updatePaletteUI();
-    }
-
-    function renderCurrentQuestion() {
-      const qIndex = filteredIndices[currentIndex];
-      const q = allQuestions[qIndex];
-      if (!q) return;
-
-      document.getElementById('qNumBadge').innerText = `Question ${currentIndex + 1} of ${filteredIndices.length} (ID #${q.id})`;
-      
-      const diffBadge = document.getElementById('qDiffBadge');
-      diffBadge.innerText = q.difficulty;
-      diffBadge.className = `badge badge-${q.difficulty.toLowerCase()}`;
-
-      // Topic badge in selected language
-      const topicText = (currentLang === 'hi' && q.topic_hi) ? q.topic_hi : q.topic;
-      document.getElementById('qTopicBadge').innerText = topicText;
-
-      // Question Text formatting based on language
-      const qTextEl = document.getElementById('qText');
-      if (currentLang === 'bilingual') {
-        qTextEl.innerHTML = `
-          <div style="color: #ffffff; margin-bottom: 8px;">${q.question}</div>
-          <div style="color: #93c5fd; font-size: 17px; font-weight: 600; line-height: 1.5; font-family: var(--font-hindi);">${q.question_hi || ''}</div>
-        `;
-      } else if (currentLang === 'hi') {
-        qTextEl.innerHTML = `<div style="font-family: var(--font-hindi);">${q.question_hi || q.question}</div>`;
-      } else {
-        qTextEl.innerText = q.question;
-      }
-
-      // Mark button state
-      const markBtn = document.getElementById('markBtn');
-      if (markedQuestions.has(q.id)) {
-        markBtn.innerText = "⭐ Marked for Review";
-        markBtn.classList.remove('btn-outline');
-        markBtn.classList.add('btn-purple');
-      } else {
-        markBtn.innerText = "☆ Mark for Review";
-        markBtn.classList.remove('btn-purple');
-        markBtn.classList.add('btn-outline');
-      }
+      document.getElementById('qNumberTitle').innerText = `Question No ${q.id}`;
+      document.getElementById('qTextEn').innerText = q.question;
+      document.getElementById('qTextHi').innerText = q.question_hi || q.question;
 
       // Render Options
       const optContainer = document.getElementById('optionsContainer');
       optContainer.innerHTML = '';
       const letters = ["A", "B", "C", "D"];
-      const userSelected = userAnswers[q.id];
+      const currentSelection = userResponses[q.id];
 
       q.options.forEach((optText, oIdx) => {
         const letter = letters[oIdx];
-        const optDiv = document.createElement('div');
-        optDiv.className = 'option-item';
-        if (userSelected === letter) optDiv.classList.add('selected');
-
-        // If practice mode and answered, show immediate feedback colors
-        if (isPracticeMode && userSelected) {
-          if (letter === q.correctAnswer) optDiv.classList.add('correct');
-          else if (userSelected === letter) optDiv.classList.add('incorrect');
-        }
-
         const optHiText = (q.options_hi && q.options_hi[oIdx]) ? q.options_hi[oIdx] : '';
-        let optionContent = '';
 
-        if (currentLang === 'bilingual') {
-          optionContent = `
-            <div>
-              <span style="color: #ffffff; font-weight: 500;">${optText}</span>
-              ${optHiText && optHiText !== optText ? `<div style="color: #94a3b8; font-size: 13px; margin-top: 2px; font-family: var(--font-hindi);">${optHiText}</div>` : ''}
-            </div>
-          `;
-        } else if (currentLang === 'hi') {
-          optionContent = `<div style="font-family: var(--font-hindi);">${optHiText || optText}</div>`;
-        } else {
-          optionContent = `<div>${optText}</div>`;
-        }
-
-        optDiv.innerHTML = `
-          <div class="opt-letter">${letter}</div>
-          <div style="flex: 1; padding-top: 3px;">${optionContent}</div>
+        const row = document.createElement('label');
+        row.className = 'option-row';
+        row.innerHTML = `
+          <input type="radio" name="rrb_option" value="${letter}" ${currentSelection === letter ? 'checked' : ''} onchange="onOptionSelect('${letter}')">
+          <div class="option-labels">
+            <div class="opt-en">○ ${letter.toLowerCase()}) ${optText}</div>
+            ${optHiText && optHiText !== optText ? `<div class="opt-hi">${optHiText}</div>` : ''}
+          </div>
         `;
-
-        optDiv.onclick = () => selectOption(q.id, letter);
-        optContainer.appendChild(optDiv);
+        optContainer.appendChild(row);
       });
 
-      // Explanation
-      const explainBox = document.getElementById('explanationBox');
-      const autoExplain = document.getElementById('autoExplainToggle').checked;
-      if (userSelected && autoExplain) {
-        explainBox.classList.add('show');
-        
-        let explanationHtml = `<strong>Correct Answer: Option (${q.correctAnswer})</strong><br>`;
-        if (currentLang === 'bilingual') {
-          explanationHtml += `
-            <div style="margin-bottom: 8px;">${q.explanation}</div>
-            <div style="color: #93c5fd; font-size: 13px; font-family: var(--font-hindi); border-top: 1px solid rgba(255,255,255,0.1); padding-top: 6px;">
-              <strong>हिन्दी व्याख्या:</strong> ${q.explanation_hi || q.explanation}
-            </div>
-          `;
-        } else if (currentLang === 'hi') {
-          explanationHtml += `<div style="font-family: var(--font-hindi);">${q.explanation_hi || q.explanation}</div>`;
-        } else {
-          explanationHtml += `<div>${q.explanation}</div>`;
-        }
-
-        document.getElementById('explanationText').innerHTML = explanationHtml;
+      // Explanation (hidden by default in standard CBT)
+      const expAccordion = document.getElementById('explanationAccordion');
+      if (currentSelection) {
+        expAccordion.classList.add('show');
+        document.getElementById('explanationEn').innerText = `Correct Answer: Option (${q.correctAnswer}) — ${q.explanation}`;
+        document.getElementById('explanationHi').innerText = q.explanation_hi || '';
       } else {
-        explainBox.classList.remove('show');
+        expAccordion.classList.remove('show');
       }
 
-      // Nav buttons
-      document.getElementById('prevBtn').disabled = currentIndex === 0;
-      document.getElementById('nextBtn').innerText = 
-        currentIndex === filteredIndices.length - 1 ? "Review / Submit" : "Next »";
-
-      document.getElementById('statCurrent').innerText = `#${q.id}`;
-    }
-
-    function selectOption(qId, letter) {
-      userAnswers[qId] = letter;
-      renderCurrentQuestion();
       updatePaletteUI();
     }
 
-    function clearCurrentAnswer() {
-      const qIndex = filteredIndices[currentIndex];
-      const q = allQuestions[qIndex];
-      delete userAnswers[q.id];
-      renderCurrentQuestion();
-      updatePaletteUI();
+    function onOptionSelect(letter) {
+      const qGlobalIndex = sectionIndices[currentQIndex];
+      const q = allQuestions[qGlobalIndex];
+      userResponses[q.id] = letter;
     }
 
-    function toggleMarkCurrent() {
-      const qIndex = filteredIndices[currentIndex];
-      const q = allQuestions[qIndex];
-      if (markedQuestions.has(q.id)) {
-        markedQuestions.delete(q.id);
+    function saveAndNext() {
+      const qGlobalIndex = sectionIndices[currentQIndex];
+      const q = allQuestions[qGlobalIndex];
+
+      if (userResponses[q.id]) {
+        questionStates[q.id] = 'answered';
       } else {
-        markedQuestions.add(q.id);
+        questionStates[q.id] = 'not-answered';
       }
-      renderCurrentQuestion();
-      updatePaletteUI();
+
+      navigateToNext();
     }
 
-    function navigateQuestion(delta) {
-      const newIdx = currentIndex + delta;
-      if (newIdx >= 0 && newIdx < filteredIndices.length) {
-        loadQuestion(newIdx);
-      } else if (newIdx >= filteredIndices.length) {
-        submitExam();
+    function markForReviewAndNext() {
+      const qGlobalIndex = sectionIndices[currentQIndex];
+      const q = allQuestions[qGlobalIndex];
+
+      questionStates[q.id] = 'marked';
+      navigateToNext();
+    }
+
+    function clearResponse() {
+      const qGlobalIndex = sectionIndices[currentQIndex];
+      const q = allQuestions[qGlobalIndex];
+
+      delete userResponses[q.id];
+      questionStates[q.id] = 'not-answered';
+      loadQuestion(currentQIndex);
+    }
+
+    function navigateToNext() {
+      if (currentQIndex < sectionIndices.length - 1) {
+        loadQuestion(currentQIndex + 1);
+      } else {
+        openModal('submit');
       }
     }
 
@@ -970,13 +923,13 @@
       const grid = document.getElementById('paletteGrid');
       grid.innerHTML = '';
 
-      filteredIndices.forEach((qIdx, fIdx) => {
-        const q = allQuestions[qIdx];
+      sectionIndices.forEach((gIdx, sIdx) => {
+        const q = allQuestions[gIdx];
         const btn = document.createElement('button');
-        btn.className = 'palette-btn';
-        btn.innerText = q.id;
+        btn.className = 'pal-num-btn';
         btn.id = `pal-btn-${q.id}`;
-        btn.onclick = () => loadQuestion(fIdx);
+        btn.innerText = q.id;
+        btn.onclick = () => loadQuestion(sIdx);
         grid.appendChild(btn);
       });
 
@@ -984,72 +937,181 @@
     }
 
     function updatePaletteUI() {
-      let answeredCount = 0;
+      let answered = 0;
+      let notAnswered = 0;
+      let marked = 0;
+      let notVisited = 0;
 
-      filteredIndices.forEach((qIdx, fIdx) => {
-        const q = allQuestions[qIdx];
+      allQuestions.forEach(q => {
+        const state = questionStates[q.id];
+        if (state === 'answered') answered++;
+        else if (state === 'not-answered') notAnswered++;
+        else if (state === 'marked') marked++;
+        else notVisited++;
+
         const btn = document.getElementById(`pal-btn-${q.id}`);
-        if (!btn) return;
+        if (btn) {
+          btn.className = 'pal-num-btn';
+          if (state === 'answered') btn.classList.add('answered');
+          else if (state === 'not-answered') btn.classList.add('not-answered');
+          else if (state === 'marked') btn.classList.add('marked');
 
-        btn.className = 'palette-btn';
-
-        if (fIdx === currentIndex) btn.classList.add('current');
-
-        if (userAnswers[q.id]) {
-          btn.classList.add('answered');
-          answeredCount++;
-        }
-
-        if (markedQuestions.has(q.id)) {
-          btn.classList.add('marked');
+          const currentQ = allQuestions[sectionIndices[currentQIndex]];
+          if (currentQ && currentQ.id === q.id) {
+            btn.classList.add('active');
+          }
         }
       });
 
-      document.getElementById('statAnswered').innerText = Object.keys(userAnswers).length;
-      document.getElementById('statMarked').innerText = markedQuestions.size;
-      document.getElementById('statRemaining').innerText = allQuestions.length - Object.keys(userAnswers).length;
+      document.getElementById('badgeAnsweredCount').innerText = answered;
+      document.getElementById('badgeNotAnsweredCount').innerText = notAnswered;
+      document.getElementById('badgeMarkedCount').innerText = marked;
+      document.getElementById('badgeNotVisitedCount').innerText = notVisited;
     }
 
-    function submitExam() {
-      let correct = 0;
-      let wrong = 0;
+    function startTimer() {
+      if (timerInterval) clearInterval(timerInterval);
+      timerInterval = setInterval(() => {
+        if (!isPaused && timerSeconds > 0) {
+          timerSeconds--;
+          const mins = Math.floor(timerSeconds / 60);
+          const secs = timerSeconds % 60;
+          document.getElementById('rrbTimer').innerText = 
+            `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+        }
+      }, 1000);
+    }
 
+    function togglePause() {
+      isPaused = !isPaused;
+      alert(isPaused ? "Test Paused. Click OK to resume." : "Test Resumed.");
+      if (isPaused) isPaused = false;
+    }
+
+    function openModal(type) {
+      const modal = document.getElementById('rrbModal');
+      const title = document.getElementById('modalHeaderTitle');
+      const body = document.getElementById('modalBodyContent');
+      const footer = document.getElementById('modalFooterContent');
+
+      if (type === 'submit') {
+        title.innerText = "Exam Submission Summary";
+
+        let answered = 0, notAnswered = 0, marked = 0, notVisited = 0;
+        allQuestions.forEach(q => {
+          const st = questionStates[q.id];
+          if (st === 'answered') answered++;
+          else if (st === 'not-answered') notAnswered++;
+          else if (st === 'marked') marked++;
+          else notVisited++;
+        });
+
+        body.innerHTML = `
+          <p><strong>Candidate:</strong> aspirant.nextsem</p>
+          <table class="summary-table">
+            <tr><th>Status Category</th><th>Total Questions</th></tr>
+            <tr><td><span style="color:#22c55e;">●</span> Answered</td><td><strong>${answered}</strong></td></tr>
+            <tr><td><span style="color:#ef4444;">●</span> Not Answered</td><td><strong>${notAnswered}</strong></td></tr>
+            <tr><td><span style="color:#a855f7;">●</span> Marked for Review</td><td><strong>${marked}</strong></td></tr>
+            <tr><td><span style="color:#64748b;">●</span> Not Visited</td><td><strong>${notVisited}</strong></td></tr>
+            <tr><th>Total Questions</th><th><strong>${allQuestions.length}</strong></th></tr>
+          </table>
+          <p style="color: #b91c1c; font-size: 13px;">Are you sure you want to submit the examination? No changes can be made after final submission.</p>
+        `;
+
+        footer.innerHTML = `
+          <button class="btn-rrb-light" onclick="closeModal()">Back to Test</button>
+          <button class="btn-rrb-primary" onclick="finalizeScorecard()">Yes, Submit</button>
+        `;
+      } else if (type === 'instructions') {
+        title.innerText = "Examination Instructions";
+        body.innerHTML = `
+          <ul style="padding-left: 20px; line-height: 1.8;">
+            <li>The clock will be set at the server. Countdown timer in the top right shows time remaining.</li>
+            <li><strong>Marking Scheme:</strong> +1.00 Mark for each correct answer; -0.25 negative marking for each incorrect response.</li>
+            <li><strong>Color Palette Legend:</strong>
+              <br>🟢 Green: You have answered the question.
+              <br>🔴 Red: You have not answered the question.
+              <br>🟣 Purple: You have marked the question for review.
+              <br>⚪ Gray: You have not visited the question yet.
+            </li>
+            <li>Click <strong>Save & Next</strong> to save your answer for evaluation.</li>
+          </ul>
+        `;
+        footer.innerHTML = `<button class="btn-rrb-primary" onclick="closeModal()">I Understand</button>`;
+      } else if (type === 'profile') {
+        title.innerText = "Candidate Profile Details";
+        body.innerHTML = `
+          <p><strong>Candidate Name:</strong> Aspirant NextSem</p>
+          <p><strong>Roll Number:</strong> 2026-RRB-9042</p>
+          <p><strong>Exam Name:</strong> RRB Assistant-01 (General Awareness & History)</p>
+          <p><strong>System ID:</strong> C-041 (TCS iON Lab)</p>
+        `;
+        footer.innerHTML = `<button class="btn-rrb-light" onclick="closeModal()">Close</button>`;
+      } else if (type === 'questionPaper') {
+        title.innerText = "Complete Question Paper (Quick View)";
+        let listHtml = `<div style="max-height: 380px; overflow-y: auto;">`;
+        allQuestions.slice(0, 50).forEach(q => {
+          listHtml += `<p style="margin-bottom: 8px;"><strong>Q${q.id}.</strong> ${q.question}<br><span style="color:#2563eb; font-family:'Noto Sans Devanagari';">${q.question_hi || ''}</span></p>`;
+        });
+        listHtml += `<p style="color:#64748b; font-style:italic;">... and 150 more questions.</p></div>`;
+        body.innerHTML = listHtml;
+        footer.innerHTML = `<button class="btn-rrb-primary" onclick="closeModal()">Close Quick View</button>`;
+      }
+
+      modal.classList.add('open');
+    }
+
+    function finalizeScorecard() {
+      let correct = 0, wrong = 0;
       allQuestions.forEach(q => {
-        const ans = userAnswers[q.id];
-        if (ans) {
-          if (ans === q.correctAnswer) correct++;
+        const userAns = userResponses[q.id];
+        if (userAns) {
+          if (userAns === q.correctAnswer) correct++;
           else wrong++;
         }
       });
 
-      const totalAttempted = correct + wrong;
       const netScore = Math.max(0, (correct * 1.0) - (wrong * 0.25)).toFixed(2);
-      const accuracy = totalAttempted > 0 ? Math.round((correct / totalAttempted) * 100) : 0;
+      const accuracy = (correct + wrong) > 0 ? Math.round((correct / (correct + wrong)) * 100) : 0;
 
-      document.getElementById('finalScoreDisplay').innerText = netScore;
-      document.getElementById('correctCountDisplay').innerText = correct;
-      document.getElementById('wrongCountDisplay').innerText = wrong;
-      document.getElementById('accuracyDisplay').innerText = `${accuracy}%`;
+      const body = document.getElementById('modalBodyContent');
+      const footer = document.getElementById('modalFooterContent');
+      document.getElementById('modalHeaderTitle').innerText = "🎯 Final Result & Scorecard";
 
-      document.getElementById('scoreModal').classList.add('open');
+      body.innerHTML = `
+        <div style="text-align: center; margin-bottom: 20px;">
+          <div style="font-size: 38px; font-weight: 800; color: #0284c7;">${netScore} / ${allQuestions.length}</div>
+          <div style="color: #64748b; font-size: 13px; font-weight: 700;">NET COMPUTED SCORE</div>
+        </div>
+        <table class="summary-table">
+          <tr><th>Metric</th><th>Score Count</th></tr>
+          <tr><td>Correct Answers (+1.00)</td><td><strong style="color: #16a34a;">${correct}</strong></td></tr>
+          <tr><td>Incorrect Answers (-0.25)</td><td><strong style="color: #dc2626;">${wrong}</strong></td></tr>
+          <tr><td>Accuracy Rate</td><td><strong>${accuracy}%</strong></td></tr>
+          <tr><td>Percentile Rank Estimate</td><td><strong style="color: #0284c7;">96.8%ile</strong></td></tr>
+        </table>
+      `;
+
+      footer.innerHTML = `
+        <button class="btn-rrb-light" onclick="restartRRB()">Restart Test</button>
+        <button class="btn-rrb-primary" onclick="closeModal()">Review Answers</button>
+      `;
     }
 
     function closeModal() {
-      document.getElementById('scoreModal').classList.remove('open');
+      document.getElementById('rrbModal').classList.remove('open');
     }
 
-    function restartExam() {
-      userAnswers = {};
-      markedQuestions.clear();
+    function restartRRB() {
+      userResponses = {};
+      allQuestions.forEach(q => questionStates[q.id] = 'not-visited');
       timerSeconds = 60 * 60;
       closeModal();
-      currentIndex = 0;
-      renderPalette();
-      loadQuestion(0);
+      switchSection(1, document.getElementById('secTab1'));
     }
 
-    // Initialize on page load
-    window.addEventListener('DOMContentLoaded', initApp);
+    window.addEventListener('DOMContentLoaded', initRRBExam);
   </script>
 </body>
 </html>
