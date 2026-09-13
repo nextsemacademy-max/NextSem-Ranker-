@@ -1,0 +1,21 @@
+{
+  "name": "nextsem-ranker",
+  "version": "1.0.0",
+  "description": "NextSem Ranker - RRB & Teaching Exam CBT Simulator (1,000 Bilingual Questions)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "rrb",
+    "cbt",
+    "exam-simulator",
+    "ctet",
+    "kvs",
+    "dsssb",
+    "nextsem"
+  ],
+  "author": "NextSem Academy",
+  "license": "MIT"
+}
