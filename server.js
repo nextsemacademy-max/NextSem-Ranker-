@@ -22,6 +22,11 @@ const server = http.createServer((req, res) => {
 
   let filePath = path.join(__dirname, cleanUrl);
 
+  // If path has no extension and a matching .html file exists, serve it
+  if (!path.extname(cleanUrl) && fs.existsSync(filePath + '.html')) {
+    filePath = filePath + '.html';
+  }
+
   fs.stat(filePath, (err, stats) => {
     if (err || !stats.isFile()) {
       res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });

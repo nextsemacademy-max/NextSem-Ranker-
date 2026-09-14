@@ -6,9 +6,9 @@ Welcome to the official repository for NextSem Ranker, your ultimate companion f
 
 This repository houses the core curriculum materials, practice questions, and code modules designed to help aspirants clear their cut-offs and secure a top rank on the merit list.
 
-## 🌐 Live Interactive Exam Simulator
-The official web exam simulator is hosted directly via **GitHub Pages**:  
-👉 **[Launch NextSem Ranker RRB CBT Simulator](https://nextsemacademy-max.github.io/NextSem-Ranker-/)**
+## 🌐 Live Interactive Exam Simulator & Projects Hub
+*   👉 **[Launch NextSem Ranker RRB CBT Simulator](https://nextsemacademy-max.github.io/NextSem-Ranker-/)**
+*   🚀 **[Explore All NextSem Projects & Ecosystem Directory](https://nextsemacademy-max.github.io/NextSem-Ranker-/projects.html)** — Comprehensive interactive catalog of our web applications, interactive visual labs, full-stack curriculum tracks, developer tools, and the 105 front-end project roadmap.
 
 ## 📚 1,000 Masterclass Bilingual MCQs (Complete Question Bank)
 *   **Markdown Question Bank & Notes:** [`content/practice-questions/ancient-india-200-mcq.md`](content/practice-questions/ancient-india-200-mcq.md)
